@@ -1,0 +1,123 @@
+{
+  "entityVisualExamples": [
+    {
+      "entity": {
+        "key": "e1b0ab0d4179408a908f957888efdfa5",
+        "nodeType": "Location",
+        "stableKey": "Location/e1b0ab0d4179408a908f957888efdfa5"
+      },
+      "imageId": "9a7ad9da-d0c5-4e43-94d3-d134c17e9f72",
+      "label": "regional map and directional geography",
+      "origin": "agent",
+      "sortOrder": 0,
+      "sourceLocator": "",
+      "sourceUrl": ""
+    },
+    {
+      "entity": {
+        "key": "d4c7207a4c6d4b129cde4806b9bdafbf",
+        "nodeType": "Lore",
+        "stableKey": "Lore/d4c7207a4c6d4b129cde4806b9bdafbf"
+      },
+      "imageId": "4a08dea9-b7bb-4e28-8712-bf672b4e9d2c",
+      "label": "image.png",
+      "origin": "manual",
+      "sortOrder": 0,
+      "sourceLocator": "",
+      "sourceUrl": ""
+    }
+  ],
+  "fontFamilies": [],
+  "images": [
+    {
+      "altText": "",
+      "blobPath": "assets/images/2eb0e67a43bd4518b4da4f8984bc3d3d/content.png",
+      "byteLength": 2123757,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "ChatGPT Image May 23, 2026, 01_02_20 AM.png",
+      "generationModel": "",
+      "id": "2eb0e67a-43bd-4518-b4da-4f8984bc3d3d",
+      "prompt": "",
+      "sha256": "910fe26bbf9c7e88a9c3105f004ce0158895c936abfd5e3929217909f07fcdcd",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
+      "altText": "image.png",
+      "blobPath": "assets/images/4a08dea9b7bb4e288712bf672b4e9d2c/content.png",
+      "byteLength": 590161,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "image.png",
+      "generationModel": "",
+      "id": "4a08dea9-b7bb-4e28-8712-bf672b4e9d2c",
+      "prompt": "",
+      "sha256": "58e20d0268e99dbafd83694816ecbc8d75785739b0b41ecafe01a992b4bf7ee9",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
+      "altText": "",
+      "blobPath": "assets/images/59808483b50c4bf8a76f174f2d8329b9/content.png",
+      "byteLength": 293925,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "mana wyrm",
+      "generationModel": "",
+      "id": "59808483-b50c-4bf8-a76f-174f2d8329b9",
+      "prompt": "",
+      "sha256": "101738a856892c5e8912265957ed1916c310d5855ce93d5eef1c3444c60c398d",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
+      "altText": "",
+      "blobPath": "assets/images/9a7ad9dad0c54e4394d3d134c17e9f72/content.png",
+      "byteLength": 1410465,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "image.png",
+      "generationModel": "",
+      "id": "9a7ad9da-d0c5-4e43-94d3-d134c17e9f72",
+      "prompt": "",
+      "sha256": "b086aaa0d63a15df4ae07c655f8ebfdb4b147d630f3a4db1d6e5f974f8284918",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
+      "altText": "",
+      "blobPath": "assets/images/bc8c2fa6c50b49b7bd113bf1a284c35e/content.png",
+      "byteLength": 2123404,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "generated-20260524071927.png",
+      "generationModel": "gpt-image-2",
+      "id": "bc8c2fa6-c50b-49b7-bd11-3bf1a284c35e",
+      "prompt": "Lets remove the helmet from under his arm and adjust his stance to account for it being gone",
+      "sha256": "888393ea1cfc6f38ad93cf6b98b13560793adaac52a6f997dc9a453cd269befe",
+      "source": "generated",
+      "sourceMetadataJson": "{\r\n  \u0022callId\u0022: \u0022ig_0345e279e7d60068016a12a60de110819b92e79c012b8f019f\u0022,\r\n  \u0022imageModel\u0022: \u0022gpt-image-2\u0022,\r\n  \u0022mainlineModel\u0022: \u0022gpt-5.5\u0022,\r\n  \u0022outputFormat\u0022: \u0022png\u0022,\r\n  \u0022referenceAssets\u0022: [\r\n    {\r\n      \u0022contentType\u0022: \u0022image/png\u0022,\r\n      \u0022fileName\u0022: \u0022ChatGPT Image May 23, 2026, 01_02_20 AM.png\u0022,\r\n      \u0022id\u0022: \u00222eb0e67a-43bd-4518-b4da-4f8984bc3d3d\u0022\r\n    }\r\n  ],\r\n  \u0022responseId\u0022: \u0022resp_0345e279e7d60068016a12a60c40b0819bbbc6a3fe0ba4be42\u0022,\r\n  \u0022revisedPrompt\u0022: \u0022Edit the provided fantasy illustration: remove the red-and-black helmet tucked under the character\\u2019s left arm completely. Adjust the character\\u2019s stance naturally to reflect the helmet being gone: relax the left arm down or slightly bent at the side, with balanced shoulders and posture, maintaining the same armor design, long blond hair, back-facing viewpoint, dramatic dark gothic hall, glowing pink chained crystal/weapon overhead, banners, lighting, composition, and painterly high-fantasy style. Fill in any background/armor details seamlessly where the helmet was, preserving publish-ready quality and original aspect ratio.\u0022\r\n}"
+    }
+  ]
+}

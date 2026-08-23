@@ -1,0 +1,275 @@
+{
+  "contentHash": "77367964037105aa7b0e8bbe943a3affff9c68fdddd24d02a2b637c9d86d4b64",
+  "files": [
+    {
+      "length": 5474,
+      "path": "assets/assets.json",
+      "sha256": "8a0183334e9eda531fc49a5d51a1baa481ad3447e0b3f824b5094aebf8d0792b"
+    },
+    {
+      "length": 2123757,
+      "path": "assets/images/2eb0e67a43bd4518b4da4f8984bc3d3d/content.png",
+      "sha256": "910fe26bbf9c7e88a9c3105f004ce0158895c936abfd5e3929217909f07fcdcd"
+    },
+    {
+      "length": 590161,
+      "path": "assets/images/4a08dea9b7bb4e288712bf672b4e9d2c/content.png",
+      "sha256": "58e20d0268e99dbafd83694816ecbc8d75785739b0b41ecafe01a992b4bf7ee9"
+    },
+    {
+      "length": 293925,
+      "path": "assets/images/59808483b50c4bf8a76f174f2d8329b9/content.png",
+      "sha256": "101738a856892c5e8912265957ed1916c310d5855ce93d5eef1c3444c60c398d"
+    },
+    {
+      "length": 1410465,
+      "path": "assets/images/9a7ad9dad0c54e4394d3d134c17e9f72/content.png",
+      "sha256": "b086aaa0d63a15df4ae07c655f8ebfdb4b147d630f3a4db1d6e5f974f8284918"
+    },
+    {
+      "length": 2123404,
+      "path": "assets/images/bc8c2fa6c50b49b7bd113bf1a284c35e/content.png",
+      "sha256": "888393ea1cfc6f38ad93cf6b98b13560793adaac52a6f997dc9a453cd269befe"
+    },
+    {
+      "length": 30,
+      "path": "composition/composition.json",
+      "sha256": "dee88f16029bd49e2c38cb2503243c7dd67f912a4a7301e8439fdeff02902919"
+    },
+    {
+      "length": 520971,
+      "path": "graph/graph.json",
+      "sha256": "03f2d50423bf495d8c637b059405973a778203486c0a8553466dcb417713e855"
+    },
+    {
+      "length": 20,
+      "path": "manuscript/styles.json",
+      "sha256": "73f7cae289922cd90f69d000cf35323c3e4d222c9f80dc180aefb6c8978d13d4"
+    },
+    {
+      "length": 1368,
+      "path": "narrative/chapters/01525a0c6fcc44ec8ea680629683911f/chapter.json",
+      "sha256": "79fb392b86a29d8171cec5890a48aec4cc7f57f50474e83965681c7c2a7940a9"
+    },
+    {
+      "length": 79573,
+      "path": "narrative/chapters/01525a0c6fcc44ec8ea680629683911f/manuscript.json",
+      "sha256": "5ca50259f97f9c97cef05567e4c3197871f1e806bc692e3f12f2cf34d7169fc4"
+    },
+    {
+      "length": 1745,
+      "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/chapter.json",
+      "sha256": "9c2f85c3c78417a9e7f3e5b063fa55da5491d1444a10f99aceb569481e7c1821"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/manuscript.json",
+      "sha256": "b4cb375ab16b62d16ed7128cdbe31906c608907bb9f771487fa09ec5880c2fac"
+    },
+    {
+      "length": 1545,
+      "path": "narrative/chapters/27f5c381f1d142c4a269c6901211ec82/chapter.json",
+      "sha256": "422de820cf5aacb6f45ee6f671e412d6d6a935e81388884f3ab2a2ef79300dae"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/27f5c381f1d142c4a269c6901211ec82/manuscript.json",
+      "sha256": "7408dd9051cb06b07eeeb01947099d597b37147378947326cf1ee07340a1a9f0"
+    },
+    {
+      "length": 1735,
+      "path": "narrative/chapters/2c73696c62ea44f1a5abe3371487261e/chapter.json",
+      "sha256": "ea7c0f0ea0c0a8266f3a0395bc623e95b3c14dfb2a0fd459a5101b4970382ffe"
+    },
+    {
+      "length": 119398,
+      "path": "narrative/chapters/2c73696c62ea44f1a5abe3371487261e/manuscript.json",
+      "sha256": "4b9e713d2f8b59dbca7312f542e847a1c91b3323918f6130c7f615092d233757"
+    },
+    {
+      "length": 2178,
+      "path": "narrative/chapters/2eb3ee6bbdb142a5a8b80f739fe293d2/chapter.json",
+      "sha256": "f9a22c5196921514e477b27ccc948c90abc45b7645ee4364b6c2d2f6c94cd826"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/2eb3ee6bbdb142a5a8b80f739fe293d2/manuscript.json",
+      "sha256": "ba2e542aab6fb6a8416768ec8d6096fcc0b1b0abfa053b8ce8b7e139c6e82bb6"
+    },
+    {
+      "length": 1778,
+      "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/chapter.json",
+      "sha256": "efc3d9dc3885741f888d698fb6cbe11f2f6da6f97b824c15b84d942929b78597"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/manuscript.json",
+      "sha256": "5e5d08ba8eab609577d026da0e0e5371ddd8e1e420fbbf1f5db18672e9245dcf"
+    },
+    {
+      "length": 1507,
+      "path": "narrative/chapters/3fb0845da173463cb2f6df73770ae8eb/chapter.json",
+      "sha256": "d325e9bf907d6e3f4f40fcefdebb5c4142ccfe3196523e15f533c7f7912933b4"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/3fb0845da173463cb2f6df73770ae8eb/manuscript.json",
+      "sha256": "56b73bb1091ed0db33808b5d2c33996548bc2177c51fbccdddb43eb0fa457750"
+    },
+    {
+      "length": 1482,
+      "path": "narrative/chapters/5387a0ea5b1b404b91c6569b2d237936/chapter.json",
+      "sha256": "afc3fc02e449bb411e8a08da6fa1818dd837d71e033c8ad6b296b6431debf793"
+    },
+    {
+      "length": 109655,
+      "path": "narrative/chapters/5387a0ea5b1b404b91c6569b2d237936/manuscript.json",
+      "sha256": "46e8378e53a2c09097621b65e180212a8d152e84aefd05de88b89c3766a13889"
+    },
+    {
+      "length": 1689,
+      "path": "narrative/chapters/5bdad2f073a246758453090d4be1237d/chapter.json",
+      "sha256": "df3f2b9183a6021c70e09ad1630235440412da9b1cbf440e4021aeda3a53539e"
+    },
+    {
+      "length": 119350,
+      "path": "narrative/chapters/5bdad2f073a246758453090d4be1237d/manuscript.json",
+      "sha256": "4049816803e6ba20850db6c5bb30124e751a6d3b4dbca130636174ee017afda8"
+    },
+    {
+      "length": 1485,
+      "path": "narrative/chapters/60e932ffb39a4297a38b5ee7e66644db/chapter.json",
+      "sha256": "c8af098174b977ba36e1a9db3dd632887e46269d81bbceba8995380f9dd42fa9"
+    },
+    {
+      "length": 130451,
+      "path": "narrative/chapters/60e932ffb39a4297a38b5ee7e66644db/manuscript.json",
+      "sha256": "f77ef5f3f4be8292f097d990aae3abb239d86b257c2ff54158962df46244a5cf"
+    },
+    {
+      "length": 1918,
+      "path": "narrative/chapters/66a7504a60a04dfa94dedf4ea37c5abf/chapter.json",
+      "sha256": "86145c76cb1a065472665ed373c64ebd158648532325a77500bb96482349fe5e"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/66a7504a60a04dfa94dedf4ea37c5abf/manuscript.json",
+      "sha256": "a9e2a762780a217517d5ea6dce30dbec7ffa39a0f54a547da3d12583216310ef"
+    },
+    {
+      "length": 2518,
+      "path": "narrative/chapters/7afd85f03c2c4f8f855944378ebdeb2e/chapter.json",
+      "sha256": "8f49e64183ffc37df740d66becdfe99ac3adf36f6e8424c94611ea4adc481b51"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/7afd85f03c2c4f8f855944378ebdeb2e/manuscript.json",
+      "sha256": "14d6ee75786c49fb30fe14e6b6f6f504a34f3a2a9b95649543655958c4a7321b"
+    },
+    {
+      "length": 1002,
+      "path": "narrative/chapters/941883a86853453c9d0bb27d6c6de186/chapter.json",
+      "sha256": "06a29037fc4bbda33cf289804cdd83c2fc07ab9e32fa73cc43f669fb559f707b"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/941883a86853453c9d0bb27d6c6de186/manuscript.json",
+      "sha256": "59e601473c09ef8d831b2922bef275d4e13218f1378e57ecb90aaa5141d8e173"
+    },
+    {
+      "length": 2253,
+      "path": "narrative/chapters/9eafcc6ab36445509a11e2e7f6411496/chapter.json",
+      "sha256": "613afe3a5358bab2eb21b0f5339b99edc5fd2d9c2ec63d43ac29be8dde4bbdb9"
+    },
+    {
+      "length": 120215,
+      "path": "narrative/chapters/9eafcc6ab36445509a11e2e7f6411496/manuscript.json",
+      "sha256": "11ea5d196fda965b0f20fbe544cd84ea8409857f28b3c3420ba7a37c1e1a0a7b"
+    },
+    {
+      "length": 1559,
+      "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/chapter.json",
+      "sha256": "e866f608417c170b0bbb5f836ba25fd6f76bc3039be0141333b3dc7a55edaf69"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/manuscript.json",
+      "sha256": "d9394594e8834ccef646efc2ebcc774b47b6c0d1716db063203ba77e9081b675"
+    },
+    {
+      "length": 970,
+      "path": "narrative/chapters/e2b826c6326d4c3ab22ffc720b66f997/chapter.json",
+      "sha256": "9c2fe2dd8859a91594a3c26987b053134fc164e2de969a0ae172a340f51dfd14"
+    },
+    {
+      "length": 107449,
+      "path": "narrative/chapters/e2b826c6326d4c3ab22ffc720b66f997/manuscript.json",
+      "sha256": "6ab3ea84b0197299f98c0929643c173c9d24ce4ab9e2b4f4a17ed964e285af89"
+    },
+    {
+      "length": 1302,
+      "path": "narrative/chapters/f201f1ce4e6547f0a617721f2fa6d50f/chapter.json",
+      "sha256": "432c68c7f4b2a781e2f30c81db6b0eda8666b898b45690b565ef72f1aac74766"
+    },
+    {
+      "length": 119447,
+      "path": "narrative/chapters/f201f1ce4e6547f0a617721f2fa6d50f/manuscript.json",
+      "sha256": "07bae786a482920d9266a4080c9910368f4b2712324d8f78fb9ad5f35da763b3"
+    },
+    {
+      "length": 1317,
+      "path": "narrative/chapters/fa6864f3002c4b89a0a0006b2e57ad25/chapter.json",
+      "sha256": "4cb4920ab1feec409fa7ecf187a55c7403844672996e2c54cb619395227f1010"
+    },
+    {
+      "length": 108027,
+      "path": "narrative/chapters/fa6864f3002c4b89a0a0006b2e57ad25/manuscript.json",
+      "sha256": "f21630e3476b5ecd47e5c00162f3dae37600d0f69a9c42bfd5f544724b505e52"
+    },
+    {
+      "length": 1541,
+      "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/chapter.json",
+      "sha256": "64b551c53da7d152267041d48fd3190810c3a126f43afa9529ae03e78e98f96f"
+    },
+    {
+      "length": 121,
+      "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/manuscript.json",
+      "sha256": "349deb79448a40985796843bf6eacc245d7ab9afa2523db45fc341a4202e83a1"
+    },
+    {
+      "length": 51174,
+      "path": "narrative/narrative.json",
+      "sha256": "dff6c2f435d09e50e975d4d511f513a3adcde6a400198c648d1e222ff6948cb9"
+    },
+    {
+      "length": 2123,
+      "path": "project/project.json",
+      "sha256": "c39941868f52ddab737f7379a782a2105ac5318acbedc4ce7558f2ba2f61fed6"
+    },
+    {
+      "length": 18191,
+      "path": "publication/publication.json",
+      "sha256": "ca6ac0615abfa2874b229365e55d28895bb3c585161a999eaf576c5eaea13548"
+    },
+    {
+      "length": 1392980,
+      "path": "sources/sources.json",
+      "sha256": "4ada4d13989aac0aebf643dc64f3d63e0b88279bd80a38e4a82d942d3e109251"
+    }
+  ],
+  "formatId": "lorekeeper.version-history-snapshot",
+  "includedAreas": [
+    "project",
+    "narrative",
+    "graph",
+    "sources",
+    "assets",
+    "manuscript",
+    "composition",
+    "publication"
+  ],
+  "manifestHash": "6c30a97305f574a4bc4a7246c895c59cb1dcfd85c25e0360c9a52c109b1b7858",
+  "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
+  "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
+  "schemaVersion": 1
+}

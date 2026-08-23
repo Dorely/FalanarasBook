@@ -1,0 +1,1383 @@
+{
+  "acts": [
+    {
+      "id": "1ed113b4-863d-4815-bba4-c58c37473d5e",
+      "order": 1,
+      "synopsis": "Falanaras travels to Outland with Lady Liadrin, Astalor Bloodsworn, and Grand Magister Rommath under orders from Kael\u2019thas. He recognizes Liadrin as the high priestess he once glimpsed tending the wounded during Quel\u2019Thalas\u2019s fall, but she has abandoned the faith that defined that earlier image and remade its absence into a severe creed of survival. The retinue enters a world where the prince\u2019s blood elf court is increasingly defined by unsettling allies, hard military purpose, and named retainers who make his distant authority feel immediate without overtaking the story. As Kael\u2019thas\u2019s design for Silvermoon comes into focus, a major campaign in Netherstorm culminates in the seizure of the naaru M\u2019uru from Tempest Keep. In the aftermath, the captive is brought to Silvermoon, where Lor\u2019themar and the kingdom\u2019s leaders must decide how such stolen power will be used. Rommath, Astalor, and Liadrin each offer a different philosophy of necessity, but it is Liadrin\u2019s fierce willingness to bear the sacred wrong for Quel\u2019Thalas\u2019s survival that most deeply persuades Falanaras and leads him toward the founding of the Blood Knights. The new order\u2019s first field deployment takes it south to Tranquillien, where Blood Knights, rangers, and Forsaken scouts stop an Amani-driven undead surge and lay an uneasy practical foundation for deeper cooperation.",
+      "title": "Act II: The Light in Chains"
+    },
+    {
+      "id": "36058723-144a-491e-a996-016f15e90b6e",
+      "order": 0,
+      "synopsis": "A prologue shows the Scourge invasion and the destruction of Silvermoon. Amid the retreat, Falanaras briefly sees High Priestess Liadrin serving the wounded through her faith in the Light before she continues toward the Sunwell\u2019s final defense. After a time skip into the reconstruction era, Falanaras lives amid grief, arcane hunger, and growing fel dependence while the blood elves endure strained ties with the Alliance and begin limited cooperation with the Forsaken in the Ghostlands. Kael\u2019thas is still honored from afar, and hope for his return remains alive. When word arrives from Outland that Kael\u2019thas requires reinforcements for a special mission, one final Ghostlands operation turns tragic: Captain Rynel Starweaver dies saving his people and Falanaras inherits the summons that will carry him into the next stage of his people\u2019s survival.",
+      "title": "Act I: Ashes of Quel\u0027Thalas"
+    },
+    {
+      "id": "74c05123-233e-4e93-9a63-a9375c2ff25d",
+      "order": 2,
+      "synopsis": "After several months in which the Blood Knights prove their worth and communication with Kael\u2019thas\u2019s Outland forces remains active, Silvermoon treats the prince\u2019s distant war as part of its promised future. Lord Sanguinar leads a violent Outland delegation that receives Blood Knight power to carry the order into Kael\u2019thas\u2019s army, disturbing Liadrin when he flaunts that power without restraint and injures another Blood Knight in sparring. The Dark Portal snaps shut without warning, and when it reopens no word comes from Kael\u2019thas himself. A Scryer messenger brings Lor\u2019themar a letter from Voren\u2019thal the Seer revealing the vision that drove the Scryers to defect: a future where the blood elves are freed from addiction and despair beneath a naaru\u2019s Holy Light, and a conviction that Kael\u2019thas is leading them away from that salvation. Kael\u2019thas rejects that path and desperately betrays Illidan\u2019s forces, seizing Tempest Keep and turning toward demonic power. Silvermoon severs allegiance, but many citizens refuse to believe Kael\u2019thas has fallen and unrest spreads around pro-prince loyalty and the proposed Horde alliance. With no safer power willing or near enough to help, Silvermoon turns the battlefield cooperation established with Forsaken scouts at Tranquillien into formal negotiations through Sylvanas. Lor\u2019themar\u2019s delegation meets the Banshee Queen at ruined Windrunner Spire, where her ancestral claim on Quel\u2019Thalas and her present monstrosity make the bargain impossible to treat as ordinary diplomacy. Magisters impose order in Silvermoon with arrests, martial force, and magical coercion, leading to a fraught journey to Undercity, admission to the Horde, and a first battlefield test in Hillsbrad where Falanaras defeats but spares Edric Hale under the eyes of enemies and uneasy allies.",
+      "title": "Act III: Oaths of Severance"
+    }
+  ],
+  "annotations": [],
+  "bookBrief": {
+    "accessibilityGoals": "Keep the emotional and causal story legible to readers who do not remember every Warcraft detail: identify factions, stakes, and magical practices through context while avoiding dense lore dumps. Distinguish speakers and battlefield action clearly, and handle addiction, coercion, trauma, and graphic violence with narrative purpose rather than sensationalism.",
+    "bookKind": "novel",
+    "creativeConstraints": "Remain grounded in the established World of Warcraft setting and characters while preserving the project\u2019s explicit continuity adaptations, especially the Dark Portal route and timing. The story spans the Scourge invasion of Quel\u2019Thalas through reconstruction, M\u2019uru\u2019s capture, the Blood Knights\u2019 founding, Kael\u2019thas\u2019s betrayal, Silvermoon\u2019s admission to the Horde, and the opening of The Burning Crusade, ending with Falanaras crossing the Dark Portal into the next war. Keep Falanaras\u2019s personal moral arc central amid large historical events. Treat the Blood Knights\u2019 power as effective and necessary to survival while never erasing M\u2019uru\u2019s suffering or granting easy moral absolution. Portray blood elf magical hunger as normalized physical withdrawal, spiritual loss, cultural trauma, and social shame rather than a repeatedly explained plot device.",
+    "genre": "World of Warcraft fanfiction; dark epic fantasy; military and political fantasy drama",
+    "houseStyle": "Favor specific sensory detail, purposeful paragraph movement, and dialogue shaped by culture, rank, and guarded emotion. Avoid repetitive AI cadences, especially \u201Cnot A, but B\u201D constructions; avoid recurring metaphor families such as shape, geometry, arithmetic, or clean; vary descriptors; keep similes brief and concrete; avoid wordy abstract comparisons. Never use meta references that break the fourth wall or refer to chapter numbers in narrative prose. Deliver lore through action, observation, conflict, and implication rather than lectures.",
+    "languageLocale": "English (United States)",
+    "maximumReaderAge": null,
+    "minimumReaderAge": 16,
+    "pointOfView": "Close third-person limited, centered primarily on Falanaras",
+    "premise": "In the aftermath of the Scourge\u2019s destruction of Quel\u2019Thalas, Falanaras\u2014a bereaved blood elf who rises from civilian conscript to spellbreaker\u2014becomes entangled in the capture of M\u2019uru and the founding of the Blood Knights. As stolen Light, Kael\u2019thas\u2019s betrayal, and Silvermoon\u2019s desperate turn toward the Horde force him to choose between old loyalties and his people\u2019s survival, he embraces the Blood Knight path without escaping its moral cost.",
+    "primaryThemes": "The ethical cost of survival; trauma and cultural identity; faith profaned and remade; addiction, dependency, and shame; loyalty, estrangement, and belonging; necessity versus conscience; redemption without absolution",
+    "purpose": "To dramatize the founding of the Blood Knights through an intimate blood elf perspective, exploring how a traumatized people rationalize morally compromised forms of survival and how one soldier retains agency and restraint without receiving simple absolution.",
+    "readAloudPriority": false,
+    "readingLevelGuidance": "Adult general-fiction reading level. Assume interest in Warcraft lore, but establish necessary context through character experience and scene action rather than exposition-heavy lore summaries.",
+    "targetAudience": "Older teen and adult readers who enjoy World of Warcraft lore, dark character-driven fantasy, military conflict, and morally complex political drama",
+    "targetWordCount": null,
+    "tense": "Past tense",
+    "visualDirection": "Prose-led adult fantasy novel; no required illustration program. If visual materials are later developed, favor Warcraft-grounded blood elf gothic splendor, ruined magical environments, black-and-crimson Blood Knight iconography, and a contrast between sacred gold Light and harsher red-gold stolen radiance.",
+    "voiceAndTone": "Tragic, morally heavy, immersive, and character-centered, with controlled lyricism, visceral combat, restrained emotion, political tension, and occasional dry camaraderie. Emphasize trauma, desperation, fracture, and the cost of survival without flattening characters into moral arguments."
+  },
+  "bookBriefCanonSourceIds": [],
+  "contextPreferences": [
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "042ffb11-381e-44b8-83bd-3f9f6918df9a",
+      "isIncluded": true,
+      "key": "entity:06e06ce7cb774be0a2322ab19cd4c126",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "05303087-52cc-4948-9ff5-9579ce76b622",
+      "isIncluded": true,
+      "key": "entity:06e06ce7cb774be0a2322ab19cd4c126",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "056fa8ee-0329-4a88-b6dc-0203301d3c30",
+      "isIncluded": true,
+      "key": "entity:06e06ce7cb774be0a2322ab19cd4c126",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "06fbe084-ff3d-4d29-895e-bda12411ab01",
+      "isIncluded": true,
+      "key": "entity:4757143402944683af9223d88fc2f065",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "07e40da7-806c-44ba-8bfa-0eaf8f890192",
+      "isIncluded": true,
+      "key": "entity:0d7a4dfd8c7d49aab19779d47aad4859",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "3fb0845d-a173-463c-b2f6-df73770ae8eb",
+      "id": "09e25957-568b-4f85-9829-db42f542420e",
+      "isIncluded": true,
+      "key": "chapter:60e932ffb39a4297a38b5ee7e66644db",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "0baa7359-ac35-4afa-ac45-8bdacd2c77b9",
+      "isIncluded": false,
+      "key": "entity:68c4b4332d7b4ce990c9c2fcae5891cc",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "0cc4de32-890a-4a8c-a102-4581f20f57f7",
+      "isIncluded": true,
+      "key": "entity:de0ef969c3d140baafac8c92e3522e3f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
+      "id": "0da9ddef-460f-48b2-aa01-4f8a927850dc",
+      "isIncluded": true,
+      "key": "entity:6082dac56e5e4244b5738056e5141014",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "01525a0c-6fcc-44ec-8ea6-80629683911f",
+      "id": "0fdf53ce-f095-493a-9e0b-49cafbab4e7b",
+      "isIncluded": true,
+      "key": "entity:3bbc052ba23e44a98344f7c3d69c168f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "01525a0c-6fcc-44ec-8ea6-80629683911f",
+      "id": "11654575-ba94-4b87-99b8-7c1d880e85b8",
+      "isIncluded": true,
+      "key": "entity:e1b0ab0d4179408a908f957888efdfa5",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "14cef441-85a9-4b32-8a43-dcdfe67af2e6",
+      "isIncluded": true,
+      "key": "entity:4c732e663c0d4ec192dfb71b6b905fe5",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "15602a0e-f6ff-495b-9aa2-5d4b0b609e86",
+      "isIncluded": true,
+      "key": "entity:a661389c6e414cb8a6938e784a45b752",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
+      "id": "17ba46ba-9e36-4c8e-b9b9-bb4af5f9a89c",
+      "isIncluded": true,
+      "key": "entity:ba9a693174f44ad5903349ea95b5f806",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "17c46d6d-7b8c-4b80-b67f-bd802157b9cf",
+      "isIncluded": true,
+      "key": "entity:e978d22dd5474e9e9da2cc25d627e73e",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "1f5c8679-2ce1-48fa-8d87-f8950ea1c12c",
+      "isIncluded": true,
+      "key": "entity:ba9a693174f44ad5903349ea95b5f806",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "20f3bd0d-6786-4c53-b5d8-583fbfebece9",
+      "isIncluded": true,
+      "key": "entity:4757143402944683af9223d88fc2f065",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "214a270e-f651-4272-921a-a27605a85365",
+      "isIncluded": false,
+      "key": "entity:19c63ea8ab1e482382310d45c9c3b21b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "236a8e8d-9396-4d0f-9599-2401b3d60c1c",
+      "isIncluded": true,
+      "key": "entity:2c114c9bcaaf48cfb64273e8ddacabbf",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "25033c52-3e41-4649-9d6c-b9b16fac16b0",
+      "isIncluded": true,
+      "key": "entity:b00ecaaa78944e67bee51de5fb348aeb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "2b5156ec-d605-43ac-84ef-16a67d36d6e4",
+      "isIncluded": true,
+      "key": "entity:b00ecaaa78944e67bee51de5fb348aeb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "2e6e24af-72cc-40c5-805f-ec0653268467",
+      "isIncluded": false,
+      "key": "chapter:9eafcc6ab36445509a11e2e7f6411496",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "31135099-25b7-40a8-af1e-e25d23f6d235",
+      "isIncluded": true,
+      "key": "entity:ba9a693174f44ad5903349ea95b5f806",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "3198941f-5476-42a2-a319-1ca272b549f4",
+      "isIncluded": true,
+      "key": "entity:b325e969ca2e492286ae5c9a926bec7f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "31d5d12e-6aac-4fed-9ae7-335166878f53",
+      "isIncluded": true,
+      "key": "entity:4ff3a54055cf40ccbf353ebb98bb0b21",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "32c49b79-6843-4774-8e6b-f82de25261cb",
+      "isIncluded": true,
+      "key": "entity:7887124cb28245ff9b209a846f771954",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
+      "id": "3399c90a-2de7-4cee-9e59-5cda602181e3",
+      "isIncluded": true,
+      "key": "entity:9d439f48592a4d51a3bdc5754d58b9b0",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "33c5d587-8df3-416f-9302-c0fea6bbc86f",
+      "isIncluded": true,
+      "key": "entity:b53b6b6115244ee596133133c7c9f2f3",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "34bb1061-4025-46fa-8602-ac8f9b4eed90",
+      "isIncluded": true,
+      "key": "entity:ba9a693174f44ad5903349ea95b5f806",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "3866c812-1c80-4e42-801a-f040a4d32b8f",
+      "isIncluded": false,
+      "key": "entity:1fdfdc426f9e4b5782c449d0bcf2d32f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "393242e8-656b-4c51-94d4-7b5b05079f14",
+      "isIncluded": true,
+      "key": "entity:06e06ce7cb774be0a2322ab19cd4c126",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "3adeac11-e8de-4662-b8fc-a771bd776333",
+      "isIncluded": true,
+      "key": "entity:a661389c6e414cb8a6938e784a45b752",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
+      "id": "3b79227f-bfb7-4393-8dac-dc51a25618df",
+      "isIncluded": true,
+      "key": "chapter:9eafcc6ab36445509a11e2e7f6411496",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "3babe9d5-1c0a-48df-ba27-7e05b8409889",
+      "isIncluded": true,
+      "key": "entity:4ff3a54055cf40ccbf353ebb98bb0b21",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "3bd5f507-3b22-4aaa-b506-a790df8cecdb",
+      "isIncluded": true,
+      "key": "entity:de0ef969c3d140baafac8c92e3522e3f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fc66ca5b-b899-45c5-aab7-5a376c932615",
+      "id": "3c4e6534-da6a-4455-b9a6-1e9059740c93",
+      "isIncluded": false,
+      "key": "chapter:2c73696c62ea44f1a5abe3371487261e",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "3ce71ef3-83f4-4369-a50d-a777b1923bf9",
+      "isIncluded": true,
+      "key": "entity:06e06ce7cb774be0a2322ab19cd4c126",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "3fb0845d-a173-463c-b2f6-df73770ae8eb",
+      "id": "3e698c3a-3c19-4ee9-80a0-02a3a1523a37",
+      "isIncluded": true,
+      "key": "entity:4757143402944683af9223d88fc2f065",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "3f4f199d-3ea4-4086-b643-141a00ae5513",
+      "isIncluded": true,
+      "key": "entity:fd78402ce3464d2a912580bd8ff29d98",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "01525a0c-6fcc-44ec-8ea6-80629683911f",
+      "id": "3f950dce-7c61-4edc-b1de-7b4d49bbecd7",
+      "isIncluded": true,
+      "key": "entity:5f17c318092d48718780ce9f7c926264",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "3fbe3708-65a5-405b-a445-8ad68790c222",
+      "isIncluded": true,
+      "key": "entity:07f1117c27b9475496db5d394296422b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "3fdec5f8-dae6-43db-8e68-feca550e728c",
+      "isIncluded": true,
+      "key": "project-outline",
+      "kind": "ProjectOutline",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "4189746b-5c39-44a3-a1bb-a99ee43e27cd",
+      "isIncluded": false,
+      "key": "chapter:16a26fc4e1ab40baa3cc636cb3c79500",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "4472bbea-624c-4b1a-9da6-cc34088781fb",
+      "isIncluded": true,
+      "key": "entity:ba9a693174f44ad5903349ea95b5f806",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "3fb0845d-a173-463c-b2f6-df73770ae8eb",
+      "id": "44e6737d-95d5-42d2-94f1-0840ec506c2e",
+      "isIncluded": true,
+      "key": "entity:6082dac56e5e4244b5738056e5141014",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "45894e40-2093-4540-bcd4-55b7bde6aba7",
+      "isIncluded": true,
+      "key": "entity:b33fb4d1b452495aa5601f07b959d3e3",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fc66ca5b-b899-45c5-aab7-5a376c932615",
+      "id": "4659d817-f07c-4793-9d63-35380a92d2aa",
+      "isIncluded": true,
+      "key": "entity:1e44bd67ee1144d28df946ce3ebe0495",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "49ada5c8-a311-49ce-b068-870dedadae91",
+      "isIncluded": false,
+      "key": "entity:b33fb4d1b452495aa5601f07b959d3e3",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "49aed759-ec52-4149-8630-58f9a3497d17",
+      "isIncluded": true,
+      "key": "entity:7887124cb28245ff9b209a846f771954",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "4a41720f-cdb6-4b7f-aea8-e6197df93a1e",
+      "isIncluded": true,
+      "key": "entity:726d059c987845a399bb9bd3e1d0ffb9",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "4def5cd0-b8c6-4501-8294-9ad1d570c86b",
+      "isIncluded": true,
+      "key": "entity:5617472cf4424dee97a6bee0756b9767",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "50db2e30-0fee-4518-bf51-2387e5d48090",
+      "isIncluded": false,
+      "key": "chapter:f201f1ce4e6547f0a617721f2fa6d50f",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "557bf8a4-f6c6-4e0a-af57-6784d82d1445",
+      "isIncluded": true,
+      "key": "entity:1e44bd67ee1144d28df946ce3ebe0495",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "5ad1858b-5096-4c40-a500-c47e20921f39",
+      "isIncluded": true,
+      "key": "entity:b53b6b6115244ee596133133c7c9f2f3",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "5c352b45-ac31-4819-8776-5751810ecd2d",
+      "isIncluded": true,
+      "key": "entity:171891a91f5648e09e007546244e9d2c",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "5fd3f6fc-20f3-444c-87bf-55fabc206129",
+      "isIncluded": true,
+      "key": "current-chapter",
+      "kind": "CurrentChapter",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "61d67ed2-c42e-44d4-8597-4e730762a35a",
+      "isIncluded": false,
+      "key": "writing-sample:e1666eba2b3c4379947b15f3652a2f0e",
+      "kind": "WritingSample",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "636bd18e-5ca5-40f9-8a3d-dfbdb601a114",
+      "isIncluded": true,
+      "key": "entity:b00ecaaa78944e67bee51de5fb348aeb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "64bf60e7-40ad-41c9-a40e-4c7d5bf2e49a",
+      "isIncluded": true,
+      "key": "entity:7887124cb28245ff9b209a846f771954",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "6519d698-ca41-44c9-bcf4-07abb4cb8b6a",
+      "isIncluded": false,
+      "key": "entity:1997a7728f9441d0aff572296bab940d",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "65875883-f2ca-4999-873f-18c899d74e47",
+      "isIncluded": true,
+      "key": "entity:59ecf85acaa24b029cfb9b84961251c7",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5bdad2f0-73a2-4675-8453-090d4be1237d",
+      "id": "65bf09a2-d474-4f43-aba5-85cdcd35b3f6",
+      "isIncluded": true,
+      "key": "entity:4d94aecd5f054c2185da21d1c92ee81a",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "6b7d6d45-99e8-41bb-86e6-a0f9f0369b21",
+      "isIncluded": true,
+      "key": "entity:8109cf95028945b2859edee2bbda588d",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "6fc27e0e-a841-4cba-85fd-4d26e34fbe7e",
+      "isIncluded": true,
+      "key": "entity:171891a91f5648e09e007546244e9d2c",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "739f73cb-74c2-44b9-b8a5-4fb415861cff",
+      "isIncluded": true,
+      "key": "entity:e577401b9a98414da7aad329dde6b487",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "73de3cb0-5e3f-44a2-bebc-b83cad172829",
+      "isIncluded": false,
+      "key": "entity:de90faa6c6ca45539b3d769721ff5c72",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "76723373-da2f-40a7-8d7b-d898dfaa60c3",
+      "isIncluded": true,
+      "key": "entity:c119f961b5084ab693fbe6c1a6fbf19e",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "77891d28-b911-4432-a23a-42275bc43554",
+      "isIncluded": false,
+      "key": "entity:a661389c6e414cb8a6938e784a45b752",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "7ac17b6a-2c57-4e50-8629-6b1559eb9fad",
+      "isIncluded": true,
+      "key": "entity:124e702b34e44af1a7ea31e78df9f61f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "7b39689c-47f8-45ee-9c48-bd81703769b6",
+      "isIncluded": false,
+      "key": "act:36058723144a491ea996016f15e90b6e",
+      "kind": "ActReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5bdad2f0-73a2-4675-8453-090d4be1237d",
+      "id": "7cb81eae-ab14-493a-9331-02955a752506",
+      "isIncluded": true,
+      "key": "entity:fd78402ce3464d2a912580bd8ff29d98",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "7ef2baed-0e82-45b1-af9e-a78267fda5aa",
+      "isIncluded": true,
+      "key": "entity:974cf54075da42d69ac727b7390535e6",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "81635983-0aab-4ac5-9bf0-a4ab1b656fd8",
+      "isIncluded": true,
+      "key": "entity:fd78402ce3464d2a912580bd8ff29d98",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "831cb473-77b1-435e-a3a1-80eede9d9d4d",
+      "isIncluded": true,
+      "key": "entity:07f1117c27b9475496db5d394296422b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "881b4259-ce8c-49b3-b244-0bd6a0ce351f",
+      "isIncluded": false,
+      "key": "chapter:5387a0ea5b1b404b91c6569b2d237936",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2c73696c-62ea-44f1-a5ab-e3371487261e",
+      "id": "8930e571-6f43-433e-a9d9-4e4cd2f178d5",
+      "isIncluded": true,
+      "key": "entity:a661389c6e414cb8a6938e784a45b752",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "8afd9501-c3e7-4af2-ad95-4211294bc187",
+      "isIncluded": true,
+      "key": "entity:8749c9fccad341638acccd2d194983c5",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "8fd56743-05f0-4158-9cf3-d9f3bc297aed",
+      "isIncluded": true,
+      "key": "entity:46f12e33c6464a439832ce60f5b42a6e",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "97b40230-bd55-4445-94f7-3f5061c140b2",
+      "isIncluded": true,
+      "key": "entity:943341598a684830b5c9bb7edb4495cb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "98fb47d2-5d2d-46ee-b877-6a0c0060941e",
+      "isIncluded": true,
+      "key": "entity:fc622f38f09c421d847bd840beb545fb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "01525a0c-6fcc-44ec-8ea6-80629683911f",
+      "id": "9905193f-ad58-4578-a58f-92db6dd85220",
+      "isIncluded": false,
+      "key": "writing-sample:e1666eba2b3c4379947b15f3652a2f0e",
+      "kind": "WritingSample",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "9a32415f-68ba-4ed5-8841-aa5e06a862a4",
+      "isIncluded": false,
+      "key": "chapter:fc66ca5bb89945c5aab75a376c932615",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2c73696c-62ea-44f1-a5ab-e3371487261e",
+      "id": "9e514097-6c66-4d7a-af1f-bf332496ca67",
+      "isIncluded": false,
+      "key": "chapter:5bdad2f073a246758453090d4be1237d",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "9f2eb6ec-5ba4-48b3-ab47-3dc5dbefedc1",
+      "isIncluded": false,
+      "key": "entity:cda6e04f00c84ba2a205bc8c7828d610",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "a183cbb1-d4b9-48b2-8010-96f60ffa1310",
+      "isIncluded": true,
+      "key": "chapter:134bf5728e7346bba9928c1fc1570f00",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "a4e3835b-3600-4fba-929b-7748baca12d8",
+      "isIncluded": true,
+      "key": "entity:ae78c4a646444f00a33b52a8ae74e3d8",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "a6ca5298-5d3c-48bc-9e4d-0a8f0544e74c",
+      "isIncluded": true,
+      "key": "entity:943341598a684830b5c9bb7edb4495cb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "aed3dbcd-771d-4679-b1a8-a7a23ffd6f17",
+      "isIncluded": true,
+      "key": "entity:e978d22dd5474e9e9da2cc25d627e73e",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "b1b1814c-e202-44b1-91c3-34c0342a3887",
+      "isIncluded": true,
+      "key": "entity:e1b0ab0d4179408a908f957888efdfa5",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "b32140ff-1a3b-4569-afe5-a753676a79b1",
+      "isIncluded": false,
+      "key": "entity:37ff7145fcbe4327997c6678d4997eb4",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "27f5c381-f1d1-42c4-a269-c6901211ec82",
+      "id": "b34549fd-507a-4aac-9eff-4233b9c4a949",
+      "isIncluded": true,
+      "key": "entity:9ce012f951994b48be3b6059301d6512",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "b473da40-7e0f-4f1d-9240-71b2d750cd40",
+      "isIncluded": true,
+      "key": "project-outline",
+      "kind": "ProjectOutline",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "b64186bf-78ec-4852-afd7-af9926650bc3",
+      "isIncluded": false,
+      "key": "entity:6997d1c2eec048a196f120e2d686b8da",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "b676bbdb-eb79-4b1e-ad64-f6de9b303d94",
+      "isIncluded": true,
+      "key": "entity:b64a47c97ee44534abfcdc5c53143f0b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "b68c8917-877e-494e-8bc2-8ff751a59809",
+      "isIncluded": true,
+      "key": "entity:68c4b4332d7b4ce990c9c2fcae5891cc",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "b6b91f41-4bcc-4275-aeab-1f56554d4b04",
+      "isIncluded": true,
+      "key": "entity:de0ef969c3d140baafac8c92e3522e3f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "bb4181bd-21df-4199-8cbe-9ddcb1a15f8f",
+      "isIncluded": false,
+      "key": "writing-sample:e1666eba2b3c4379947b15f3652a2f0e",
+      "kind": "WritingSample",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
+      "id": "bb59c05c-8d54-4263-9c39-440ec511676d",
+      "isIncluded": true,
+      "key": "entity:06e06ce7cb774be0a2322ab19cd4c126",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5bdad2f0-73a2-4675-8453-090d4be1237d",
+      "id": "bbb77f0a-51e1-4cb8-a61a-c93e431b3c27",
+      "isIncluded": true,
+      "key": "entity:d4c7207a4c6d4b129cde4806b9bdafbf",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "bd1ffc7f-6299-40e2-99dd-425c3209a524",
+      "isIncluded": true,
+      "key": "entity:4d94aecd5f054c2185da21d1c92ee81a",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fc66ca5b-b899-45c5-aab7-5a376c932615",
+      "id": "c166acca-2aae-43a9-b87c-9bc8409d28b3",
+      "isIncluded": false,
+      "key": "chapter:fa6864f3002c4b89a0a0006b2e57ad25",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "3fb0845d-a173-463c-b2f6-df73770ae8eb",
+      "id": "c1f2a1c1-7cef-4439-b67c-3ea124982676",
+      "isIncluded": true,
+      "key": "entity:beb3c146e42e429391770c8c8227be2b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
+      "id": "c3d293a6-b80e-41fe-8908-18a6e3849110",
+      "isIncluded": false,
+      "key": "entity:58fae80e1796400bbbd10ad120690367",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "c5834785-9fa4-46a2-9704-887ea834f16b",
+      "isIncluded": false,
+      "key": "entity:28cc24fda65d4a6787b5cbf9cf2ce592",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "c5f71a49-6dae-4f06-8851-e46973963b73",
+      "isIncluded": false,
+      "key": "chapter:60e932ffb39a4297a38b5ee7e66644db",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "c7efca08-6849-40db-bc43-8592b7edfa14",
+      "isIncluded": false,
+      "key": "entity:f16b55e825bf4ab68a34d28449f6e6fb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "c86fcaaa-812a-4769-95c5-e31cd19890e0",
+      "isIncluded": true,
+      "key": "entity:ce94c4ba50ea46aba8cf3d31cd5a1f3a",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "ccb59c27-f80b-4d74-93a8-e9a5ae78baf3",
+      "isIncluded": false,
+      "key": "entity:367f20ffadf44e87ace8210597534efd",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "cd974a26-35fb-4831-9610-5365244fe1f5",
+      "isIncluded": true,
+      "key": "entity:4757143402944683af9223d88fc2f065",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "ceb3fa80-10d6-44ae-b8db-5341cf3f5a99",
+      "isIncluded": true,
+      "key": "entity:e978d22dd5474e9e9da2cc25d627e73e",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2c73696c-62ea-44f1-a5ab-e3371487261e",
+      "id": "cee01a96-5ab4-428b-8ae0-f51c29cff787",
+      "isIncluded": true,
+      "key": "entity:171891a91f5648e09e007546244e9d2c",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "d18e850e-a0ae-4ea3-99fe-b0e06c57371e",
+      "isIncluded": true,
+      "key": "entity:4757143402944683af9223d88fc2f065",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "d1d70435-a64e-4dbd-b20d-b038567a8bb8",
+      "isIncluded": true,
+      "key": "entity:367f20ffadf44e87ace8210597534efd",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "d1db173f-5a3f-4855-8e93-e7dbfa128858",
+      "isIncluded": true,
+      "key": "entity:367f20ffadf44e87ace8210597534efd",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
+      "id": "d2893b36-65bd-47fc-907d-f0cd2bae8885",
+      "isIncluded": true,
+      "key": "entity:b325e969ca2e492286ae5c9a926bec7f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+      "id": "d2b7ab4b-ca40-43d7-a8a1-5639e4e2c0e1",
+      "isIncluded": false,
+      "key": "chapter:01525a0c6fcc44ec8ea680629683911f",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5bdad2f0-73a2-4675-8453-090d4be1237d",
+      "id": "d97a1bc7-53c3-4c67-bf1f-d0dbf6e7f232",
+      "isIncluded": false,
+      "key": "chapter:9eafcc6ab36445509a11e2e7f6411496",
+      "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "da7b9b68-d55d-446b-bbdb-a8a16c5d9f38",
+      "isIncluded": true,
+      "key": "current-chapter",
+      "kind": "CurrentChapter",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
+      "id": "daad10d9-b41f-4357-a781-2279f9869bb3",
+      "isIncluded": true,
+      "key": "entity:327d9b07819b43f9a84f604402e3071f",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
+      "id": "db06ccae-6b5d-4510-85f1-001b23d4b48d",
+      "isIncluded": true,
+      "key": "entity:e8c1ba35a65d4f84b9315aa4b41ed604",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5bdad2f0-73a2-4675-8453-090d4be1237d",
+      "id": "ded039d7-1d73-4ea9-95f1-177bec3f87f3",
+      "isIncluded": true,
+      "key": "entity:28cc24fda65d4a6787b5cbf9cf2ce592",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
+      "id": "e00c0786-0a59-4338-92dd-c70b11b17237",
+      "isIncluded": true,
+      "key": "entity:1e44bd67ee1144d28df946ce3ebe0495",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "27f5c381-f1d1-42c4-a269-c6901211ec82",
+      "id": "e07acc93-3e46-4360-af04-cc7b881d31a9",
+      "isIncluded": true,
+      "key": "entity:e8c1ba35a65d4f84b9315aa4b41ed604",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
+      "id": "e35a9d88-641a-4e56-bab4-4400474fc20f",
+      "isIncluded": true,
+      "key": "entity:3f73cd49056d4e528a03a7a732627bb1",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "e50d57ef-1b85-4900-89ca-b01374cf78ad",
+      "isIncluded": true,
+      "key": "entity:b5c2ce0ad3fe46c68b32855dd9540bd7",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
+      "id": "e569b492-081b-4b99-9b62-aec98c7c7679",
+      "isIncluded": true,
+      "key": "entity:1e44bd67ee1144d28df946ce3ebe0495",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "e77bd08a-58d3-4789-9573-3bee128307e4",
+      "isIncluded": true,
+      "key": "entity:b00ecaaa78944e67bee51de5fb348aeb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "e8536ce2-6054-4cd9-9bb8-4582c6a49b67",
+      "isIncluded": true,
+      "key": "entity:4ff3a54055cf40ccbf353ebb98bb0b21",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "27f5c381-f1d1-42c4-a269-c6901211ec82",
+      "id": "e9ebd1f2-cde2-4670-b376-745e74e06560",
+      "isIncluded": true,
+      "key": "entity:fd78402ce3464d2a912580bd8ff29d98",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "eada0b60-8e7c-4973-9f21-9c7f8aa7e741",
+      "isIncluded": false,
+      "key": "entity:e1b0ab0d4179408a908f957888efdfa5",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
+      "id": "efdc67bc-bbce-4042-aad2-b8bf9ed64f1a",
+      "isIncluded": true,
+      "key": "entity:4d94aecd5f054c2185da21d1c92ee81a",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "f08d05b2-eb94-4a60-886a-7047c99ad8c6",
+      "isIncluded": true,
+      "key": "entity:943341598a684830b5c9bb7edb4495cb",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "27f5c381-f1d1-42c4-a269-c6901211ec82",
+      "id": "f14805d0-fb2e-4bcd-b801-1e2b0db6e45d",
+      "isIncluded": true,
+      "key": "entity:beb3c146e42e429391770c8c8227be2b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "f2d7edd5-fd7f-4b1a-917c-9f426702d4e8",
+      "isIncluded": false,
+      "key": "entity:07f1117c27b9475496db5d394296422b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+      "id": "f37db065-ace8-4650-b4eb-7304ca9d4aa6",
+      "isIncluded": true,
+      "key": "entity:32bf863ba914475b95d8ab006d172685",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+      "id": "f43a45d4-34be-4cc8-877e-93c56085d780",
+      "isIncluded": true,
+      "key": "entity:1e44bd67ee1144d28df946ce3ebe0495",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
+      "id": "f798b93d-280f-406b-89f7-212d29cd5ae9",
+      "isIncluded": true,
+      "key": "entity:c6521631da8e4692b3a2553343265acc",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+      "id": "fb512907-d7da-478b-959b-e598d1e1ec03",
+      "isIncluded": true,
+      "key": "entity:1e44bd67ee1144d28df946ce3ebe0495",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+      "id": "fbb1b526-2a2e-4267-9288-f68340b42255",
+      "isIncluded": true,
+      "key": "entity:367f20ffadf44e87ace8210597534efd",
+      "kind": "Entity",
+      "sortOrder": null
+    }
+  ],
+  "entityTypes": [
+    {
+      "color": null,
+      "defaultProperties": {
+        "synopsis": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": true,
+      "pluralLabel": "Acts",
+      "singularLabel": "Act",
+      "sortOrder": -300,
+      "type": "Act"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "synopsis": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": true,
+      "pluralLabel": "Chapters",
+      "singularLabel": "Chapter",
+      "sortOrder": -200,
+      "type": "Chapter"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "description": "",
+        "role": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "Characters",
+      "singularLabel": "Character",
+      "sortOrder": 100,
+      "type": "Character"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "summary": ""
+      },
+      "icon": null,
+      "isChapterScoped": true,
+      "isStructural": true,
+      "pluralLabel": "Beats",
+      "singularLabel": "Beat",
+      "sortOrder": -100,
+      "type": "Event"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "description": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "Locations",
+      "singularLabel": "Location",
+      "sortOrder": 200,
+      "type": "Location"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "Lores",
+      "singularLabel": "Lore",
+      "sortOrder": 300,
+      "type": "Lore"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "Organizations",
+      "singularLabel": "Organization",
+      "sortOrder": 500,
+      "type": "Organization"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": true,
+      "pluralLabel": "Projects",
+      "singularLabel": "Project",
+      "sortOrder": -400,
+      "type": "Project"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "key": "",
+        "value": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": true,
+      "pluralLabel": "Project facts",
+      "singularLabel": "Project fact",
+      "sortOrder": -150,
+      "type": "ProjectFact"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "description": "",
+        "kind": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": true,
+      "pluralLabel": "Sources",
+      "singularLabel": "Source",
+      "sortOrder": -140,
+      "type": "Source"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "kind": "",
+        "locator": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": true,
+      "pluralLabel": "Source blocks",
+      "singularLabel": "Source block",
+      "sortOrder": -120,
+      "type": "SourceBlock"
+    },
+    {
+      "color": null,
+      "defaultProperties": {
+        "notes": "",
+        "summary": ""
+      },
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": true,
+      "pluralLabel": "Source chunks",
+      "singularLabel": "Source chunk",
+      "sortOrder": -130,
+      "type": "SourceChunk"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "characters",
+      "singularLabel": "character",
+      "sortOrder": 400,
+      "type": "character"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "groups",
+      "singularLabel": "group",
+      "sortOrder": 400,
+      "type": "group"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "objects",
+      "singularLabel": "object",
+      "sortOrder": 400,
+      "type": "object"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "organizations",
+      "singularLabel": "organization",
+      "sortOrder": 400,
+      "type": "organization"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "persons",
+      "singularLabel": "person",
+      "sortOrder": 400,
+      "type": "person"
+    },
+    {
+      "color": null,
+      "defaultProperties": {},
+      "icon": null,
+      "isChapterScoped": false,
+      "isStructural": false,
+      "pluralLabel": "places",
+      "singularLabel": "place",
+      "sortOrder": 400,
+      "type": "place"
+    }
+  ],
+  "writingSamples": []
+}

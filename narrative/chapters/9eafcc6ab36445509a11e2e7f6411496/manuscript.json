@@ -1,0 +1,3703 @@
+{
+  "content": [
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Three days after Caelir left Silvermoon, Captain Rynel Starweaver found Falanaras in the spellbreaker yard and told him to pack for the Ghostlands.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7075eb2d0ea24dd1b8cecb56e9eef441",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras had been drilling counters against a magister\u2019s binding spell. The practice sigil still burned blue around his boots, and sweat cooled beneath his bracers as he lowered his glaive. Across the yard, Theron was helping another recruit to his feet. Lethira watched from the shade of the colonnade, restringing her bow with the absorbed patience of someone who had already guessed the interruption concerned her.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3013154cd6254077b3caf61c302f71a0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CHow long?\u201D Falanaras asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9d2a474bb0264e93bd4112c66031f770",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CEnough for the quartermaster to complain about what you take.\u201D Rynel\u2019s gaze traveled over him, measuring fatigue, posture, and whatever else he habitually kept to himself. \u201CField kit. Three days\u2019 crystal allotment. Southern cloak.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f3fe78f679b64049bd78221b104ced4a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron joined them, rolling one shoulder beneath his padded training coat. \u201CYou could have started with southern cloak. Nothing good follows those.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d355dfe7153041faa70797cb3cd8453f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou\u2019re coming because you can hold a line after everyone else has decided it is broken,\u201D Rynel said. He pointed to Lethira without looking around. \u201CValeflame tracks. Dawnspear reads command magic. I correct the errors the three of you make.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "62803f926d1541c7bcc7f5439de70b3f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira tested the new string with her thumb. \u201CA stirring endorsement.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "96643a27a4e846488f10a570457c5753",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CEastern watch hall in an hour,\u201D Rynel said. \u201CThe Ranger-General will brief us.\u201D He turned away, then paused. \u201CEat first. Pride is a poor field ration.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c35c5cca9fea43f28d6e896e2284815e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The watch hall occupied a repaired tower near the southern road. Its upper windows faced the Dead Scar, where the wound through Quel\u2019Thalas ran toward the Ghostlands in a gray-brown channel. Maps covered the central table, held flat by dagger hilts, spent crystals, and a stone fragment marked with black necromantic scoring.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b5ab422c5e2747cd84393987b522dd1d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Ranger-General Halduron Brightwing stood at the table with one hand braced beside the map. He wore field leathers beneath a red cloak, and the scars on the map seemed to converge beneath his fingers. Two Farstrider couriers waited by the wall, mud dried to their boots.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d36fbb13b1a849bb84ca029548ac0906",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CCaptain,\u201D Halduron said. \u201CYour unit is light.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e3c17d3522424d568ea8eae6565b8f5e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIt is fast,\u201D Rynel replied.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8c54fb2a164f46b8aecacb31d653461e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Ranger-General accepted that with a slight nod. He tapped a point south of the last maintained relay. \u201CA Scourge column struck two supply caches over six nights. They took iron fittings, alchemical salts, lamp oil, and three pieces of a damaged ward stone. They left food and weapons behind.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "100e346518004e79a449283afbadc3ec",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CBuilding something,\u201D Falanaras said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "064c6122522c4ef0aa0706533b37bd5e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201COr repairing it,\u201D Halduron said. \u201CTheir trail leaves the Scar near the old border road. The way station there once carried messages between southern patrols and the eastern sanctums. Its relay chamber collapsed during the invasion, but enough stone remains to anchor a working.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e2bc6f3442824d4eaa2d8c318945b741",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "He shifted one of the daggers across the map. \u201CFind the column. Determine what they are assembling. Destroy any command focus you can reach. If the trail passes beyond markers you can still identify as ours, use judgment. The border is less certain on the ground than it appears in ink.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "27c9503b33e54ad79ca81b9880eee38f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CNearest support?\u201D Theron asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3d82aae17cc94160bacab500ca8015b4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CA Farstrider squad two days east. They are watching an Amani trail and cannot be stripped away. Assume you have no reinforcement.\u201D Halduron looked at each of them in turn. \u201CThe Scourge are moving with purpose. Do not mistake small numbers for aimlessness.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d196e74ce5e54a48bb561d025050a01f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They left before noon. Silvermoon\u2019s repaired towers diminished behind them, bright against a sky the color of old pewter. Farther south, Eversong\u2019s restored spring faltered at the edges. Gold leaves gave way to bare limbs and red earth, then to the bruised forests of the Ghostlands, where rot had entered root and stone alike.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a05e12f504384bfdb2978e2f8b0189b0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras had fought there often enough that the land no longer shocked him. That familiarity felt worse. He knew which streams carried a sweet corpse-stink after rain, which groves hid sinkholes full of bones, which abandoned farms still had doors that moved when there was no wind. The Ghostlands rewarded memory and punished comfort.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b9501c30d4a0409f9f7fb2bfc5f7a202",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira found the column\u2019s trail before sunset. The signs were broad enough for Falanaras to read once she pointed them out: deep heel marks from armored corpses, handprints where ghouls had loped across soft ground, and two parallel grooves from a sledge or narrow wagon. Dark fluid had dried in the ruts.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "37ff21688c3844f7acb2606101f9830c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThirty,\u201D she said. \u201CPerhaps more. They are collecting stragglers as they move.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b1f0e09d3d184fd79380c69cf4d452b6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThey do not need lamp oil to raise stragglers,\u201D Theron said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d73c2c6b79cd4ee2be083a142d705094",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel crouched beside the wagon rut and touched two fingers to the residue. Green light shivered across his knuckles. His fingers tightened before he withdrew them, and for an instant Falanaras could not tell whether the captain had tested the magic or stopped himself from feeding on it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "31b8816dbc9944f8a60d4af13b5257ac",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CEmbalming pitch,\u201D the captain said. \u201CMixed with powdered silver.\u201D He wiped his fingers on the soil. \u201CMove.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "00ff93e4d1324704a4e071382f4504dd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They camped without fire in the shell of a forester\u2019s lodge. One wall had fallen outward, opening the room to the trees, but the roof kept off the thin rain. Theron divided dried meat with a dagger. Lethira sat where she could watch the trail. Rynel made them report their hunger in the same clipped numbers he used at the barracks.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bd59672f72c347138a3504592980e553",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CTwo,\u201D Theron said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6afd7c2aff584d3eab5a8c410f2c0a0d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThree,\u201D Falanaras said. The ache had sharpened since they passed beyond the last active relay, a hollow pressure behind his eyes and teeth. He could feel the crystal vials in his pack without touching them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8db70e5cb07544af8edf41781809fcca",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira lifted an eyebrow. \u201CI dislike the question on professional grounds.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "aaca21468d8b4864ab6b15a11fbb1222",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CAnswer it.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0007a29b5c5e441ba5c8c890013f36bb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CTwo. Four when you speak.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b54310f091fa4a02901e429114d388ce",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel\u2019s mouth moved by less than a smile. He passed Falanaras a measured shard, then took one for himself. Falanaras\u2019s allotment went dull. Light continued to leak between the captain\u2019s fingers until nothing remained, and even then he held the colorless crystal for another breath.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "4d4f64f00d7d46c5aea6d476f90fa199",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYour number?\u201D Falanaras asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "493be474c03c4305a05f486ed72383c2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel opened his hand. The shard lay colorless against his palm. \u201CLow enough to keep watch.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c95db6e29d4545dd9f6be5ea64a60942",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "At first light they found the first corpse from the column. It had been a Scourge outrider, leather armor stiff with old blood. A black-fletched arrow entered beneath one cheekbone and emerged behind the opposite ear. The shot had been made from high ground through a gap in the trees scarcely wider than Falanaras\u2019s hand.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1030d59f69f64e28a96756309e9f0a5b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira cut the arrow free. Its head was narrow, darkened against reflection, and marked near the socket with three tiny cuts.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "63e103cc27da40e08d0bad206aa869d7",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CFarstrider work?\u201D Theron asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "00f869528d154dc49aa9779fd58ea83f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe fletching once was.\u201D Lethira rubbed one feather between finger and thumb. \u201CDyed after it was bound. The cuts are an old range mark, turned backward.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2c3f9e77475846bba47c385b15be349a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CA warning?\u201D Falanaras asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "46c246a94f1847e0aa750a5718d75745",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CA claim.\u201D She looked east, where the ground rose among dead pines. \u201CSomeone killed it and wanted another ranger to know.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "37173310489f49289b6e0c14647c6b25",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They found no footprints near the firing place. Moss had been lifted and laid back over the marks. A branch bent for passage had been tied upright with a strip of gray cloth. Lethira untied it, studied the knot, and said nothing for the next mile.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c47bda2f2b2e4417b4b7f975dc05f94c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The signs continued. Two ghouls lay pinned together at the base of an elm, each arrow placed through the temple. A third had been hamstrung, then decapitated with a curved blade. Beside an old milestone, someone had arranged three black stones in a Farstrider trail sign for danger ahead, but the stones pointed south instead of north.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f350a3db05234276bf4e715119b41400",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThey are driving part of the column,\u201D Lethira said at last. \u201COr trying to.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5b2539bed2b144efaa4d708c691bdbdc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel scanned the ridge. \u201CHow many hunters?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "de590f9c2fa842fd8aa134104f249da8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CFour. Perhaps five. They know our signs.\u201D Her tone had flattened. \u201CThey want us to know they know them.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e1abf4c42bc1451ebfe2473a2d8f1ebc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CHostile?\u201D Theron asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "34fbdbfed87a46d0be09cf0247862bb8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIf they were aiming at us, we would have a clearer answer.\u201D Lethira slid the black arrow into her quiver apart from her own. \u201CI would prefer one.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ebb210cbc6454f6b9d1c34008c52d030",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "By midday the trail divided. The wagon and most of the column continued toward the old way station. A second set of prints veered southeast: heavier corpses, a dragging chain, and one track broad enough to swallow Falanaras\u2019s boot. Black-fletched arrows marked that branch alone.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "239ad7ec73f84a49907a96b7bb29f98f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel considered the fork. \u201COur objective is the wagon.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b98409883d0e494384386358bf3cb55e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira kept looking southeast. \u201CThe other trail may join it again.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f21737d9aaf64b829bd9bc78ef5c88ff",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThen we will regret leaving it later.\u201D He rose. \u201CFor now, wagon.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "498fe0289a2f4121a623db9622176a58",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The first sound of battle reached them an hour afterward: metal striking stone, followed by a shout in Common and a burst of golden light between the trees. The light came again, lower and broader, illuminating trunks from beneath. Something screamed with two voices at once.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d6543f1d349c4d78b073bff560777723",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel raised a fist. They left the trail and climbed the bank above it, moving through bracken gone gray with blight. At the crest, the old way station opened below them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3337622ff5db41898fdfd54d0e95b969",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Half the building had sunk into its cellar. A broken arch still spanned the road, and the relay courtyard lay between two low walls choked with thorn. The Scourge wagon stood beside the collapsed chamber. Three necromancers worked around a frame of iron rods and ward-stone fragments while ghouls and armored corpses pressed six human fighters against the northern wall.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5be3f719f01b482788bc761b46149e53",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "All six humans wore plate or mail beneath silver tabards marked with the Argent Dawn\u2019s sunburst. Paladins. Two were already down. One knelt over a wounded companion, holding a golden barrier with his raised shield while the others stood shoulder to shoulder before him. Every impact drove the barrier closer to the ground.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "aae52d636911451b946555c4695b3f29",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThey have less than a minute,\u201D Theron whispered.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1c126962096849c291310268d94ff3f1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel\u2019s attention went first to the iron frame. Green-black current ran between its rods and sank into the buried relay. \u201CDawnspear, break the working. Valeflame, necromancers. Brightshield with me.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0398903a44ce4d90b249931a75e068ac",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CAnd the humans?\u201D Falanaras asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f5b0556d56de4523995929974358933d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CAlive until they choose otherwise. Go.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7999861756ef45cfa433d573073befac",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira\u2019s first arrow took a necromancer through the throat. Rynel and Theron came over the bank together, red cloaks snapping behind them. Falanaras followed half a pace to the left, glaive held low. Surprise carried them into the Scourge flank before the nearest corpses could turn.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f995e973ff464a73afa52847b86229aa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron struck a ghoul with his shield and drove it into two others. Rynel\u2019s crescent blade hooked beneath an armored corpse\u2019s axe, tore the weapon aside, and opened the rib cage in one return cut. Falanaras reached past the melee with his senses, found the necromantic command running from the iron frame, and caught it against the edge of his spellbreaker training.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b3bc98d75fbc4cb09f22ad707078883d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The magic resisted like wire drawn through flesh. He twisted his glaive and pulled. One of the frame\u2019s green currents snapped. Six ghouls faltered at once, their charge breaking into confused, uneven steps.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b92b130a9975453fbe0a41b68769dde5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The human barrier surged. Paladins rose behind it and struck into the hesitation with warhammers bright as sunrise. Their commander\u2014a broad-shouldered woman with close-cropped gray hair\u2014shouted an order, and the line wheeled away from the wall instead of merely holding it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7e9b2f37ca574a5ca4b14b51375925b3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "One of them turned toward Falanaras. His helm had been knocked away. Dark hair clung to his forehead, and a familiar scar crossed his chin where a hawk\u2019s jess had cut him when they were boys.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bf7920218ea0446aba309f857dda44c5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CFal?\u201D the paladin said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e6a9f39428ff44698d76a1ce2baf32d2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras nearly missed the ghoul coming between them. The paladin stepped inside its reach, caught its claws on his vambrace, and drove a light-wreathed warhammer into its jaw. Bone collapsed beneath the blow. The radiance burned through ruined flesh and clung to the hammer\u2019s head, close enough for Falanaras to feel its heat without suffering its bite.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bb1cca7f1cb640808cd045697b6ff79c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CEdric,\u201D Falanaras breathed.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "076dee2f38af40daa62eb8de586f87c3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric Hale grinned with blood on his teeth. For one naked instant he looked seventeen again, standing in House Dawnspear\u2019s hawk yard with stolen wine beneath his coat. \u201CYou took your time.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3d2feae854ad4a178af97d6237798f96",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou crossed my border.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7146acce4463438db37d2166d4e90a71",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CComplain after.\u201D Edric pivoted, and Falanaras moved with him before thought could intervene.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "018f8bf0b92b4fd88a95c4171f83724a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They had sparred with wooden swords in another life. The old habits survived beneath everything that had happened since. Edric guarded high; Falanaras cut low. Edric yielded ground when Falanaras pressed and returned it the moment the glaive passed. When a plated corpse raised a mace behind Edric, Falanaras stripped the binding from its joints. Edric turned into the opening and split its skull with golden fire.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e55ab8f4e4144790809b39bbe35d4ac0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Light in Edric\u2019s hands recalled another battlefield: Liadrin kneeling beneath a fallen beam in Silvermoon with blood to both elbows, her voice breaking on the prayer as a crushed wound closed beneath her palm. Edric wielded the same radiance with a soldier\u2019s discipline. He grounded his stance before calling it. He drew one measured breath, spoke an invocation too brief to hear over battle, and gave the power a single purpose. A ward spread low before an impact. Warmth pressed into a wounded paladin until the bleeding slowed. Radiance gathered around the head of his warhammer only when undead flesh entered its path.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "00276cae4d2448018621c90dc6a7da1c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Breath. Word. Intent. Release.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "45291e7523394d56aa4f19bb60b70855",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras fixed the cadence in memory while his body fought. It was economical as spellbreaker work and wholly unlike the currents he intercepted from magisters. Edric did not seize or redirect the Light. He asked, and it answered.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9d2c7be1a7f545878b252bf49977bbf0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The second necromancer fell to Lethira. The third abandoned the iron frame and ran for the wagon. Rynel caught him with a loop of crimson force, dragged him backward across the stones, and took the command spell from him in a violent green flare. The necromancer collapsed. Rynel remained standing over him, his free hand half-open toward the fading current.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8a6a88424cdc4c73b9f3f563500f6e93",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CCaptain?\u201D Falanaras called.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6ee0d8bdb72e4643ba6eea31a7b99ca6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel slashed the remaining current apart. The iron rods went dark. \u201CFinish the line.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8ce0cf2e94a84c3f9bb0cf62f996b39c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Without the frame\u2019s command, the first Scourge force began to fail. Paladins and blood elves drove them away from the wounded. Theron held the courtyard\u2019s eastern gap alone until the gray-haired commander joined him. Lethira descended from the bank, shooting as she walked. A ghoul reached her; she planted one boot in its chest and buried a short blade through its eye.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "94964e74307b4e158a18fec6e13cacd6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The last armored corpse dropped. For half a breath, the courtyard held only ragged breathing and the hiss of consecrated wounds.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "21f1e897fb0f489a92cb813eca912b26",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Then the southern arch exploded inward.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "97670c132619464c8d61c132ea864d7f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Stone struck the wagon in a spray of splinters. Through the dust came the chain Lethira had seen in the trail, its hook dragging across the road. An abomination followed: three bodies\u2019 breadth across, belly split by black stitches, one arm ending in a cleaver and the other swollen around the chain. Flies boiled from vents in its shoulders. Behind it crowded another dozen ghouls and two robed necromancers.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8fe519b86c0b446bb4de43e793c6bb83",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CSecond trail,\u201D Lethira said, already drawing.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "93c80113174a4930923d226dccd7df81",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The abomination swung its chain. Theron shoved a wounded paladin flat and took the hook on his shield. The impact lifted him from his feet and flung him against the relay wall. His shield spun away.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bebb53c2929e4a9cabdd58d3ee2ea8c4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric drew breath. His commander slammed her shield beside his, and the surviving paladins formed around them. Gold spread across the stones in a shallow curve just as the abomination charged. It hit the ward with a sound like a gate breaking. Every paladin bent. None fell.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f4adfad4d3cf40be9d787c833bf7e28a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Black arrows came out of the dust behind the Scourge.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7e8874a7803b44eba9ae59ea75fab050",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "One necromancer pitched forward with an arrow through the base of his skull. The second spun as three shafts struck his chest in a vertical line. Dark figures moved along the broken southern wall, cloaks gray against the blight, bows already bending again.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e78e54cd0ee54cfd84eaf460075f576d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Their leader vaulted the fallen arch. She landed lightly for someone whose skin held the pallor of old death. Red points burned beneath her hood. Her longbow was Farstrider work, blackened and repaired with metal fittings from Lordaeron.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6db07ebd391240da9e5bfc559bc05ea3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira\u2019s bow shifted toward her.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c113a965f63f45938d19a3376daf898d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The dark ranger saw the motion. Recognition tightened her dead face, but she pointed at the abomination. \u201CThat first.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "67f32e5e53d040d3989c7c901f5c7e55",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel did not ask who they were. \u201CValeflame, take its knees. Dawnspear, find the binding. Brightshield\u2014\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "82cba310ec8f4678af36bbe9eec831a1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CStill here,\u201D Theron said hoarsely. He had recovered his shield and was using the wall to stand.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8c47f5bc4e0243519b040539032d9051",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The dark rangers loosed together. Four arrows buried themselves around the abomination\u2019s left knee, cutting cords and stitches. Lethira\u2019s shaft entered the same joint a heartbeat later. The leg buckled. The creature leaned into the paladins\u2019 ward, spraying foul vapor from its torn belly.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0f9f960a93a347e8af8a9afecdc8cf37",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras reached for the magic holding it together. The abomination contained no single command. Necromancy crossed through it in dozens of knotted channels, each fastening a borrowed tendon, a stolen limb, a fragment of will. He could not break them all before the ward failed.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "030ca91d44114658b265e5d11d427efd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CChest,\u201D he shouted. \u201CThe binding gathers behind the sternum.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "cac17578e3a34b9d98c022624f282744",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric looked at him once and understood. Breath. Word. Intent. Golden radiance tightened around the head of his warhammer instead of flaring outward. He and his commander stepped apart, opening a narrow lane through the ward.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f2666002f0eb40c88a32c9d424554388",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel entered it first. He caught the abomination\u2019s cleaver on the crescent of his glaive and turned the blow just enough. Falanaras followed beneath the massive arm. He drove his weapon\u2019s point into the seam below the sternum and hooked the central binding out into the open.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b7547c35f28541d9b18f832217c1c273",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The exposed spell burned green-black between his blade and the corpse-flesh. Hunger surged through him, sudden and intimate. Power waited there in obscene abundance. He held it away from himself.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d0056bc103c4414cb728b7b4ec6eb5d8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CNow!\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7dab4ff3f15f4d9e9cc03c860c13c3ab",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric\u2019s warhammer struck the binding. Light flooded the abomination from within, pouring through its stitches and eye sockets. The dark ranger\u2019s next arrow vanished into its open mouth. Rynel tore his glaive free and took a wash of necromantic force across both hands.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a5d8b7a82ff1461eb2601bdbecfca8e2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The creature came apart in sections. Falanaras threw himself clear as the chain arm collapsed. Edric caught the back of his harness and dragged him beyond it. The impact shook dust from the surviving arch.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9987729abca84f7da9392c7cbcf91976",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The remaining Scourge had lost both necromancers and their largest weapon. Blood elf blades met them from the north. Paladins advanced from the west. The dark rangers shot into every opening from the southern wall. Within minutes, the second force lay still among the first.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "15420f268caa42cb9fe28046b0223f9c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Silence returned unevenly. A paladin prayed over one of the fallen. Theron sat against the wall while another bound his ribs. Lethira stood with an arrow drawn toward the dark ranger\u2019s heart.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "aa3a5fbd35104f2ebe7b48a34ede0d15",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CSerenya,\u201D she said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "681a8396b2b84126812589e06b53f746",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The name moved through Falanaras\u2019s memory. Serenya Duskrunner had ridden with the Farstriders before the invasion. He remembered her laughing once beside Lethira at a midsummer range, both of them sun-browned and alive. He had known her only well enough to nod in passing.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c1cc7dbc335841cca17eacf63d568eeb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Serenya pushed back her hood. Death had sharpened the bones of her face and leeched the warmth from her skin. \u201CYou still pull left when you are angry.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2624a35e8de048d5b359291683476443",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira corrected her aim by a finger\u2019s width. \u201CI watched you die.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "aad4d834d4da408583735bd840556e76",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CSo did I.\u201D Serenya\u2019s bow remained lowered. \u201CWe can discuss Arthas\u2019s workmanship after you decide whether to loose.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bb15fbeaed914714b0f16262625355aa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Around them, weapons shifted. The dark rangers did not aim at Lethira, but their hands settled near bowstrings. Rynel stepped beside her. The fingers of his free hand curled once toward his palm, closing on power no longer there.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "84f26a72a08f4c2895aa709f902a9ed7",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric approached Falanaras with his warhammer lowered. His first expression was still wonder. He gripped Falanaras by both shoulders, then pulled him into a hard embrace that smelled of sweat, steel, and incense burned into wool.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "67019c4972e84b73902c442a4c05d4fe",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI thought you were dead,\u201D Edric said. \u201CEvery list from the north\u2014Fal, I looked.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3d595eb03e4444de9a4695701e860fd1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI was here.\u201D Falanaras returned the grip before Edric released him. \u201CWhere were you?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c3cd529e29ff4cff83afe5a9aa33507e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CLordaeron. Then Stormwind. Light\u2019s Hope for this patrol.\u201D Edric smiled again, and the smile faded as he finally looked closely at Falanaras\u2019s face.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f5718701ace74402a229f456ba15bd2e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "His gaze stopped on Falanaras\u2019s eyes. It moved to the green crystal sealed in the socket of his glaive, then to the empty shard vial at his belt. The warmth did not vanish all at once. It drew inward behind caution.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "83b77d99c1c3413cbed5e787b07f3568",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYour eyes,\u201D Edric said quietly.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "867d466b830d42b5b9313c02a6b1d210",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras had heard the words from Caelir days earlier. They hurt differently in a human voice. \u201CI know their color.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "93864a48167243b8a680cfee742f372f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric looked toward Rynel\u2019s glowing hands and the crystals carried by the other blood elves. \u201CWhat are you drawing from?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9368d4e267a746cc81670a6781badae8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWhat keeps the wards standing and our soldiers steady.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "155445f92c2342d283002e1467fa989b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThat was fel.\u201D Edric\u2019s voice carried farther than he intended.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "36859b4942f34315ac3ed7c49f856ebc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "One of the paladins turned. Then another. Their attention spread across the blood elves: green eyes, crimson armor, crystal fittings. The relief of rescue acquired edges.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b41fa1050bef443da24e5188a6f483a6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Serenya glanced at Falanaras\u2019s glaive. \u201CDoes it kill the Scourge?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fd790cfdc41a487bb2f71733717ead97",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYes.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bdd2d23cd20649638b0fcc38e9238a66",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThen I have exhausted my objections.\u201D Her red gaze passed over his eyes without interest. \u201CThe color is common farther south.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b5da9299d2eb4209a6a9f2080d0caf22",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric stared at her. \u201CYou serve Sylvanas.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "359cb44c6f7840b49d030fb21dc71dc6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI serve the Forsaken.\u201D Serenya\u2019s mouth barely moved. \u201CToday I also served your continued possession of a spine.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5de8a47a27e34038b5f6ef3d55a9d4fd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric\u2019s warhammer rose a hand\u2019s breadth. Lethira drew farther. A dark ranger behind Serenya nocked an arrow. Theron struggled upright despite the paladin binding his ribs. Rynel shifted his glaive across his body.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "cc185f08bdca4f518ffed36007f16d0d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The gray-haired Argent commander stepped between Edric and Serenya.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "038f15178d3e41aab440e658b5b36cba",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CLower it, Hale.\u201D Her voice was calm enough to expose every other sound: flies over the abomination, Theron\u2019s strained breathing, rain beginning on broken stone.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0a3bdf400e664319b9b9ae0d2dc5167a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CCommander, they are\u2014\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b9ec22d408314cb3b6723099fb51b838",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI know what they are. I also know who broke the line around us and who brought down that construct.\u201D She faced the others without turning her back on Edric. \u201CThis patrol is composed of paladins. The Argent Dawn is larger than this patrol. Forsaken serve in our ranks at Light\u2019s Hope and guard the Tirisfal approaches against the same Scourge. Any soldier under my command learns to stand beside them or leaves my command.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fbbb27fdaa5244089526b86e329db809",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Her gaze settled on Rynel. \u201CCaptain, we crossed a border whose markers are ash. We followed the Scourge north. We claim no authority over your land.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d25c925db86748d6875488fed962f862",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel\u2019s fingers tightened on the glaive. \u201CThen finish your business and withdraw south.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "35f90955fd4d48c8a4bc162e503d520b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CAfter our wounded can travel.\u201D The commander looked around the courtyard. \u201CUntil then, the Dawn recognizes one enemy here. Weapons down.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8ae32993a8254709ab5d3cb7315f94ed",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric obeyed first, though his jaw remained set. His hammer head touched the stones. One by one, the other paladins followed. Rynel lowered his glaive. Serenya made a small motion with two fingers, and her rangers eased their bows. Lethira held for another breath before letting the string slacken.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "10804644898e446c906abd4233e787a5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The work afterward was quieter and more difficult than the battle. They moved the wounded beneath the surviving roof. Paladins laid their fallen together and covered each face. The dark rangers searched the southern road. Blood elves dismantled the iron frame and recovered the ward-stone fragments before corruption could sink deeper into them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3276ada876e747f49e471601b6754be0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras found Rynel kneeling beside the broken command focus. The captain\u2019s shoulders had folded around a splinter of black crystal held between finger and thumb. Green current crawled from it into his hand. He did not look up at Falanaras\u2019s approach.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e0d3263829da4c559b3acef39c3aefdc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CEvidence?\u201D Falanaras asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f82e6ce3923e4c40b6219ec94bc5f999",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel closed his fist and drew until the splinter went gray. His fingers remained clamped around it. \u201CSpent.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "874375b979504d6e9a00f5f5d3cb9b6b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYour hands are shaking.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5c118a4222c74bc6b1224fd1dab6e624",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The captain stood and the tremor disappeared into the cuff of his gauntlet. \u201CSo is the wall. Attend to the structure that matters.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7eac3bc87e0b4b75962b33d40e514176",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Serenya returned with a marked strip of leather taken from one of the necromancers. She laid it beside Lethira\u2019s map. \u201CThe force we followed came from the southeast. More tracks turn toward Deatholme.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "81379030adae440d8ec7324c69627ebb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira studied the markings without looking at her. \u201CYour trail signs are backwards.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6442c680edf54394a5b2f5e46be76477",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWe approach them from the other side.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "670f386f5b9a4b1aa63c97b9feedd16b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThat is a terrible reason.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bd2f8420e4a34219b85aa9b46da3aeb4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou remembered them.\u201D Serenya indicated the map. \u201CThere is a culvert here. The Scourge use it to move without entering the Scar. Collapse it and you may slow the next column.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ffb926b831d743ce83b5ef44cc06d08b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira marked the culvert. Her hand was steady. \u201CIf it is a trap, I will find you.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "79f4650aabf84e318efa2d6a4edaa7dd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Serenya\u2019s dead mouth curved by a fraction. \u201CThat sounds almost familiar.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b890217d94624d36ba31a9782e53c3e4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Argent wounded could travel by late afternoon. Before the patrol departed, Edric found Falanaras beside the broken arch. The human had washed the blood from his face. Without it, he looked older and more uncertain.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b20a519a919a46e4bc6fab318728a054",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI am glad you lived,\u201D Edric said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e6a3ee0f143043f29565b729cc82dc33",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou were glad before you looked closely.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "81476ce772164d62ae479a2f41ab0e95",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric took the rebuke without retreating. \u201CI am still glad. I am also afraid of what I saw.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "da9decc08ee84605b9416232e237d030",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou saw us save you.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c89fed0e83a6417397828729320bb4e0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI did. That matters.\u201D Edric glanced toward Serenya\u2019s departing scouts. \u201CSo does the rest.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d4d4801566d34e168d72f72e7dfcfd6a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras thought of Caelir turning at the coast road, too distant for either brother to read the other\u2019s face. \u201CIt always matters more to those who arrived afterward.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8e4a0377158049f2a5b3c3a9b1f8ceb0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Pain crossed Edric\u2019s expression. \u201CPerhaps. I spent years asking why the Light did not answer here. Today it answered me, and I stood alive because you came with green fire in your eyes.\u201D He looked down at his hands. \u201CI do not know what to do with both truths.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1bce8dc450d7453ab6278d3db3ba48ea",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CCarry them,\u201D Falanaras said. \u201CWe have carried worse.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "58040a094dc54a7ba4640450816ebaaa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Edric gave a tired breath that might once have become laughter. He offered his forearm. Falanaras clasped it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "61514cba739f4bc39e71b45a1ecf2f93",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CLight keep you,\u201D Edric said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fd3fc5658cbf46eaa9546787e571c596",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras did not know whether the blessing still knew his name. \u201CKeep your shield higher.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "146e4360775c40809970f9be4fc08d59",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Argent patrol went south beneath the gray-haired commander\u2019s silver banner. Serenya\u2019s Dark Rangers had already disappeared east, leaving no tracks Falanaras could see. Only the black arrow in Lethira\u2019s quiver proved they had occupied the same ground.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "44bb8efe444645eda4a16edc5bd58d81",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rynel ordered the way station burned after they removed the ward stone and maps. The abomination took longest. Greasy smoke followed the blood elves north until rain pressed it low among the trees.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e3e7c325feb94eadb728d2d63b4a3760",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron walked with his ribs bound and refused help. Lethira kept touching the black-fletched arrow as if checking that it had not changed. Rynel set a pace too fast for his own breathing and corrected anyone who mentioned it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "4045aee72cb04b7fa3c04e35797ef7dc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Near dusk, the captain stumbled over a root. His hand struck a tree trunk and remained there. His fingers spread against the dead bark as if seeking a current where none remained. Green light flashed beneath his cuff, brief and hungry.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e74a484d8d5e4eacbc827755fc3131db",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras moved toward him.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3a32f6b93e5e4b11a5a34dbe2cc11586",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CContinue,\u201D Rynel said without turning.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5e8454e1837640b091b4e19ed47cc89d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras obeyed because he was still a soldier and Rynel was still his captain. He carried the unease with the other things the day had given him: Edric\u2019s embrace tightening into scrutiny, Serenya\u2019s indifference to the stain everyone else saw, Lethira\u2019s arrow held on a friend\u2019s heart.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7881c442e74c472f8abf0c9538e6f0fe",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Beneath them all remained the cadence of the Light.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c17665445d7c4ba7a2b699e929c41601",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Breath. Word. Intent. Release.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ad39303835d84c97bdff9014292743e7",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras repeated it silently as they marched north through the Ghostlands, while behind him Rynel\u2019s steps recovered their rhythm and then, little by little, began to fail again.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3fa583a1ffbe482e999b677bd37783e7",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    }
+  ],
+  "manuscriptId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+  "revision": 39,
+  "schemaVersion": 4
+}
