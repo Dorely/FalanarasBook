@@ -72,7 +72,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The crystal melted cold across Falanaras\u2019s tongue. Relief followed almost at once: the ache behind his eyes eased, his fingers steadied, and the fortress sharpened until he could distinguish moving defenders along the nearest bridge. The ration was enough for the advance and perhaps the first breach. Beyond that, discipline would have to carry what appetite demanded.",
+          "text": "Falanaras closed his hand around the mana stone and drew. Cold spread through his palm and climbed his arm as the crystal dimmed. Relief followed almost at once: the ache behind his eyes eased, his fingers steadied, and the fortress sharpened until he could distinguish moving defenders along the nearest bridge. The ration was enough for the advance and perhaps the first breach. Beyond that, enemy magic and discipline would have to carry them.",
           "type": "text"
         }
       ],
@@ -402,7 +402,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras drew his sword. The metal beneath his boots had begun to hum.",
+          "text": "Falanaras drew his spellbreaker\u2019s glaive. The metal beneath his boots had begun to hum.",
           "type": "text"
         }
       ],
@@ -638,7 +638,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The draenei released their spell. A wall of force swept along the span, bright enough to erase armor and faces. Falanaras set his sword point against the bridge and opened every ward fixed into his own armor. The spell struck. Heat entered his bones. The blood elves behind him braced, boots sliding, while the ward crystals at his shoulders screamed against the pressure.",
+          "text": "The draenei released their spell. A wall of force swept along the span, bright enough to erase armor and faces. Falanaras set his glaive\u2019s point against the bridge and opened every ward fixed into his armor. The spell struck. Heat entered his bones. Behind him, the blood elf line drew from the advancing radiance in disciplined measures\u2014infantry, haulers, and magisters thinning the attack together while his spellbreakers caught its deeper structure. The ward crystals at his shoulders screamed against what remained.",
           "type": "text"
         }
       ],
@@ -1600,7 +1600,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The stair became a crush of shields and radiant weapons. Daric took the center. Falanaras stayed half a pace behind his right shoulder, stripping blessings from the defenders as quickly as they formed. Each stolen spell flooded his senses with warmth before he turned it aside. Hunger rose toward that warmth with humiliating eagerness. He forced the current into his sword instead and broke a crystal spear aimed at Daric\u2019s throat.",
+          "text": "The stair became a crush of shields and radiant weapons. Daric took the center. Around him, blood elf soldiers seized measured currents from every blessing they could reach, weakening wards and sacred weapons before closing with their bearers. Falanaras stayed half a pace behind Daric\u2019s right shoulder, reading the more intricate spells and stripping them apart. He took enough warmth from one stolen blessing to steady his numb shoulder, stopped when the relief invited a deeper pull, and forced the remaining current into his glaive. The charged crescent broke a crystal spear aimed at Daric\u2019s throat.",
           "type": "text"
         }
       ],
@@ -1666,7 +1666,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CIt recognizes intent,\u201D Astalor said.",
+          "text": "\u201CIt recognizes our intent,\u201D Astalor said.",
           "type": "text"
         }
       ],
@@ -3084,7 +3084,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CAnd we still take it home.\u201D",
+          "text": "\u201CWe mean to imprison a living being and take its Light into ourselves.\u201D",
           "type": "text"
         }
       ],
@@ -3106,7 +3106,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin turned to him. Her face held the exhaustion of the battle and something older that the shrine had uncovered. \u201CQuel\u2019Thalas still hungers. M\u2019uru\u2019s willingness does not feed one child or steady one soldier. Meaning will not carry itself across the Portal. We will.\u201D",
+          "text": "Liadrin turned to him. Her face held the exhaustion of the battle and something older that the shrine had uncovered. \u201CYes.\u201D",
           "type": "text"
         }
       ],
@@ -3128,7 +3128,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CEven if it means to rebuke us?\u201D",
+          "text": "\u201CYou do not hesitate.\u201D",
           "type": "text"
         }
       ],
@@ -3150,7 +3150,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CEspecially then.\u201D She looked back toward the cage. \u201CIf there is judgment in this, let it find us awake. Let us know what we chose and whom we chose it for.\u201D",
+          "text": "\u201CI served the Light while our kingdom died,\u201D she said. \u201CI know what it means to profane what I once held sacred. M\u2019uru\u2019s power could steady our soldiers, preserve our children, and keep hunger from finishing what the Scourge began. We have chained a being who offered us no violence, and we intend to take what belongs to it. Say the wrong plainly. Then remember whom we commit it to save.\u201D",
           "type": "text"
         }
       ],
@@ -3172,7 +3172,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Her answer offered no pardon. It demanded memory, responsibility, and action in the same breath. Falanaras could not call that righteousness. He could not abandon the people waiting beyond the Portal for the sake of keeping his own hands free of the choice.",
+          "text": "Her answer offered no pardon and sought none. Liadrin placed the wrong beside the need without allowing either to erase the other, then moved forward under both. Falanaras understood why soldiers would follow her into the order this captive Light might make possible. The act remained unrighteous, and responsibility became impossible to evade.",
           "type": "text"
         }
       ],
@@ -3278,6 +3278,6 @@
     }
   ],
   "manuscriptId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
-  "revision": 5,
+  "revision": 11,
   "schemaVersion": 4
 }

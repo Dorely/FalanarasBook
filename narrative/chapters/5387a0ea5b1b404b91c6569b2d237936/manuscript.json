@@ -1094,7 +1094,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CAir ward!\u201D Falanaras drove his glaive\u2019s lower blade into a seam in the rock. Six spellbreakers answered. Their barriers rose in overlapping red planes as another volley descended. Fel fire spread across them, hungry and corrosive. He caught the leading current, turned it along the ward\u2019s edge, and felt the hostile magic search his grip for weakness.",
+          "text": "\u201CAir ward!\u201D Falanaras drove his glaive\u2019s lower blade into a seam in the rock. Six spellbreakers answered. Their barriers rose in overlapping red planes as another volley descended. Fel fire spread across them, hungry and corrosive. He caught the leading current and opened it to the line. Power broke into measured threads. Spellbreakers, infantry, and the rangers nearest the gaps drew together, thinning the volley while Falanaras turned its remaining force along the ward\u2019s edge.",
           "type": "text"
         }
       ],
@@ -1116,7 +1116,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Rangers fired through the gaps. One creature spun into the gorge with three arrows buried in its throat. Another struck the barrier feetfirst, claws shrieking across the spell. Falanaras released the ward before its weight could drive him backward, stepped beneath the falling body, and cut upward with both blades. Black blood struck the cliff. The creature crashed across the path and nearly carried him over the edge.",
+          "text": "Rangers fired through the gaps, steadied by the stolen heat. One creature spun into the gorge with three arrows buried in its throat. Another struck the barrier feetfirst, claws shrieking across the spell. The infantry beneath it seized at the magic in its limbs; the creature faltered as several small draws weakened the force holding it aloft. Falanaras released the ward, stepped beneath the falling body, and cut upward with both blades. Black blood struck the cliff. The creature crashed across the path and nearly carried him over the edge.",
           "type": "text"
         }
       ],
@@ -1226,7 +1226,7 @@
       "content": [
         {
           "marks": [],
-          "text": "He crossed the distance before the thought completed. His glaive caught the burning magic around the creature\u2019s chest. Instead of taking it into himself, he wrenched the current sideways. The flame guttered. Liadrin drove her shield beneath its jaw. Daric\u2019s soldiers thrust together into the exposed throat, and Althene\u2019s arrow vanished through one molten eye.",
+          "text": "He crossed the distance before the thought completed. His glaive caught the burning magic around the creature\u2019s chest. Falanaras took a measured surge, enough to harden his grip against the heat, then wrenched the deeper current sideways before its abundance could pull him after it. The flame guttered. Liadrin drove her shield beneath its jaw. Daric\u2019s soldiers thrust together into the exposed throat, and Althene\u2019s arrow vanished through one molten eye.",
           "type": "text"
         }
       ],
@@ -1292,7 +1292,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras helped bind the burned man Daric had pulled clear. His own hands shook when the knot was finished. The smell of ruptured magic had filled his head. Every bright remnant in the dead creature called to the emptiness under his breastbone.",
+          "text": "Falanaras helped bind the burned man Daric had pulled clear. His own hands shook when the knot was finished. The combat draw had been useful and controlled. The danger came afterward: the smell of ruptured magic filled his head, and every bright remnant in the dead creature called for him to continue though the fight was over.",
           "type": "text"
         }
       ],
@@ -1336,7 +1336,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras looked toward his soldiers. Two were feeding already under Althene\u2019s indifferent supervision. Daric drank water with his back to the creature\u2019s leaking fire.",
+          "text": "Falanaras looked toward his soldiers. Those who had drawn from the volley were already checking one another for steadiness under Althene\u2019s supervision. Daric drank water with his back to the creature\u2019s leaking fire, the deliberate posture of a man who had taken enough.",
           "type": "text"
         }
       ],
@@ -1358,7 +1358,7 @@
       "content": [
         {
           "marks": [],
-          "text": "He closed his hand around the crystal. Arcane warmth passed into him, controlled and thin. The violent attraction of the corpse receded enough for shame to take its place.",
+          "text": "He closed his hand around the crystal. Arcane warmth passed into him, controlled and thin. The corpse\u2019s pull receded, leaving the sharper recognition that his first draw had ended with the battle and his wanting had not.",
           "type": "text"
         }
       ],
@@ -3278,6 +3278,6 @@
     }
   ],
   "manuscriptId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
-  "revision": 8,
+  "revision": 9,
   "schemaVersion": 4
 }

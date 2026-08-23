@@ -9147,12 +9147,80 @@
         "nodeType": "Lore",
         "stableKey": "Lore/f4ee4ef85a314c3399247d194ca17e61"
       },
+      "properties": {
+        "note": "Chapter 6 establishes that recovered discipline means choosing a bounded combat draw and stopping before compulsion, not abstaining from Mana Tap."
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "2c73696c62ea44f1a5abe3371487261e",
+        "nodeType": "Chapter",
+        "stableKey": "Chapter/2c73696c62ea44f1a5abe3371487261e"
+      }
+    },
+    {
+      "edgeType": "RelevantTo",
+      "from": {
+        "key": "f4ee4ef85a314c3399247d194ca17e61",
+        "nodeType": "Lore",
+        "stableKey": "Lore/f4ee4ef85a314c3399247d194ca17e61"
+      },
+      "properties": {
+        "note": "Chapter 8 shows infantry, rangers, and spellbreakers using coordinated tactical Mana Taps against fel attacks."
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "5387a0ea5b1b404b91c6569b2d237936",
+        "nodeType": "Chapter",
+        "stableKey": "Chapter/5387a0ea5b1b404b91c6569b2d237936"
+      }
+    },
+    {
+      "edgeType": "RelevantTo",
+      "from": {
+        "key": "f4ee4ef85a314c3399247d194ca17e61",
+        "nodeType": "Lore",
+        "stableKey": "Lore/f4ee4ef85a314c3399247d194ca17e61"
+      },
       "properties": {},
       "sortOrder": null,
       "to": {
         "key": "5bdad2f073a246758453090d4be1237d",
         "nodeType": "Chapter",
         "stableKey": "Chapter/5bdad2f073a246758453090d4be1237d"
+      }
+    },
+    {
+      "edgeType": "RelevantTo",
+      "from": {
+        "key": "f4ee4ef85a314c3399247d194ca17e61",
+        "nodeType": "Lore",
+        "stableKey": "Lore/f4ee4ef85a314c3399247d194ca17e61"
+      },
+      "properties": {
+        "note": "Chapter 4 now demonstrates measured tactical Mana Tap against an abomination\u2019s binding, contrasted with Rynel\u2019s post-need fixation."
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "9eafcc6ab36445509a11e2e7f6411496",
+        "nodeType": "Chapter",
+        "stableKey": "Chapter/9eafcc6ab36445509a11e2e7f6411496"
+      }
+    },
+    {
+      "edgeType": "RelevantTo",
+      "from": {
+        "key": "f4ee4ef85a314c3399247d194ca17e61",
+        "nodeType": "Lore",
+        "stableKey": "Lore/f4ee4ef85a314c3399247d194ca17e61"
+      },
+      "properties": {
+        "note": "Chapter 9 shows broad sin\u2019dorei combat tapping against Tempest Keep\u2019s spells while preserving spellbreakers\u2019 specialist role."
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "fa6864f3002c4b89a0a0006b2e57ad25",
+        "nodeType": "Chapter",
+        "stableKey": "Chapter/fa6864f3002c4b89a0a0006b2e57ad25"
       }
     },
     {
@@ -10598,7 +10666,7 @@
       "properties": {
         "chapter7Details": "Aboard the Outland-bound ship, Liadrin recognizes Falanaras as one of the wounded soldiers who lied that he could still hold a weapon during Silvermoon\u0027s fall. Falanaras already knows by reputation that she abandoned the Light after believing it had abandoned their people, so he does not question her about the change. During a storm she saves sailors through direct action and tells him that rank becomes vanity when it excuses necessary work. Before the crossing she warns him to judge every claimed necessity by what it asks of the person naming it and, if he rejects a cost, to know what he would allow to die instead.",
         "chapter8Details": "In Outland, Liadrin counsels counting rather than trusting the naga escort (\u0027Nothing in Outland is given. Someone paid.\u0027), tells Falanaras that every ruin was someone\u0027s Quel\u0027Thalas, and warns that being correct about necessity will not make terrible things less terrible. At the war council she receives orders to accompany the breach team because she once served the Light they intend to secure. Her stillness reflects controlled reaction to being sent before a living being of Light rather than guilt about siphoning that has not begun. Afterward she asks whether Falanaras believes M\u0027uru can end the hunger, and he answers with guarded hope.",
-        "chapter9Details": "Liadrin accompanies Astalor\u0027s restraint team through the Tempest Keep assault, fighting beside the pylon haulers and carrying the mission forward whenever soldiers fall. In M\u0027uru\u0027s presence, the former high priestess recognizes an answer she cannot reduce to words. She sees the naaru willingly enter the cage and later tells Falanaras that this makes the act worse, not easier. She refuses false absolution while insisting that Quel\u0027Thalas still hungers and that they must carry both the captive and conscious responsibility for the choice home.",
+        "chapter9Details": "Liadrin accompanies Astalor\u2019s restraint team through the Tempest Keep assault, fighting beside the pylon haulers and carrying the mission forward whenever soldiers fall. In M\u2019uru\u2019s presence, the former high priestess recognizes an answer she cannot reduce to words and sees the naaru willingly enter the cage. When Falanaras names their intent to imprison a living being and take its Light, Liadrin does not hesitate or reopen the operational decision. She invokes her former devotion to acknowledge the act as profanation, names M\u2019uru\u2019s innocence and the sin\u2019dorei lives its power may preserve, and insists they state the wrong plainly while proceeding for their people. She seeks responsibility without absolution.",
         "chapterDetails": "Chapter 1 gives Falanaras a brief glimpse of Liadrin as a high priestess at an inner-gate evacuation point, serving the wounded and still trusting the Light as the kingdom falls. In Chapter 7 he recognizes her aboard the Outland-bound retinue and confronts the gulf between that remembered priestess and the faithless survivor she has become. Chapters 7\u201310 establish Liadrin as one of the principal interpreters of necessity during the Outland mission and M\u2019uru\u2019s return. Chapter 11 completes her transformation into the Blood Knight matriarch: she stands before captive M\u2019uru, repudiates the old priesthood, submits herself as the living vessel for stolen Light, tests the first candidates, warns Falanaras against half-oaths, and presides over the founding oath above M\u2019uru\u2019s prison. Chapter 12 shows her commanding the Blood Knights through their first public battle, enforcing discipline against appetite and panic, deploying shield and strike files against the Dead Scar surge, and framing the victory as proof of usefulness rather than absolution.",
         "description": "A former high priestess of Quel\u2019Thalas who once wielded and served the Light before losing faith after Silvermoon\u2019s fall. During the Scourge invasion, Falanaras briefly sees her at an inner-gate evacuation point, tending the wounded and calling on the Light with desperate conviction before she continues toward the final defense of the Sunwell. Fierce, charismatic, and deeply hardened by trauma, she later becomes the chosen leader and first vessel of the Blood Knights because her old bond to the Light, severity, and willingness to bear pain let the magisters force M\u2019uru\u2019s power through her. Before the first candidates, she rejects reverence for a Light that did not save her people and declares that Quel\u2019Thalas will take from it what survival requires. She leads the new order with ruthless discipline, insisting that its members remember both halves of their truth: the Blood Knights are a weapon that works, and one founded on a captive wound.",
         "muruMissionKnowledge": "Liadrin and Astalor know before the mission that Kael\u2019thas has summoned them to seize a naaru. Liadrin\u2019s former priesthood and old bond to the Light later make her the natural leader and first vessel of the Blood Knights.",
@@ -10783,10 +10851,10 @@
       "label": "Falanaras",
       "nodeType": "Character",
       "properties": {
-        "chapter6Details": "After the records-vault alarm, Falanaras chooses to continue deeper despite recognizing that Rynel is unfit and Theron is wounded. He breaks the control archive\u0027s wards, recovers Deatholme\u0027s command register, and helps fight toward the eastern anchor. At the final choke point, Rynel orders him to carry the register, take Theron and Lethira home, and answer Kael\u0027thas\u0027s summons. Falanaras obeys and survives the anchor\u0027s collapse. He reports Rynel\u0027s uncontrolled feeding and final refusal without softening either, accepts Halduron\u0027s rebuke for continuing the mission, and is promoted to captain as Rynel\u0027s replacement before being assigned to the Outland company.",
+        "chapter6Details": "After the records-vault alarm, Falanaras chooses to continue deeper despite recognizing that Rynel is unfit and Theron is wounded. He breaks the control archive\u2019s wards, recovers Deatholme\u2019s command register, and helps fight toward the eastern anchor. At the final choke point, he witnesses Rynel recover the proper sin\u2019dorei balance: take a bounded measure of hostile magic, stop while more remains, and spend the captured power on the unit\u2019s escape. Rynel orders him to carry the register, take Theron and Lethira home, and answer Kael\u2019thas\u2019s summons. Falanaras obeys, reports both the earlier compulsive overfeeding and the final recovered limit without softening either, and is promoted to captain as Rynel\u2019s replacement.",
         "chapter7Details": "Newly promoted after Rynel\u0027s death, Falanaras sails south aboard a refitted Second War Thalassian destroyer, carrying Rynel\u0027s summons and commanding a small spellbreaker file. He recognizes Liadrin as the priestess from Silvermoon\u0027s inner gate but already knows of her loss of faith and does not interrogate it. He gives his own mana ration to a struggling soldier, helps save the ship during a storm, and observes the eastern continent broaden through Zul\u0027Aman, the plague-marked northern coast, the Hinterlands, Arathi, the southern highlands, Redridge, and the Swamp of Sorrows. After landing in the swamp, the retinue marches through the Blasted Lands and crosses the magically stabilized Dark Portal.",
-        "chapter8Details": "Falanaras crosses into Outland and finds Hellfire\u0027s reception military and unceremonious rather than triumphant. He marches under blood elf escort through Zangarmarsh with naga allies, fights through Blade\u0027s Edge, and reaches the Netherstorm staging grounds, where the familiar-yet-altered sin\u0027dorei court disturbs him more than alienness would have. In the war room he hears Kael\u0027thas explain that M\u0027uru is a naaru, an ancient intelligent being of living Holy Light, and reveal it as the campaign\u0027s true objective. Falanaras responds with urgent hope that M\u0027uru may provide lasting relief from the hunger; his apprehension is practical and spellbreaker-trained, focused on whether such a powerful captive can be restrained, transported safely, and made into a sustainable source. He raises no public religious objection and ends the chapter committed to helping bring the promised answer home.",
-        "chapter9Details": "Falanaras leads his spellbreaker file and Daric\u0027s infantry beside Astalor\u0027s restraint pylons during the assault on Tempest Keep. He suppresses the bridge defenses, helps preserve a failing pylon, and uses a stolen draenei blessing to open the final Light-attuned seal. In M\u0027uru\u0027s shrine, the naaru\u0027s presence briefly quiets his magical hunger without feeding. He sees M\u0027uru deliberately enter the restraint and refrain from breaking it, then escorts the willing captive back to the staging grounds. He joins the army\u0027s cry for Quel\u0027Thalas because the hope of relief remains real, but accepts Liadrin\u0027s demand that they remain awake to whom they have chosen to burden. No siphoning occurs in this chapter.",
+        "chapter8Details": "Falanaras crosses into Outland and finds Hellfire\u2019s reception military and unceremonious rather than triumphant. He marches under blood elf escort through Zangarmarsh with naga allies and fights through Blade\u2019s Edge, where the whole sin\u2019dorei formation uses measured Mana Taps to thin fel attacks while his spellbreakers control the more intricate currents. Falanaras draws usefully in combat, then recognizes danger when he still wants the dead creature\u2019s remaining power after the fight has ended. He reaches the Netherstorm staging grounds, where the familiar-yet-altered sin\u2019dorei court disturbs him more than alienness would have. In the war room he hears Kael\u2019thas explain M\u2019uru and responds with urgent hope tempered by practical questions of restraint, transport, and sustainable use.",
+        "chapter9Details": "Falanaras leads his spellbreaker file and Daric\u2019s infantry beside Astalor\u2019s restraint pylons during the assault on Tempest Keep. Blood elf infantry, haulers, rangers, and magisters routinely take measured currents from hostile spells and blessings, demonstrating the sin\u2019dorei\u2019s broad anti-magic danger, while Falanaras\u2019s specialist training reads, suppresses, redirects, and dismantles the deeper structures. He suppresses the bridge defenses, helps preserve a failing pylon, and uses a stolen draenei blessing to open the final Light-attuned seal. In M\u2019uru\u2019s shrine, the naaru\u2019s presence briefly quiets his hunger without feeding. He sees M\u2019uru deliberately enter the restraint and later tells Liadrin plainly that they mean to imprison a living being and take its Light. He does not question whether they proceed; he accepts her insistence that the wrong be remembered alongside the people it may save. No siphoning from M\u2019uru occurs in this chapter.",
         "chapterDetails": "Chapter 1 establishes his conscription during the Scourge invasion, the destruction of House Dawnspear, the death of his father, and his identity-forming choice to remain in service. Chapter 2 shows him as a spellbreaker trainee living under normalized hunger discipline and sanctioned fel use. Chapter 3 reveals his estranged yet still emotionally raw bond with his brother Caelir and clarifies his ideological position on survival, sin\u2019dorei identity, and the cost of estrangement from the high elves. Chapter 5 places him inside Deatholme beneath Kael\u2019thas\u2019s summons: he recognizes Rynel\u2019s worsening compulsive hunger, intervenes when the captain violently siphons Scourge acolytes and nearly turns on the unit, then chooses to keep the compromised captain moving long enough to secure the mission objective. Chapters 7\u201310 take him through Outland, M\u2019uru\u2019s capture, and the return to Silvermoon. Chapter 11 makes him one of the first Blood Knights: he witnesses M\u2019uru bound beneath Silvermoon, receives Light through Liadrin, chooses the oath without calling it beautiful, and emerges steadied by conviction rather than absolved. Chapter 12 proves the order at Tranquillien: Falanaras rides south with Blood Knights and rangers to intercept an Amani-driven undead surge, fights as a two-handed Blood Knight, covers cut-off Forsaken scouts with a barrier, and helps preserve a shared foothold while retaining the knowledge that the order\u2019s success does not cleanse its foundation.",
         "description": "A blood elf from the minor noble House Dawnspear who begins as a conscripted civilian during the Scourge invasion, later enters full martial service and trains as a spellbreaker. Observant, dutiful, emotionally contained, and morally serious, he survives the fall of Silvermoon largely from the edges of catastrophe and comes to define himself by service to Quel\u2019Thalas. After Outland and M\u2019uru\u2019s capture, he joins the first Blood Knights under Liadrin, carrying stolen Light as duty rather than absolution. In the order\u2019s first field battle at Tranquillien, he fights as an offensive two-handed Blood Knight, uses spellbreaker instincts and forced Light against Scourge workings, and protects a Forsaken withdrawal, accepting that the lives saved and cooperation won must stand beside M\u2019uru\u2019s captivity rather than erase it.",
         "personality": "Observant, dutiful, controlled, proud, grief-hardened, morally serious, capable of sharp defensiveness when Quel\u0027Thalas is judged from a distance.",
@@ -10823,9 +10891,9 @@
       "label": "Captain Rynel Starweaver",
       "nodeType": "Character",
       "properties": {
-        "chapter6Details": "After the vault frenzy exposes visible early Wretched degeneration, Rynel continues to struggle against fixation on nearby magic and requires his companions to limit a measured feed. He repeatedly refuses offered or exposed Scourge power, helps secure the command register, and is impaled during the ambush at the eastern gate. At the primary ward-anchor he uses disciplined spellbreaker technique to redirect the network\u0027s concentrated magic away from himself, holds the barrier open for his soldiers, names Falanaras as the officer who must answer Kael\u0027thas\u0027s summons, and severs the anchor at the cost of his life. His final refusal does not erase his concealment, compulsive feeding, or attack on Falanaras.",
-        "chapterDetails": "Chapter 1 shows him forging survivors into order during the invasion and tacitly anchoring Lethira after Sylvanas\u2019s fall. Chapter 2 expands his role as a trainer and reveals the normalized barracks practice of rating hunger severity under his command; he explicitly teaches that feeding for pleasure and losing the order leads toward becoming dangerous and Wretched. Chapter 3 shows his habit of cutting through emotion with practical discipline even when Caelir\u2019s return destabilizes Falanaras. Chapter 4 foreshadows his decline through secret feeding, prolonged draws, fixation on harvested magic, tremors, failing steps, and refusal to report his own hunger. Chapter 5 has Kael\u2019thas name him in a summons for a secret Outland operation just as his control deteriorates: he admits a hunger rating for the first time, enters Deatholme, compulsively drains Scourge acolytes beyond their active magic, breaks the team\u2019s stealth, visibly resembles an early Wretched, nearly turns on Falanaras, and recovers enough discipline to resume command. During the final withdrawal, badly wounded and visibly nearing Wretched collapse, he returns to the spellbreaker discipline he taught others: he refuses to feed on the anchor\u2019s concentrated magic, redirects it long enough for his soldiers to escape, names Falanaras as his replacement, and severs the anchor at the cost of his life.",
-        "description": "A veteran spellbreaker captain who gathers Falanaras, Theron, and Lethira into a disciplined fighting unit during the fall of Silvermoon. Severe, economical, and frighteningly competent, he becomes Falanaras\u2019s commanding officer and model of post-catastrophe military service, monitoring magical hunger with brisk practicality and insisting that pride never override discipline. Secret compulsive feeding gradually destroys his control and carries him toward Wretched degeneration. In Deatholme he feeds past the point of need, emerging gaunt, hunched, overbright-eyed, and predatory before recovering enough command to continue. Badly wounded during the withdrawal, he refuses to feed on a necromantic ward-anchor, redirects its magic long enough for his soldiers to escape, names Falanaras as his replacement, and severs the anchor at the cost of his life.",
+        "chapter6Details": "After the vault frenzy exposes visible early Wretched degeneration, Rynel continues to struggle against fixation on nearby magic and asks his companions to call every draw and stop him if he cannot stop himself. He uses measured mana taps against hostile magic, helps secure the command register, and is impaled during the ambush at the eastern gate. At the primary ward-anchor he draws a bounded measure to keep his wounded body functioning, closes himself to the greater abundance still available, redirects the remaining network force into the defense, holds the barrier open for his soldiers, names Falanaras as the officer who must answer Kael\u2019thas\u2019s summons, and severs the anchor at the cost of his life. His recovered limit does not erase his concealment, compulsive overfeeding, or attack on Falanaras.",
+        "chapterDetails": "Chapter 1 shows him forging survivors into order during the invasion and tacitly anchoring Lethira after Sylvanas\u2019s fall. Chapter 2 expands his role as a trainer and reveals the normalized barracks practice of rating hunger severity under his command; he explicitly teaches that feeding for pleasure, continuing beyond need, and losing the order leads toward becoming dangerous and Wretched. Chapter 3 shows his habit of cutting through emotion with practical discipline even when Caelir\u2019s return destabilizes Falanaras. Chapter 4 foreshadows his decline through secret feeding, prolonged draws, fixation on harvested magic, tremors, failing steps, and refusal to report his own hunger. Chapter 5 has Kael\u2019thas name him in a summons for a secret Outland operation just as his control deteriorates: he admits a hunger rating for the first time, enters Deatholme, compulsively drains Scourge acolytes beyond their active magic, breaks the team\u2019s stealth, visibly resembles an early Wretched, nearly turns on Falanaras, and recovers enough discipline to resume command. During the final withdrawal, badly wounded and visibly nearing Wretched collapse, he returns to the discipline he taught others: he uses measured combat taps, takes only the amount required from the anchor, stops while more remains, holds the route for his soldiers, names Falanaras as his replacement, and severs the anchor at the cost of his life.",
+        "description": "A veteran spellbreaker captain who gathers Falanaras, Theron, and Lethira into a disciplined fighting unit during the fall of Silvermoon. Severe, economical, and frighteningly competent, he becomes Falanaras\u2019s commanding officer and model of post-catastrophe military service, monitoring magical hunger with brisk practicality and insisting that pride never override discipline. Secret compulsive feeding gradually destroys his control and carries him toward Wretched degeneration. In Deatholme he feeds past tactical and physical need, emerging gaunt, hunched, overbright-eyed, and predatory before recovering enough command to continue. Badly wounded during the withdrawal, he takes a deliberately bounded measure from a necromantic ward-anchor, stops while greater power remains, redirects the rest long enough for his soldiers to escape, names Falanaras as his replacement, and severs the anchor at the cost of his life.",
         "personality": "Severe, exact, disciplined, unsentimental, ferociously competent, sparing but not unfeeling.",
         "role": "blood elf comrade and commanding officer",
         "summary": "A veteran spellbreaker captain and model of post-catastrophe discipline whose secret compulsive feeding carries him toward Wretched degeneration. After losing control in Deatholme and visibly beginning to resemble a Wretched, he recovers enough command to refuse the ward-anchor\u2019s concentrated magic, save his soldiers, name Falanaras as his replacement, and die severing the passage behind them."
@@ -11693,7 +11761,7 @@
       "label": "Rynel holds the ward-anchor",
       "nodeType": "Event",
       "properties": {
-        "description": "At the warded choke point, Rynel is visibly nearing Wretched collapse: gaunt and hunched, eyes overbright, attention repeatedly dragged toward every pulse of concentrated magic. He nevertheless plants himself at the anchor and returns to disciplined spellbreaker technique, catching, disrupting, and redirecting the hostile current. The power provokes the same compulsion that caused his earlier feeding frenzy, but he refuses to draw it into himself. He holds the passage open until Falanaras, Theron, and Lethira cross, then prepares to sever the anchor knowing the backlash and collapse will kill him or leave him to the pursuing dead.",
+        "description": "At the warded choke point, Rynel is visibly nearing Wretched collapse: gaunt and hunched, eyes overbright, attention repeatedly dragged toward every pulse of concentrated magic. He nevertheless returns to disciplined blood elf and spellbreaker practice. He takes a deliberately bounded measure from the ward-anchor to keep his wounded body functioning, stops while much greater power remains, and redirects the rest of the network\u2019s attacks into the Scourge and surrounding stone. Holding the barrier open becomes proof that his recovered agency lies in choosing and keeping the limit, not in abstaining from the sin\u2019dorei\u2019s normal combat use of Mana Tap.",
         "summary": "Visibly nearing Wretched collapse, Rynel holds the ward-anchor through disciplined spellbreaker technique. The concentrated power provokes the compulsion that caused his earlier feeding frenzy, but he refuses to draw it into himself and redirects it long enough for his soldiers to cross."
       }
     },
@@ -12281,6 +12349,7 @@
       "label": "Liadrin\u0027s answer takes deepest root",
       "nodeType": "Event",
       "properties": {
+        "description": "After M\u2019uru willingly enters the cage, Falanaras names the actual wrong: they intend to imprison a living being and take its Light into themselves. Liadrin does not question whether they will proceed. Drawing on her former devotion, she acknowledges the profanation without hesitation and insists that they say it plainly while remembering the soldiers, children, and starving people for whom they commit it. Her creed joins responsibility to action without seeking absolution.",
         "summary": "Falanaras leaves Tempest Keep morally shaken by the rebuke at the shrine, but unable to reject Liadrin\u0027s logic: if even salvation comes stained, then someone must still choose to bear that stain for Quel\u0027Thalas rather than pretend cleaner options remain."
       }
     },
@@ -12337,7 +12406,7 @@
       "label": "Escape from Deatholme",
       "nodeType": "Event",
       "properties": {
-        "description": "Rynel breaks the ward-anchor after the others cross, collapsing the passage between the survivors and the pursuing Scourge. Falanaras, Theron, and Lethira escape Deatholme carrying the recovered intelligence, Rynel\u2019s final command, and the knowledge that a man nearing Wretched collapse still refused one final feed and chose disciplined sacrifice instead.",
+        "description": "Rynel breaks the ward-anchor after the others cross, collapsing the passage between the survivors and the pursuing Scourge. Falanaras, Theron, and Lethira escape Deatholme carrying the recovered intelligence, Rynel\u2019s final command, and the knowledge that even near Wretched collapse he recovered enough discipline to take only what the defense required, stop while more remained, and spend the captured power on their survival.",
         "summary": "Rynel breaks the ward-anchor after the others cross and collapses the passage. The survivors escape knowing that, even near Wretched collapse, he refused one final feed and chose disciplined sacrifice instead."
       }
     },
@@ -13160,7 +13229,8 @@
       "label": "Mana Tap",
       "nodeType": "Lore",
       "properties": {
-        "description": "In this project, mana tap is the recovered and normalized blood elf practice of drawing sustenance from external magical sources such as mana wyrms, fel crystals, and other reservoirs. Controlled use is the main practical means by which the sin\u2019dorei remain functional after the Sunwell\u2019s loss; compulsive overuse can erode judgment and identity and contribute to Wretched degeneration.",
+        "combatDoctrine": "Mana tapping in battle is normal, necessary, and available to trained sin\u2019dorei regardless of profession. Blood elves may tactically drain hostile spells, casters, enchantments, constructs, or other magical reservoirs to weaken an enemy and replenish themselves. The balancing act concerns how much they take and whether they stop; ordinary use is not treated as shameful or forbidden. Spellbreakers remain specialists in identifying, suppressing, redirecting, and stealing complex magic, but Mana Tap itself is a racial faculty rather than a spellbreaker-exclusive technique.",
+        "description": "In this project, Mana Tap is an innate blood elf faculty recovered, taught, and normalized across sin\u2019dorei society after the Sunwell\u2019s loss. By the present era, blood elves of every martial and magical discipline have learned to draw power from external magical sources and active enemy magic. Controlled use sustains ordinary function and gives blood elf forces an unparalleled baseline anti-magic danger regardless of formal training: in battle they routinely weaken spells, casters, enchantments, and magical creatures by taking measured power for themselves. Their discipline is not abstinence. The accepted line is between a purposeful draw and compulsive overindulgence\u2014continuing beyond tactical or physical need, losing judgment, fixating on the source, or surrendering control can erode identity and lead toward Wretched degeneration.",
         "ingestGraphOrigin": "ingest"
       }
     },
