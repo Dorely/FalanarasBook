@@ -1,5 +1,5 @@
 {
-  "contentHash": "fd3fd1d9fb52c53ed77acec7068ffca62362a469da1aaa921a559bf27a08d799",
+  "contentHash": "1947deb6d4eacb98ca241939fb69261fc097f07fd15ac63fe3843f86b0932513",
   "files": [
     {
       "length": 5474,
@@ -37,9 +37,9 @@
       "sha256": "dee88f16029bd49e2c38cb2503243c7dd67f912a4a7301e8439fdeff02902919"
     },
     {
-      "length": 531572,
+      "length": 532162,
       "path": "graph/graph.json",
-      "sha256": "df2ac6116af0817345c31741ddacb4dc79cf3f623a71d2a002fd18ed345bbc1a"
+      "sha256": "96784b106d9e5e00edbeb11b79797d629e547e8e6b862a30149329cf651a4886"
     },
     {
       "length": 20,
@@ -57,9 +57,9 @@
       "sha256": "5ca50259f97f9c97cef05567e4c3197871f1e806bc692e3f12f2cf34d7169fc4"
     },
     {
-      "length": 1745,
+      "length": 2062,
       "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/chapter.json",
-      "sha256": "9c2f85c3c78417a9e7f3e5b063fa55da5491d1444a10f99aceb569481e7c1821"
+      "sha256": "0c857279084bb1c46f2f1f688091c704d3e62830e0d2f1ce622779058f0f0dc6"
     },
     {
       "length": 121,
@@ -227,14 +227,14 @@
       "sha256": "232257fd54797f636a8a345e642435d30e2ef1626a908fc70e2fb67077997bbd"
     },
     {
-      "length": 1541,
+      "length": 1677,
       "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/chapter.json",
-      "sha256": "c41d5b0e869b436f2b720e338ccda9516dd06e6bdd0773452ced098b019fdd0c"
+      "sha256": "275dcd3346f3e1caaabb573c66a81a5b1c29c9017c48075acc07aaaa03421b6f"
     },
     {
-      "length": 121664,
+      "length": 124689,
       "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/manuscript.json",
-      "sha256": "92c86e866a9a3ba407f685e1e216e1b4ce005f5981a576da791df972f442d239"
+      "sha256": "3b8c745e3e6e74402d87c531f26d17c4951d0ba6a262663e006a5e199c5ae0f0"
     },
     {
       "length": 52222,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "1baeb5fdfd8f8f66274cb6c80378e03741401df6e717d40ae6443c8d2742113c",
+  "manifestHash": "01657bab6a42d6c11e4658aa3c64aea21e534a201ca3929c55156ac5dc23de7c",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
