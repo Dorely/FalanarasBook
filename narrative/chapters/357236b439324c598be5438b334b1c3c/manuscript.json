@@ -116,7 +116,7 @@
       "content": [
         {
           "marks": [],
-          "text": "For one dangerous instant the whole length of the sword blazed. Hunger vanished from his body. The old ache behind his ribs, dulled by rationed mana and disciplined habit, disappeared so completely that relief became its own temptation. Beneath that sweetness ran another sensation: a high, broken vibration at the edge of hearing. M\u2019uru\u2019s pain traveled through stone, distance, and Liadrin\u2019s living bond to reach every hand that drew upon the captive.",
+          "text": "For one dangerous instant the whole length of the sword blazed. Hunger vanished from his body. The old ache behind his ribs disappeared so completely that relief became its own temptation. Beneath that sweetness ran another sensation: a high, broken vibration at the edge of hearing. M\u2019uru\u2019s pain traveled through stone and distance along the bond Falanaras had accepted, inseparable from every measure he took.",
           "type": "text"
         }
       ],
@@ -204,7 +204,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin crossed the flagstones with her ranseur resting against one shoulder. Light moved beneath her eyes in faint gold currents, visible within the fel-green. Each training draw passed through her. Each one left a cost. Her hand remained steady around the weapon.",
+          "text": "Liadrin crossed the flagstones with her ranseur resting against one shoulder. Light moved beneath her eyes in faint gold currents, visible within the fel-green. Her bond to M\u2019uru was the oldest and strongest among them. It exacted its price from her alone, as each knight\u2019s bond exacted its own. Her hand remained steady around the weapon.",
           "type": "text"
         }
       ],
@@ -336,7 +336,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou looked tired,\u201D Theron repeated. \u201CI stand by the diagnosis.\u201D",
+          "text": "\u201CYou still look tired,\u201D Theron repeated. \u201CI stand by the diagnosis.\u201D",
           "type": "text"
         }
       ],
@@ -924,7 +924,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Theron rode beside him. A mana crystal rested openly in the soldier\u2019s palm, its blue core dimming as they shared measured breaths of power between them. No one discussed the need. Falanaras passed it back when the tremor left his fingers. Theron tucked it into a belt pouch without looking at him.",
+          "text": "Theron rode beside him. Neither carried mana crystals now. When the tremor entered Falanaras\u2019s fingers, he opened his bond by a measured fraction. Relief moved through him at once, warm and complete, with M\u2019uru\u2019s broken music beneath it. He closed the draw while more remained. Theron watched his hand settle and said nothing until the current was gone.",
           "type": "text"
         }
       ],
@@ -1512,7 +1512,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras crossed through the barrier as Theron opened a narrow seam. The Light entered his sword at the first step. He felt the captive current rush through Liadrin, felt M\u2019uru\u2019s wounded music within it, and gave the power a purpose before appetite could name one for him.",
+          "text": "Falanaras crossed through the barrier as Theron opened a narrow seam. The Light entered his sword at the first step. He felt the captive current rush along his bond, felt M\u2019uru\u2019s wounded music within it, and gave the power a purpose before appetite could name one for him.",
           "type": "text"
         }
       ],
@@ -2106,7 +2106,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CIf the pressure here continues, no.\u201D Serenya pointed toward a stand of white-barked trees beyond her trapped scouts. \u201CThere is a command focus in the hollow. Bone frame, green crystal. Give us twenty breaths under cover and we can expose it.\u201D",
+          "text": "\u201CNo. The hollow behind them commands the eastern flank. If they run now, the whole line follows.\u201D Serenya pointed toward a stand of white-barked trees beyond her trapped scouts. \u201CGive us twenty breaths under cover. My scouts will expose the focus. When it breaks, we withdraw through the confusion.\u201D",
           "type": "text"
         }
       ],
@@ -2128,7 +2128,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Serenya met her eyes. Rain ran across dead skin and gathered at her jaw without drawing a blink. \u201CThen you lose twenty breaths and six Forsaken. If I am right, the whole host loses its spine.\u201D",
+          "text": "\u201CAnd if you are wrong?\u201D Lethira asked.",
           "type": "text"
         }
       ],
@@ -2150,7 +2150,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Serenya met her eyes. Rain ran across dead skin and gathered at her jaw without drawing a blink. \u201CThen you lose thirty breaths and six Forsaken. If I am right, the whole host loses its spine.\u201D",
+          "text": "Serenya met her eyes. Rain ran across dead skin and gathered at her jaw without drawing a blink. \u201CThen you lose twenty breaths and six Forsaken. If I am right, the whole host loses its spine.\u201D",
           "type": "text"
         }
       ],
@@ -2194,28 +2194,6 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThirty,\u201D she said. She turned to Falanaras. \u201CCan you cover them?\u201D",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "93625b2333544a668b3010c153bd648b",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
           "text": "\u201CTwenty,\u201D she said. She turned to Falanaras. \u201CCan you cover them?\u201D",
           "type": "text"
         }
@@ -2223,7 +2201,7 @@
       "decorative": false,
       "figurePresentation": null,
       "headingLevel": null,
-      "id": "166dabc71fd6496f8fbf9d8542d218a5",
+      "id": "93625b2333544a668b3010c153bd648b",
       "imageId": null,
       "language": null,
       "pageCompositionId": null,
@@ -2348,7 +2326,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The first death bolt struck and spread green fire across the surface. The ward held.",
+          "text": "The first death bolt struck and spread green fire across the surface. The shield held.",
           "type": "text"
         }
       ],
@@ -2414,7 +2392,7 @@
       "content": [
         {
           "marks": [],
-          "text": "At eight breaths, a skeleton reached the ward\u2019s end. Daric met it with his shoulder and smashed it against a tree.",
+          "text": "At eight breaths, a skeleton reached the shield\u2019s end. Daric met it with his shoulder and smashed it against a tree.",
           "type": "text"
         }
       ],
@@ -2458,7 +2436,7 @@
       "content": [
         {
           "marks": [],
-          "text": "At fifteen, the ward bowed so deeply that Falanaras saw the nearest death bolt through a handspan of red-gold fire. The Light waited beyond the limit he had chosen. He could feel its abundance. He could also feel Liadrin somewhere behind him, carrying the order\u2019s combined demand through her body.",
+          "text": "At fifteen, the ward bowed so deeply that Falanaras saw the nearest death bolt through a handspan of red-gold fire. The Light waited beyond the limit he had chosen. He could feel its abundance at the far end of his own bond. Around him, the other Blood Knights carried separate currents from the same captive source, each responsible for the measure drawn through their own body.",
           "type": "text"
         }
       ],
@@ -3024,7 +3002,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras leaned against the wall beside them. His arms felt hollow after the sustained ward. A half-spent mana crystal rested under his tongue, sharp with artificial sweetness. He watched a Forsaken scout splint a ranger\u2019s ankle while the ranger pretended to study the smoke.",
+          "text": "Falanaras leaned against the wall beside them. His arms felt hollow after the sustained ward. The ache of magical hunger had returned with exhaustion, and relief waited one deliberate reach away along his bond. He drew only enough to still the tremor, closed the current, and tasted M\u2019uru\u2019s pain behind the rain-smoke bitterness in his mouth. He watched a Forsaken scout splint a ranger\u2019s ankle while the ranger pretended to study the smoke.",
           "type": "text"
         }
       ],
@@ -3046,7 +3024,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CUseful,\u201D Theron said.",
+          "text": "\u201CWe would have buried twice as many without the order,\u201D Theron said.",
           "type": "text"
         }
       ],
@@ -3068,7 +3046,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras knew he meant the order. The shields, the healing, the way stolen Light had torn through creatures that had cost them blood for years. The word held no triumph, only the hard satisfaction of a soldier whose line had survived.",
+          "text": "Falanaras knew what he meant: the shields, the healing, the way stolen Light had torn through creatures that had cost them blood for years. The judgment held no triumph, only the hard accounting of a soldier whose line had survived.",
           "type": "text"
         }
       ],
@@ -3134,7 +3112,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Near the fractured runestone, Serenya gathered her scouts. Two could still walk without help. One had lost an arm below the elbow and bound the stump with a strip torn from her own cloak. None accepted healing when Liadrin offered. Whether pride, distrust, or the Light itself restrained them, Falanaras could not tell.",
+          "text": "Near the fractured runestone, Serenya gathered her scouts. Two could still walk without help. One had lost an arm below the elbow and bound the stump with a strip torn from her own cloak. Liadrin ordered a recovery knight to offer healing once. The words came hard, as though forced through clenched teeth. When every Forsaken refused, relief crossed her face before she mastered it. She understood what they were. Her body still answered them as Scourge.",
           "type": "text"
         }
       ],
@@ -3266,7 +3244,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin joined them at the boundary. \u201CThere will be another incursion.\u201D",
+          "text": "Liadrin joined them at the boundary and stopped beyond easy reach. Her grip tightened on the ranseur. Red-gold Light kindled along its blade before she extinguished it, a reflex too swift to disguise. \u201CThere will be another incursion.\u201D",
           "type": "text"
         }
       ],
@@ -3310,7 +3288,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThen send warning to this line. We will answer if we can.\u201D Liadrin\u2019s voice remained formal. It offered no alliance and asked for no trust. \u201CToday proved the method.\u201D",
+          "text": "\u201CThen send warning to this line,\u201D Liadrin said. Each word came clipped by an anger battle had not spent. \u201CIf the Scourge cross it, we will answer. Do not mistake that for welcome.\u201D Her gaze stayed on Serenya\u2019s dead face. \u201CToday proved the method.\u201D",
           "type": "text"
         }
       ],
@@ -3354,7 +3332,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin accepted that without defense.",
+          "text": "Liadrin\u2019s jaw tightened. She offered no defense and no acknowledgment. Acceptance would have been too generous a name for her silence.",
           "type": "text"
         }
       ],
@@ -3464,7 +3442,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI was going to ask whether you needed the last of Theron\u2019s crystal.\u201D",
+          "text": "\u201CI was going to ask whether you intended to keep pretending your hands were steady.\u201D",
           "type": "text"
         }
       ],
@@ -3486,7 +3464,7 @@
       "content": [
         {
           "marks": [],
-          "text": "She glanced at his hands. They had begun to tremble again now that battle discipline was loosening. \u201CYou need it more.\u201D",
+          "text": "She glanced at his hands. The magical tremor had eased, but the muscles still shook from strain now that battle discipline was loosening. \u201CSit down before you fall down.\u201D",
           "type": "text"
         }
       ],
@@ -3680,6 +3658,6 @@
     }
   ],
   "manuscriptId": "357236b4-3932-4c59-8be5-438b334b1c3c",
-  "revision": 15,
+  "revision": 21,
   "schemaVersion": 4
 }
