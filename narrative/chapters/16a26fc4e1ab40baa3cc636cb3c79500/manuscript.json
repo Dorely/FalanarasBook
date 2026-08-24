@@ -2172,7 +2172,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras went last on the fourth day. Astalor said his earlier exposure should make the binding easier. Falanaras distrusted the word should from any magister standing beside restraints.",
+          "text": "Falanaras went last on the fourth day. Astalor said his earlier exposure should make the binding easier. Falanaras distrusted the word from any magister standing beside restraints.",
           "type": "text"
         }
       ],
@@ -3718,6 +3718,6 @@
     }
   ],
   "manuscriptId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
-  "revision": 5,
+  "revision": 6,
   "schemaVersion": 4
 }
