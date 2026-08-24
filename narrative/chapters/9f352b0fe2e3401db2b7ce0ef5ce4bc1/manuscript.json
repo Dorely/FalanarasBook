@@ -1254,7 +1254,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Lethira drew her hood up. \u201CThat is usually the inconvenient part.\u201D",
+          "text": "Lethira drew her hood up. \u201CThat is usually the goal.\u201D",
           "type": "text"
         }
       ],
@@ -2034,7 +2034,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Voren\u2019thal wrote that Illidan had ordered a strike against Shattrath, fearing the naaru power gathered there. Kael\u2019thas gave the assault to the blood elves. Voren\u2019thal accepted command and led his followers across Outland toward a city they knew only as another objective.",
+          "text": "Illidan ordered an assault upon Shattrath, fearing the naaru power gathered there. Kael\u2019thas entrusted the attack to me. I accepted command and led our people across Outland toward a city we knew only as another objective.",
           "type": "text"
         }
       ],
@@ -2047,7 +2047,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "body",
+      "styleRole": "block-quote",
       "type": "paragraph"
     },
     {
@@ -2166,7 +2166,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The letter described Voren\u2019thal\u2019s return to Kael\u2019thas. He had entered the prince\u2019s war chamber without ceremony and spoken of the vision before officers who had survived Dalaran, Northrend, and the long campaigns across Outland. He urged Kael\u2019thas to abandon the attack on Shattrath, seek the naaru there, and consider that salvation might require surrendering power rather than acquiring more of it.",
+          "text": "I returned to His Highness and entered his war chamber without ceremony. Before officers who had survived Dalaran, Northrend, and the long campaigns across Outland, I told him what I had seen. I urged him to abandon the assault, seek the naaru of Shattrath, and consider that salvation might require us to surrender power rather than acquire more.",
           "type": "text"
         }
       ],
@@ -2179,7 +2179,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "body",
+      "styleRole": "block-quote",
       "type": "paragraph"
     },
     {
@@ -2254,7 +2254,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Voren\u2019thal and those who believed him left the Sunfury ranks. They approached Shattrath prepared to die before reaching its walls. Instead, they laid down their weapons before A\u2019dal and were received. The Scryers became servants and uneasy guests in a city they had marched to conquer.",
+          "text": "Those who believed me left the Sunfury ranks with me. We approached Shattrath prepared to die before reaching its walls. Instead, we laid down our weapons before A\u2019dal and were received. We became the Scryers: servants and uneasy guests in the city we had marched to conquer.",
           "type": "text"
         }
       ],
@@ -2267,7 +2267,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "body",
+      "styleRole": "block-quote",
       "type": "paragraph"
     },
     {
@@ -2276,7 +2276,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Their defection did not turn Kael\u2019thas back. According to the letter, it drove him toward a harsher answer.",
+          "text": "Our departure did not turn His Highness back. I fear it drove him toward a harsher answer.",
           "type": "text"
         }
       ],
@@ -2289,7 +2289,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "body",
+      "styleRole": "block-quote",
       "type": "paragraph"
     },
     {
@@ -2298,7 +2298,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The prince broke with Illidan\u2019s command. Sunfury forces seized the remaining wings of Tempest Keep, expelled or killed garrisons that would not answer to Kael\u2019thas alone, and turned Netherstorm\u2019s engines against former allies. Supply posts vanished into the prince\u2019s private war. Orders began carrying seals unknown to Voren\u2019thal and instructions routed through demonic intermediaries.",
+          "text": "After we left, I learned that Kael\u2019thas had broken with Illidan\u2019s command. Sunfury forces seized the remaining wings of Tempest Keep, expelling or killing garrisons that would not answer to the prince alone, and turned Netherstorm\u2019s engines against former allies. Supply posts vanished into his private war. Orders began carrying seals unknown to me and instructions routed through demonic intermediaries.",
           "type": "text"
         }
       ],
@@ -2311,7 +2311,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "body",
+      "styleRole": "block-quote",
       "type": "paragraph"
     },
     {
@@ -3910,6 +3910,6 @@
     }
   ],
   "manuscriptId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
-  "revision": 3,
+  "revision": 5,
   "schemaVersion": 4
 }
