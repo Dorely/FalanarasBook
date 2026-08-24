@@ -1,5 +1,5 @@
 {
-  "contentHash": "52ca21a8e19a75263d25af1109279b8c11b95014a7158075e2846aa4ca1c8e53",
+  "contentHash": "ea7856f5b109e9b895bf70a0cb82cca527c128812a5b2d425bce314b3d6f6ddb",
   "files": [
     {
       "length": 5474,
@@ -99,12 +99,12 @@
     {
       "length": 1778,
       "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/chapter.json",
-      "sha256": "013f17f8c086cd5a7b56d47f0f2ff7856332bc44df1dd8cbb75f99be0de293ae"
+      "sha256": "b1dfc2c7f3bbd4955b10c73d8cd0a32b1f7457bc85947753b90cada87c777f29"
     },
     {
-      "length": 116373,
+      "length": 115860,
       "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/manuscript.json",
-      "sha256": "6c46147b0cf1ec93ed770516af6d6ca77725648ac780aa075645abddb5057932"
+      "sha256": "57da26bab575fc02bf564d9987451ffb6009ba11e093f42702ecc8beb2ff2daf"
     },
     {
       "length": 1507,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "a6062d585c888f0238b6fbe1dcd5dbfaab0a9eefbb1d0eff547ed724bf3a42e0",
+  "manifestHash": "3a63bcc68ec99f35799f64f04d5cb73725944dc4be5e4b5c9ea53575d328b7a9",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1

@@ -204,28 +204,6 @@
       "content": [
         {
           "marks": [],
-          "text": "They still Mana Tapped as every sin\u2019dorei soldier had learned to do. During drills, they stripped force from warded weapons, took measured threads from hostile exercises, and spent that power on movement or defense. The bond to M\u2019uru had added another weapon. It had not made the old one shameful.",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "e1c2379e36af454cb6e4e5b888e11f84",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
           "text": "Daric attacked again. This time Falanaras opened the bond as the veteran\u2019s shoulder turned. Light reached him with a pressure beneath the breastbone and the remembered echo of a distant cry. He drove the thought aside without denying it. His sword met Daric\u2019s practice blade in a burst of radiance, slid past, and stopped against the edge of Daric\u2019s gorget.",
           "type": "text"
         }
@@ -358,7 +336,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CGood.\u201D Her answer held no gentleness. \u201CForgetting would make you dangerous.\u201D",
+          "text": "\u201CGood.\u201D Her answer held no gentleness. \u201CForgetting would be dangerous.\u201D",
           "type": "text"
         }
       ],
@@ -490,7 +468,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The western gate opened before Theron could answer. Two Farstriders entered at speed, followed by a dark ranger in weather-stained black. The training court quieted by degrees. Bows lowered. Practice wards dimmed. Falanaras recognized Serenya Duskrunner before she pulled back her hood.",
+          "text": "The western gate opened before Theron could answer. Two Farstriders entered at speed, dust streaking their boots and cloaks. The training court quieted by degrees. Bows lowered. Practice wards dimmed. The lead ranger crossed directly to Liadrin.",
           "type": "text"
         }
       ],
@@ -512,7 +490,7 @@
       "content": [
         {
           "marks": [],
-          "text": "She had changed little since the ruined way station. Undeath preserved some faces with cruel precision. Her skin remained ash-pale, her eyes a cold red, and the black-fletched arrows at her shoulder might have belonged to the ranger Lethira had once known if the hands beneath them had carried warmth.",
+          "text": "\u201CRanger-General\u2019s orders,\u201D he said. \u201CReport to the southern ward-post. A Forsaken scout brought warning from the Ghostlands. The sentries halted her beyond the city wards.\u201D",
           "type": "text"
         }
       ],
@@ -534,7 +512,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Lethira was already on her feet.",
+          "text": "Lethira was already on her feet. \u201CSerenya.\u201D",
           "type": "text"
         }
       ],
@@ -556,7 +534,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Serenya\u2019s gaze touched her and moved on. \u201CLady Liadrin. Captain Dawnspear. Tranquillien will be under attack before nightfall.\u201D",
+          "text": "The ranger nodded. \u201CDuskrunner. She says Tranquillien will be under attack before nightfall.\u201D",
           "type": "text"
         }
       ],
@@ -594,7 +572,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Ranger-General Halduron arrived while Serenya was pinning a mud-stained map to the practice table. He brought no honor guard, only three officers and the expression of a man already spending soldiers he did not possess.",
+          "text": "Serenya Duskrunner was waiting outside the southern ward-line when Liadrin\u2019s company arrived. The inspection post stood beyond Silvermoon\u2019s outer defenses, close enough for the city\u2019s spires to rise behind its timber roof but beyond the threshold its sentries had forbidden her to cross. Ranger-General Halduron had come by another road with three officers and the expression of a man already spending soldiers he did not possess. Serenya was pinning a mud-stained map to the practice table beneath the post\u2019s awning. Undeath had preserved her face with cruel precision: ash-pale skin, cold red eyes, and the features of the ranger Lethira had once known if the hands braced against the map had carried warmth.",
           "type": "text"
         }
       ],
@@ -3542,6 +3520,6 @@
     }
   ],
   "manuscriptId": "357236b4-3932-4c59-8be5-438b334b1c3c",
-  "revision": 4,
+  "revision": 8,
   "schemaVersion": 4
 }
