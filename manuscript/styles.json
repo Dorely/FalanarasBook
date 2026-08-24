@@ -1,3 +1,27 @@
 {
-  "styles": []
+  "styles": [
+    {
+      "definition": {
+        "firstLineIndentEm": 0,
+        "fontFamilyKey": null,
+        "fontSizePoints": null,
+        "fontWeight": null,
+        "italic": null,
+        "keepWithNext": null,
+        "leftIndentEm": 1.25,
+        "lineHeight": null,
+        "rightIndentEm": 1.25,
+        "smallCaps": null,
+        "spaceAfterPoints": 5,
+        "spaceBeforePoints": 5,
+        "startOnNewPage": null,
+        "textAlign": "left"
+      },
+      "id": "af5cd1ea-5385-4185-ab3a-ba7c2e6d0d21",
+      "kind": "paragraph",
+      "name": "Inset Quotation",
+      "revision": 1,
+      "semanticRole": "inset-quotation"
+    }
+  ]
 }

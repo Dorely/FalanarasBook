@@ -1,5 +1,5 @@
 {
-  "contentHash": "bebe99c2a89d101d8927153a1a3cbb438769cad35b5623b214f5c76a137ea1c8",
+  "contentHash": "ba6071cb666c7f8d4bc9be495ab861e0dd0fb15491a577b9a9ab695ab6f20b76",
   "files": [
     {
       "length": 5474,
@@ -42,9 +42,9 @@
       "sha256": "7f86a09420e04e147401fe69b33b59bcb678e10765f1284be4835a8e05b65088"
     },
     {
-      "length": 20,
+      "length": 679,
       "path": "manuscript/styles.json",
-      "sha256": "73f7cae289922cd90f69d000cf35323c3e4d222c9f80dc180aefb6c8978d13d4"
+      "sha256": "0fbe4f0ad43d2c7435b41a9d2de431ea2ef54b90eecdac7019d7f7a8c7e64834"
     },
     {
       "length": 1368,
@@ -189,12 +189,12 @@
     {
       "length": 1559,
       "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/chapter.json",
-      "sha256": "bbceb2a3ce8942535c6a0b115577f3fe2f2505c74e7bb07b49bebf35e3f4ad42"
+      "sha256": "1f8f054ac7725e073e1c3bffb4828f296d31b667865e650e91f2a95798ccfa67"
     },
     {
-      "length": 123190,
+      "length": 123255,
       "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/manuscript.json",
-      "sha256": "0823233b23889bd6db05f46d9d2270ea7c88f970268de55d7373bbbd3a9eaa01"
+      "sha256": "319000a8fb7968b6f02655ece21cf187ab011d6162b1d57bf533d4907a94ea9f"
     },
     {
       "length": 970,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "4ca8128eed9ffebd93d0384930700bf3e1c2fb21b27a48ce380ec59b7b5b6c9b",
+  "manifestHash": "d21420d17b5ec18f7cd1d10d24cce46379084d8bb59162437b89a20dcdab75d6",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
