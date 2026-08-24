@@ -622,7 +622,7 @@
       "content": [
         {
           "marks": [],
-          "text": "He thought of Edric in the Ghostlands, breath measured behind a lifted shield. Falanaras raised his empty hand. The stolen Light answered in a red-gold flare that spread over his forearm and opened into a narrow shield of radiance. It lasted a single breath before breaking into sparks.",
+          "text": "He thought of Edric in the Ghostlands, breath measured behind a lifted shield. Falanaras raised his empty hand. The stolen Light answered in a red-gold flare that spread over his forearm and opened into a narrow flare of radiance. It lasted a single breath before breaking into sparks.",
           "type": "text"
         }
       ],
@@ -1144,7 +1144,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras remembered Edric\u2019s revulsion in the Ghostlands and the shield of radiance that had answered his own hand moments ago. The power itself had felt pure. Its path into him had been an injury done to someone else.",
+          "text": "Falanaras remembered Edric\u2019s revulsion in the Ghostlands and the flare of radiance that had answered his own hand moments ago. The power itself had felt pure. Its path into him had been an injury done to someone else.",
           "type": "text"
         }
       ],
@@ -3524,7 +3524,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras wanted to deny it. Instead he remembered the receiving ring, the instant of perfect relief, and how readily he had raised a radiant shield from another being\u2019s pain.",
+          "text": "Falanaras wanted to deny it. Instead he remembered the receiving ring, the instant of perfect relief, and how readily he had raised a radiant flare from another being\u2019s pain.",
           "type": "text"
         }
       ],
@@ -3850,6 +3850,6 @@
     }
   ],
   "manuscriptId": "fc66ca5b-b899-45c5-aab7-5a376c932615",
-  "revision": 22,
+  "revision": 24,
   "schemaVersion": 4
 }

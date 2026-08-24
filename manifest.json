@@ -1,5 +1,5 @@
 {
-  "contentHash": "94f7fe4ca70d9499226ad7cc5caa8feb522f7fbd5a5eabfa9419e2ee07d39a91",
+  "contentHash": "de51062b501ef6ab938b4caaba4bee53f887cf1670e965c7c3ab17e99a0fbd64",
   "files": [
     {
       "length": 5474,
@@ -37,9 +37,9 @@
       "sha256": "dee88f16029bd49e2c38cb2503243c7dd67f912a4a7301e8439fdeff02902919"
     },
     {
-      "length": 532418,
+      "length": 538646,
       "path": "graph/graph.json",
-      "sha256": "c6a40e54dc575ecc2252351edd1e65b88f6b8d1eb0f6717c3e0bb61880c1aed6"
+      "sha256": "98c60d00761410be9c22e36fa9c217334aea2b6eedfcd921c9f21db3b54f92ba"
     },
     {
       "length": 20,
@@ -59,12 +59,12 @@
     {
       "length": 2062,
       "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/chapter.json",
-      "sha256": "0c857279084bb1c46f2f1f688091c704d3e62830e0d2f1ce622779058f0f0dc6"
+      "sha256": "1009d84a07b1cb14d8978841defe765c08d32f590b95d1d6809745b8edfc4efa"
     },
     {
-      "length": 121,
+      "length": 118905,
       "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/manuscript.json",
-      "sha256": "b4cb375ab16b62d16ed7128cdbe31906c608907bb9f771487fa09ec5880c2fac"
+      "sha256": "3833e90a2a61e282004b90bf94bbb481833784678d80e57cee99917041fc26c2"
     },
     {
       "length": 1545,
@@ -229,12 +229,12 @@
     {
       "length": 1677,
       "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/chapter.json",
-      "sha256": "1d793368fcdceface3b1cb75455627655b639938f5cf5118c34ddb310fb74857"
+      "sha256": "e7c820ab4a75b09c0818c4f021212c8a346ef5c6f9c974d46b9e30ed21e0bd7e"
     },
     {
-      "length": 124925,
+      "length": 124922,
       "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/manuscript.json",
-      "sha256": "92f33e6815ba0859adf0bde570bebf17fcd58975782138a8a3d48a01e3960a0b"
+      "sha256": "05ffd01973df0f87ed45d08fd898e8e9cb8ca96e4b2372baebc2d142a2ac8f43"
     },
     {
       "length": 52222,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "71fcad8b5f28e60628a2bd652a3a28a6be184e164c3d7a3804d3940bc5f08ce9",
+  "manifestHash": "a6ad568d8129db1819b3bb4db8a928077335cbf195f93a5d9c060b72f9179cff",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1

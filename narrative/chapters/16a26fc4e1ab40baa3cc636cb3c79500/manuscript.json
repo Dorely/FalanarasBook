@@ -1,6 +1,3723 @@
 {
-  "content": [],
+  "content": [
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "For six days, Silvermoon tried to teach stone how to carry salvation.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6fd6e4a4772046259ca4dcc75eca2e99",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The first wardstone held M\u2019uru\u2019s radiance for eleven minutes. The second cracked along an old flaw and filled the testing chamber with a warm gold mist that soothed everyone\u2019s hunger until the magisters vented it into the vault. A third remained bright through the night, then surrendered all its stored power when an orderly touched it with an ungloved hand.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7ee27400bad442018a25854bb6b9741f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Healing foci fared better. One closed a laborer\u2019s burned palm before its internal lattice spoiled. Another sent a pulse through two floors of the lower complex and briefly relieved every blood elf standing above it, including three guards who had not been told what the experiment was meant to do. By the time the result reached the nearest infirmary, the power had thinned into little more than warmth.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "641168f9821747fcb21f64ac04f80307",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras spent those days carrying reports between the vault, the barracks, and Rommath\u2019s clerks. It was work suited to a captain trusted with the secret and useless to anyone who wanted sleep. Each morning the maps showed new red routes into the city. Each evening half of them had been crossed out.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "754782efdc8246f9ba71df31b76cdb3e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The seventh attempt reached farther than the rest.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5e0c76b21c5746deb6583b5553f699c7",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor had joined three silver conduits around a receiving vessel the size of a wine cask. From there, a buried line ran beneath Farstriders\u2019 Square toward a small clinic serving reconstruction crews and the families housed near the eastern wall. Forty-three people waited inside under the pretense of a ward inspection. Two healers stood ready with ledgers and no explanation for their patients.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5c7d392181a34a2eaf8a051136d03df2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras watched from the upper gallery as the magisters opened the draw.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e7643bd37b1246d98de42ea62b177c60",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "M\u2019uru brightened inside the cage. Crimson force-chains tightened around its drifting sigils, and the chamber filled with the high, fractured cry Falanaras had first heard in Netherstorm. Light poured into the receiving vessel. The cask shuddered against its braces. Along the wall, crystal indicators woke in sequence\u2014one, two, three, then all the way to the clinic relay.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f5a90caef4b0491aabc82be18a0c1935",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "A cheer rose from the western station.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "68691b3ed0ac4e549921fe46c616fa43",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "It ended when the fourth indicator burst.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c2b13e395ade4f8baabc209bf3514644",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The conduit screamed beneath the floor. A seam of red-gold light raced back toward the vault, scorching mortar black as it came. Selorien threw both hands over the western relay and twisted the flow into an empty wardstone. Astalor severed the main channel an instant later. The vessel split down its middle and spilled radiance across the tiles.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "eed50cdf2131433399daa5c61637ad55",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras felt the ache behind his ribs vanish. Around him, magisters stopped with mouths open and hands slack. The relief lasted three breaths. Then the loose Light fled into the walls, and hunger returned with the intimate cruelty of a door shutting in one\u2019s face.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fa80d41f6c014d7fac22a3485acb784d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Below, M\u2019uru dimmed and recovered. Astalor looked first at the naaru, then at the broken vessel, and finally at Selorien\u2019s shaking left hand.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0ced5cdab88943aabd6db47261527a0f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CDamage?\u201D Astalor asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "de241e91c2cc4c2b8096b0027e670ced",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe clinic received enough to ease twelve patients,\u201D Selorien said. \u201CThree reported nausea. One lost consciousness for several seconds. No lasting harm yet.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5a0c96128fd049aa8fc2707bf2bb482f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe conduit?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "87f9cef4f7564249a44f39bd9aee31c4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CRuined.\u201D Selorien opened his burned hand and regarded it without drama. \u201CAs is the receiving vessel.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bfefb03a33884fff937ac736e8251a30",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rommath descended from the gallery. His robes passed through the fading radiance without stirring it. Lor\u2019themar followed at a slower pace, his good eye moving over the split cask, the scorched wall, and the captive at the chamber\u2019s center.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0c1194c4a0f44079bcc65dae33567f1d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CCan it be corrected?\u201D the regent asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bfbd169f22df49afa98fcb28faa48564",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor nudged a fragment of silver casing with his boot. \u201CEventually. The current resists interruption, divides poorly, and degrades when held outside a living system. These are engineering constraints, not verdicts.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0e577cac0c97415597ea0774368e5542",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CHow long?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0c59467ab0984f1f9b907f3eb752ece2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CLonger than the people waiting at ration halls would prefer.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1f704493364049708a5142263958cffa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lor\u2019themar\u2019s expression hardened. \u201CThey have waited through every promise we have made them. Continue.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "901d45d4577b44d7912cd312cb45b8bb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201COf course.\u201D Astalor glanced toward Liadrin. She had stood beside M\u2019uru throughout the failed draw, close enough for its radiance to sharpen the edges of her armor. \u201CIn parallel, we have a method that already works.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "59a0315d1f134aac9d968661009cd4e5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin met his gaze. \u201CFor moments.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9b9619edd7e146ffa919493ce4a380f2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CBecause we treated the recipient as a cup.\u201D Astalor looked at the broken cask. \u201CA cup empties. A conduit leaks. A living vessel can adapt.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d8a5434c55394c388e3a70079998ea7e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras remembered the Light fading from his hand before they reached Silvermoon. \u201CYou mean to leave the channel open.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bdf4acebff32420fabca952555a48a70",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor\u2019s eyes brightened. \u201CGoverned, replenishing, and narrow enough that neither source nor vessel fails. The first tests asked whether M\u2019uru\u2019s power could be transferred. The answer was yes. The problem, therefore, was subjugation.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1206940e840345649e1bf5a38c0ae444",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The word settled across the chamber with greater weight than the broken equipment.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5168ea7e09cb4c2398e082818642ca55",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rommath turned toward the upper galleries, where clerks and junior magisters watched from behind the rail. \u201CYou have all heard gentler names for what keeps this city alive. Rationing. Adaptation. Necessary practice. Those names have their uses. They do not alter the act.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "86a26c8906d7435b815142058d5ca14c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "No one moved. Even the ward-crystals seemed quieter around his voice.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6b176a76cf784da2a653ee48f80c837d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CQuel\u2019Thalas does not owe the world a beautiful extinction,\u201D Rommath said. \u201CWe will build the public channels. We will fill infirmaries and ration halls if it takes every magister in Silvermoon. While that work continues, we will use the method that succeeds. Survival first. Structure second. Interpretation after.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b1388a3e6d3240f5be224350412a9d1b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lor\u2019themar studied M\u2019uru. \u201CAnd who bears this successful method?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2032cbff5f9344d99e82ad721fdbcff8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin stepped forward before Astalor could answer. \u201CI do.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0abf2704955f48749cfdc29c396f41be",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9b9aa46fcbd040dc843be40e31494895",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "sceneBreak"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor rebuilt the receiving apparatus around a living heart.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "769f8f0b63bf4aea8545d4a98cc972a0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "He set four pylons around M\u2019uru\u2019s cage and joined them to a silver platform outside the inner restraint circle. Each pylon carried two controls: one governing the draw from M\u2019uru, the other limiting what could reach the recipient. A fifth line ran from the platform back into the cage. Selorien called it a return path. Astalor called it insurance.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fd4985b2ed1f4739b1ff8e96a9a82ec6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They worked through the night. By morning, a dozen soldiers and former temple guards waited in the gallery. Falanaras stood among them with Theron, Daric, and Captain Althene Starwind. None had been promised a place. They had been ordered to observe the first sustained binding and decide afterward whether they wished to submit themselves for testing.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e8f7caa32e8d4f928107cdb9d5befcdd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira watched from farther back, arms folded over her ranger leathers. Her presence had required three signatures and an argument with a vault officer. She had acquired all four.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2dbdb185ec6c44498ad1532fd2dd44b8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin entered wearing plain crimson plate, stripped of insignia. She carried no priest\u2019s staff and offered no prayer. When she stepped onto the platform, M\u2019uru\u2019s sigils turned toward her with the slow attention of something that had been waiting.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "098940bc8f6d4770b9f4a33a3f26ed1e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras remembered her at Silvermoon\u2019s inner gate, white and blue vestments stained with blood, calling on the Light as wounded civilians screamed around her. That woman had believed service made the power holy. The woman below had survived the answer to that belief.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "85b0243380f54ef4a2090c11b348a096",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rommath took position beside the northern pylon. Astalor stood at the controls. Selorien remained near Liadrin with one hand hovering over the emergency severance rune.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "85594b4c4eb94fefa952bb98fb1fd6ac",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201COnce begun, the binding may resist interruption,\u201D Astalor said. \u201CPain is expected. Disorientation is expected. If you lose speech, raise your left hand. If you cannot raise it, Magister Dawnmark will end the draw.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d744fe2666514d03804959393bfff6c1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIf he ends it too early?\u201D Liadrin asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "10cca17706d142668c026a0a13c35663",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWe learn less.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "089620e9697048d6bf70a52fc686ff32",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThen he will wait for my signal.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e5c161a7bbe24d6fa461f18238b757ef",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Selorien\u2019s mouth tightened. \u201CThat is one word for it.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "eab1e56966194798b668040472e4d98c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor opened the first control.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "52aee5bf0f424d8c970066894a1979fc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The force-chains pulled inward. M\u2019uru\u2019s song broke across the chamber, a bright harmony crushed into shrieking fragments. Light struck the pylons and became four narrow streams. They met above Liadrin, circled once, and descended through her armor without touching the metal.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a46160ae178146319a38f42abfe918ba",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Her back arched. Both hands closed into fists. Radiance spilled between the plates at her throat and wrists, too fierce to look at directly. The platform\u2019s runes flared white, then red-gold as the restraint current bled into the transfer.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f562a312c9d141a08f0e54bf0c594708",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras knew the relief inside that agony. His brief test in Netherstorm had cleared the hunger so completely that its absence had frightened him. Liadrin received many times that measure now. Her face held the stillness of someone enduring a blade without granting it the satisfaction of movement.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "581ee1856592417889433646d5813b79",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIncrease by one division,\u201D Astalor said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6752e46030b94012ac703c517167c822",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Selorien looked at Liadrin. She gave the smallest nod.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "4b93664faff84c2fb6cd0c8245d8821a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The second surge drove her to one knee. A sound escaped her then, low and furious. M\u2019uru answered with another glass-edged cry. For one terrible instant Falanaras could not tell whether the pain in the chamber belonged to captive or vessel. The apparatus had joined them closely enough that the distinction ceased to offer comfort.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "020299e3a7124529b3863ed72f911a0b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin raised her head.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9d73f345f99b4f4db79990bd7d0359fe",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Golden fire gathered around her empty hand. It tightened at her command, becoming a dense sphere no larger than an apple. She turned her wrist. The sphere unfolded into a radiant shield, held for three breaths, then collapsed into sparks that vanished before reaching the floor.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "be60772abe124b8d8c23e29eec44b618",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor watched the gauges. \u201CPromising.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8ff5d9e845d24a6eba6a5c60026210d1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CStop the draw,\u201D Lor\u2019themar said from the shadow beneath the gallery.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "50e1b9fb88c044dcb43ba4716b3dfea0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras had not seen him enter. The regent stood without escort or ceremonial dress, one hand resting on the pommel of his sword. He had chosen the darkest part of the chamber and still refused the protection of absence.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c1d2739739b841ec828e14e221577064",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin lifted her left hand. \u201CContinue.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "06ab96110f1d47e08ec79cdb07568a9d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou have proved the transfer,\u201D Lor\u2019themar said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e05d047a89c94c1196cea9beece67e21",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI have proved I can survive it. Those are different results.\u201D Liadrin forced herself upright. \u201CIf others are to bear this, I will know the full weight first.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "cbaa23f18fee407ba04339b6a1d2d072",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lor\u2019themar\u2019s jaw tightened. He did not countermand her.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ae295bbe02324840b503b40e52e21976",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The binding continued until sweat ran beneath Liadrin\u2019s gorget and blood marked one nostril. Astalor narrowed the channel twice, widened it once, and finally closed the source while the platform still held steady. M\u2019uru\u2019s song softened. Liadrin remained standing.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fb8185b1a74846a6b7c799e05d831cf9",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "When the apparatus fell silent, the radiance around her did not disappear.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e8ab933b4f7d496793b228e60d905f2f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "It diminished to a red-gold seam beneath her skin, visible at the eyes and along the hand she opened toward M\u2019uru. The Light answered. A small flame rose above her palm and held there, fed through a channel no instrument now touched.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "224d5ac6f1ec41fd83fa78122f8f5066",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor studied the unchanged baseline on M\u2019uru\u2019s gauges. \u201CStable.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ca4bf3f733964a0aabbde28f860b2fbc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Selorien wrapped his burned hand around the edge of the console. \u201CAt cost.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ccc36f01faa848d0b9fdd977fcc9fca1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CEvery stable system has one,\u201D Astalor replied.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "52fdf9e1994a4dd397e9901fcb468d2e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin extinguished the flame and faced the gallery. Fatigue had hollowed her cheeks, yet her voice carried to every waiting candidate.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "dae9e54aa370401f97564c00eee04684",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe Light did not save us,\u201D she said. \u201CIt did not keep Arthas from our gates. It did not preserve the Sunwell, our children, or the dead we still speak to when sleep is poor. I served it faithfully, and faith did not make our suffering meaningful.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c34d2b30cdec462fa528479c7f01324e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Her gaze moved across soldiers, rangers, former temple guards, and Falanaras.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "4f1685f10b6a401f8d7f24faf40c8931",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIf the Light will not save Quel\u2019Thalas by grace, the sin\u2019dorei will take from it what is needed and save ourselves. Do not mistake that declaration for innocence. M\u2019uru suffers beneath us. Our enemies will call us profane, and some among our own people will agree. Remember the source. Remember the purpose. Then decide whether you can serve under both truths.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d7e57ca5def14ada8d7ed0da13fb5fb6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "She stepped down from the platform. No one cheered.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "cd1e572e64b541c68e9a461ff94c9921",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Daric was the first to descend from the gallery.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "06a3f72ba3344d8aa4f56e2fe5d42069",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWhere do I stand?\u201D he asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "380d457686e44411b0bc69e5bf053c16",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ab65022c0ac149ffa728a934a88a832c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "sceneBreak"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The trials lasted nine days.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "cf0fff0d68ef47b7a931f7cd70729964",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Twenty-one candidates entered the lower complex. Seven failed the first transfer. Two lost consciousness before the bond could settle. One former priest broke into sobbing when M\u2019uru\u2019s voice entered his mind and could not be persuaded to return. Three soldiers accepted the power easily and then reached for more after Liadrin ordered them to stop. She dismissed them before Astalor finished recording their names.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3b362c3ea89f41579ccbced1f315fb5d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CCapacity without restraint is another form of weakness,\u201D she told the remaining candidates. \u201CYou know this from mana tapping. The Light does not excuse appetite. It gives appetite a sharper weapon.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9c76f9e0286647269e3d7c5f1542ff0c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Daric endured his transfer with clenched teeth and a stare fixed on the cage. When the bond settled, he produced a flare of force that cracked a practice shield and nearly knocked its bearer into the wall. Liadrin made him repeat the exercise until he could move the shield without bruising the soldier behind it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e56750519e2c4954a23abb40f5717ab5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Althene approached the Light as she approached a narrow trail: testing each step, wasting nothing. Her first healing attempt sealed a cut on Selorien\u2019s forearm so precisely that Astalor asked whether she had served in a temple. She told him rangers learned to keep people alive where temples were unavailable.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "dca1cbf90e204e71a0cd2ea1281793f5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron\u2019s bond resisted for almost a minute. He stood inside Liadrin\u2019s transfer circle with his shield planted before him, sweat darkening his collar as the stolen radiance broke around his armor. Then the current found him. A curved wall of gold rose from the shield\u2019s rim and held against three magisters\u2019 practice bolts.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "4b2f0ce566534dc58346276423c1a284",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "When it ended, he looked at Liadrin and said, \u201CUseful.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0d6eb6a7bea64f2594e9b75a5dd2ac42",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "She almost smiled. \u201CA ringing endorsement.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "18ef765e6c1544eab614b77ead1ef6dd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin inclined her head toward the practice floor. \u201CSet the shield down. The next test is harder.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "35baefb1d35f4f7bae9c1af06cb4229b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "A candidate named Caerith lay on a cot beside the practice floor. The bond had rejected him that morning, leaving burns across his chest where the transfer current had sought paths his body could not hold. He was conscious, though each breath caught before completion. Two healers had salved the burns and steadied his heart. The remaining damage lay too deep for their exhausted reserves.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8abc8806b870478182034d6159000b98",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron crouched beside him. \u201CYou want me to heal this?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6f25b26dded849ccac84701d36745b01",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI want you to find out whether you can,\u201D Liadrin said. \u201CA wall is useful until someone falls behind it.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "753d648f29e94f43a202306191a6ee7f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron removed one gauntlet and placed his palm over Caerith\u2019s sternum. His first attempt produced a flash that made the injured elf flinch. Theron withdrew at once. He tried again with less force. The Light gathered around his fingers in an uneven glow, entered the burns, and spread beneath the skin. Caerith\u2019s next breath reached the bottom of his lungs.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c9ec79f2c31d4d4389fc1931dde49da4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "M\u2019uru cried below the working. Theron\u2019s shoulders stiffened. He kept his hand in place until the healer touched his wrist and said the heart had steadied, then severed the call immediately. The glow died. Caerith slept.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c020fd0c13a747f1a33ee85d3a832531",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CStill useful?\u201D Falanaras asked when Theron joined him along the gallery rail.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a2cd347ddf0a4d7d9e54dc969fbbde58",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron watched the healers carry Caerith toward recovery. \u201CMore than I wanted it to be.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "453cb640bcfd49cfb6b07275eea608c5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Beyond the dividing wall, the public-distribution team opened another receiving vessel. Its indicators rose, held, and failed one by one. Selorien crossed between the two experiments with fresh figures for Astalor: the living bonds retained nearly all the power they received, while the latest storage crystal had lost two-thirds of its charge in under an hour. Rommath ordered both teams to continue.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6058f0c1fea146c893fe86555af04247",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The disparity changed the candidates\u2019 posture. They had arrived expecting to become soldiers with an unfamiliar weapon. By the third evening, healers from two clinics had begun observing the trials, and Astalor spoke of trained recipients carrying stable charges to places the conduits could not yet reach. No one called that an answer for the city. It was a bridge built from living bodies while the safer work lagged behind.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7010003c88684249babee1d24f54acbb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron flexed his bare hand. \u201CRynel would have hated the ceremony.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9f69fd796ba44dc3b18e1c135e3ee80c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CHe would have corrected everyone\u2019s stance during it.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8799e9655fdc4a83a353d3affeed41bb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CAnd used the power.\u201D Theron looked down at the faint radiance answering beneath his skin. \u201CIf someone had put it in his hands before Deatholme, he might have lived. If we put it in ours now, someone else might.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f1e2df7455484607a152ba3eca90a7b5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "It was the closest Theron came to explaining his choice. Falanaras understood. Theron had always built conviction from the person immediately behind his shield.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8f56fc6e7ddb4f17a9eb4ef3cd1ddc74",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras went last on the fourth day. Astalor said his earlier exposure should make the binding easier. Falanaras distrusted the word should from any magister standing beside restraints.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7e71d5471223490aa7e2bc2660cb83bb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin faced him inside the circle. The ongoing bond had altered her in small ways. Her eyes held a gold ember beneath their fel-green glow. Fine tremors passed through her fingers after every transfer. She hid neither.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e3d3ae8007154df0bcfb96240d331f25",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou remember the first test,\u201D she said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0bbe8d64c75d41d79877ec15f5610ae9",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CEvery moment.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d53d25a23c1a4f07b0623eaf6b01710e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThat will work against you. You will anticipate relief and pull toward it. Do not reach. Receive.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "304f82bf2e804f08ba937d0cf9810962",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor opened the channel through her.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "678e62ef4fc94213974e5a9908555407",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "M\u2019uru\u2019s pain came first. The cry passed through Liadrin and entered Falanaras behind the eyes, immense and intimate. Then the Light followed. It drove through muscle, scar, and memory, finding every absence the Sunwell had left in him. Hunger vanished. Grief remained. For a heartbeat he mistook the distinction for mercy.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c540dda590b74c739b6929ddb26a12fd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "He wanted more. The desire rose with the old speed, wearing a holier face. Rynel at the ward-anchor returned to him: take the measure, choose the limit, decide what strength is for.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "00e90724ed554519876afe4e21833c51",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras opened his hand instead of closing it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1791d0ba82704ddf8c72b7515976d26b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The current settled. A bond remained behind it, narrow and bright, running through Liadrin toward the captive presence at the city\u2019s heart. He could feel the Light waiting there. It no longer filled him without end. It answered when he called, and every answer carried the faint echo of broken music.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a36a434c3d22400f9e8549b492d4d4a0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CNow give it purpose,\u201D Liadrin said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e8ae79f1702f418c8e638ceb0d80eaaf",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "A practice target stood at the far edge of the chamber, armored in wards meant to imitate Scourge resistance. Falanaras drew his glaive and let his spellbreaker senses enter the bond. The target\u2019s protections showed themselves as layered currents. He found the weakest crossing, fed the stolen Light through it, and struck.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c73c249b398547aa95b543ff0ac76dfb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Red-gold radiance ran down the crescent blade. The first impact stripped the outer ward. The second split the target from shoulder to hip and left the cut edges smoking.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "32d33419f87e44959c4da4d2083efa30",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Astalor looked from the ruined target to his gauges. \u201CPromising.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "93d5c5bf9a084d89bc357beb722b9734",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou used that word for Lady Liadrin,\u201D Selorien said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3319a1553fad4a58bc9e873034fad18d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIt remains accurate.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9680776e75ce4f76ac20d8c1daa5967f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Later, while healers checked the burning behind Falanaras\u2019s eyes, Liadrin sat beside him on the lowest gallery step. The chamber had emptied except for guards and the tireless magisters working on another public-distribution vessel beyond the wall.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "900bf67d433d4ef58d688a876cc8f3b0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou stopped,\u201D she said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3a60daee3cac4a94830ed7f5589c3cf2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CRynel taught me the lesson late.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "88e0cd9ce10a4df1be504d7af6d42225",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CLate lessons still count.\u201D She flexed one trembling hand. \u201CYou are trying to decide whether accepting the power makes you responsible for every cry below us.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6863d985c19844c6a8f642ee8f3acb9b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CDoesn\u2019t it?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b63d0fecb2504e8cb4abd4d366d84efe",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYes.\u201D Liadrin gave him no pause in which to hope for comfort. \u201CIt also makes you responsible for what you do with the power. Refusing one burden does not remove the other. It only chooses which lives receive your loyalty.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fa42e85ed05a41e38f43a2b5e9bc7e8b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou make it sound simple.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "66651236bd0b4751aad3af25cd136bfa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIt is unbearable. That is different.\u201D Her gaze shifted toward M\u2019uru. \u201CIf you join what we are building, do not offer half an oath. Do not serve while imagining your private reluctance keeps your hands untouched. Know exactly what we are, and remain in service anyway.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ad07c36fd68846efbb982f1202d93989",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras looked through the bars of the restraint field. M\u2019uru\u2019s sigils drifted in their patient revolutions. The naaru had entered Astalor\u2019s cage willingly in Tempest Keep. It remained now beneath a city that had learned to call captivity a system.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e32023eabf4242c2a529f58d4ef8d482",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI will decide before the oath,\u201D he said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f43bd002a03443a8b1e931c7f0937133",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin rose. \u201CSee that you do.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "557a53e4f5d24210828113cd9cc9fc1a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f150f77d16e54ad0b08a6920c5de1cac",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "sceneBreak"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They told Lethira on the western terrace where she had welcomed Falanaras home.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "52ba97f08d2546b5ab78d0b98f55a71f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The city below had grown accustomed to new rumors. Citizens spoke of a sealed reliquary under Farstriders\u2019 Square, a weapon from Outland, a restored fragment of the Sunwell, or a private source reserved for the ruling houses. The official notices mentioned improved ward research and asked for patience at ration stations.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "26c4f589101f4ce283b8f254b1d18513",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira sat on the parapet with one boot braced against the stone. \u201CYou both have the expression people wear before volunteering for something unpleasant.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a1761901b7f1433ca41379c3433d4d58",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron leaned his shield against the wall. A faint gold line remained around its rim from the morning\u2019s exercises. \u201CWe are joining Liadrin\u2019s order.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8e21a184d90f42999468e26fafe90b05",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIt has an order now?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bada7ff3fd8d41a6901cc670a23d1bc9",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CBy tomorrow,\u201D Falanaras said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "92ad3fb643d24c2d995e2381a8ab1b76",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira\u2019s eyes moved between them. \u201CWhat does it require?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "dafbf2fb6f6f494b92b90701cb659c57",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron answered first. \u201CDiscipline. Training. A willingness to be hated by anyone who learns where the power comes from.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "83d452626da140e1b2809ec0dc302b2a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CSo military service with brighter uniforms.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6a6a7e83c56044438e5a25cc363b0048",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron considered. \u201CThe uniforms are darker.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "162cc53cf9b6478db5e03b56c7a07d9e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "She looked at Falanaras. The humor eased from her face. \u201CAnd you?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "d2106855969040c387b1083a4d4bb3ed",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI have spent years learning to take hostile magic and decide what it becomes in my hands. This is harder because the source is innocent.\u201D He rested both palms on the terrace rail. \u201CIt works. I can protect people with it. I can kill the things that still cross the Dead Scar. I cannot make M\u2019uru\u2019s captivity righteous.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "dcabd43a15234927a076da3ae0c40986",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThat was almost recognizable,\u201D Lethira said quietly.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6111da4b6edd49c8a476571e04a43917",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI intend to become one of them.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "99da5beaec9349e5beef92af4b057bb3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "She nodded once, accepting the statement without blessing it. Then she tapped the bow at her shoulder.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5680a06205f44ece97af372035fc5b6e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CNo thanks. I\u2019ll stick to my bow.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "17d0daa60e11494aa4ab8aed011aa22e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron lifted one eyebrow. \u201CWe had assumed.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "645789f6be8d49da93cdc51ac12dd332",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CGood. I would hate to think the Light had damaged your judgment.\u201D Lethira stood and offered each of them a forearm. \u201CTry not to become insufferable before your first deployment.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "59e4eef4084c4d0e812f8d5b0a6799ed",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras clasped her arm. The three of them remained on the terrace until the ward-lamps came alive below. Their paths had diverged before and would again. For that evening, the differences still fit inside the reach of their hands.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b17f2885e0f2461fb00847ced5db0212",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b8d8dd9a8b354f9c836e30f6ea3c89bd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "sceneBreak"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The founding took place beneath Farstriders\u2019 Square before dawn.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "cdfe316dd22048a8a935a6907ab46344",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Fourteen candidates remained. They wore black tabards edged in crimson over whatever armor had carried them through the trials. The cloth was new, the equipment beneath it scarred and mismatched. Daric stood near the front. Althene had tied her ranger\u2019s braid back with a strip of black ribbon. Theron rested both hands on his shield. Falanaras carried his glaive upright beside him.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2dd076c04890414d95e52a62466dbe06",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The magisters had opened the aperture above M\u2019uru\u2019s vault. Light rose through it in a broad red-gold column, colored by the restraints it passed. The candidates formed two lines around the opening. No altar stood between them and the captive. Liadrin had refused one.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fa893c19683d4f159435f6c3ec89ef79",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Rommath and Astalor waited at the chamber\u2019s edge. Selorien stood with the access ledger. Lor\u2019themar occupied the same shadowed place from which he had witnessed Liadrin\u2019s binding. He spoke to no one and claimed no ceremonial role. His presence denied every official above him the excuse of believing the decision belonged to lesser hands.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "28dc8ace2ae74c6b9e2abae52c773dae",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin entered in black and crimson plate. A new ranseur rested in her hand, its blade dark red along the edge. The Light moved beneath her skin in faint pulses synchronized with the radiance rising from below.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7f055f5c88b6462488a3c65b7d737e75",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "She took her place at the head of the aperture.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "35dac09ecf0e43949d9c24e52f431bfa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe old orders were founded in devotion,\u201D she said. \u201CTheir knights served the Light and trusted that service to answer them. We stand here because trust failed, because our kingdom burned, and because survival demanded power that would answer discipline.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7861b0055db74439998363a7622fcd08",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "She lowered the ranseur until its point hovered above the column.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "446cf2c64bb345178beec0d4d54353d5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWe carry the blood of those Quel\u2019Thalas lost and the blood we will spend in its defense. We wield a captive Light. We will neither disguise its source nor surrender its strength. From this hour, we are Blood Knights.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "934b1d6a69a34726b7ddecd942eba43f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The name entered the chamber without applause. Falanaras felt it settle onto him with the weight of armor issued before a battle.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5a82a64654d6490d8c9a65308035986e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin planted the ranseur\u2019s butt against the floor. \u201CKneel.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1db03362bdd246b6ac719056c3e7ec3b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Fourteen candidates knelt around M\u2019uru\u2019s rising radiance.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "841a864c00904e9aa27566793d5625b5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWhom do you serve?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8abcabd7e2fe467fb82f4b72be55ace6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CQuel\u2019Thalas,\u201D they answered.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b1d10e6594404a43aeb7622434f20d06",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWhat do you bear?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b200e1ea4b5f496c84a21169b62362f3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe strength our people require. The cost by which it came.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2f778d8f73874915b87b7437e106b5ca",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWhat governs your hand?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "31e7ea42e4f44b889d673b1949da7edd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CDiscipline. Duty. Remembrance.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7d088af088ac4ceaa7d376bafb96d35c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin\u2019s gaze moved down the line. \u201CRise, Blood Knights.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c436e6800998452684ecad90c091b5e7",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras stood beside Theron. The bond opened at the motion, and stolen Light entered him in a controlled current. It eased the hunger, strengthened the hand around his glaive, and carried M\u2019uru\u2019s distant cry through the chamber. Pride rose with it\u2014fierce, unwelcome, and his own.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7cd7a8a32d16416797bbe31452ad1039",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "He had chosen this. The order would defend roads, close wounds, break the undead, and give soldiers strength no enemy expected from a people already dangerous to magic. Those truths deserved their full measure. So did the being held below them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "384175179be444fab58e95cbd847f1c3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "No absolution came. Falanaras had ceased waiting for it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "cd6bd1586538491d9b5828089f94bcd1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Above them, Silvermoon woke beneath crimson banners and ward-lamps, its clinics still waiting for conduits that could carry relief without failing. Below, M\u2019uru remained in chains. Between city and captive stood the first Blood Knights, carrying power enough to save lives and knowledge enough to understand the wound beneath it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1d27efca8dc041d09594579194be8946",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    }
+  ],
   "manuscriptId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
-  "revision": 2,
+  "revision": 5,
   "schemaVersion": 4
 }
