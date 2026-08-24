@@ -1,5 +1,5 @@
 {
-  "contentHash": "ea7856f5b109e9b895bf70a0cb82cca527c128812a5b2d425bce314b3d6f6ddb",
+  "contentHash": "cbfaf9a2102fa113302003ec18ff07b26d5413f0db96e4091a829b9cee4f40d5",
   "files": [
     {
       "length": 5474,
@@ -37,9 +37,9 @@
       "sha256": "dee88f16029bd49e2c38cb2503243c7dd67f912a4a7301e8439fdeff02902919"
     },
     {
-      "length": 542727,
+      "length": 542838,
       "path": "graph/graph.json",
-      "sha256": "4be8af1bed6aeed184a7883bdf7c9996e79a3ae51cb67d42372db9e86c49c20a"
+      "sha256": "ee0999f1034d8c22afb0c3d64d1cf2700f056ba7073901cb88cd8e8f27598422"
     },
     {
       "length": 20,
@@ -67,9 +67,9 @@
       "sha256": "5673a95a35b93f97465881f448a1f0074e58ffb40e355e34ec3e0ff13e391c25"
     },
     {
-      "length": 1545,
+      "length": 1699,
       "path": "narrative/chapters/27f5c381f1d142c4a269c6901211ec82/chapter.json",
-      "sha256": "422de820cf5aacb6f45ee6f671e412d6d6a935e81388884f3ab2a2ef79300dae"
+      "sha256": "68d1bf6bf1d6445af2c971067dd2c6199a3e82cbde8c291e19b63b97235f9e82"
     },
     {
       "length": 121,
@@ -97,14 +97,14 @@
       "sha256": "ba2e542aab6fb6a8416768ec8d6096fcc0b1b0abfa053b8ce8b7e139c6e82bb6"
     },
     {
-      "length": 1778,
+      "length": 1830,
       "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/chapter.json",
-      "sha256": "b1dfc2c7f3bbd4955b10c73d8cd0a32b1f7457bc85947753b90cada87c777f29"
+      "sha256": "4ba7aecd9103e955681735f0ba6439bc8d4ace0d8e5d136a630148f2e7bb6629"
     },
     {
-      "length": 115860,
+      "length": 117005,
       "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/manuscript.json",
-      "sha256": "57da26bab575fc02bf564d9987451ffb6009ba11e093f42702ecc8beb2ff2daf"
+      "sha256": "42d6f450ba315b883979a322af0a9283c93492e3a06960dca25316a990882f94"
     },
     {
       "length": 1507,
@@ -147,9 +147,9 @@
       "sha256": "d3c78909b8e581d4f9577734ba646368a997cac85d08dedee36057f4720e6dff"
     },
     {
-      "length": 1918,
+      "length": 2076,
       "path": "narrative/chapters/66a7504a60a04dfa94dedf4ea37c5abf/chapter.json",
-      "sha256": "86145c76cb1a065472665ed373c64ebd158648532325a77500bb96482349fe5e"
+      "sha256": "76a4142a5954369a03301155f8cda45af6790f8a4f782ed877e693e7265f5da3"
     },
     {
       "length": 121,
@@ -237,9 +237,9 @@
       "sha256": "05ffd01973df0f87ed45d08fd898e8e9cb8ca96e4b2372baebc2d142a2ac8f43"
     },
     {
-      "length": 52484,
+      "length": 53647,
       "path": "narrative/narrative.json",
-      "sha256": "98c3100509748a587e9bb92a4332f4cf03e94487a56ea5cadef7d320174b07e5"
+      "sha256": "4e4bc389173442583ca4fbebf7f0d2d61bc4418e81f5d767184b756d4761bfb9"
     },
     {
       "length": 2405,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "3a63bcc68ec99f35799f64f04d5cb73725944dc4be5e4b5c9ea53575d328b7a9",
+  "manifestHash": "c05f8d1044ab6bba40eb381298f60b553ab9098c179412063c4da6a90881864b",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1

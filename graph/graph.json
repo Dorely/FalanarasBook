@@ -173,6 +173,21 @@
         "stableKey": "Chapter/27f5c381f1d142c4a269c6901211ec82"
       },
       "properties": {},
+      "sortOrder": 1,
+      "to": {
+        "key": "0c1a25ddb97243e69fa10a4bb878ec07",
+        "nodeType": "Event",
+        "stableKey": "Event/0c1a25ddb97243e69fa10a4bb878ec07"
+      }
+    },
+    {
+      "edgeType": "HasChild",
+      "from": {
+        "key": "27f5c381f1d142c4a269c6901211ec82",
+        "nodeType": "Chapter",
+        "stableKey": "Chapter/27f5c381f1d142c4a269c6901211ec82"
+      },
+      "properties": {},
       "sortOrder": 2,
       "to": {
         "key": "18073ac6a0c64355899d35fd8c13a744",
@@ -193,21 +208,6 @@
         "key": "4f58f881c3f5430fa8600bf519fcdb3c",
         "nodeType": "Event",
         "stableKey": "Event/4f58f881c3f5430fa8600bf519fcdb3c"
-      }
-    },
-    {
-      "edgeType": "HasChild",
-      "from": {
-        "key": "27f5c381f1d142c4a269c6901211ec82",
-        "nodeType": "Chapter",
-        "stableKey": "Chapter/27f5c381f1d142c4a269c6901211ec82"
-      },
-      "properties": {},
-      "sortOrder": 0,
-      "to": {
-        "key": "b3cbbaf555e44f4aaab57cf82d24ff23",
-        "nodeType": "Event",
-        "stableKey": "Event/b3cbbaf555e44f4aaab57cf82d24ff23"
       }
     },
     {
@@ -428,6 +428,36 @@
         "stableKey": "Chapter/357236b439324c598be5438b334b1c3c"
       },
       "properties": {},
+      "sortOrder": 2,
+      "to": {
+        "key": "291556677a16451081866115b96bebab",
+        "nodeType": "Event",
+        "stableKey": "Event/291556677a16451081866115b96bebab"
+      }
+    },
+    {
+      "edgeType": "HasChild",
+      "from": {
+        "key": "357236b439324c598be5438b334b1c3c",
+        "nodeType": "Chapter",
+        "stableKey": "Chapter/357236b439324c598be5438b334b1c3c"
+      },
+      "properties": {},
+      "sortOrder": 3,
+      "to": {
+        "key": "3e6285eb261049e2953dad648667002e",
+        "nodeType": "Event",
+        "stableKey": "Event/3e6285eb261049e2953dad648667002e"
+      }
+    },
+    {
+      "edgeType": "HasChild",
+      "from": {
+        "key": "357236b439324c598be5438b334b1c3c",
+        "nodeType": "Chapter",
+        "stableKey": "Chapter/357236b439324c598be5438b334b1c3c"
+      },
+      "properties": {},
       "sortOrder": 0,
       "to": {
         "key": "45ec9788ec1b482ba68c4e96270200df",
@@ -443,41 +473,11 @@
         "stableKey": "Chapter/357236b439324c598be5438b334b1c3c"
       },
       "properties": {},
-      "sortOrder": 1,
-      "to": {
-        "key": "4e2ff90d8ab4422eafff59cb4d8d03b4",
-        "nodeType": "Event",
-        "stableKey": "Event/4e2ff90d8ab4422eafff59cb4d8d03b4"
-      }
-    },
-    {
-      "edgeType": "HasChild",
-      "from": {
-        "key": "357236b439324c598be5438b334b1c3c",
-        "nodeType": "Chapter",
-        "stableKey": "Chapter/357236b439324c598be5438b334b1c3c"
-      },
-      "properties": {},
-      "sortOrder": 2,
-      "to": {
-        "key": "7260a4a68ff840128ed15053cc039c1c",
-        "nodeType": "Event",
-        "stableKey": "Event/7260a4a68ff840128ed15053cc039c1c"
-      }
-    },
-    {
-      "edgeType": "HasChild",
-      "from": {
-        "key": "357236b439324c598be5438b334b1c3c",
-        "nodeType": "Chapter",
-        "stableKey": "Chapter/357236b439324c598be5438b334b1c3c"
-      },
-      "properties": {},
       "sortOrder": 4,
       "to": {
-        "key": "c4d3bd9ca4564c7d825db2eb9137a94c",
+        "key": "6ddf6c5f4de74b2e935fd8cba3029f38",
         "nodeType": "Event",
-        "stableKey": "Event/c4d3bd9ca4564c7d825db2eb9137a94c"
+        "stableKey": "Event/6ddf6c5f4de74b2e935fd8cba3029f38"
       }
     },
     {
@@ -488,11 +488,11 @@
         "stableKey": "Chapter/357236b439324c598be5438b334b1c3c"
       },
       "properties": {},
-      "sortOrder": 3,
+      "sortOrder": 1,
       "to": {
-        "key": "ca85bbe531804f7f96e15f4631d03a80",
+        "key": "caabc82d3aaa4f1383fa927cc612b237",
         "nodeType": "Event",
-        "stableKey": "Event/ca85bbe531804f7f96e15f4631d03a80"
+        "stableKey": "Event/caabc82d3aaa4f1383fa927cc612b237"
       }
     },
     {
@@ -863,11 +863,11 @@
         "stableKey": "Chapter/66a7504a60a04dfa94dedf4ea37c5abf"
       },
       "properties": {},
-      "sortOrder": 0,
+      "sortOrder": 4,
       "to": {
-        "key": "21005210b6db4d259af8db6941c8e153",
+        "key": "46ea68580d0045eeb1c5cf5fac85d657",
         "nodeType": "Event",
-        "stableKey": "Event/21005210b6db4d259af8db6941c8e153"
+        "stableKey": "Event/46ea68580d0045eeb1c5cf5fac85d657"
       }
     },
     {
@@ -878,11 +878,11 @@
         "stableKey": "Chapter/66a7504a60a04dfa94dedf4ea37c5abf"
       },
       "properties": {},
-      "sortOrder": 4,
+      "sortOrder": 0,
       "to": {
-        "key": "46ea68580d0045eeb1c5cf5fac85d657",
+        "key": "652a22e77da1453bb3c13f477a9da6ae",
         "nodeType": "Event",
-        "stableKey": "Event/46ea68580d0045eeb1c5cf5fac85d657"
+        "stableKey": "Event/652a22e77da1453bb3c13f477a9da6ae"
       }
     },
     {
@@ -1721,12 +1721,14 @@
         "nodeType": "Character",
         "stableKey": "Character/06e06ce7cb774be0a2322ab19cd4c126"
       },
-      "properties": {},
+      "properties": {
+        "role": "accepts Serenya\u2019s field judgment and coordinates the flank"
+      },
       "sortOrder": null,
       "to": {
-        "key": "703b6adda89f4aec9233a6b38a9710cf",
+        "key": "6ddf6c5f4de74b2e935fd8cba3029f38",
         "nodeType": "Event",
-        "stableKey": "Event/703b6adda89f4aec9233a6b38a9710cf"
+        "stableKey": "Event/6ddf6c5f4de74b2e935fd8cba3029f38"
       }
     },
     {
@@ -1739,9 +1741,9 @@
       "properties": {},
       "sortOrder": null,
       "to": {
-        "key": "7260a4a68ff840128ed15053cc039c1c",
+        "key": "703b6adda89f4aec9233a6b38a9710cf",
         "nodeType": "Event",
-        "stableKey": "Event/7260a4a68ff840128ed15053cc039c1c"
+        "stableKey": "Event/703b6adda89f4aec9233a6b38a9710cf"
       }
     },
     {
@@ -1772,21 +1774,6 @@
         "key": "ca06d948ea65421ebb5f24eb6e4b33e6",
         "nodeType": "Event",
         "stableKey": "Event/ca06d948ea65421ebb5f24eb6e4b33e6"
-      }
-    },
-    {
-      "edgeType": "AppearsIn",
-      "from": {
-        "key": "06e06ce7cb774be0a2322ab19cd4c126",
-        "nodeType": "Character",
-        "stableKey": "Character/06e06ce7cb774be0a2322ab19cd4c126"
-      },
-      "properties": {},
-      "sortOrder": null,
-      "to": {
-        "key": "ca85bbe531804f7f96e15f4631d03a80",
-        "nodeType": "Event",
-        "stableKey": "Event/ca85bbe531804f7f96e15f4631d03a80"
       }
     },
     {
@@ -3089,6 +3076,23 @@
         "nodeType": "Character",
         "stableKey": "Character/4757143402944683af9223d88fc2f065"
       },
+      "properties": {
+        "role": "strike-file commander"
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "3e6285eb261049e2953dad648667002e",
+        "nodeType": "Event",
+        "stableKey": "Event/3e6285eb261049e2953dad648667002e"
+      }
+    },
+    {
+      "edgeType": "AppearsIn",
+      "from": {
+        "key": "4757143402944683af9223d88fc2f065",
+        "nodeType": "Character",
+        "stableKey": "Character/4757143402944683af9223d88fc2f065"
+      },
       "properties": {},
       "sortOrder": null,
       "to": {
@@ -3259,39 +3263,9 @@
       "properties": {},
       "sortOrder": null,
       "to": {
-        "key": "c4d3bd9ca4564c7d825db2eb9137a94c",
-        "nodeType": "Event",
-        "stableKey": "Event/c4d3bd9ca4564c7d825db2eb9137a94c"
-      }
-    },
-    {
-      "edgeType": "AppearsIn",
-      "from": {
-        "key": "4757143402944683af9223d88fc2f065",
-        "nodeType": "Character",
-        "stableKey": "Character/4757143402944683af9223d88fc2f065"
-      },
-      "properties": {},
-      "sortOrder": null,
-      "to": {
         "key": "ca06d948ea65421ebb5f24eb6e4b33e6",
         "nodeType": "Event",
         "stableKey": "Event/ca06d948ea65421ebb5f24eb6e4b33e6"
-      }
-    },
-    {
-      "edgeType": "AppearsIn",
-      "from": {
-        "key": "4757143402944683af9223d88fc2f065",
-        "nodeType": "Character",
-        "stableKey": "Character/4757143402944683af9223d88fc2f065"
-      },
-      "properties": {},
-      "sortOrder": null,
-      "to": {
-        "key": "ca85bbe531804f7f96e15f4631d03a80",
-        "nodeType": "Event",
-        "stableKey": "Event/ca85bbe531804f7f96e15f4631d03a80"
       }
     },
     {
@@ -4589,6 +4563,23 @@
         "nodeType": "Character",
         "stableKey": "Character/943341598a684830b5c9bb7edb4495cb"
       },
+      "properties": {
+        "role": "delivers breach warning after the blood elf march"
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "291556677a16451081866115b96bebab",
+        "nodeType": "Event",
+        "stableKey": "Event/291556677a16451081866115b96bebab"
+      }
+    },
+    {
+      "edgeType": "AppearsIn",
+      "from": {
+        "key": "943341598a684830b5c9bb7edb4495cb",
+        "nodeType": "Character",
+        "stableKey": "Character/943341598a684830b5c9bb7edb4495cb"
+      },
       "properties": {},
       "sortOrder": null,
       "to": {
@@ -4619,12 +4610,14 @@
         "nodeType": "Character",
         "stableKey": "Character/943341598a684830b5c9bb7edb4495cb"
       },
-      "properties": {},
+      "properties": {
+        "role": "Forsaken scout commander"
+      },
       "sortOrder": null,
       "to": {
-        "key": "4e2ff90d8ab4422eafff59cb4d8d03b4",
+        "key": "6ddf6c5f4de74b2e935fd8cba3029f38",
         "nodeType": "Event",
-        "stableKey": "Event/4e2ff90d8ab4422eafff59cb4d8d03b4"
+        "stableKey": "Event/6ddf6c5f4de74b2e935fd8cba3029f38"
       }
     },
     {
@@ -4642,21 +4635,6 @@
         "key": "ca06d948ea65421ebb5f24eb6e4b33e6",
         "nodeType": "Event",
         "stableKey": "Event/ca06d948ea65421ebb5f24eb6e4b33e6"
-      }
-    },
-    {
-      "edgeType": "AppearsIn",
-      "from": {
-        "key": "943341598a684830b5c9bb7edb4495cb",
-        "nodeType": "Character",
-        "stableKey": "Character/943341598a684830b5c9bb7edb4495cb"
-      },
-      "properties": {},
-      "sortOrder": null,
-      "to": {
-        "key": "ca85bbe531804f7f96e15f4631d03a80",
-        "nodeType": "Event",
-        "stableKey": "Event/ca85bbe531804f7f96e15f4631d03a80"
       }
     },
     {
@@ -6741,6 +6719,23 @@
       }
     },
     {
+      "edgeType": "LocatedAt",
+      "from": {
+        "key": "291556677a16451081866115b96bebab",
+        "nodeType": "Event",
+        "stableKey": "Event/291556677a16451081866115b96bebab"
+      },
+      "properties": {
+        "context": "restored southern runestone boundary at Eversong\u2019s edge"
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "3bbc052ba23e44a98344f7c3d69c168f",
+        "nodeType": "Location",
+        "stableKey": "Location/3bbc052ba23e44a98344f7c3d69c168f"
+      }
+    },
+    {
       "edgeType": "UsesMechanism",
       "from": {
         "key": "33da63257e964d5092e6d96bb68c65cd",
@@ -6755,6 +6750,23 @@
         "key": "f4ee4ef85a314c3399247d194ca17e61",
         "nodeType": "Lore",
         "stableKey": "Lore/f4ee4ef85a314c3399247d194ca17e61"
+      }
+    },
+    {
+      "edgeType": "LocatedAt",
+      "from": {
+        "key": "3e6285eb261049e2953dad648667002e",
+        "nodeType": "Event",
+        "stableKey": "Event/3e6285eb261049e2953dad648667002e"
+      },
+      "properties": {
+        "context": "southern Eversong north of the breached runestone line"
+      },
+      "sortOrder": null,
+      "to": {
+        "key": "3bbc052ba23e44a98344f7c3d69c168f",
+        "nodeType": "Location",
+        "stableKey": "Location/3bbc052ba23e44a98344f7c3d69c168f"
       }
     },
     {
@@ -6804,21 +6816,6 @@
         "key": "4aeb70f26e494e5a906a5efda8ec1f93",
         "nodeType": "Location",
         "stableKey": "Location/4aeb70f26e494e5a906a5efda8ec1f93"
-      }
-    },
-    {
-      "edgeType": "LocatedAt",
-      "from": {
-        "key": "4e2ff90d8ab4422eafff59cb4d8d03b4",
-        "nodeType": "Event",
-        "stableKey": "Event/4e2ff90d8ab4422eafff59cb4d8d03b4"
-      },
-      "properties": {},
-      "sortOrder": null,
-      "to": {
-        "key": "ae4489a59e7542f69bdc34e3f765fd71",
-        "nodeType": "Location",
-        "stableKey": "Location/ae4489a59e7542f69bdc34e3f765fd71"
       }
     },
     {
@@ -6899,16 +6896,18 @@
     {
       "edgeType": "LocatedAt",
       "from": {
-        "key": "7260a4a68ff840128ed15053cc039c1c",
+        "key": "6ddf6c5f4de74b2e935fd8cba3029f38",
         "nodeType": "Event",
-        "stableKey": "Event/7260a4a68ff840128ed15053cc039c1c"
+        "stableKey": "Event/6ddf6c5f4de74b2e935fd8cba3029f38"
       },
-      "properties": {},
+      "properties": {
+        "context": "southern Eversong and the runestone boundary"
+      },
       "sortOrder": null,
       "to": {
-        "key": "ae4489a59e7542f69bdc34e3f765fd71",
+        "key": "3bbc052ba23e44a98344f7c3d69c168f",
         "nodeType": "Location",
-        "stableKey": "Location/ae4489a59e7542f69bdc34e3f765fd71"
+        "stableKey": "Location/3bbc052ba23e44a98344f7c3d69c168f"
       }
     },
     {
@@ -6976,21 +6975,6 @@
     {
       "edgeType": "LocatedAt",
       "from": {
-        "key": "c4d3bd9ca4564c7d825db2eb9137a94c",
-        "nodeType": "Event",
-        "stableKey": "Event/c4d3bd9ca4564c7d825db2eb9137a94c"
-      },
-      "properties": {},
-      "sortOrder": null,
-      "to": {
-        "key": "ae4489a59e7542f69bdc34e3f765fd71",
-        "nodeType": "Location",
-        "stableKey": "Location/ae4489a59e7542f69bdc34e3f765fd71"
-      }
-    },
-    {
-      "edgeType": "LocatedAt",
-      "from": {
         "key": "ca06d948ea65421ebb5f24eb6e4b33e6",
         "nodeType": "Event",
         "stableKey": "Event/ca06d948ea65421ebb5f24eb6e4b33e6"
@@ -7006,16 +6990,18 @@
     {
       "edgeType": "LocatedAt",
       "from": {
-        "key": "ca85bbe531804f7f96e15f4631d03a80",
+        "key": "caabc82d3aaa4f1383fa927cc612b237",
         "nodeType": "Event",
-        "stableKey": "Event/ca85bbe531804f7f96e15f4631d03a80"
+        "stableKey": "Event/caabc82d3aaa4f1383fa927cc612b237"
       },
-      "properties": {},
+      "properties": {
+        "context": "southward march through Eversong toward the runestone boundary"
+      },
       "sortOrder": null,
       "to": {
-        "key": "ae4489a59e7542f69bdc34e3f765fd71",
+        "key": "3bbc052ba23e44a98344f7c3d69c168f",
         "nodeType": "Location",
-        "stableKey": "Location/ae4489a59e7542f69bdc34e3f765fd71"
+        "stableKey": "Location/3bbc052ba23e44a98344f7c3d69c168f"
       }
     },
     {
@@ -10571,9 +10557,9 @@
       "properties": {
         "chapter10Details": "Lethira helps secure the upper approaches to M\u0027uru\u0027s hidden vault and drives away curious magisterial apprentices. In council she makes Astalor state plainly that repeated testing repeats M\u0027uru\u0027s pain. Reunited with Falanaras, she uses familiar sarcasm to welcome him home but quickly recognizes that Outland has changed the order of his moral reasoning: he now explains necessity before admitting horror. She remains loyal and concerned, asking him to stay recognizable without denying that the captive Light may save future victims of magical hunger.",
         "chapter11Details": "Lethira witnesses Liadrin\u0027s first sustained binding after overcoming vault bureaucracy, remains a skeptical outside observer during the trials, and later hears Falanaras and Theron state their intention to join the forming order. She accepts their choice without blessing or melodrama and answers, \u0027No thanks. I\u0027ll stick to my bow,\u0027 remaining committed to the ranger\u0027s path while preserving their friendship.",
-        "chapter12Details": "Lethira leads a ranger file beside the new Blood Knights at Tranquillien. She accepts Serenya\u0027s superior reading of Amani tracks, later trusts Serenya\u0027s twenty-breath flank plan, and coordinates the shot that kills the controlling necromancer. After the victory she grants Serenya\u0027s scouts the southern watch, establishing limited professional trust without easing the grief of their former friendship.",
+        "chapter12Details": "Lethira rides south through Eversong with the Blood Knights before meeting Serenya at the breached runestone boundary. During the battle inside Eversong, she accepts Serenya\u2019s twenty-breath flank judgment, coordinates the shot that kills the controlling necromancer, and keeps a ward gap quiet while the Forsaken return into the hostile Ghostlands. The cooperation establishes limited professional trust without reclaiming Tranquillien or easing their grief.",
         "chapter6Details": "Lethira guides the team through Deatholme\u0027s lower passages, helps kill the control archive\u0027s dead scribe, identifies the eastern ambush, and crosses the final ward barrier under Rynel\u0027s order. After the anchor collapses, she initially tries to return through the rubble before accepting that he cannot be recovered. During the escape she helps carry Theron and refuses to turn Rynel\u0027s last act into sainthood, preserving both his culpability and his disciplined final choice. She later shares a dry, guarded farewell with Falanaras before his Outland departure.",
-        "chapterDetails": "Chapter 1 establishes her as a capable ranger shaken by Sylvanas\u2019s fall and undeath. Chapter 2 shows her acerbic barracks-adjacent presence and ability to move from sarcasm to concern. Chapter 3 deepens her emotional relationship to the high-elf return and the old ranger order. In Chapter 5, she leads the covert approach into Deatholme, fights in the records vault, and draws on Rynel when his violent siphoning lapse turns him toward Falanaras, proving that loyalty does not prevent her from acting against a dangerous commander. Before the Blood Knights are founded, Falanaras and Theron tell her they intend to join; she answers, \u2018No thanks. I\u2019ll stick to my bow.\u2019 In Chapter 12 she leads rangers to Tranquillien beside the new order, accepts Serenya Duskrunner\u2019s field judgment despite their painful history, and helps turn mutual survival with Forsaken scouts into limited professional trust. That precedent later allows her to open a formal political channel with the Forsaken.",
+        "chapterDetails": "Chapter 1 establishes Lethira as a capable ranger shaken by Sylvanas\u2019s fall and undeath. Chapters 2\u20133 deepen her acerbic friendship with Falanaras and Theron and her relationship to the old ranger order. Chapters 5\u20136 show her guiding the Deatholme mission and acting against Rynel when his compulsive feeding becomes dangerous. Before the Blood Knights are founded, Falanaras and Theron tell her they intend to join; she answers, \u2018No thanks. I\u2019ll stick to my bow.\u2019 In Chapter 12 she rides south through Eversong beside the new order, meets Serenya at the breached runestone boundary, accepts Serenya\u2019s field judgment during the battle inside Eversong, and turns mutual survival into limited professional trust. That precedent later allows her to open a formal political channel with the Forsaken.",
         "description": "A blood elf ranger and one of Falanaras\u0027s two closest friends. Sharp-eyed, caustically witty, and emotionally guarded, she first appears as a deadly practical survivor during the fall of Silvermoon and is personally devastated by witnessing Sylvanas\u0027s death and raising. In the reconstruction era she remains adaptive, watchful, and skeptical of official optimism, using dry humor as armor while still responding quickly when a friend\u0027s strain turns dangerous. She remains loyal to Falanaras, Theron, and Quel\u0027Thalas and continues to serve through the ranger tradition as her friends enter the Blood Knights.",
         "personality": "Sharp-tongued, alert, skeptical, emotionally armored, loyal, quick-reacting.",
         "quotes": "\u0027No thanks. I\u0027ll stick to my bow.\u0027 ",
@@ -10671,7 +10657,7 @@
       "properties": {
         "chapter10Details": "Liadrin guides Falanaras through the first forced draw from M\u0027uru, then receives a much larger transfer herself because her body remembers its former bond to the Light even after faith has failed. She distinguishes the proposed martial wielders from traditional paladins: they will answer to discipline rather than devotion. When Kael\u0027thas orders her to teach them, she insists first on a survivable method and later tells Silvermoon\u0027s council that candidates must obey limits and understand that effectiveness does not alter the captive source. She remains near M\u0027uru\u0027s vault, maintaining responsibility through direct witness rather than prayer or retreat.",
         "chapter11Details": "Liadrin volunteers for Astalor\u0027s first sustained binding and insists on enduring the full tested burden before others receive it. Her former bond to the Light lets her survive as the central living vessel; afterward the Light remains linked through her to M\u0027uru, leaving visible gold beneath her fel-green eyes and tremors after transfers. She tells candidates that the Light did not save Quel\u0027Thalas, rejects innocence without abandoning necessity, dismisses those who reach for excess, guides Falanaras to receive rather than grasp, and founds the Blood Knights in black and crimson around M\u0027uru\u0027s rising captive radiance.",
-        "chapter12Details": "Liadrin commands the Blood Knights through their first public battle at Tranquillien, dividing them into strike, shield, and recovery functions. She proves the order\u0027s battlefield value while enforcing discipline when a frightened knight reaches for excessive Light, warning him not to gorge because fear grants no permission. She personally breaks an abomination\u0027s final binding and frames the victory as usefulness rather than absolution.",
+        "chapter12Details": "Liadrin commands the first Blood Knights south on hawkstriders toward the runestone boundary, meets Serenya only after the march, and immediately turns north when told an Amani-driven Scourge host has breached into Eversong. She divides the order into strike, shield, and recovery functions, enforces restraint when a frightened knight reaches for excessive Light, and helps break the abomination. Her victory proves the order useful without reclaiming Tranquillien or the hostile Ghostlands.",
         "chapter7Details": "Aboard the Outland-bound ship, Liadrin recognizes Falanaras as one of the wounded soldiers who lied that he could still hold a weapon during Silvermoon\u0027s fall. Falanaras already knows by reputation that she abandoned the Light after believing it had abandoned their people, so he does not question her about the change. During a storm she saves sailors through direct action and tells him that rank becomes vanity when it excuses necessary work. Before the crossing she warns him to judge every claimed necessity by what it asks of the person naming it and, if he rejects a cost, to know what he would allow to die instead.",
         "chapter8Details": "In Outland, Liadrin counsels counting rather than trusting the naga escort (\u0027Nothing in Outland is given. Someone paid.\u0027), tells Falanaras that every ruin was someone\u0027s Quel\u0027Thalas, and warns that being correct about necessity will not make terrible things less terrible. At the war council she receives orders to accompany the breach team because she once served the Light they intend to secure. Her stillness reflects controlled reaction to being sent before a living being of Light rather than guilt about siphoning that has not begun. Afterward she asks whether Falanaras believes M\u0027uru can end the hunger, and he answers with guarded hope.",
         "chapter9Details": "Liadrin accompanies Astalor\u2019s restraint team through the Tempest Keep assault, fighting beside the pylon haulers and carrying the mission forward whenever soldiers fall. In M\u2019uru\u2019s presence, the former high priestess recognizes an answer she cannot reduce to words and sees the naaru willingly enter the cage. When Falanaras names their intent to imprison a living being and take its Light, Liadrin does not hesitate or reopen the operational decision. She invokes her former devotion to acknowledge the act as profanation, names M\u2019uru\u2019s innocence and the sin\u2019dorei lives its power may preserve, and insists they state the wrong plainly while proceeding for their people. She seeks responsibility without absolution.",
@@ -10863,13 +10849,13 @@
       "properties": {
         "chapter10Details": "At the Sunfury staging grounds, Falanaras becomes the first recipient in Astalor\u0027s controlled test of M\u0027uru. The forced Light completely quiets his hunger and answers his memory of Edric\u0027s technique as a brief red-gold shield of radiance, while M\u0027uru\u0027s cry makes the source\u0027s pain undeniable. The transfer is temporary: it fades before Falanaras reaches Silvermoon and leaves him with no latent Holy power. Lasting access will require the later binding method developed for the first Blood Knights. Falanaras helps escort the captive through the blood-elf-held Dark Portal route and a secured relay into Silvermoon, tells Lor\u0027themar that M\u0027uru could have escaped but chose not to, and reunites with Theron and Lethira three days after the initial siphoning. His quick technical defense of repeated testing reveals how far Outland has extended his tolerance for harsh necessity, though he still insists on telling all parts of the truth: M\u0027uru came willingly, suffers, and works.",
         "chapter11Details": "Falanaras observes the continued failure of wardstones, storage vessels, and city conduits before Astalor develops a sustained living-vessel bond. During his trial, Liadrin channels M\u0027uru\u0027s Light into him; he resists reaching for excess by recalling Rynel\u0027s recovered limit, accepts a lasting bond, and uses spellbreaker perception to drive red-gold Light through a warded target. Liadrin warns him against a half-oath or imagining private reluctance keeps his hands clean. He tells Theron and Lethira he intends to join, takes the founding oath as one of fourteen first Blood Knights, and emerges proud and responsible rather than absolved.",
-        "chapter12Details": "Three weeks after the Blood Knights\u0027 founding, Falanaras trains with a new two-handed sword and leads Liadrin\u0027s strike file to Tranquillien. He combines ordinary sin\u0027dorei Mana Tapping, specialist spellbreaker perception, and M\u0027uru\u0027s red-gold Light to dismantle Scourge bindings, break an abomination, and shatter a necromantic command focus after taking one bounded tactical draw. He builds a rough field ward to cover cut-off Forsaken scouts, then accepts pride in the lives saved without treating victory as payment for M\u0027uru\u0027s suffering.",
+        "chapter12Details": "Three weeks after the Blood Knights\u2019 founding, Falanaras rides a hawkstrider south through Eversong with the new order before meeting Serenya at the breached runestone boundary. He leads the strike file against an Amani-driven Scourge host that has already crossed into southern Eversong, combines ordinary sin\u2019dorei Mana Tapping, specialist spellbreaker perception, and M\u2019uru\u2019s red-gold Light, breaks an abomination, and uses a bounded draw from a command focus. He builds a rough field ward to cover cut-off Forsaken scouts and helps destroy the incursion, while Tranquillien and the Ghostlands remain hostile and unheld.",
         "chapter6Details": "After the records-vault alarm, Falanaras chooses to continue deeper despite recognizing that Rynel is unfit and Theron is wounded. He breaks the control archive\u2019s wards, recovers Deatholme\u2019s command register, and helps fight toward the eastern anchor. At the final choke point, he witnesses Rynel recover the proper sin\u2019dorei balance: take a bounded measure of hostile magic, stop while more remains, and spend the captured power on the unit\u2019s escape. Rynel orders him to carry the register, take Theron and Lethira home, and answer Kael\u2019thas\u2019s summons. Falanaras obeys, reports both the earlier compulsive overfeeding and the final recovered limit without softening either, and is promoted to captain as Rynel\u2019s replacement.",
         "chapter7Details": "Newly promoted after Rynel\u0027s death, Falanaras sails south aboard a refitted Second War Thalassian destroyer, carrying Rynel\u0027s summons and commanding a small spellbreaker file. He recognizes Liadrin as the priestess from Silvermoon\u0027s inner gate but already knows of her loss of faith and does not interrogate it. He gives his own mana ration to a struggling soldier, helps save the ship during a storm, and observes the eastern continent broaden through Zul\u0027Aman, the plague-marked northern coast, the Hinterlands, Arathi, the southern highlands, Redridge, and the Swamp of Sorrows. After landing in the swamp, the retinue marches through the Blasted Lands and crosses the magically stabilized Dark Portal.",
         "chapter8Details": "Falanaras crosses into Outland and finds Hellfire\u2019s reception military and unceremonious rather than triumphant. He marches under blood elf escort through Zangarmarsh with naga allies and fights through Blade\u2019s Edge, where the whole sin\u2019dorei formation uses measured Mana Taps to thin fel attacks while his spellbreakers control the more intricate currents. Falanaras draws usefully in combat, then recognizes danger when he still wants the dead creature\u2019s remaining power after the fight has ended. He reaches the Netherstorm staging grounds, where the familiar-yet-altered sin\u2019dorei court disturbs him more than alienness would have. In the war room he hears Kael\u2019thas explain M\u2019uru and responds with urgent hope tempered by practical questions of restraint, transport, and sustainable use.",
         "chapter9Details": "Falanaras leads his spellbreaker file and Daric\u2019s infantry beside Astalor\u2019s restraint pylons during the assault on Tempest Keep. Blood elf infantry, haulers, rangers, and magisters routinely take measured currents from hostile spells and blessings, demonstrating the sin\u2019dorei\u2019s broad anti-magic danger, while Falanaras\u2019s specialist training reads, suppresses, redirects, and dismantles the deeper structures. He suppresses the bridge defenses, helps preserve a failing pylon, and uses a stolen draenei blessing to open the final Light-attuned seal. In M\u2019uru\u2019s shrine, the naaru\u2019s presence briefly quiets his hunger without feeding. He sees M\u2019uru deliberately enter the restraint and later tells Liadrin plainly that they mean to imprison a living being and take its Light. He does not question whether they proceed; he accepts her insistence that the wrong be remembered alongside the people it may save. No siphoning from M\u2019uru occurs in this chapter.",
-        "chapterDetails": "Chapter 1 establishes his conscription during the Scourge invasion, the destruction of House Dawnspear, the death of his father, and his identity-forming choice to remain in service. Chapter 2 shows him as a spellbreaker trainee living under normalized hunger discipline and sanctioned fel use. Chapter 3 reveals his estranged yet still emotionally raw bond with his brother Caelir and clarifies his ideological position on survival, sin\u2019dorei identity, and the cost of estrangement from the high elves. Chapter 5 places him inside Deatholme beneath Kael\u2019thas\u2019s summons: he recognizes Rynel\u2019s worsening compulsive hunger, intervenes when the captain violently siphons Scourge acolytes and nearly turns on the unit, then chooses to keep the compromised captain moving long enough to secure the mission objective. Chapters 7\u201310 take him through Outland, M\u2019uru\u2019s capture, and the return to Silvermoon. Chapter 11 makes him one of the first Blood Knights: he witnesses M\u2019uru bound beneath Silvermoon, receives Light through Liadrin, chooses the oath without calling it beautiful, and emerges steadied by conviction rather than absolved. Chapter 12 proves the order at Tranquillien: Falanaras rides south with Blood Knights and rangers to intercept an Amani-driven undead surge, fights as a two-handed Blood Knight, covers cut-off Forsaken scouts with a barrier, and helps preserve a shared foothold while retaining the knowledge that the order\u2019s success does not cleanse its foundation.",
-        "description": "A blood elf from the minor noble House Dawnspear who begins as a conscripted civilian during the Scourge invasion, later enters full martial service and trains as a spellbreaker. Observant, dutiful, emotionally contained, and morally serious, he survives the fall of Silvermoon largely from the edges of catastrophe and comes to define himself by service to Quel\u2019Thalas. After Outland and M\u2019uru\u2019s capture, he joins the first Blood Knights under Liadrin, carrying stolen Light as duty rather than absolution. In the order\u2019s first field battle at Tranquillien, he fights as an offensive two-handed Blood Knight, uses spellbreaker instincts and forced Light against Scourge workings, and protects a Forsaken withdrawal, accepting that the lives saved and cooperation won must stand beside M\u2019uru\u2019s captivity rather than erase it.",
+        "chapterDetails": "Chapter 1 establishes his conscription during the Scourge invasion, the destruction of House Dawnspear, the death of his father, and his identity-forming choice to remain in service. Chapter 2 shows him as a spellbreaker trainee living under normalized hunger discipline and sanctioned fel use. Chapter 3 reveals his estranged yet still emotionally raw bond with his brother Caelir. Chapters 5\u20136 place him inside Deatholme and make him inherit Rynel\u2019s summons after witnessing the captain recover discipline through a bounded final draw. Chapters 7\u201310 take him through Outland, M\u2019uru\u2019s capture, and the return to Silvermoon. Chapter 11 makes him one of the first Blood Knights. Chapter 12 proves the order inside southern Eversong after an Amani-driven Scourge host crosses the runestone boundary; Falanaras leads the strike file, covers cut-off Forsaken scouts, and helps contain the incursion while Tranquillien and the Ghostlands remain hostile and unheld.",
+        "description": "A blood elf from the minor noble House Dawnspear who begins as a conscripted civilian during the Scourge invasion, later enters full martial service and trains as a spellbreaker. Observant, dutiful, emotionally contained, and morally serious, he survives the fall of Silvermoon largely from the edges of catastrophe and comes to define himself by service to Quel\u2019Thalas. After Outland and M\u2019uru\u2019s capture, he joins the first Blood Knights under Liadrin, carrying stolen Light as duty rather than absolution. In the order\u2019s first field battle inside southern Eversong, he fights as an offensive two-handed Blood Knight, uses spellbreaker instincts and forced Light against Scourge workings, and protects a Forsaken withdrawal after the undead breach the runestone boundary.",
         "personality": "Observant, dutiful, controlled, proud, grief-hardened, morally serious, capable of sharp defensiveness when Quel\u0027Thalas is judged from a distance.",
         "role": "protagonist"
       }
@@ -10918,7 +10904,7 @@
       "nodeType": "Character",
       "properties": {
         "chapter11Details": "Daric is the first observer to volunteer after Liadrin\u0027s sustained binding. He endures the transfer with grim steadiness, initially uses too much force and cracks a practice shield, then repeats the exercise until he can control the effect without injuring the soldier behind it. He remains among the fourteen candidates who take the founding Blood Knight oath.",
-        "chapter12Details": "Daric trains against Falanaras and serves in his strike file at Tranquillien. He uses heavy red-gold blows to break the undead line, helps sever an abomination\u0027s binding knots, and uses a measured Mana Tap from a death bolt to blunt an attack while the knights build a field ward for the Forsaken withdrawal.",
+        "chapter12Details": "Daric trains against Falanaras and serves in his strike file during the battle inside southern Eversong. He uses heavy red-gold blows to break the undead line, helps sever an abomination\u2019s binding knots, and uses a measured Mana Tap from a death bolt to blunt an attack while the knights build a field ward for the Forsaken withdrawal.",
         "chapter7Details": "Daric leads the infantry file under Falanaras during the journey. He initially tests whether the new captain retained Rynel\u2019s instruction, then accepts his authority through shared routine and crisis. During the storm he anchors Falanaras while they rescue a soldier and later bears the torn sail\u2019s line across his shoulder; his grim steadiness is balanced by dry humor about his hatred of the sea.",
         "chapter8Details": "Daric continues as Falanaras\u0027s infantry lead across Outland. He provides dry camaraderie in Zangarmarsh, rescues a burning soldier during the Blade\u0027s Edge ambush, catches Falanaras at the gorge edge, and helps kill the largest winged attacker beside Liadrin and the spellbreakers. He reaches Netherstorm as a proven, steady subordinate while the retinue prepares for Tempest Keep.",
         "chapter9Details": "Daric leads Falanaras\u0027s infantry through the central bridge and inner corridors of Tempest Keep. He anchors the close fighting, protects the restraint pylons, and sustains a damaged shield and wound beneath the ribs while continuing to the shrine. M\u0027uru\u0027s presence leaves him openly shaken; during the extraction he admits that he has not decided what to make of the willing captive.",
@@ -11063,7 +11049,7 @@
       "nodeType": "Character",
       "properties": {
         "chapter11Details": "Althene volunteers for the sustained-binding trials and approaches the stolen Light with ranger economy. Her first healing use seals a controlled cut on Selorien\u0027s arm with unusual precision; she explains that rangers learn to preserve lives where temples are unavailable. She remains among the fourteen first Blood Knights and wears a black ribbon in her ranger\u0027s braid at the founding.",
-        "chapter12Details": "Althene serves as the Blood Knights\u0027 field-recovery lead at Tranquillien. She applies ranger economy to Light-wielding, correcting excessive healing in training, closing Daric\u0027s combat wound without removing useful pain, and preserving badly wounded defenders with only the force survival requires.",
+        "chapter12Details": "Althene serves as the Blood Knights\u2019 field-recovery lead during the Eversong incursion. She applies ranger economy to Light-wielding, corrects excessive healing in training, closes Daric\u2019s combat wound without removing useful pain, and preserves badly wounded boundary defenders and wardwrights with only the force survival requires.",
         "chapter7Details": "Althene commands the ranger file during the voyage and overland march. Dry, observant, and practical, she helps Falanaras manage a soldier\u2019s visible hunger without public shame, insists that he also care for his own depleted reserves, identifies human scouts shadowing the column, and becomes one of the first senior officers to treat him as a functioning captain rather than only Rynel\u2019s replacement.",
         "chapter8Details": "Althene leads the ranger file across Outland with dry caution, immediately adapting the column to Hellfire heat and Zangarmarsh spores. She distrusts the naga without indulging panic, helps repel the winged ambush in Blade\u0027s Edge, recognizes Netharel Suncleft, and shares Falanaras\u0027s unease at how routine demonic alliances have become in Kael\u0027thas\u0027s Netherstorm camp. In the war council, her rangers are assigned to screen the western bridges during the Tempest Keep assault.",
         "chapter9Details": "Althene leads the western ranger screen during the Tempest Keep assault, secures a firing platform, protects exposed siege crews, and supports Falanaras\u0027s central advance with precise covering fire. Wounded but still functional, she rejoins the extraction at the outer arch and immediately recognizes the troubling significance of M\u0027uru having offered no meaningful resistance.",
@@ -11151,8 +11137,8 @@
       "label": "Serenya Duskrunner",
       "nodeType": "Character",
       "properties": {
-        "chapter12Details": "Serenya delivers warning that Amani raiders have driven a Scourge surge toward Tranquillien, having left four scouts behind to preserve the warning. She returns to the battle, correctly reads the raiders\u0027 trail, and proposes a twenty-breath maneuver that exposes the Scourge control line. Her rescued scouts pull a wounded blood elf clear and help destroy the flank; afterward she accepts the southern watch under Lethira\u0027s field authority.",
-        "description": "A Forsaken dark ranger encountered in the Ghostlands. In life she had been Lethira\u2019s friend and a fellow ranger; Falanaras knew her only in passing. Her return as one of Sylvanas\u2019s undead creates an intimate and painful bridge between the living blood elves and the dead now serving the Forsaken. Her scouts later warn Silvermoon of an Amani-driven undead surge toward Tranquillien; during the joint defense, her field judgment and her unit\u2019s willingness to protect wounded rangers earn limited professional trust without erasing the pain between her and Lethira.",
+        "chapter12Details": "Serenya meets the Blood Knights only after their march south, at the breached runestone boundary. She reports that Amani raiders drove a Scourge host north along the Dead Scar too quickly for interception and that the undead have already entered southern Eversong. She guides the combined force directly into battle, proposes a twenty-breath maneuver that exposes the control line, and leads her rescued scouts back south afterward; Tranquillien and the Ghostlands remain hostile and unheld.",
+        "description": "A Forsaken dark ranger encountered in the Ghostlands. In life she had been Lethira\u2019s friend and a fellow ranger; Falanaras knew her only in passing. Her return as one of Sylvanas\u2019s undead creates an intimate and painful bridge between the living blood elves and the Forsaken. During the Blood Knights\u2019 first deployment, she meets the approaching blood elves at the breached runestone boundary, warns that an Amani-driven Scourge host has already entered southern Eversong, and helps destroy the incursion. Her field judgment and her scouts\u2019 willingness to protect wounded rangers earn limited professional trust without erasing the pain between her and Lethira.",
         "role": "forsaken contact"
       }
     },
@@ -11211,7 +11197,7 @@
       "label": "Halduron Brightwing",
       "nodeType": "Character",
       "properties": {
-        "chapter12Details": "Halduron responds to Serenya\u0027s warning by dividing the campaign: his Farstriders pursue the Amani raiders while Liadrin\u0027s Blood Knights and Lethira\u0027s rangers hold Tranquillien against the driven Scourge. He returns after defeating and dispersing the raiders, acknowledges that the Blood Knights held, and permits practical shared occupation with Forsaken scouts while reserving political judgment.",
+        "chapter12Details": "Halduron assembles Farstriders at the last maintained relay and joins the Blood Knights\u2019 march south on hawkstriders. After Amani tracks are found, he divides the campaign: his Farstriders pursue the raiders while Liadrin\u2019s force continues toward the runestone boundary. He returns after the Scourge incursion has been destroyed inside southern Eversong, acknowledges the Blood Knights\u2019 effectiveness, and requires Serenya\u2019s Forsaken to withdraw into the still-hostile Ghostlands before dark.",
         "chapter6Details": "Halduron receives the three survivors and Deatholme\u0027s command register at the forward border post. He requires Falanaras to report Rynel\u0027s uncontrolled feeding and final act without embellishment, rebukes Falanaras for continuing after the vault despite the intelligence\u0027s value, and orders that both the decision and its reasoning enter the formal account. He accepts Rynel\u0027s field recommendation, promotes Falanaras to captain, and assigns him to fill the requested officer\u0027s place in Kael\u0027thas\u0027s Outland company.",
         "chapterDetails": "Chapter 5 opens at his forward command post on the Eversong\u2013Ghostlands border. Halduron debriefs Rynel\u2019s exhausted unit immediately after the way-station battle, reacts warily to the Argent Dawn\u2019s unannounced border crossing and the appearance of Serenya\u2019s Forsaken Dark Rangers, recognizes the practical value of both groups without surrendering authority, and notices Rynel\u2019s evasiveness and tremor. When Kael\u2019thas\u2019s courier interrupts, Halduron offers to refuse the summons on Rynel\u2019s behalf, orders the entire unit to take one full day of rest in camp, then authorizes the Deatholme operation only after recovered intelligence establishes its urgency.",
         "description": "Ranger-General of Silvermoon and a senior military authority in the reconstruction era. He represents martial continuity, practical defense of Quel\u0027Thalas, and the ranger perspective on the Ghostlands war and changing alliances.",
@@ -11358,7 +11344,7 @@
       "properties": {
         "chapter10Details": "Theron helps guard M\u0027uru\u0027s secret arrival beneath Silvermoon, quietly manages former temple personnel affected by the captive\u0027s presence, and records security incidents under Lor\u0027themar\u0027s new rules. In council he asks the decisive practical question of whether the forced Light works against the undead. During his reunion with Falanaras and Lethira, he responds to the terrible source through usefulness, recognizes that Rynel could have benefited from such power, and begins considering how a shield-bearing soldier might stand between the horror and the lives it could save.",
         "chapter11Details": "Theron accepts a difficult sustained bond through Liadrin, manifests a curved shield of Light, then heals the transfer injuries of a rejected candidate by carefully reducing force. Hearing M\u0027uru\u0027s pain makes the usefulness harder rather than less real. He frames his choice through Rynel and the lives immediately behind his shield, tells Lethira he is joining Liadrin\u0027s order, and takes the founding oath beside Falanaras as one of the first Blood Knights.",
-        "chapter12Details": "Theron commands the Blood Knights\u0027 shield file at Tranquillien. He holds the gate against an abomination, stabilizes the line when another knight overdraws, advances behind overlapping red-gold wards, and uses a measured Mana Tap from a death bolt to reinforce his defense. After the battle he describes the order\u0027s terrible effectiveness with his characteristic judgment: useful.",
+        "chapter12Details": "Theron rides south with the first Blood Knights and commands their shield file against the Scourge incursion inside southern Eversong. He holds the northern road against an abomination, stabilizes the line when another knight overdraws, advances behind overlapping red-gold wards, and uses a measured Mana Tap from a death bolt to reinforce his defense.",
         "chapter6Details": "Theron continues through Deatholme with a reopened rib wound, uses his shield to limit Rynel\u0027s measured feeding, and holds the retreat during the control-archive fight and eastern ambush. He obeys Rynel\u0027s order to cross the final barrier, then prevents Lethira from trying to dig back through the collapsed passage. He is carried out of the Ghostlands by Falanaras and Lethira and later shares Falanaras\u0027s restrained farewell before the Outland assignment.",
         "chapterDetails": "Chapter 1 introduces him in battle as the soldier who hauls Falanaras clear and remains at his side through the city\u2019s collapse. Chapter 2 emphasizes his dry humor and practical care. Chapter 3 shows him quietly protecting Falanaras\u2019s dignity during Caelir\u2019s return and confrontation. In Chapter 5, though still injured from the prior Ghostlands fight, he joins the Deatholme infiltration, holds a rune-bound deathguard at the records vault, and brings Rynel back from a violent siphoning lapse by addressing him through rank and shared history rather than pleading. Chapter 11 shows him selected for the Blood Knight trials, receiving M\u2019uru\u2019s stolen Light with characteristically spare judgment, taking the oath beside Falanaras, and remaining a grounded confidant afterward. Chapter 12 establishes him in the order\u2019s first field action as a shield-bearing Blood Knight: he trains and fights as a protective bulwark, throws up rough but decisive barriers, holds against an abomination and undead rushes, and names the order\u2019s terrible effectiveness with his usual spare word: useful.",
         "description": "A blood elf soldier who first helps pull Falanaras alive through the fall of Silvermoon and becomes one of his two closest enduring companions. Solid, dry, dependable, and emotionally intelligent in a practical way, Theron rarely reaches for grand statements; instead he offers steadiness, tactical competence, and small mercies of fact or humor when others are close to breaking. As a Blood Knight he responds less through theological struggle than through disciplined usefulness in service to Quel\u0027Thalas, developing into a shield-bearing protector whose barriers and shield-work hold living lines together.",
@@ -11653,6 +11639,14 @@
       }
     },
     {
+      "key": "0c1a25ddb97243e69fa10a4bb878ec07",
+      "label": "Months of proven Blood Knights at the southern boundary",
+      "nodeType": "Event",
+      "properties": {
+        "description": "Several months after the first Blood Knights destroy the Amani-driven Scourge incursion inside southern Eversong, the order becomes seasoned through repeated defense of the runestone boundary, dangerous deployments into the still-hostile Ghostlands, and limited coordination with Forsaken scouts. Tranquillien remains a hostile ruin rather than a held outpost."
+      }
+    },
+    {
       "key": "0d7a4dfd8c7d49aab19779d47aad4859",
       "label": "Witness to the kingdom\u0027s fall",
       "nodeType": "Event",
@@ -11751,14 +11745,6 @@
       }
     },
     {
-      "key": "21005210b6db4d259af8db6941c8e153",
-      "label": "Lethira opens the road to Windrunner Spire",
-      "nodeType": "Event",
-      "properties": {
-        "summary": "After Silvermoon severs practical allegiance to Kael\u2019thas, Lethira is asked to approach Serenya Duskrunner through the limited trust earned during the defense of Tranquillien. Their contact turns a local battlefield arrangement into a guarded political channel, and Serenya offers Windrunner Spire as neutral, symbolically charged ground where Sylvanas will meet a Silvermoon delegation without entering the living city."
-      }
-    },
-    {
       "key": "230ac9692895407ea99a2e9dd7370bd1",
       "label": "Rynel frays at the edges",
       "nodeType": "Event",
@@ -11782,6 +11768,14 @@
       "nodeType": "Event",
       "properties": {
         "summary": "During the voyage, Falanaras becomes acquainted with Captain Althene Starwind, Magister Selorien Dawnmark, and Sir Daric Sunward, learning through shipboard routine and conversation how differently soldiers, rangers, and magisters have been altered by the same catastrophe."
+      }
+    },
+    {
+      "key": "291556677a16451081866115b96bebab",
+      "label": "Serenya warns that the boundary has been breached",
+      "nodeType": "Event",
+      "properties": {
+        "description": "Near the southern runestone line, Serenya Duskrunner meets the approaching blood elves and reports that Amani raiders drove a Scourge host north along the Dead Scar too quickly for interception. The undead have already crossed the restored boundary into Eversong, and Serenya left scouts shadowing their flank. The combined forces ride directly into action."
       }
     },
     {
@@ -11834,6 +11828,14 @@
       "nodeType": "Event",
       "properties": {
         "summary": "When the Dark Portal opens again, Silvermoon expects couriers, confirmations, or orders from Kael\u0027thas\u0027s loyal forces, but no clear word comes from the prince or the elves still serving him. The absence makes the reopening more frightening than the closure."
+      }
+    },
+    {
+      "key": "3e6285eb261049e2953dad648667002e",
+      "label": "The Blood Knights enter battle inside Eversong",
+      "nodeType": "Event",
+      "properties": {
+        "description": "Liadrin deploys the new Blood Knights against the Scourge incursion north of the runestone boundary inside southern Eversong. Falanaras fights with a two-handed sword in the strike file, Theron commands a shield file, Althene directs field recovery, and the order combines stolen Light with ordinary sin\u2019dorei Mana Tapping against undead bindings, death bolts, and an abomination."
       }
     },
     {
@@ -11917,14 +11919,6 @@
       }
     },
     {
-      "key": "4e2ff90d8ab4422eafff59cb4d8d03b4",
-      "label": "Forsaken warning sends the Blood Knights to Tranquillien",
-      "nodeType": "Event",
-      "properties": {
-        "summary": "Serenya Duskrunner\u2019s Forsaken scouts report that Amani raiders from Zul\u2019Aman have stirred Scourge remnants and are driving them toward Tranquillien. Halduron\u2019s Farstriders pursue the trolls while Liadrin dispatches the new Blood Knights south with Lethira\u2019s rangers to intercept the undead before the damaged outpost and its northern road are lost."
-      }
-    },
-    {
       "key": "4f58f881c3f5430fa8600bf519fcdb3c",
       "label": "Outland remains present in Silvermoon",
       "nodeType": "Event",
@@ -11982,6 +11976,14 @@
       }
     },
     {
+      "key": "652a22e77da1453bb3c13f477a9da6ae",
+      "label": "Lethira opens the road to Windrunner Spire",
+      "nodeType": "Event",
+      "properties": {
+        "description": "After Silvermoon severs practical allegiance to Kael\u2019thas, Lethira is asked to approach Serenya Duskrunner through the limited trust earned when blood elves and Forsaken destroyed the Amani-driven Scourge incursion inside southern Eversong. Their contact turns that battlefield precedent into a guarded political channel, and Serenya offers Windrunner Spire as neutral, symbolically charged ground where Sylvanas will meet a Silvermoon delegation without entering the living city."
+      }
+    },
+    {
       "key": "679981fa8cbc48a988f4e8c6acde6589",
       "label": "Tarren Mill comrades on the road south",
       "nodeType": "Event",
@@ -12031,19 +12033,19 @@
       }
     },
     {
+      "key": "6ddf6c5f4de74b2e935fd8cba3029f38",
+      "label": "Blood elves and Forsaken destroy the Eversong incursion",
+      "nodeType": "Event",
+      "properties": {
+        "description": "Serenya\u2019s scouts are cut off on the Scourge flank inside southern Eversong. Lethira accepts Serenya\u2019s twenty-breath field judgment, and Falanaras\u2019s file builds a ward to cover the Forsaken withdrawal. The dark rangers expose the undead control line, pull wounded blood elves clear, and help break the incursion. Blood elves hold the northern side of the runestone boundary afterward while the Forsaken return south; Tranquillien and the Ghostlands remain hostile and unheld."
+      }
+    },
+    {
       "key": "703b6adda89f4aec9233a6b38a9710cf",
       "label": "Lor\u0027themar forces the practical questions",
       "nodeType": "Event",
       "properties": {
         "summary": "Once M\u0027uru is brought into Silvermoon, Lor\u0027themar presses secrecy, containment, legitimacy, access, and use. He asserts authority over the captive, requires both a public-distribution program and controlled-recipient trials, and insists that broad relief remain the primary mandate while military Light-wielders are developed in parallel."
-      }
-    },
-    {
-      "key": "7260a4a68ff840128ed15053cc039c1c",
-      "label": "The Blood Knights enter their first battle at Tranquillien",
-      "nodeType": "Event",
-      "properties": {
-        "summary": "Liadrin deploys the Blood Knights in their first true combat engagement on Tranquillien\u2019s approaches. Falanaras fights with a two-handed sword in an aggressive style, turning stolen Light into offensive judgment against the undead, while Theron bears shield and Light as a protective bulwark. The new order shows several faces of its power at once\u2014searing anti-undead strikes, barriers, battlefield healing, and disciplined group tactics still roughened by inexperience."
       }
     },
     {
@@ -12225,14 +12227,6 @@
       }
     },
     {
-      "key": "b3cbbaf555e44f4aaab57cf82d24ff23",
-      "label": "Months of proven Blood Knights after Tranquillien",
-      "nodeType": "Event",
-      "properties": {
-        "summary": "Several months after the joint victory at Tranquillien, Falanaras and Theron have become seasoned Blood Knights through repeated Ghostlands deployments, shared patrol arrangements, and visible successes against undead threats. The defended outpost remains an early example of blood elves and Forsaken holding reclaimed ground through practical cooperation, while the Blood Knights become an established part of Silvermoon\u2019s defense rather than a new experiment."
-      }
-    },
-    {
       "key": "b7977bdc6dd04a6faa6f896e1259bbb6",
       "label": "Continuity turns into dread",
       "nodeType": "Event",
@@ -12273,14 +12267,6 @@
       }
     },
     {
-      "key": "c4d3bd9ca4564c7d825db2eb9137a94c",
-      "label": "Tranquillien becomes a foothold",
-      "nodeType": "Event",
-      "properties": {
-        "summary": "After the surge is broken, blood elves and Forsaken remain among Tranquillien\u2019s damaged structures, counting losses and securing the road together. There is no sudden friendship, but Serenya and Lethira acknowledge that each force kept the other alive, and the defended outpost becomes evidence that practical cooperation can reclaim ground neither side could safely hold alone. Falanaras takes pride in the lives saved by the Blood Knights while refusing to forget M\u2019uru or pretend the victory cleanses the order\u2019s foundation."
-      }
-    },
-    {
       "key": "c6716967fd66407585e0ab601ae34ff3",
       "label": "Public disbelief hardens",
       "nodeType": "Event",
@@ -12297,12 +12283,11 @@
       }
     },
     {
-      "key": "ca85bbe531804f7f96e15f4631d03a80",
-      "label": "Blood elves and Forsaken hold Tranquillien together",
+      "key": "caabc82d3aaa4f1383fa927cc612b237",
+      "label": "Orders and march toward the runestone boundary",
       "nodeType": "Event",
       "properties": {
-        "description": "Serenya\u2019s scouts are cut off while tracking the Scourge forces driven toward Tranquillien. Lethira accepts Serenya\u2019s field judgment despite the pain between them, and Falanaras throws a barrier across the Forsaken withdrawal rather than abandoning them. Serenya\u2019s scouts repay the protection by exposing a Scourge flank and pulling wounded rangers clear. Rangers, Blood Knights, and Forsaken then coordinate their fields of fire and defensive lines to prevent the outpost from being overrun.",
-        "summary": "Serenya\u2019s scouts are cut off while tracking the driven dead near Tranquillien. Lethira accepts Serenya\u2019s field judgment despite the pain between them, and Falanaras throws a barrier across the Forsaken withdrawal rather than abandoning them. Serenya\u2019s scouts repay the protection by exposing a Scourge flank and pulling wounded rangers clear. Rangers, Blood Knights, and Forsaken then coordinate their fields of fire and defensive lines to prevent the outpost from being overrun."
+        "description": "Reports of Amani movement and disturbed Scourge forces send Liadrin\u2019s first Blood Knights south with Lethira\u2019s rangers. They ride hawkstriders through restored Eversong before meeting Serenya, knowing the runestone boundary marks the edge of maintained territory and that the Ghostlands beyond remain wholly hostile."
       }
     },
     {
@@ -12567,7 +12552,8 @@
       "label": "Ghostlands",
       "nodeType": "Location",
       "properties": {
-        "description": "The blighted southern reaches of Quel\u2019Thalas where blood elves fight the Scourge, first cooperate uneasily with the Forsaken, undertake the Deatholme mission, and jointly secure Tranquillien as an early practical foothold."
+        "chapter12Continuity": "During Chapter 12, the Ghostlands remain wholly hostile. An Amani-driven Scourge host races north along the Dead Scar and crosses the restored runestone boundary into southern Eversong before the Blood Knights can intercept it. The battle and victory occur inside Eversong, not at Tranquillien.",
+        "description": "The blighted southern reaches of Quel\u2019Thalas where blood elves fight the Scourge, first cooperate uneasily with the Forsaken, and undertake the Deatholme mission. At the time of the first Blood Knight deployment, the Ghostlands remain wholly hostile and no blood elf or joint force holds Tranquillien; patrols enter at great risk from the restored runestone boundary in southern Eversong."
       }
     },
     {
@@ -12591,7 +12577,7 @@
       "label": "Zul\u0027Aman",
       "nodeType": "Location",
       "properties": {
-        "description": "The Amani troll stronghold in the Ghostlands. Raiders operating from its sphere of influence drive Scourge remnants toward Tranquillien, forcing the Blood Knights, Farstriders, and Forsaken scouts into a joint defense of the outpost.",
+        "description": "The Amani troll stronghold in the Ghostlands. During the first Blood Knight deployment, raiders operating from its sphere of influence break Scourge control fetishes and drive a host north along the Dead Scar. The undead cross the restored runestone boundary before interception and are destroyed inside southern Eversong by Blood Knights, Farstriders, and Forsaken scouts; Tranquillien remains a hostile ruin.",
         "ingestGraphOrigin": "ingest"
       }
     },
@@ -12608,6 +12594,7 @@
       "label": "Eversong Woods",
       "nodeType": "Location",
       "properties": {
+        "chapter12Details": "An Amani-driven Scourge host crosses the restored southern runestone boundary before interception and enters Eversong along the Dead Scar. The first Blood Knights, Farstriders, and Serenya\u2019s Forsaken scouts destroy the incursion within Eversong; the boundary still separates restored northern territory from wholly hostile Ghostlands.",
         "description": "The enchanted northern forest surrounding Silvermoon. Its ancient runestone network ordinarily holds the woods in perpetual spring. In this project\u2019s adapted continuity, Arthas\u2019s invasion damaged that network badly enough for the natural seasons to return; survivors briefly endured winter before the restored runestones renewed the spring enchantment.",
         "ingestGraphOrigin": "ingest",
         "seasonalContinuity": "Project adaptation: After Arthas and the Scourge broke the runestone network, Eversong Woods lost its perpetual-spring enchantment and experienced a brief return of the natural seasons, including winter. During reconstruction, the blood elves restored enough runestones to reestablish the enchanted spring."
@@ -12830,7 +12817,8 @@
       "label": "Tranquillien",
       "nodeType": "Location",
       "properties": {
-        "description": "A damaged Ghostlands outpost on the contested road north of Deatholme. During the Blood Knights\u0027 first deployment, blood elf and Forsaken forces jointly prevent an Amani-driven undead surge from overrunning it, establishing the practical foothold that will later grow into a shared settlement and military partnership."
+        "chapter12Continuity": "Tranquillien is not visited, defended, held, or reclaimed in Chapter 12.",
+        "description": "A ruined and hostile site in the Ghostlands on the contested road north of Deatholme. At the time of the Blood Knights\u2019 first deployment, Tranquillien is not a blood elf outpost, garrison, settlement, or joint foothold; the Ghostlands remain wholly hostile, and the Chapter 12 battle occurs north of the runestone boundary inside southern Eversong."
       }
     },
     {
@@ -13052,7 +13040,7 @@
       "label": "Blood Knights",
       "nodeType": "Lore",
       "properties": {
-        "chapter12Proof": "At Tranquillien, the first fourteen Blood Knights prove the order in field combat. Strike, shield, and recovery files combine coerced Light with ordinary sin\u0027dorei Mana Tapping: they shatter undead bindings, hold an abomination, build a ward over a Forsaken withdrawal, and heal defenders quickly enough to preserve the outpost. Liadrin enforces the same limit that governs mana use: taking necessary power is legitimate; appetite, panic, and excess are the danger.",
+        "chapter12Proof": "Inside southern Eversong, the first fourteen Blood Knights prove the order in field combat after an Amani-driven Scourge host breaches the runestone boundary. Strike, shield, and recovery files combine coerced Light with ordinary sin\u2019dorei Mana Tapping: they shatter undead bindings, hold an abomination, build a ward over a Forsaken withdrawal, and heal defenders quickly enough to contain the incursion. Liadrin enforces the same limit that governs mana use: taking necessary power is legitimate; appetite, panic, and excess are the danger. The victory does not reclaim Tranquillien or the hostile Ghostlands.",
         "description": "The doctrine and practice by which blood elf warriors maintain governed bonds to the captive M\u0027uru through Liadrin\u0027s central living-vessel link, wielding stolen Light without the devotional faith expected of traditional paladins. Blood Knights are trained to heal, protect, and strike with disciplined force while resisting the same appetite for excess that threatens mana tapping. Their effective martial and medical use develops in parallel with Silvermoon\u0027s unfinished effort to distribute M\u0027uru\u0027s relief safely to the whole population, preserving the unresolved moral cost of coercing a suffering sacred being.",
         "ingestGraphOrigin": "ingest"
       }
@@ -13487,7 +13475,7 @@
       "label": "Forsaken",
       "nodeType": "organization",
       "properties": {
-        "description": "Sylvanas\u2019s undead people and the blood elves\u2019 first viable allies after Quel\u2019Thalas\u2019s estrangement from the Alliance. Forsaken scouts cooperate with sin\u2019dorei forces in the Ghostlands and at Tranquillien, creating the military trust that leads to Sylvanas\u2019s sponsorship of Silvermoon before the Horde.",
+        "description": "Sylvanas\u2019s undead people and the blood elves\u2019 first viable potential allies after Quel\u2019Thalas\u2019s estrangement from the Alliance. Forsaken scouts cooperate with sin\u2019dorei forces against an Amani-driven Scourge incursion inside southern Eversong, establishing battlefield evidence of mutual usefulness while the Ghostlands and Tranquillien remain hostile and unheld. That precedent later supports Sylvanas\u2019s sponsorship of Silvermoon before the Horde.",
         "ingestGraphOrigin": "ingest"
       }
     },
@@ -13504,7 +13492,7 @@
       "label": "Farstriders",
       "nodeType": "organization",
       "properties": {
-        "description": "Quel\u2019Thalas\u2019s ranger corps under Halduron Brightwing. Farstriders defend the Ghostlands, pursue Amani raiders, and fight beside the Blood Knights and Forsaken at Tranquillien while retaining a practical distrust of magical overreliance.",
+        "description": "Quel\u2019Thalas\u2019s ranger corps under Halduron Brightwing. Farstriders defend the runestone boundary, pursue Amani raiders, and fight beside the Blood Knights and Forsaken when a driven Scourge host breaches into southern Eversong, while retaining practical distrust of magical overreliance.",
         "ingestGraphOrigin": "ingest"
       }
     },
@@ -13554,7 +13542,7 @@
       "label": "Amani",
       "nodeType": "organization",
       "properties": {
-        "description": "The forest-troll enemies of Quel\u2019Thalas whose long war with the elves shapes Ghostlands security and Horde suspicion. Amani raiders drive Scourge remnants toward Tranquillien, while their hostility remains distinct from the Darkspear position represented by Vol\u2019jin.",
+        "description": "The forest-troll enemies of Quel\u2019Thalas whose long war with the elves shapes Ghostlands security and Horde suspicion. During the first Blood Knight deployment, Amani raiders drive a Scourge host north along the Dead Scar and through the runestone boundary into southern Eversong. Their hostility remains distinct from the later Darkspear position represented by Vol\u2019jin.",
         "ingestGraphOrigin": "ingest"
       }
     },
