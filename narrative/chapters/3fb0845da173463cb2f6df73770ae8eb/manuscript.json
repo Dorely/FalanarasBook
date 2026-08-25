@@ -1,6 +1,2563 @@
 {
-  "content": [],
+  "content": [
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Nearly a year passed between Hillsbrad and the morning Silvermoon ordered Falanaras south again.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "77980020a75e4cd88947d2baab71bd7a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The interval did not feel empty. It had roads in it, and watches, and the wet stink of camps broken before dawn. It held orders carried between commanders who had once required interpreters and now knew one another\u2019s curses. Armor had been repaired, damaged again, and repaired with materials from three nations. Men who had first shared a battlefield by political accident had learned who snored, who cheated at dice, who kept the last watch without complaint, and who became dangerous when silence lasted too long.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "69bb134d9a014521b481688510d72332",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Some of those months survived in official reports: roads held, couriers recovered, raiders driven away from settlements whose names meant little in Silvermoon. The rest remained in scar tissue, missing buckles, private debts, and remarks that made sense only to the soldiers who had been there. Hillsbrad had ceased to be the last thing they had done together. It remained the first.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7bd9c18ba03d40668b5a2f8895166058",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Horde banner still hung beside the phoenix above Silvermoon\u2019s eastern gate. Its warding no longer required repair every morning. Someone still found a way to paint an obscenity across the lower stone once each week, but the words had become less ambitious. Habit was accomplishing what proclamations and arrests had failed to do. The foreign colors had entered the city\u2019s ordinary arguments.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b842fe3767744995b2538c5c98137178",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras crossed beneath both standards in black plate edged with crimson. The breastplate Edric had broken was gone. Its replacement carried a reinforced seam over the ribs and a shallow dent near the heart from another field, another weapon, another report already filed. He no longer noticed which soldiers looked first at the red-gold Light resting along his sword belt and which looked at his green eyes.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0affd5e2c53c4dc886c6ccb155af56e7",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "He noticed when they failed to make room.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "afc8de8989ba490ba803326c4133d190",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The departure yard held more Blood Knights than it had on the march to Hillsbrad. Two files stood behind Theron with black shields planted against the paving. Their armor varied in age and finish; the order had grown faster than Silvermoon\u2019s smiths could make uniform plate. The crimson edging and governed radiance made them one body despite the differences.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "36e179d450b14aa990ed9e13e5511bc2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Farstriders gathered beneath Lethira\u2019s inspection. She had acquired a narrow scar across her left hand and an orcish knife at her belt. She refused to explain either to anyone who had not been present, which meant she had explained both at length to everyone who had.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "83c98cf4b6254f14bb75d9f1bb8a635f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYour third file is crooked,\u201D she told Theron.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b4234193d6494dfa9ca2a17933172e3c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron looked without turning his head. \u201CYour second ranger is wearing two different boots.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3eb3b0eabcf245c6af508448d7d57c86",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201COne of them fits.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fe548407390b436ca28d2b716063653c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThen we are equally prepared.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8d098d3dc48446679b8d6d4ce68c531e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Their ease had changed over the year. It had become quicker, less protective. They no longer used humor to convince one another that the company might survive. They used it because survival had acquired routine tasks and routine tasks invited complaint.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "220d3375392647e68f81d734e484e4ca",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin entered the yard with four senior knights and a sealed order beneath her arm. Conversation ended by degrees as each file saw her.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ecb3c17a6fb943618bc42b836150d70a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe Portal has been open long enough for fools to mistake endurance for containment,\u201D she said. \u201CThat error has ended.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8683647be90f49b2b8f8b24f4cb62ab1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "A magister unfolded a map on the quartermaster\u2019s table. Black markers occupied the Blasted Lands around the standing gateway. Smaller marks spread east along the roads and north beyond the region\u2019s barren ridges. Several had been crossed out. More remained.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "176b199079ab44ef997a7cfec5ff102d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CDemonic bands have struck caravans in the Swamp of Sorrows, farms beyond the mountain roads, and settlements that believed the Blasted Lands were distance enough,\u201D Liadrin continued. \u201CThe Alliance has begun moving soldiers toward the Portal. The Horde has done the same. Neither faction intends to surrender the crossing to the other. Both understand what happens if the Legion keeps it.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "33d4f8b85e254e18ab559453b251c762",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CDo they understand together?\u201D Lethira asked.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5cfbd51b04774931a3571264e189f9d3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CNo,\u201D Liadrin said. \u201CThey understand in parallel.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9773dc35cc9e42b08504656f95682ae4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Several rangers smiled. No one mistook the answer for reassurance.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "97ea98cabdbd4004bded06c1a7c8969c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin placed one gauntleted hand on the map where the gateway stood. Falanaras felt M\u2019uru answer her through the bond beneath his breastbone. The naaru\u2019s suffering had changed neither pitch nor meaning during the year. Falanaras had changed around it. He could march, heal, kill, eat, sleep, and wake with that distant anguish inside every act of power. Familiarity had made the burden easier to carry and harder to excuse.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2a0e77d2bcee46bda07e033168f378cc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe Blood Knights will go as Silvermoon\u2019s first heavy contingent,\u201D Liadrin said. \u201CRangers will scout the road and the far-side ground. Magisters will support the Portal works if any remain recoverable. You will serve within Gorath Stonebinder\u2019s column until the threshold is secured. Beyond it, command may change with the field.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "045b32a902514711962dfae7111f99fc",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The name produced no unease among the files. A year earlier, serving under an orc had required a council decision and a public test. Now quartermasters asked only how much grain his column carried and whether his scouts knew the road.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7bbc5439930a44d1a6254c7ca4c9d3d8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Liadrin looked directly at Falanaras. \u201CYou have crossed before.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8c75329b1cd04b5aa974624ea4ccdfa3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWhen the road belonged to the prince.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "90c7d73d95304d3b8689a79a2827c3d8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIt belongs to no one now. Help make that temporary.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a70a66b28d06449b84208acc86b9e48f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras bowed. \u201CDiscipline. Duty. Honor. Remembrance.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ebb530baa89e46909ecc56a00895c264",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The response came from the knights behind him, many voices carrying the same four burdens.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3ed48196e3c94213bf455d30d500f2bb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b8169c2a3dab4737a5214c77fa93b439",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "scene-break",
+      "type": "sceneBreak"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They reached the Horde mustering ground through a chain of transit circles that left the sin\u2019dorei magisters pale and irritable. The last opened beneath wet trees in the Swamp of Sorrows. Humid air entered Falanaras\u2019s armor before he cleared the runes. The camp beyond smelled of mud, boiled grain, troll incense, wet hides, and the alchemical preservatives used to keep Forsaken supplies from becoming more dead than intended.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "fc391607eca546218cb9630121912ead",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath waited beside a row of loaded wagons. He had added two more carved stones to his belt since Hillsbrad. The left shoulder Falanaras had once injured moved without stiffness. A pale line crossed one tusk where some later weapon had failed to remove it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b7b346116fd241f9abdb30b3574d21aa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CSilvermoon sent more of you,\u201D he said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a392268e50d74068a392f37c864bc1fa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou kept returning the ones we sent,\u201D Falanaras replied.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5a8eaac493d94cc18618fd26f96b6e8f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath examined him for mockery, found only enough to acknowledge, and struck one fist against Falanaras\u2019s shoulder plate. It was an orc greeting he had begun using after a road neither of them mentioned. Falanaras returned it against the shaman\u2019s leather guard.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0d00f5e609184c07968889adf055dd86",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Jazreth Shadowtide sat beneath the wagon awning with rain passing through the edge of the darkness around him. He had painted a thin white line across his nose and replaced several bone charms with demon teeth. \u201CElf finally arrives. I was starting to enjoy de quiet.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e2d7ea018d01403a9313cd900a917cbe",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYou complained through the entire last watch we shared.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7c003336e76942ff951833cc041a7ab8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CQuiet makes room for important complaints.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8d06325d8b6b4d328819decb4f8f5c72",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Mavren Coldwake emerged from behind the wagons carrying a crate under his left arm. The severed limb from Hillsbrad had been reattached, though the wrist turned a fraction too far when he set the crate down. He had compensated by fastening his shield grip at an angle.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6dcd7f520acc4bf395c54e1a8d7f28e2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYour healers continue to insist the arm is functional,\u201D he said to Theron. \u201CI continue to define function more strictly.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1f3b76618f1d449991da360f2c5e50f1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron inspected the wrist. \u201CYou use it to complain.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "71d802446b7f47aab5bc0c4813319655",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThen perhaps they exceeded expectation.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "495a900268874e13a31d0e77cbc16289",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Tahu Windtotem stood among the draft beasts, calming a wolf whose hackles had risen at the Blood Knights\u2019 approach. The tauren\u2019s horns carried fresh red cord and one dark burn near the tip. He rested his broad hand between the wolf\u2019s ears until the animal stopped watching the stolen Light.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b8887d8b11d444ebb1b566dd2b525f41",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CThe wound in your radiance remains,\u201D Tahu said when Falanaras reached him.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "dff5bc15ce0c48638268cccef0b1320f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYes.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "32b578c55dab4bc3987778335fc4c809",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Tahu nodded. He no longer asked whether Falanaras intended to mend it. Acceptance from the tauren had never meant approval. It meant he trusted Falanaras to answer the same question truthfully each time.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7dc2a8b0eaa54a8582e79a152296ffa2",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The column marched west before noon. Orc infantry led the supply wagons. Darkspear scouts moved through the wet ground on either flank. Tauren walked where the road widened, carrying loads that had required teams of smaller soldiers. Forsaken outriders disappeared into mist and returned without breath or warning. The blood elf files occupied the center beneath phoenix standards that no longer looked misplaced among the Horde\u2019s red banners.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7320df93428e47afbc36973c922d0d03",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Trust showed itself in assignment. Gorath put Theron\u2019s shield file beside the ammunition wagons because he expected them to hold. He placed Lethira\u2019s rangers beyond his own scouts because he expected them to return. He ordered Falanaras near the front without assigning an orc to watch him.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9d8fc7b9e3d24dfc826f63e918de97d4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "No ceremony marked any of it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2be3afab14b34214ac797a3a0002dd73",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The swamp thinned around them. Reeds gave way to dark soil, then to exposed red earth where little grew. The air dried. By evening, the eastern sky remained heavy with rain while the west held a bruised glow that did not belong to sunset.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "bc8b3a6d124b48b9abbee9d3e643ee55",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They found the first refugee wagons at a broken milepost. Human families had abandoned them beside the road after cutting the traces. One wheel had melted into black glass. A child\u2019s wooden horse lay under the axle, singed along one side. No bodies remained. Drag marks crossed the ditch toward the hills.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8a133b48ef52435e924e5ad697dc61c8",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Mavren crouched beside the marks. \u201CFelhounds. Four, perhaps five. Two carrying weight.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6417e605e3254cbaa6e5a8329de92f52",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "An orc sergeant looked at the abandoned Alliance wagon. \u201CCould have been bait.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "55f9ceb988384d3daa78fe7037523f40",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CCould have been children,\u201D Tahu said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7f6fffb4320f4f3a831a3a69a74e4636",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath sent scouts without asking which possibility mattered more. Lethira went with them. They returned after dark with blood on two arrows and three survivors: an old human teamster, a woman with a burned arm, and a boy who stared at the Horde soldiers as though rescue and capture had arrived wearing the same faces.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "94494ee9b5fd4abb94684cf6b74342bb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The woman recoiled when Althene Dawnward knelt beside her in black-and-crimson plate. Gold with a red heart gathered around the Blood Knight\u2019s hands. M\u2019uru\u2019s pain entered Falanaras as Althene drew. The burned flesh cooled and began to close.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ee0dba3b7a714d378f981dd94d20deaa",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CWhat are you?\u201D the woman whispered.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6432481b4b584d4c84857788443bc237",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Althene kept working. \u201CAvailable.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a78f6b7550034c01b4b29fe5aa688c95",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They left the survivors at the next guarded post with a note for whichever Alliance patrol came searching. Gorath marked the road behind them as compromised. No council had negotiated the act. No herald proclaimed shared cause. Three living people remained alive because soldiers had encountered them before demons did.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8068468883d64a76b75f148fc89af8f6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Legion had made cooperation simplest where politics had no time to name it.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5f7cb801bba143b3a476769dd0518781",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2cc2f9deab5642c78ecd973e2b340dea",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "scene-break",
+      "type": "sceneBreak"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Blasted Lands began without a border.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "273e9d601b2c42b1ae30605f9e6fcf4c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Vegetation failed by degrees. Mud hardened into red plates. The last thorn bushes leaned east as if the country itself had tried to crawl away. Heat rose from fissures after sunset. Far ahead, green light pulsed against the low clouds and gave every ridge a second, sickly edge.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "8bffb44cc4e6462b95fd5a8799eb958c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The road carried armies now. Horde supply trains moved west beneath escort and returned with wounded laid three across in wagons built for grain. Messengers passed at exhausted gallops. Demonic carcasses burned in trenches where warlocks and shamans argued over the safest way to destroy them. Twice the column halted for Alliance riders crossing a distant rise. Neither force approached the other. Both kept scouts between them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "80dc961f8c2b47678a44ab2a48970d1b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "On the third morning, wings darkened the south.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6a4b0d71e3734ad5b1e6aa04507968a9",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The demons flew too high for arrows at first, lean shapes circling above both roads. One peeled toward the Alliance column. Two descended upon the Horde wagons. Their hands kindled green.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7ec56c2f2c864817ae4bddc4e03e5f42",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath\u2019s axe struck earth. A ridge lifted beside the road and tilted over the nearest wagon as fel fire fell. Theron\u2019s shield file locked beneath it. Red-gold radiance spread from shield to shield, strengthening the soldiers and teamsters within their reach. The first green impact broke across stone. The second struck the joined protection and drove every Blood Knight half a step into the road.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "96827606743f45609a320f35dbc6f41d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Lethira\u2019s arrows rose with the Darkspear spears. Jazreth cast darkness above the lead demon\u2019s face. It folded one wing to clear its sight. Tahu became a great hawk in a surge of feather and muscle, climbed through the creature\u2019s turn, and tore the wing at its root.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "6795896fc53342fda755206445e37778",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The demon fell inside the column.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3641483146aa400c9e5a721824f63183",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras met it with his sword already bright. He opened his pulse to the blade only far enough to deepen the radiance, accepted the answering cut beneath his ribs, and drove the edge through the demon\u2019s burning chest. Mavren took its legs with his shield. Gorath\u2019s next call brought stone around one claw before it reached a teamster.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "2162da0e3c6c4c0e919c33af7c7171d1",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The creature tried to form another spell. Falanaras felt the gathering fel current tighten behind its teeth. He drew a bounded measure from the unfinished working and released the stolen arcane charge in a blue-white burst. The demon\u2019s invocation died in its throat. Lethira\u2019s arrow entered through the open mouth.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "3a701561b07142a7ba8420c5360aeb81",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "It collapsed across the road, smoking.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a9eb972eba2848daaa5c42f94745639e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The second demon climbed after Tahu. Far across the waste, gold flashed above the Alliance column. A compact stroke of holy force crossed the distance and struck the creature from below. Its flight broke. Tahu drove it down toward the Horde archers, who finished it before it could rise.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "eb6e9f0421d44e19abf8b54bd33f7a9d",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras looked east. A mounted human paladin lowered his hammer on the distant ridge. The face beneath the helm was too far away to know.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0f1c5d1499684424bf1b335e1f0b4612",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "No salute passed between them. The Alliance column continued west. So did the Horde.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c96fea420c5541d5aa052088abfbe7ab",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "By afternoon, the Dark Portal rose above the horizon.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e119341426e8435487407cebdbf74da9",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Distance made it appear smaller than memory. Each mile corrected the lie. The carved stone figures flanking the gateway grew until siege engines looked like toys at their feet. Green fire filled the opening from threshold to arch. Through it, another red world showed in fragments: broken ground, smoke, and fortifications burning beneath a sky that had forgotten blue.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7216312e35ab4831baf0a4539b0d2e0e",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The near-side approaches had become a battlefield built in layers. Old blood elf pylons lay split along the lower stairs. Horde earthworks held the north ridge. Alliance banners marked stone redoubts to the south. Between them, the Legion possessed the central descent often enough that neither army trusted a lull.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5df4f8e9e33743e2a965bc17db3bfa09",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "A horn sounded from the Horde works. Another answered from the Alliance side. Soldiers on both ridges rose behind shields as shapes moved within the green field.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "f42e6927a6c7465990100550e76a5e71",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath did not hurry the column. \u201CClose ranks. Rangers forward. Shield files around the wagons. If the Alliance fires, hold unless I answer. If the Legion comes, kill what reaches us.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "57604fcece7a42dcb8c532bfdbdd59cd",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CSubtle policy,\u201D Lethira said.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "529451d244db4b2a9d49aa8c522f339b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CI wrote it for elves,\u201D Gorath replied.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "94494b6b31764b11bcee91a323407d3a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The column laughed while tightening formation. A year earlier, the sound would have surprised them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "47c19c4811f04ad5ade9511aed2244b6",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7437d4af29ee41fa87cd57bd25bb33e3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "scene-break",
+      "type": "sceneBreak"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They waited below the north ridge until night.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "69f377eebf11485cbdf9a96d4973ca68",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Legion tested the approaches twice. Felhounds came first, low and fast through the broken pylons. Horde archers killed most in the open ground. Alliance cannon took the flank of the pack that turned south. Later, armored demons descended the central stair behind shields burning green. Horde and Alliance artillery struck them from opposite ridges until the survivors withdrew through the gateway.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "9c255add24344ae98f7a83842ada6194",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "No truce flags flew. Each side watched the other between volleys. The common enemy had created an arrangement too necessary to admit and too fragile to name.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "820a7cd870934a64a4a51dc55abfb625",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Near midnight, scouts returned from the far side with the route to a temporary Horde position marked in charcoal. One troll had lost an ear. A Farstrider carried burns from shoulder to hip and remained upright through anger alone. They reported broken Sunfury works, Legion emplacements along the ridges, and a narrow passage secured long enough for the next force to cross.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "44d429e6f6e541be80db5b184501d731",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath received the order before dawn. His column would move at first light, cross under covering fire, and reinforce the far-side position before the Legion closed the passage.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a0ed0ff83e8c4f0598756d27418ef1c9",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras slept for one hour against a supply crate. M\u2019uru\u2019s distant song entered his dreams and became the sound of the Portal\u2019s fire. He woke with his hand closed around the hilt of a weapon Rynel had never seen him carry.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c203fcfa6b974e83bd5721f28df7d7ea",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The company formed in the gray before sunrise.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7b81a06c6b84499bbc808bd8eead434b",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron checked every shield strap in his file, then checked Falanaras\u2019s breastplate seam without asking. Lethira distributed arrows and kept six black-fletched shafts separate from the rest. Jazreth drew a line of ash beneath each eye. Mavren tightened the angled grip around his imperfect wrist. Tahu pressed both palms to the barren ground and listened for whatever life or memory remained below it. Gorath walked the ranks with his axe on one shoulder.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "0a06aab08b64413b953f9041a269abe3",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They looked like a company because time had done the work uniforms could not.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "164db901f28440048c4b4783b30e984c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The first time Falanaras had approached the Dark Portal, he had come beneath Kael\u2019thas\u2019s summons in a blood elf retinue that believed Outland contained an answer. Rynel\u2019s death had placed him on that road. Liadrin had walked ahead of him without faith. Rommath and Astalor had carried plans whose full cost waited beyond the threshold. The prince\u2019s name had made every hardship feel directed toward salvation.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b7b2a5d1180d4982ae7cbb1cf2ba6225",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "That road had brought M\u2019uru home in chains.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "02dc2edbe5f14d858d19e3f0f01235f9",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "It had given Silvermoon relief, healers, soldiers, and an order strong enough to hold lines that would otherwise have broken. It had also taught Falanaras how easily necessity could make suffering useful. The power beneath his breastbone proved both truths each time he drew breath.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "7571c15e883648c9ae4dd3a8e8566e6c",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Kael\u2019thas no longer waited beyond the gateway as prince, promise, or destination. Somewhere in the broken world ahead, his forces served a cause Silvermoon had disowned. Outland had ceased to be the future offered to the sin\u2019dorei. It had become another front that could send enemies through their door.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ff1c420b89cc415799f7b6604adb6798",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras looked south across the divided battlefield. Alliance soldiers formed beneath blue standards. Paladins moved among them with gold held close to their armor. He could not see Edric. He could not see Caelir. The distance did not lessen what Hillsbrad had left between them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e694a56cb2934f9485025965d6898922",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Nearly a year had given the spared life time to become anything. Falanaras did not know what Edric had made of it. Mercy had preserved the question. It had never promised him the answer.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "26da30269230460e9f6e087fa6629b32",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Behind him, the Horde column waited: orcs beneath red banners, trolls with spears and shadow charms, tauren carrying staves and heavy packs, Forsaken standing too still among the living, and blood elves in crimson-edged plate. Some still distrusted the green in sin\u2019dorei eyes. Some still heard the wrongness in Blood Knight radiance. They had nevertheless placed their wounded beneath Theron\u2019s shields and their flanks beneath Lethira\u2019s arrows. They had given Falanaras command over their lives and taken command over his.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "c2bc9894f16f4200b29b71e071a67d05",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Belonging remained larger than what they possessed.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "55e462d6fa5d4e09b0a382ede93b09cb",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "They had reached trust in the places where trust mattered first.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "79c78bc367ac47dea6e030f6f723772f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath stopped beside him at the foot of the stairs. \u201CYou have crossed this before.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "42a43716452d41b19713dcf8868a0de4",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CYes.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "dfb28b97272a47759fecb5636878baed",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CAnything useful to say?\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "63357cfea0ff47b2914dd07d54329c0f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras watched green fire move across the vast opening. \u201CThe first step feels longer than it is.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "59f714b7411341368aacdf59a9f6c23a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath grunted. \u201CThat is not useful.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "dce65e4044724e099daca330b9da87f5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CIt is all the Portal taught me.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "49133593c2a44d0b965a8f21f5af61ef",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The signal horn sounded above them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "65122c09504847ed87ede957e0f5b39f",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Horde artillery opened from the north ridge. Alliance cannon answered from the south. Their shots crossed above the central stair and struck demonic positions visible through the gateway. Green fire buckled. For several breaths, the way into Outland stood open beneath impacts from enemies who had agreed on nothing except the target.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5b3c13688f9c45a5ab0992f1afdb8672",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Gorath raised his axe. \u201CForward.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ef989a8c6b8f42c1b3474dcda10818d5",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The company climbed.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "49f2b4ed0ab849789d7658cc458d3385",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Theron\u2019s shields surrounded the front ranks. Lethira\u2019s rangers moved between files with arrows ready. Jazreth\u2019s darkness gathered close enough to receive whatever waited beyond sight. Mavren marched with his repaired arm fixed around the angled grip. Tahu\u2019s staff struck each stair with the steadiness of a second heartbeat. Gorath\u2019s carved stones clicked beneath the Horde pennants at his belt.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "ea8b62fb383c435cab885df854cd845a",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The phoenix standard rose among them.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e7d8f283bc8b4b4686a9325e5b20be65",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "At the threshold, M\u2019uru\u2019s pain sharpened through Falanaras\u2019s bond. Rynel\u2019s last command returned with it. Kael\u2019thas\u2019s severed promise followed. So did his father beneath the ruins of House Dawnspear, Liadrin\u2019s broken prayers at the inner gate, Edric kneeling beneath his sword, and Caelir turning away across a battlefield.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "e580ade46b98499f8011a44fe96f24b0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "He carried every cost. None became lighter because another war required him.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "47f46c6f43324156b5e60ecf8aa7b789",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Falanaras stepped into the green fire.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "1c15c738b4d241bca05edde83d7aa148",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The first step was no longer than the rest.",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "aca068b88f314030a0195850d30796ab",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    }
+  ],
   "manuscriptId": "3fb0845d-a173-463c-b2f6-df73770ae8eb",
-  "revision": 2,
+  "revision": 3,
   "schemaVersion": 4
 }

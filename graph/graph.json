@@ -11777,10 +11777,12 @@
     },
     {
       "key": "441ef7e7649247b2bca82b1f8cdda33b",
-      "label": "A short month before the next war",
+      "label": "A year of roads between wars",
       "nodeType": "Event",
       "properties": {
-        "summary": "No more than a month or two after Silvermoon\u2019s admission to the Horde and the first blood shed at Hillsbrad, the pace of events has left little time for certainty. The blood elves have begun finding practical footholds within the Horde through patrols, shared supply, mixed commands, and battlefield necessity, but trust remains partial and provisional."
+        "description": "Nearly a year has passed since Hillsbrad. The intervening months contain further patrols, campaigns, losses, and uneasy service within the Horde\u2014enough shared history to change habits and deepen battlefield trust, while remaining deliberately open for later stories. Silvermoon\u2019s place in the Horde is still imperfect, but it is no longer merely a diplomatic promise.",
+        "summary": "Nearly a year has passed since Hillsbrad. The intervening months contain further patrols, campaigns, losses, and uneasy service within the Horde\u2014enough shared history to change habits and deepen battlefield trust, while remaining deliberately open for later stories. Silvermoon\u2019s place in the Horde is still imperfect, but it is no longer merely a diplomatic promise.",
+        "temporalContinuity": "Nearly a year after the fighting at Hillsbrad."
       }
     },
     {
