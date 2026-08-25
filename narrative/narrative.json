@@ -468,14 +468,6 @@
       "sortOrder": null
     },
     {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "4def5cd0-b8c6-4501-8294-9ad1d570c86b",
-      "isIncluded": true,
-      "key": "entity:5617472cf4424dee97a6bee0756b9767",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
       "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
       "id": "50db2e30-0fee-4518-bf51-2387e5d48090",
       "isIncluded": false,
@@ -592,14 +584,6 @@
       "id": "73de3cb0-5e3f-44a2-bebc-b83cad172829",
       "isIncluded": false,
       "key": "entity:de90faa6c6ca45539b3d769721ff5c72",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "76723373-da2f-40a7-8d7b-d898dfaa60c3",
-      "isIncluded": true,
-      "key": "entity:c119f961b5084ab693fbe6c1a6fbf19e",
       "kind": "Entity",
       "sortOrder": null
     },
@@ -756,14 +740,6 @@
       "sortOrder": null
     },
     {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "a4e3835b-3600-4fba-929b-7748baca12d8",
-      "isIncluded": true,
-      "key": "entity:ae78c4a646444f00a33b52a8ae74e3d8",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
       "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
       "id": "a6ca5298-5d3c-48bc-9e4d-0a8f0544e74c",
       "isIncluded": true,
@@ -832,30 +808,6 @@
       "id": "b64186bf-78ec-4852-afd7-af9926650bc3",
       "isIncluded": false,
       "key": "entity:6997d1c2eec048a196f120e2d686b8da",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "b676bbdb-eb79-4b1e-ad64-f6de9b303d94",
-      "isIncluded": true,
-      "key": "entity:b64a47c97ee44534abfcdc5c53143f0b",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "b68c8917-877e-494e-8bc2-8ff751a59809",
-      "isIncluded": true,
-      "key": "entity:68c4b4332d7b4ce990c9c2fcae5891cc",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "b6b91f41-4bcc-4275-aeab-1f56554d4b04",
-      "isIncluded": true,
-      "key": "entity:de0ef969c3d140baafac8c92e3522e3f",
       "kind": "Entity",
       "sortOrder": null
     },
@@ -988,14 +940,6 @@
       "sortOrder": null
     },
     {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "d1d70435-a64e-4dbd-b20d-b038567a8bb8",
-      "isIncluded": true,
-      "key": "entity:367f20ffadf44e87ace8210597534efd",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
       "chapterId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
       "id": "d1db173f-5a3f-4855-8e93-e7dbfa128858",
       "isIncluded": true,
@@ -1072,14 +1016,6 @@
       "id": "e07acc93-3e46-4360-af04-cc7b881d31a9",
       "isIncluded": true,
       "key": "entity:e8c1ba35a65d4f84b9315aa4b41ed604",
-      "kind": "Entity",
-      "sortOrder": null
-    },
-    {
-      "chapterId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-      "id": "e35a9d88-641a-4e56-bab4-4400474fc20f",
-      "isIncluded": true,
-      "key": "entity:3f73cd49056d4e528a03a7a732627bb1",
       "kind": "Entity",
       "sortOrder": null
     },

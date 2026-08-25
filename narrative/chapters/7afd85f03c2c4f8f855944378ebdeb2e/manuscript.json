@@ -28,7 +28,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras crossed first with his sword in hand and felt Silvermoon vanish behind him. The spell released him onto rain-dark flagstones inside the ruins of a gatehouse. Cold entered through the joints of his armor before his sight cleared. Broken walls enclosed a receiving yard where Forsaken wardens stood around a second ring cut into the stone. Beyond them, dead trees bent across the hills of Tirisfal, and the remains of Lordaeron\u2019s capital rose against the eastern gloom.",
+          "text": "Falanaras crossed first with his sword on his back and felt Silvermoon vanish behind him. The spell released him onto rain-dark flagstones inside the ruins of a gatehouse. Cold entered through the joints of his armor before his sight cleared. Broken walls enclosed a receiving yard where Forsaken wardens stood around a second ring cut into the stone. Beyond them, dead trees bent across the hills of Tirisfal, and the remains of Lordaeron\u2019s capital rose against the eastern gloom.",
           "type": "text"
         }
       ],
@@ -50,7 +50,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The Forsaken did not raise their weapons. One deathguard watched the green fel light in Falanaras\u2019s eyes with open dislike, then gave the receiving circle a soldier\u2019s inspection. No one had promised affection on either side.",
+          "text": "The Forsaken did not raise their weapons. One deathguard watched the green fel light in Falanaras\u2019s eyes with faint curiosity, then gave the receiving circle a soldier\u2019s inspection. No one had promised affection on either side.",
           "type": "text"
         }
       ],
@@ -94,7 +94,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThe return circle remains keyed for six hours,\u201D Rommath said. \u201CAfter that, Silvermoon must open it from our side.\u201D",
+          "text": "\u201CThe return circle remains keyed for six hours,\u201D Rommath said. \u201CAfter that, Silvermoon must open it from their side.\u201D",
           "type": "text"
         }
       ],
@@ -138,7 +138,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Serenya Duskrunner stepped from the ruined arch. She wore the same dark leathers as at the signal stone, though Undercity\u2019s black arrowhead marked one shoulder. Four dark rangers accompanied her. Falanaras recognized two from southern Eversong. Their presence eased nothing in Liadrin\u2019s posture, but the honor guard received them as known soldiers rather than a fresh threat.",
+          "text": "Serenya Duskrunner stepped from the ruined arch. She wore the same dark leathers as at the signal stone, though Undercity\u2019s black arrowhead marked one shoulder. Four dark rangers accompanied her. Falanaras recognized two from southern Eversong. Their presence eased nothing in Liadrin\u2019s posture, but the honor guard received them as known soldiers.",
           "type": "text"
         }
       ],
@@ -160,7 +160,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Serenya gave Lor\u2019themar a shallow bow. \u201CMy queen waits below. The Horde representatives have begun arriving.\u201D",
+          "text": "Serenya gave Lor\u2019themar a shallow bow. \u201CThe banshee queen waits below. The Horde representatives have begun arriving.\u201D",
           "type": "text"
         }
       ],
@@ -424,7 +424,7 @@
       "content": [
         {
           "marks": [],
-          "text": "An orc quartermaster stopped counting spearheads as the sin\u2019dorei passed. His eyes settled on the green light in Falanaras\u2019s face, then shifted to the gold beneath Liadrin\u2019s green eyes. He touched two fingers to the brown skin at his own throat, where a darker green showed above his armor.",
+          "text": "An orc quartermaster stopped counting spearheads as the sin\u2019dorei passed. His eyes settled on the green light in Falanaras\u2019s face, then shifted to the gold beneath Liadrin\u2019s green eyes. He touched two fingers to his own green skin above the gorget, acknowledging the resemblance without pretending their histories were identical.",
           "type": "text"
         }
       ],
@@ -880,7 +880,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin stepped forward. \u201CThe captive remains unnamed.\u201D",
+          "text": "Liadrin stepped forward. \u201CYou intend to place the Blood Knights before them as evidence against us.\u201D",
           "type": "text"
         }
       ],
@@ -902,7 +902,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CIts name is irrelevant to the judgment,\u201D Sylvanas replied. \u201CThe Horde knows enough to fear the method. Concealment beyond that would only make cowards of us all.\u201D",
+          "text": "\u201CAs evidence,\u201D Sylvanas replied. \u201CWhat judgment follows is theirs. The Horde knows enough to fear the method. Concealment beyond that would only make cowards of us all.\u201D",
           "type": "text"
         }
       ],
@@ -924,7 +924,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CWe will describe what we do,\u201D Liadrin said. \u201CWe will not surrender every secret beneath Silvermoon to earn a hearing.\u201D",
+          "text": "\u201CWe will answer for what we do,\u201D Liadrin said. \u201CWe will not surrender the workings beneath Silvermoon to earn a hearing.\u201D",
           "type": "text"
         }
       ],
@@ -946,7 +946,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Sylvanas regarded her for a moment. \u201CA sensible limit. Keep it until Thrall decides whether it resembles wisdom or evasion.\u201D",
+          "text": "Sylvanas regarded her for a moment. \u201CA sensible limit. Keep it until Thrall decides whether it resembles prudence or evasion.\u201D",
           "type": "text"
         }
       ],
@@ -1204,7 +1204,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras thought of the coerced priest smiling through tears. \u201CRecognition does not make command safe.\u201D",
+          "text": "Falanaras remembered the anti-Horde priest in the Walk of Elders, his voice seized by magisters and forced to praise the alliance while tears ran down his face. \u201CRecognition does not make command safe.\u201D",
           "type": "text"
         }
       ],
@@ -1748,7 +1748,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin met his gaze. \u201CThe Blood Knights.\u201D",
+          "text": "Liadrin met his gaze.",
           "type": "text"
         }
       ],
@@ -1836,7 +1836,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI believe need makes refusal a choice with victims of its own.\u201D Liadrin kept both hands visible. \u201COur order saved defenders who would have died in southern Eversong. We broke Scourge workings our diminished magisters could not have broken in time. None of that makes the captive willing. None of it grants us innocence.\u201D",
+          "text": "\u201CI believe need makes refusal a choice with victims of its own.\u201D Liadrin kept both hands visible. \u201COur order saved defenders who would have died in southern Eversong. We broke Scourge workings our diminished magisters could not have broken in time. None of that dulls our captive\u0027s pain. None of it grants us innocence.\u201D",
           "type": "text"
         }
       ],
@@ -1880,7 +1880,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CDiscipline. Witness. The knowledge that power can answer before conscience finishes speaking.\u201D",
+          "text": "\u201CTraining. Command. Witness. We name misuse as failure even when it wins.\u201D",
           "type": "text"
         }
       ],
@@ -1902,7 +1902,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThose are restraints held by the hand that profits from them.\u201D",
+          "text": "\u201CYour order writes the law, wields the power, and judges the breach.\u201D",
           "type": "text"
         }
       ],
@@ -1968,7 +1968,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Sylvanas placed one hand on the table. \u201CThe Horde did not require the Forsaken to become pleasant before accepting our soldiers, roads, and war against the Scourge. Silvermoon offers the same practical proof. Its knights held a breached boundary beside my rangers. Its regent has accepted terms at Tranquillien that place blood elf and Forsaken troops under mutual limits. If moral purity is the price of admission, empty the chamber before you begin with them.\u201D",
+          "text": "Sylvanas placed one hand on the table. \u201CThe Horde did not require the Forsaken to become pleasant before accepting our soldiers, roads, and war against the Scourge. Silvermoon offers the same practical proof. Its knights held a breached boundary beside my rangers. Its regent has accepted terms at Tranquillien that place blood elf and Forsaken troops under mutual goals. If moral purity is the price of admission, empty the chamber before you begin with them.\u201D",
           "type": "text"
         }
       ],
@@ -2100,7 +2100,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CA demonstration in a hall proves that the power answers. It does not prove that you command yourself when pain, fear, and victory offer reasons to take more.\u201D",
+          "text": "\u201CA demonstration in a hall proves that the power answers,\u201D Thrall said. \u201CIt does not prove that your order can carry that power through resistance, obey the terms of a fight, and remain fit to stand beside Horde soldiers.\u201D",
           "type": "text"
         }
       ],
@@ -2122,7 +2122,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThen choose the pressure.\u201D",
+          "text": "\u201CThen choose the test.\u201D",
           "type": "text"
         }
       ],
@@ -2144,7 +2144,7 @@
       "content": [
         {
           "marks": [],
-          "text": "A low voice came from among the orc officers. \u201CI will.\u201D",
+          "text": "A low voice came from among the orc officers. \u201CI will test him.\u201D",
           "type": "text"
         }
       ],
@@ -2166,7 +2166,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Gorath Stonebinder rose. He wore layered mail beneath hides marked with ocher and ash. His black hair had been bound behind his head, and carved stones hung from his belt beside a one-handed axe. No fel taint marked him. The power around him moved through the floor and the moisture in the walls, quiet until acknowledged.",
+          "text": "Gorath Stonebinder rose. He wore layered mail beneath hides marked with ocher and ash. His black hair had been bound behind his head, and carved stones hung from his belt beside a one-handed axe. Rain-dark green skin showed at his throat and across his broad hands. The power around him moved through the floor and the moisture in the walls, quiet until acknowledged.",
           "type": "text"
         }
       ],
@@ -2188,7 +2188,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour armor carries stolen Light. I want to know which corruption speaks when your blood is hot.\u201D",
+          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour hands carry stolen Light. Your people call both disciplined. I want to see what that word means when steel answers back.\u201D",
           "type": "text"
         }
       ],
@@ -2210,7 +2210,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CNeither speaks,\u201D Falanaras said. \u201CI do.\u201D",
+          "text": "\u201CThen watch,\u201D Falanaras said.",
           "type": "text"
         }
       ],
@@ -2314,7 +2314,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin fastened Falanaras\u2019s final shoulder clasp. \u201CThe test is not whether you can defeat him.\u201D",
+          "text": "Liadrin fastened Falanaras\u2019s final shoulder clasp. \u201CThey expect power.\u201D",
           "type": "text"
         }
       ],
@@ -2336,7 +2336,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CIt will become that when he starts trying to defeat me.\u201D",
+          "text": "\u201CGorath will have it.\u201D",
           "type": "text"
         }
       ],
@@ -2358,7 +2358,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThen remember the second question.\u201D Her fingers tightened once against the plate. \u201CWhat do you do when the victory is yours?\u201D",
+          "text": "\u201CGive them no reason to mistake discipline for timidity.\u201D Her fingers tightened once against the plate. \u201CFight as a Blood Knight. Win by the terms you accept.\u201D",
           "type": "text"
         }
       ],
@@ -2622,7 +2622,7 @@
       "content": [
         {
           "marks": [],
-          "text": "A line of stone teeth tore across the courtyard. Falanaras drew a narrow measure of Light. M\u2019uru\u2019s pain entered with it, a fractured tone beneath the rain. Red-gold radiance formed along his left arm and spread into a slanted barrier. The first stone shattered against it. The second forced him back. He let the ward break before the third could feed his instinct to strengthen it, stepped through the collapse, and cut toward Gorath\u2019s shoulder.",
+          "text": "A line of stone teeth tore across the courtyard. Falanaras called the Light hard. M\u2019uru\u2019s pain entered with it, a fractured tone beneath the rain, and red-gold radiance surged along his left arm into a slanted barrier. The first stone exploded against it. He drove through the second impact, turned the ward like a shield, and smashed the third ridge aside before cutting toward Gorath\u2019s shoulder.",
           "type": "text"
         }
       ],
@@ -2754,7 +2754,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The captive Light waited close. He could flood the stone, burst it apart, and carry the same force through Gorath\u2019s ribs. The answer came so readily that for one breath it felt less like temptation than efficiency.",
+          "text": "The captive Light answered at once. Falanaras sent it through the stone in a violent pulse. The bands burst from his arms in smoking fragments, and the force carried into the axe haft between them, wrenching Gorath\u2019s grip open without crushing the ribs beneath it.",
           "type": "text"
         }
       ],
@@ -2776,7 +2776,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Rynel\u2019s last lesson returned without words. Power remained after the necessary measure. That was where choice began.",
+          "text": "Power without placement was waste. The spellbreaker\u2019s lesson had survived every change of weapon: find the point that governed the contest and break it.",
           "type": "text"
         }
       ],
@@ -2798,7 +2798,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras drew only enough to heat the stone bands until sudden expansion cracked them. He wrenched one hand free, struck the inside of Gorath\u2019s elbow, and tore the axe from his grip. The orc answered with his forehead. Falanaras\u2019s helm rang. Gorath surged upright, empty-handed and bleeding from one tusk.",
+          "text": "Falanaras tore one hand free, struck the inside of Gorath\u2019s elbow, and ripped the axe from his grip. The orc answered with his forehead. Falanaras\u2019s helm rang. Gorath surged upright, empty-handed and bleeding from one tusk, while broken stone hissed around their boots.",
           "type": "text"
         }
       ],
@@ -2886,7 +2886,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras had no steel to ground the strike and no stable footing from which to evade it. He could raise a barrier thick enough to endure. The current opened at his call. M\u2019uru\u2019s anguish sharpened as Falanaras took more than before, feeding radiance upward until a crimson-gold arch covered him.",
+          "text": "Falanaras had no steel to ground the strike and no stable footing from which to evade it. He planted both boots, opened himself to the current, and took enough Light to make the air recoil. M\u2019uru\u2019s anguish sharpened as crimson-gold radiance vaulted over him in a broad arch, its surface layered like heated plate.",
           "type": "text"
         }
       ],
@@ -2930,7 +2930,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The ward bent nearly to his shoulders. Light and lightning filled the courtyard with red-white glare. Falanaras\u2019s boots drove into mud between the stones. Every muscle demanded another reach toward the waiting power. He gave the barrier no more. Instead he angled its face and let the bolt travel along the curve into the flooded courtyard.",
+          "text": "The ward caught the bolt and bent nearly to his shoulders. Light and lightning filled the courtyard with red-white glare. Falanaras roared beneath the impact, turned the barrier\u2019s face, and forced the elemental current along its curve into the flooded stones. Thunder rolled under the arcades as the redirected strike split flagstones on both sides of him.",
           "type": "text"
         }
       ],
@@ -2974,7 +2974,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras dropped the barrier at once. The released Light condensed around his right hand, no larger than a shield boss. He crossed the distance through the steam and struck Gorath\u2019s chest with the compact force. The orc left his feet and hit the base of a broken pillar hard enough to split its remaining plaster.",
+          "text": "Falanaras collapsed the barrier forward. Its released force condensed around his right fist in a blazing mass and drove him through the steam. He struck Gorath squarely in the chest. The orc left his feet and hit the base of a broken pillar hard enough to split its remaining plaster.",
           "type": "text"
         }
       ],
@@ -3018,7 +3018,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras retrieved the shaman\u2019s axe and came within striking distance. Red-gold fire ran along the edge. Gorath\u2019s throat lay exposed above his armor.",
+          "text": "Falanaras retrieved the shaman\u2019s axe and crossed the last steps. Red-gold fire raced from his gauntlet along the blade, bright enough to gild the rain.",
           "type": "text"
         }
       ],
@@ -3040,7 +3040,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Victory was available. So was the wound that would make it undeniable.",
+          "text": "Gorath\u2019s throat lay exposed, but the duel had named its law before either weapon was drawn: no killing stroke; yield ended the fight.",
           "type": "text"
         }
       ],
@@ -3062,7 +3062,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras ended the draw. The radiance vanished from the axe. He lowered the blade until its edge rested against Gorath\u2019s breastplate rather than his neck.",
+          "text": "Falanaras brought the axe down. Its burning edge stopped against the iron rim of Gorath\u2019s breastplate, close enough that heat raised steam from the rainwater there. The force in Falanaras\u2019s arm remained ready, visible, and entirely still.",
           "type": "text"
         }
       ],
@@ -3106,7 +3106,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Gorath looked at the dead edge, then at Falanaras\u2019s face. Rain ran through the blood at his mouth.",
+          "text": "Gorath looked at the burning edge, then at Falanaras\u2019s face. Rain ran through the blood at his mouth.",
           "type": "text"
         }
       ],
@@ -3128,7 +3128,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou could have broken the stone sooner,\u201D he said.",
+          "text": "\u201CYou had the stroke,\u201D he said.",
           "type": "text"
         }
       ],
@@ -3150,7 +3150,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYes.\u201D",
+          "text": "\u201CI had the victory.\u201D",
           "type": "text"
         }
       ],
@@ -3172,7 +3172,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou could have struck harder at the end.\u201D",
+          "text": "\u201CAnd the terms.\u201D",
           "type": "text"
         }
       ],
@@ -3216,7 +3216,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Gorath released his hand from the earth. \u201CI yield.\u201D",
+          "text": "Gorath released his hand from the earth. \u201CI yield.\u201D Only then did Falanaras dismiss the fire along the axe.",
           "type": "text"
         }
       ],
@@ -3298,7 +3298,7 @@
       "content": [
         {
           "marks": [],
-          "text": "No one pretended the duel had answered Cairne\u2019s objection. M\u2019uru remained captive beneath Silvermoon. Fel still shone in sin\u2019dorei eyes. Kael\u2019thas\u2019s betrayal remained recent enough to stain every promise made in his wake. Falanaras had proved only that one Blood Knight could stop while advantage remained. The Horde would have to decide what one measured choice was worth against the risks of a nation.",
+          "text": "No one pretended the duel had answered Cairne\u2019s objection. M\u2019uru remained captive beneath Silvermoon. Fel still shone in sin\u2019dorei eyes. Kael\u2019thas\u2019s betrayal remained recent enough to stain every promise made in his wake. Falanaras had proved that Blood Knight power could withstand a shaman\u2019s full assault, answer with overwhelming force, and remain governed by skill, command, and agreed terms. The Horde still had to decide whether one warrior\u2019s honor could stand as evidence for an order and a nation.",
           "type": "text"
         }
       ],
@@ -3672,7 +3672,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou stopped today.\u201D Gorath\u2019s gaze moved to the bandages beneath Falanaras\u2019s gauntlets. \u201CI will want to see whether you stop when the person beneath your blade is an enemy.\u201D",
+          "text": "\u201CYou fought with power enough to kill me,\u201D Gorath said. His gaze moved to the bandages beneath Falanaras\u2019s gauntlets. \u201CYou spent it on victory instead.\u201D",
           "type": "text"
         }
       ],
@@ -3694,7 +3694,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CSo will I,\u201D Falanaras said.",
+          "text": "\u201CThe terms forbade killing.\u201D",
           "type": "text"
         }
       ],
@@ -3716,7 +3716,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Gorath considered the answer and nodded once. \u201CThen perhaps we will both have the chance.\u201D",
+          "text": "Gorath considered the answer and nodded once. \u201CTerms are easy in a courtyard. I will want to see how you keep them when an enemy gives none.\u201D",
           "type": "text"
         }
       ],
@@ -3804,7 +3804,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The return transit would not open for another hour. Falanaras stood among new allies beneath a dead kingdom and listened to them decide where Silvermoon\u2019s soldiers would bleed first. The Horde had admitted the sin\u2019dorei in law. Belonging waited beyond the next order, the next field, and the next moment when victory offered more power than restraint required.",
+          "text": "The return transit would not open for another hour. Falanaras stood among new allies beneath a dead kingdom and listened to them decide where Silvermoon\u2019s soldiers would bleed first. The Horde had admitted the sin\u2019dorei in law. Belonging waited beyond the next order, the next field, and the first time strangers trusted his strength beside them.",
           "type": "text"
         }
       ],
@@ -3822,6 +3822,6 @@
     }
   ],
   "manuscriptId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-  "revision": 4,
+  "revision": 32,
   "schemaVersion": 4
 }
