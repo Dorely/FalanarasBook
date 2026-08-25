@@ -314,7 +314,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Serenya\u2019s dead eyes shifted to him. \u201CThe distinction may comfort the living.\u201D",
+          "text": "Serenya\u2019s dead eyes shifted to him. \u201CThe distinction only hold meaning for the living.\u201D",
           "type": "text"
         }
       ],
@@ -1622,7 +1622,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin\u2019s jaw tightened. \u201CIf you mean M\u2019uru, name the captive.\u201D",
+          "text": "Liadrin\u2019s jaw tightened. \u201CIf you mean the Blood Knights, speak plainly.\u201D",
           "type": "text"
         }
       ],
@@ -1644,7 +1644,7 @@
       "content": [
         {
           "marks": [],
-          "text": "A colder interest entered Sylvanas\u2019s expression. \u201CSo the rumors are modest. Good. The Horde will prefer an ugly truth it can measure.\u201D",
+          "text": "A colder interest entered Sylvanas\u2019s expression. \u201CI mean the captive source from which your knights draw. So that much of the rumor is true. Good. The Horde will prefer an ugly truth it can measure.\u201D",
           "type": "text"
         }
       ],
@@ -1732,7 +1732,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CSilvermoon petitions as a nation prepared to join, not as a client seeking charity. If admitted, you answer Horde calls with soldiers, intelligence, and passage where your territory makes passage necessary. You coordinate with Forsaken forces against the Scourge from the Plaguelands to the runestone boundary. You do not use our dead as a convenient shield while reserving every victory for yourselves.\u201D",
+          "text": "\u201CSilvermoon petitions as a nation prepared to join, not as a client seeking charity. If admitted, you answer Horde calls with soldiers, intelligence, and passage where your territory makes passage necessary. You coordinate with Forsaken forces against the Scourge from the Plaguelands to the runestone boundary. You do not use our undead as a convenient shield while reserving every victory for yourselves.\u201D",
           "type": "text"
         }
       ],
@@ -1850,28 +1850,6 @@
       "figurePresentation": null,
       "headingLevel": null,
       "id": "e3a018b897fd4f7186f193d3bb086a04",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
-          "text": "\u201CI remember.\u201D The words held no plea. \u201CI also remember dying because the southern approaches were too weak and help was too far away. I will not repeat the error to protect your comfort.\u201D",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "a470313f129e4aa8b4e6c7cfd073b808",
       "imageId": null,
       "language": null,
       "pageCompositionId": null,
@@ -2282,7 +2260,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou will come to Undercity,\u201D Sylvanas said. \u201CThe Horde will judge you where it can see what I am risking on your behalf.\u201D",
+          "text": "\u201CYou will come to the Undercity,\u201D Sylvanas said. \u201CThe Horde will judge you where it can see what I am risking on your behalf.\u201D",
           "type": "text"
         }
       ],
@@ -3234,6 +3212,6 @@
     }
   ],
   "manuscriptId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-  "revision": 6,
+  "revision": 11,
   "schemaVersion": 4
 }
