@@ -6,7 +6,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Nearly a year passed between Hillsbrad and the morning Silvermoon ordered Falanaras south again.",
+          "text": "Falanaras reached Silvermoon\u2019s eastern gate before dawn, summoned in full armor and carrying orders that named only a southern deployment.",
           "type": "text"
         }
       ],
@@ -28,7 +28,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The interval did not feel empty. It had roads in it, and watches, and the wet stink of camps broken before dawn. It held orders carried between commanders who had once required interpreters and now knew one another\u2019s curses. Armor had been repaired, damaged again, and repaired with materials from three nations. Men who had first shared a battlefield by political accident had learned who snored, who cheated at dice, who kept the last watch without complaint, and who became dangerous when silence lasted too long.",
+          "text": "The departure yard was already awake. Quartermasters moved between provision carts with slate boards and bad tempers. Armorers checked shield rims beneath mage-light. A stablehand swore at a hawkstrider that had learned to bite anyone wearing a red sash.",
           "type": "text"
         }
       ],
@@ -50,7 +50,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Some of those months survived in official reports: roads held, couriers recovered, raiders driven away from settlements whose names meant little in Silvermoon. The rest remained in scar tissue, missing buckles, private debts, and remarks that made sense only to the soldiers who had been there. Hillsbrad had ceased to be the last thing they had done together. It remained the first.",
+          "text": "Nothing in the preparations suggested ceremony. The wagons carried field dressings, spare bowstrings, warding rods, and grain sealed against wet weather. Officers spoke in the clipped tones used when the destination had been withheld from most of the column and the people who knew it disliked the answer.",
           "type": "text"
         }
       ],
@@ -72,7 +72,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The Horde banner still hung beside the phoenix above Silvermoon\u2019s eastern gate. Its warding no longer required repair every morning. Someone still found a way to paint an obscenity across the lower stone once each week, but the words had become less ambitious. Habit was accomplishing what proclamations and arrests had failed to do. The foreign colors had entered the city\u2019s ordinary arguments.",
+          "text": "The Horde banner hung beside the phoenix above Silvermoon\u2019s eastern gate. Its warding held. An obscenity crossed the lower stone in hurried black paint, shorter and less inventive than the last one. Citizens passed beneath the foreign colors on their way to the mana stalls, arguing over prices without looking up.",
           "type": "text"
         }
       ],
@@ -270,7 +270,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Their ease had changed over the year. It had become quicker, less protective. They no longer used humor to convince one another that the company might survive. They used it because survival had acquired routine tasks and routine tasks invited complaint.",
+          "text": "Lethira\u2019s mouth twitched. Theron had already turned to the quartermaster\u2019s slate, the matter of mismatched boots settled to his satisfaction.",
           "type": "text"
         }
       ],
@@ -2558,6 +2558,6 @@
     }
   ],
   "manuscriptId": "3fb0845d-a173-463c-b2f6-df73770ae8eb",
-  "revision": 3,
+  "revision": 5,
   "schemaVersion": 4
 }
