@@ -2122,7 +2122,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CA demonstration in a hall proves that the power answers,\u201D Thrall said. \u201CIt does not prove your order keeps its oath when victory places another warrior at its mercy, or that it is fit to stand beside Horde soldiers.\u201D",
+          "text": "\u201CA demonstration in a hall proves that the power answers,\u201D Thrall said. \u201CIt does not prove that your order can fight with honor, and be fit to stand beside Horde soldiers.\u201D",
           "type": "text"
         }
       ],
@@ -2210,7 +2210,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour hands carry stolen Light. Your people swear honor governs both. I want to see whether that oath survives when power answers back.\u201D",
+          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour hands carry stolen Light. Your people call both power. I want to see what that word means when power answers back.\u201D",
           "type": "text"
         }
       ],
@@ -3172,7 +3172,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras stepped back and offered him the axe handle first. Gorath accepted it, rose with a grimace, and gave him a warrior\u2019s nod. Respect had entered the space between them. Trust had not followed.",
+          "text": "Falanaras stepped back and offered him the axe handle first. Gorath accepted it, rose with a grimace, and gave him a warrior\u2019s nod. Respect had entered the space between them. Trust had not yet followed.",
           "type": "text"
         }
       ],
@@ -3756,6 +3756,6 @@
     }
   ],
   "manuscriptId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-  "revision": 58,
+  "revision": 61,
   "schemaVersion": 4
 }
