@@ -1,5 +1,5 @@
 {
-  "contentHash": "fcba3edce83042d21f5bd4a6946aebdbe01bd856abf7026e08a26246ac809b3e",
+  "contentHash": "e39abb94aeeb41e04661f5481db7de4c157bcc3c251eac2be3de915b02294ac7",
   "files": [
     {
       "length": 5474,
@@ -37,9 +37,9 @@
       "sha256": "dee88f16029bd49e2c38cb2503243c7dd67f912a4a7301e8439fdeff02902919"
     },
     {
-      "length": 526926,
+      "length": 528101,
       "path": "graph/graph.json",
-      "sha256": "aa61982c040a776308303987bd5fb38933fe929e60e817c856e578400decde2f"
+      "sha256": "2032bf93dd9b29242a163fa93d41296dfdbf27cb49482336bcb5e1a788b78f42"
     },
     {
       "length": 679,
@@ -89,12 +89,12 @@
     {
       "length": 2307,
       "path": "narrative/chapters/2eb3ee6bbdb142a5a8b80f739fe293d2/chapter.json",
-      "sha256": "03d2881c745326ec22ca57310e7d0a543b3268bc59194c6f0e76436359cc7515"
+      "sha256": "267359787fab1dd79a93c46fa662eda85960212fc080991252e70787d3e631a0"
     },
     {
-      "length": 121,
+      "length": 162954,
       "path": "narrative/chapters/2eb3ee6bbdb142a5a8b80f739fe293d2/manuscript.json",
-      "sha256": "ba2e542aab6fb6a8416768ec8d6096fcc0b1b0abfa053b8ce8b7e139c6e82bb6"
+      "sha256": "b447897e3637a5c4b5501c198c58a2583c2bde1940117e11301ceedf68b27004"
     },
     {
       "length": 2199,
@@ -237,9 +237,9 @@
       "sha256": "4f59e298bf7fa1465f1a4ac2467c69895e689a4e2d6cae6222938755acd2f23d"
     },
     {
-      "length": 53587,
+      "length": 53849,
       "path": "narrative/narrative.json",
-      "sha256": "e730a5e5ca57aef7dbc6a6cc0f6299d040dbeed989226f22bc8a57d2bcfab6a9"
+      "sha256": "981ed6f8c71c5b0aac721d19959bbaf4d835ad4a08f9c58e01920d2e54141b11"
     },
     {
       "length": 2405,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "244c25d60a745540abc8873c191ccc30ef7503317ed8aa7bd4131aefa07ef726",
+  "manifestHash": "49034d4d1b83f46f6cb2b52cb780466e1da2692f73b4b6258d69556a7cd67dee",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
