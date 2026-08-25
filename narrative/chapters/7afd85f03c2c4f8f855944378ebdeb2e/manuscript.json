@@ -682,7 +682,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Varimathras\u2019s wings opened a handspan. Fel pressure thickened the chamber.",
+          "text": "Varimathras\u2019s wings opened a handspan. Fel pressure thickened the chamber. \u201CCareful, magister. Silvermoon cages a holy creature and feeds its streets with fel. The difference between servant and master may trouble you sooner than you imagine.\u201D",
           "type": "text"
         }
       ],
@@ -704,7 +704,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CEnough,\u201D Sylvanas said.",
+          "text": "Rommath drew breath to answer. \u201CEnough,\u201D Sylvanas said.",
           "type": "text"
         }
       ],
@@ -726,7 +726,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The single word ended the pressure. Varimathras folded his wings. His hatred remained visible, but he lowered his head.",
+          "text": "The word cut through the fel pressure. Varimathras held himself rigid for one dangerous breath. Then his wings folded, the heat withdrew, and he lowered his head. Obedience cost him visibly.",
           "type": "text"
         }
       ],
@@ -748,7 +748,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Sylvanas turned her red gaze upon Rommath. \u201CHe serves because I permit him to survive. You may draw whatever lesson seems useful.\u201D",
+          "text": "Sylvanas turned her red gaze upon Rommath. \u201CHe offered me his brothers to purchase his life. He serves because I continue to find value in his survival. Draw whatever lesson seems useful.\u201D",
           "type": "text"
         }
       ],
@@ -770,7 +770,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CSeveral,\u201D Rommath said.",
+          "text": "\u201CSeveral,\u201D Rommath said. \u201CNone flattering.\u201D",
           "type": "text"
         }
       ],
@@ -1572,7 +1572,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Vol\u2019jin rested both hands on the carved staff beside his chair. \u201CAnd what of the trolls, Regent Lord? Your walls stand on land the Amani remember as theirs. Their hatred of you be older than this Horde.\u201D",
+          "text": "Lor\u2019themar continued before another question could come. \u201CThere remains the matter of the Amani. They joined the old Horde in burning our forests and still seek our destruction. Silvermoon will not enter any alliance that asks us to forget Zul\u2019jin\u2019s claim upon Quel\u2019Thalas.\u201D",
           "type": "text"
         }
       ],
@@ -1594,7 +1594,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThe Amani joined the old Horde in burning our forests,\u201D Lor\u2019themar said. \u201CThey continue to seek our destruction. Silvermoon will not purchase peace by surrendering Quel\u2019Thalas to Zul\u2019jin.\u201D",
+          "text": "Vol\u2019jin\u2019s fingers tightened around his staff. \u201CWho be askin\u2019 you to forget? You speak of da Amani and look to me. You think tusks make one tribe answer for another?\u201D",
           "type": "text"
         }
       ],
@@ -1616,7 +1616,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI did not ask you to.\u201D Vol\u2019jin\u2019s expression did not soften. \u201CDarkspear blood is troll blood. It does not belong to the Amani. My tribe chose dis Horde and fights beside peoples our ancestors never knew. If you enter, you learn that difference. You do not spit \u2018troll\u2019 and expect old wars to answer for every one of us.\u201D",
+          "text": "\u201CI think an old war will enter this alliance whether either of us invites it,\u201D Lor\u2019themar said.",
           "type": "text"
         }
       ],
@@ -1638,7 +1638,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Lethira spoke from behind Lor\u2019themar. \u201CAmani arrows and Darkspear spears are easy to distinguish when they are pointed at the same Scourge line.\u201D",
+          "text": "\u201CDen learn who stands before you. Darkspear blood be troll blood, but it do not belong to Zul\u2019jin. Da Amani chose their war. My tribe chose dis Horde, and we bled beside peoples our ancestors never knew. If Silvermoon joins us, you name your enemies true. You do not spit \u2018troll\u2019 and make every tribe carry da Amani\u2019s crimes. Bring that pride into dis Horde, and it poison every line we try to hold.\u201D",
           "type": "text"
         }
       ],
@@ -1660,7 +1660,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Vol\u2019jin looked at her ranger bow. \u201CYou seen that line?\u201D",
+          "text": "Lethira spoke from behind Lor\u2019themar. \u201CAmani arrows have pointed north all my life. I have no cause to place a Darkspear spear beside them unless its wielder does.\u201D",
           "type": "text"
         }
       ],
@@ -1682,7 +1682,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI have seen Forsaken arrows hold it. I am willing to judge the next soldier by where they stand.\u201D",
+          "text": "Vol\u2019jin looked at her ranger bow. \u201CYou seen a Darkspear spear hold your line?\u201D",
           "type": "text"
         }
       ],
@@ -1704,7 +1704,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CA useful beginning,\u201D Vol\u2019jin said. \u201CPride can still poison it.\u201D",
+          "text": "\u201CNot yet,\u201D Lethira said. \u201CI have seen Forsaken arrows do it. I can judge the next soldier by where they stand.\u201D",
           "type": "text"
         }
       ],
@@ -1712,6 +1712,28 @@
       "figurePresentation": null,
       "headingLevel": null,
       "id": "f3ad80b903c4406a9cbbc6a636b57565",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "\u201CDat be a beginning,\u201D Vol\u2019jin said. \u201CKeep your pride from poisoning it.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "887ad53f98f84332980e8703f6399fa5",
       "imageId": null,
       "language": null,
       "pageCompositionId": null,
@@ -2100,7 +2122,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CA demonstration in a hall proves that the power answers,\u201D Thrall said. \u201CIt does not prove that your order can fight with honor, and be fit to stand beside Horde soldiers.\u201D",
+          "text": "\u201CA demonstration in a hall proves that the power answers,\u201D Thrall said. \u201CIt does not prove your order keeps its oath when victory places another warrior at its mercy, or that it is fit to stand beside Horde soldiers.\u201D",
           "type": "text"
         }
       ],
@@ -2188,7 +2210,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour hands carry stolen Light. Your people call both power. I want to see what that word means when power answers back.\u201D",
+          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour hands carry stolen Light. Your people swear honor governs both. I want to see whether that oath survives when power answers back.\u201D",
           "type": "text"
         }
       ],
@@ -2358,7 +2380,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CGive them no reason to mistake discipline for timidity.\u201D Her fingers tightened once against the plate. \u201CFight as a Blood Knight. Win with honor\u201D",
+          "text": "\u201CGive them no reason to mistake discipline for timidity.\u201D Her fingers tightened once against the plate. \u201CFight as a Blood Knight. Win with honor.\u201D",
           "type": "text"
         }
       ],
@@ -3040,7 +3062,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Gorath\u2019s throat lay exposed, but the duel had named its law before either weapon was drawn: no killing stroke; yield ended the fight.",
+          "text": "Gorath\u2019s throat lay exposed. Falanaras had sworn himself to a duel without killing. Honor demanded that he end the contest by forcing Gorath\u2019s yield and spare the life already at his mercy.",
           "type": "text"
         }
       ],
@@ -3150,7 +3172,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras stepped back and offered him the axe handle first. Gorath accepted it, rose with a grimace, and gave him a warrior\u2019s nod. Respect had entered the space between them. Trust had not yet followed yet.",
+          "text": "Falanaras stepped back and offered him the axe handle first. Gorath accepted it, rose with a grimace, and gave him a warrior\u2019s nod. Respect had entered the space between them. Trust had not followed.",
           "type": "text"
         }
       ],
@@ -3210,7 +3232,7 @@
       "content": [
         {
           "marks": [],
-          "text": "No one pretended the duel had answered Cairne\u2019s objection. M\u2019uru remained captive beneath Silvermoon. Fel still shone in sin\u2019dorei eyes. Kael\u2019thas\u2019s betrayal remained recent enough to stain every promise made in his wake. Falanaras had proved that Blood Knight power could withstand a shaman\u2019s full assault, answer with overwhelming force, and remain governed by skill, command, and honor. The Horde still had to decide whether one warrior\u2019s honor could stand as evidence for an order and a nation.",
+          "text": "No one pretended the duel had answered Cairne\u2019s objection. M\u2019uru remained captive beneath Silvermoon. Fel still shone in sin\u2019dorei eyes. Kael\u2019thas\u2019s betrayal remained recent enough to stain every promise made in his wake. Falanaras had proved that Blood Knight power could withstand a shaman\u2019s full assault, answer with overwhelming force, and remain governed by skill, command, and an oath honored at the point of victory. The Horde still had to decide whether one warrior\u2019s honor could stand as evidence for an order and a nation.",
           "type": "text"
         }
       ],
@@ -3628,7 +3650,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Gorath considered the answer and nodded once. \u201CTerms are easy in a courtyard. I will want to see how you keep them when an enemy gives none.\u201D",
+          "text": "Gorath considered the answer and nodded once. \u201CAn oath is easy in a courtyard, with witnesses and a friendly voice to call the end. I will see whether yours holds when an enemy offers no honor in return.\u201D",
           "type": "text"
         }
       ],
@@ -3694,7 +3716,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CTrust is what nations call dependence after enough graves accumulate.\u201D Her gaze drifted briefly toward the ceiling, beyond which ruined Lordaeron endured the rain. \u201CQuel\u2019Thalas has survived without the word. It can earn the practice.\u201D",
+          "text": "\u201CTrust from the others will take time,\u201D Sylvanas said. Her gaze drifted briefly toward the ceiling, beyond which ruined Lordaeron endured the rain. \u201CYour people already have the trust of the Forsaken. My rangers have watched sin\u2019dorei hold the same line, and they do not grant that judgment lightly. Let the rest learn.\u201D",
           "type": "text"
         }
       ],
@@ -3734,6 +3756,6 @@
     }
   ],
   "manuscriptId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-  "revision": 57,
+  "revision": 58,
   "schemaVersion": 4
 }
