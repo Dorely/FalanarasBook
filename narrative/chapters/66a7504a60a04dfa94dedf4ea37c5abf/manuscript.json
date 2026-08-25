@@ -1776,7 +1776,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CTerritory unheld is a claim written for the benefit of maps.\u201D Sylvanas\u2019s nail rested over Tranquillien. \u201CMy scouts already bleed on those roads. They will continue using them. They will raise no banner and establish no permanent post until boundaries are agreed. In return, your rangers share signals, your commanders answer warnings, and your patrols stop treating every Forsaken movement as an invasion.\u201D",
+          "text": "\u201CTerritory unheld is a claim written for the benefit of maps.\u201D Sylvanas\u2019s nail rested over Tranquillien. \u201CMy scouts already bleed on those roads. I want the town cleared and rebuilt as a joint base of operations. Forsaken and Farstrider patrols will provision there, exchange intelligence there, and strike against Deatholme from the same road. Neither force will raise a sovereign banner over it.\u201D",
           "type": "text"
         }
       ],
@@ -1798,7 +1798,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Halduron had sent Lethira with authority over field practice. She stepped to the map. \u201CSignals can be shared by assigned units. Joint operations require named commanders and defined objectives. Your scouts withdraw south of the boundary when the objective ends.\u201D",
+          "text": "Halduron had sent Lethira with authority over field practice. She stepped to the map. \u201CTranquillien remains blood elf territory. The base answers to paired commanders, one ranger and one Forsaken. Garrison strength is agreed in advance, stores are counted by both forces, and no unit moves north of the runestone boundary without warning. Joint operations require defined objectives.\u201D",
           "type": "text"
         }
       ],
@@ -1842,7 +1842,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI remember.\u201D The words held no plea. Sylvanas\u2019s gaze moved past Lethira to the broken stair, and for one breath the ruin held her attention without serving any argument. \u201CI also remember dying because the southern approaches were too weak and help was too far away. I will not repeat the error to protect your comfort.\u201D",
+          "text": "\u201CI remember.\u201D The words held no plea. Sylvanas\u2019s gaze moved past Lethira to the broken stair, and for one breath the ruin held her attention without serving any argument. \u201CI also remember dying because the southern approaches were too weak and help was too far away. Keep your paired command and your ledgers. Tranquillien must hold long enough to matter. I will not repeat the old error to protect your comfort.\u201D",
           "type": "text"
         }
       ],
@@ -1864,7 +1864,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The argument continued through patrol numbers, supply caches, courier rights, and the treatment of wounded taken by the other force. Every term exposed another place where trust was absent and cooperation might still function. Falanaras understood why Sylvanas had chosen a ruined home. No polished chamber could have held the conversation honestly. They were bargaining over how much of the wound each side could enter without claiming it.",
+          "text": "The argument continued through garrison strength, supply caches, courier rights, command disputes, and the treatment of wounded taken by the other force. Every term exposed another place where trust was absent and cooperation might still function. Falanaras understood why Sylvanas had chosen a ruined home. No polished chamber could have held the conversation honestly. They were bargaining over how much of the wound each side could enter without claiming it.",
           "type": "text"
         }
       ],
@@ -2238,7 +2238,7 @@
       "content": [
         {
           "marks": [],
-          "text": "By dusk they had a provisional understanding. Forsaken scouts could continue operating along the Ghostlands roads without territorial claim. Assigned ranger units would share warnings and coordinate limited actions against the Scourge. No force would cross the restored boundary in strength without invitation except to pursue an immediate threat. Silvermoon would petition for Horde membership and accept military obligations if admitted. Sylvanas would carry the petition before Thrall and the other leaders.",
+          "text": "By dusk they had a provisional understanding. Blood elf and Forsaken forces would clear Tranquillien and establish a joint base under paired field command, without surrendering Quel\u2019Thalas\u2019s territorial claim or granting the Forsaken a separate one. Agreed numbers of rangers and Forsaken scouts could provision there, share warnings, and coordinate limited actions against the Scourge. No force would cross the restored boundary into Eversong in strength without invitation except to pursue an immediate threat. Silvermoon would petition for Horde membership and accept military obligations if admitted. Sylvanas would carry the petition before Thrall and the other leaders.",
           "type": "text"
         }
       ],
@@ -3212,6 +3212,6 @@
     }
   ],
   "manuscriptId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-  "revision": 11,
+  "revision": 12,
   "schemaVersion": 4
 }
