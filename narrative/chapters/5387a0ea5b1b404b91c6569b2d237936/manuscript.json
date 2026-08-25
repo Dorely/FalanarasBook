@@ -1094,7 +1094,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CAir ward!\u201D Falanaras drove his glaive\u2019s lower blade into a seam in the rock. Six spellbreakers answered. Their barriers rose in overlapping red planes as another volley descended. Fel fire spread across them, hungry and corrosive. He caught the leading current and opened it to the line. Power broke into measured threads. Spellbreakers, infantry, and the rangers nearest the gaps drew together, thinning the volley while Falanaras turned its remaining force along the ward\u2019s edge.",
+          "text": "\u201CAir ward!\u201D Falanaras drove his glaive\u2019s lower blade into a seam in the rock. Six spellbreakers answered. Overlapping red planes rose above the file as another volley descended. The fel bolts struck armor, runed shields, and barriers trained to deny hostile magic an easy hold. Fire spread across them, hungry and corrosive, but the curse within it could not fasten to the spellbreakers beneath. Falanaras caught the leading current and opened its loose power to the whole line. Spellbreakers, infantry, and the rangers nearest the gaps drew measured threads together, thinning the volley while he turned the undrained force along the ward\u2019s edge. Daric dragged the first burned soldier beneath the cover. Green flame still clung to the man\u2019s cloak and tried to enter the wound. A spellbreaker hooked that completed burning into the ring of his glaive, lifted it whole from the soldier, and cast it onto a diving attacker. The creature\u2019s own fire closed over its wings.",
           "type": "text"
         }
       ],
@@ -1116,7 +1116,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Rangers fired through the gaps, steadied by the stolen heat. One creature spun into the gorge with three arrows buried in its throat. Another struck the barrier feetfirst, claws shrieking across the spell. The infantry beneath it seized at the magic in its limbs; the creature faltered as several small draws weakened the force holding it aloft. Falanaras released the ward, stepped beneath the falling body, and cut upward with both blades. Black blood struck the cliff. The creature crashed across the path and nearly carried him over the edge.",
+          "text": "Rangers fired through the gaps, steadied by the stolen heat. One creature spun into the gorge with three arrows buried in its throat. The spellbreakers cast their glaives at those gathering another volley. Each blade cut hide and tore power out through the wound; fel light burst inside the attackers as their lost magic became injury. Two dropped before they could release. Another struck the barrier feetfirst, claws shrieking across the red plane. The infantry beneath it seized at the magic in its limbs, their smaller draws weakening the force that held it aloft. Falanaras released the ward, stepped beneath the falling body, and cut upward with both blades. Black blood struck the cliff. The creature crashed across the path and nearly carried him over the edge.",
           "type": "text"
         }
       ],
@@ -1226,7 +1226,7 @@
       "content": [
         {
           "marks": [],
-          "text": "He crossed the distance before the thought completed. His glaive caught the burning magic around the creature\u2019s chest. Falanaras took a measured surge, enough to harden his grip against the heat, then wrenched the deeper current sideways before its abundance could pull him after it. The flame guttered. Liadrin drove her shield beneath its jaw. Daric\u2019s soldiers thrust together into the exposed throat, and Althene\u2019s arrow vanished through one molten eye.",
+          "text": "He crossed the distance before the thought completed. A mantle of furnace fire wrapped the creature\u2019s chest, fed its wings, and hardened the scales around its heart. Falanaras caught that active enchantment between the glaive\u2019s blades. He took a measured surge from its outer heat to steady his grip, then stripped the mantle from the demon and cast the stolen fire across Liadrin\u2019s shield. Her iron face burned white-green without consuming. The creature\u2019s chest went dark and vulnerable. Liadrin drove the strengthened shield beneath its jaw. Daric\u2019s soldiers thrust together into the exposed throat, and Althene\u2019s arrow vanished through one cooling eye.",
           "type": "text"
         }
       ],
@@ -3278,6 +3278,6 @@
     }
   ],
   "manuscriptId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
-  "revision": 9,
+  "revision": 10,
   "schemaVersion": 4
 }

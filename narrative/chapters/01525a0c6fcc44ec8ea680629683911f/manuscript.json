@@ -160,7 +160,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras raised the shield. Rynel sent a narrow bolt of force at him. The spell hit the rim, slid along the etched runes, and burst against the paving stones in a shower of cold sparks. The recoil went through Falanaras\u2019s elbow and shoulder. He caught it, gathered the loose fragments of the spell as he had been taught, and flung them back. Rynel turned them aside with one gauntleted hand.",
+          "text": "Falanaras raised the shield. Rynel sent a narrow bolt of force at him. The spell hit the rim, slid along the etched runes, and burst against the paving stones in a shower of cold sparks without taking hold. Before the recoil left Falanaras\u2019s shoulder, a brass practice ward unfolded beside Rynel and cast bands of blue force around Theron\u2019s ankles. A second current hardened the ward\u2019s thin legs against attack. Falanaras caught the binding on the hook of his glaive, peeled it from Theron, and laid it across the ward instead. In the same turn he stripped away the strengthening current and sent it around Theron\u2019s armor, where blue light settled into the joints. The ward strained against its own restraint and tried to fire again. Falanaras found the command inside the conjuration, closed his will around that simpler purpose, and turned its crystal eye toward the straw target at the edge of the court. Its next bolt struck where he directed.",
           "type": "text"
         }
       ],
@@ -182,7 +182,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CBetter,\u201D the captain said. \u201CYou drew from the wyrm, then you used the work. That is the order. If you begin feeding because you enjoy the feeling of power, you will lose the order. If you lose the order, you become dangerous to the people behind you.\u201D",
+          "text": "\u201CBetter,\u201D the captain said. \u201CYou resisted what was meant to alter you. You moved completed workings instead of wasting strength making new ones. You took the ward because it is a made thing with a command simple enough to seize. Do not mistake that for command over a living caster.\u201D He glanced at the caged wyrm. \u201CAnd you drew before you began. That is the order. If feeding becomes the purpose rather than preparation, you become dangerous to the people behind you.\u201D",
           "type": "text"
         }
       ],
@@ -2202,6 +2202,6 @@
     }
   ],
   "manuscriptId": "01525a0c-6fcc-44ec-8ea6-80629683911f",
-  "revision": 39,
+  "revision": 40,
   "schemaVersion": 4
 }

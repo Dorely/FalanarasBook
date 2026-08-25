@@ -1402,7 +1402,7 @@
       "content": [
         {
           "marks": [],
-          "text": "They found organized resistance near a bridge choked with refugees. A dozen soldiers held the southern approach behind a wall of overturned carts. Their commander wore blue-and-silver spellbreaker plate and carried a crescent glaive in one hand. Scourge magic struck the shield on his other arm in ropes of green fire. The runes around its rim caught the spell, divided it, and flung the remnants into the paving stones.",
+          "text": "They found organized resistance near a bridge choked with refugees. A dozen soldiers held the southern approach behind a wall of overturned carts. Their commander wore blue-and-silver spellbreaker plate and carried a crescent glaive in one hand. Scourge magic struck the shield on his other arm in ropes of green fire. The runes around its rim divided the hostile current and shed it into the paving stones without letting the spell take hold. Rynel answered with a short, flat cast of his glaive. The blade crossed the carts, cut the necromancer\u2019s raised arm, and tore power out through the wound. Green fire burst from the caster\u2019s mouth as the loss became injury. The glaive curved back into Rynel\u2019s hand.",
           "type": "text"
         }
       ],
@@ -1798,7 +1798,7 @@
       "content": [
         {
           "marks": [],
-          "text": "A necromancer appeared at the far end of the bridge. Frost gathered around his raised hands. Rynel advanced alone. He turned his shield into the spell, caught its force in the runes, and staggered beneath it. The captain\u2019s teeth bared. With a hard sweep of his glaive, he sent the stolen frost back across the bridge. The necromancer froze from the waist down. Lethira\u2019s arrow finished him.",
+          "text": "A necromancer appeared at the far end of the bridge. Frost gathered around his raised hands. Rynel advanced alone. He turned his shield into the spell. The runes resisted the freezing command and divided the impact across his armor, though the force still drove him back a step. His glaive left his hand in a hard, flat cast. The blade cut through the necromancer\u2019s forearm and tore power out through the wound. Cold burst inside the caster as the magical loss became injury; his legs locked beneath him. Lethira\u2019s arrow finished him. The glaive curved back into Rynel\u2019s hand.",
           "type": "text"
         }
       ],
@@ -3712,6 +3712,6 @@
     }
   ],
   "manuscriptId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
-  "revision": 49,
+  "revision": 52,
   "schemaVersion": 4
 }

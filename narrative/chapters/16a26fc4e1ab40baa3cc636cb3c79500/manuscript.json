@@ -1732,7 +1732,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CCapacity without obedience is another form of weakness,\u201D she told the remaining candidates. \u201CYou know this from mana tapping. The Light does not excuse appetite. It gives appetite a sharper weapon.\u201D",
+          "text": "\u201CCapacity without obedience is another form of weakness,\u201D she told the remaining candidates. \u201CYou know this from taking power out of living currents. The Light does not excuse appetite. It gives appetite a sharper weapon.\u201D",
           "type": "text"
         }
       ],
@@ -1754,7 +1754,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Daric endured his transfer with clenched teeth and a stare fixed on the cage. When the bond settled, he produced a flare of force that cracked a practice shield and nearly knocked its bearer into the wall. Liadrin made him repeat the exercise until he could move the shield without bruising the soldier behind it.",
+          "text": "Daric endured his transfer with clenched teeth and a stare fixed on the cage. When the bond settled, he drew a practice sword and bound radiance along its edge. The stored Light released through his first strike in a compact burst that cracked a shield and nearly knocked its bearer into the wall. Liadrin made him repeat the exercise until he could choose how much of the bound force left the weapon. On the final attempt the shield moved one pace, the soldier behind it remained unbruised, and no radiance lingered on the blade after purpose ended.",
           "type": "text"
         }
       ],
@@ -1776,7 +1776,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Althene approached the Light as she approached a narrow trail: testing each step, wasting nothing. Her first healing attempt sealed a cut on Selorien\u2019s forearm so precisely that Astalor asked whether she had served in a temple. She told him rangers learned to keep people alive where temples were unavailable.",
+          "text": "Althene approached the Light as she approached a narrow trail: testing each step, wasting nothing. Her first healing attempt sealed a cut on Selorien\u2019s forearm in a quick pulse so precisely that Astalor asked whether she had served in a temple. She told him rangers learned to keep people alive where temples were unavailable. Liadrin then gave her a harder injury: a practice burn laced with a harmless arcane irritant that kept the skin inflamed. Althene learned to send the Light through the wound without closing it first. The foreign current came out as blue smoke. Only then did she seal the flesh.",
           "type": "text"
         }
       ],
@@ -1798,7 +1798,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Theron\u2019s bond resisted for almost a minute. He stood inside the receiving circle with his shield planted before him, sweat darkening his collar as the stolen radiance broke around his armor. Liadrin watched from the circle\u2019s edge and ordered him to hold. Then the current found him. A curved wall of gold rose from the shield\u2019s rim and held against three magisters\u2019 practice bolts.",
+          "text": "Theron\u2019s bond resisted for almost a minute. He stood inside the receiving circle with his shield planted before him, sweat darkening his collar as the stolen radiance broke around his armor. Liadrin watched from the circle\u2019s edge and ordered him to hold. Then the current found him. A low, steady gold spread from his stance into the three candidates nearest him. Their shoulders settled. Their footing firmed. When the magisters sent practice bolts toward the group, Theron raised his shield and the same sustained current folded forward into a curved wall from its rim. Three impacts broke against it. The quieter strength around his companions remained until he dismissed it.",
           "type": "text"
         }
       ],
@@ -1952,7 +1952,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Theron removed one gauntlet and placed his palm over Caerith\u2019s sternum. His first attempt produced a flash that made the injured elf flinch. Theron withdrew at once. He tried again with less force. The Light gathered around his fingers in an uneven glow, entered the burns, and spread beneath the skin. Caerith\u2019s next breath reached the bottom of his lungs.",
+          "text": "Theron removed one gauntlet and placed his palm over Caerith\u2019s sternum. His first attempt produced a flash that made the injured elf flinch. Theron withdrew at once. A shallow wound could have closed under that brief force; the damage beneath Caerith\u2019s burns lay around lungs, heart, and exhausted muscle. Theron called a slower current and held it. The Light gathered around his fingers in an uneven glow, entered the burns, and spread deeper with each breath. Caerith\u2019s next breath reached the bottom of his lungs. The one after it came without a catch.",
           "type": "text"
         }
       ],
@@ -2414,7 +2414,7 @@
       "content": [
         {
           "marks": [],
-          "text": "A practice target stood at the far edge of the chamber, armored in wards meant to imitate Scourge resistance. Falanaras drew his glaive and let his spellbreaker senses enter the bond. The target\u2019s protections showed themselves as layered currents. He found the weakest crossing, fed the stolen Light through it, and struck.",
+          "text": "A practice target stood at the far edge of the chamber, armored in layered wards meant to imitate Scourge resistance. Falanaras drew his glaive. The Light was not hostile magic to drain, but his spellbreaker training still showed him where the target\u2019s protections crossed and which layer governed the rest. He bound red-gold radiance along the crescent blade and gave the stored force a point of release: the weakest crossing, on contact, and nowhere else.",
           "type": "text"
         }
       ],
@@ -2436,7 +2436,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Red-gold radiance ran down the crescent blade. The first impact stripped the outer ward. The second split the target from shoulder to hip and left the cut edges smoking.",
+          "text": "The first strike released only enough holy force to rupture the governing ward. The remaining protections dimmed with it. Falanaras rebound the Light along the blade, stepped through the opening, and discharged the second store into the target\u2019s armored center. Red-gold fire crossed from shoulder to hip and left the cut edges smoking. The glaive went dark the instant the work was complete.",
           "type": "text"
         }
       ],
@@ -3718,6 +3718,6 @@
     }
   ],
   "manuscriptId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
-  "revision": 11,
+  "revision": 13,
   "schemaVersion": 4
 }
