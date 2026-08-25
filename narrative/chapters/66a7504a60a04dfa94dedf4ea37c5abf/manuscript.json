@@ -1842,7 +1842,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI remember.\u201D The words held no plea. Sylvanas\u2019s gaze moved past Lethira to the broken stair, and for one breath the ruin held her attention without serving any argument. \u201CI also remember dying because the southern approaches were too weak and help was too far away. Keep your paired command and your ledgers. Tranquillien must hold long enough to matter. I will not repeat the old error to protect your comfort.\u201D",
+          "text": "Lethira met her gaze. \u201CI remember.\u201D The words carried no plea.",
           "type": "text"
         }
       ],
@@ -1850,6 +1850,28 @@
       "figurePresentation": null,
       "headingLevel": null,
       "id": "e3a018b897fd4f7186f193d3bb086a04",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Sylvanas\u2019s gaze moved past Lethira to the broken stair. For one breath, the ruin held her attention without serving any argument. When she looked back, her voice had hardened. \u201CThen remember where weak southern defenses led us. I died waiting for help that could not reach us. Keep your paired command and your ledgers. Tranquillien must hold long enough to matter. I will not repeat that failure to protect your comfort.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "5d40ac497c7a4d64ad11f0972f4f6dce",
       "imageId": null,
       "language": null,
       "pageCompositionId": null,
@@ -3212,6 +3234,6 @@
     }
   ],
   "manuscriptId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-  "revision": 12,
+  "revision": 13,
   "schemaVersion": 4
 }
