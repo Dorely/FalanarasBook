@@ -424,7 +424,7 @@
       "content": [
         {
           "marks": [],
-          "text": "An orc quartermaster stopped counting spearheads as the sin\u2019dorei passed. His eyes settled on the green light in Falanaras\u2019s face, then shifted to the gold beneath Liadrin\u2019s green eyes. He touched two fingers to his own green skin above the gorget, acknowledging the resemblance without pretending their histories were identical.",
+          "text": "An orc quartermaster stopped counting spearheads as the sin\u2019dorei passed. His eyes settled on the green light in Falanaras\u2019s face, then shifted to the gold beneath Liadrin\u2019s green eyes. He touched two fingers to his own green skin above the gorget, acknowledging the resemblance.",
           "type": "text"
         }
       ],
@@ -2100,7 +2100,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CA demonstration in a hall proves that the power answers,\u201D Thrall said. \u201CIt does not prove that your order can carry that power through resistance, obey the terms of a fight, and remain fit to stand beside Horde soldiers.\u201D",
+          "text": "\u201CA demonstration in a hall proves that the power answers,\u201D Thrall said. \u201CIt does not prove that your order can fight with honor, and be fit to stand beside Horde soldiers.\u201D",
           "type": "text"
         }
       ],
@@ -2188,7 +2188,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour hands carry stolen Light. Your people call both disciplined. I want to see what that word means when steel answers back.\u201D",
+          "text": "\u201CYour eyes carry fel,\u201D Gorath said. \u201CYour hands carry stolen Light. Your people call both power. I want to see what that word means when power answers back.\u201D",
           "type": "text"
         }
       ],
@@ -2358,7 +2358,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CGive them no reason to mistake discipline for timidity.\u201D Her fingers tightened once against the plate. \u201CFight as a Blood Knight. Win by the terms you accept.\u201D",
+          "text": "\u201CGive them no reason to mistake discipline for timidity.\u201D Her fingers tightened once against the plate. \u201CFight as a Blood Knight. Win with honor\u201D",
           "type": "text"
         }
       ],
@@ -2380,7 +2380,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras drew his two-handed sword. He had left the spellbreaker glaive behind when he entered Liadrin\u2019s order, but its lessons remained in his hands: read the hostile current, find where intent passed into power, break the use rather than chase the source.",
+          "text": "Falanaras drew his two-handed sword. He had left the spellbreaker glaive behind when he entered Liadrin\u2019s order, but its lessons remained in his hands: read the hostile current, find where intent passed into power, break the use, subdue the source.",
           "type": "text"
         }
       ],
@@ -2798,7 +2798,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras tore one hand free, struck the inside of Gorath\u2019s elbow, and ripped the axe from his grip. The orc answered with his forehead. Falanaras\u2019s helm rang. Gorath surged upright, empty-handed and bleeding from one tusk, while broken stone hissed around their boots.",
+          "text": "Falanaras tore one hand free, struck the inside of Gorath\u2019s elbow, and ripped the axe from his grip. The orc answered with his forehead. Falanaras\u2019s helm rang. Gorath surged upright, empty-handed and blood dripping from one tusk, while broken stone hissed around their boots.",
           "type": "text"
         }
       ],
@@ -2930,7 +2930,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The ward caught the bolt and bent nearly to his shoulders. Light and lightning filled the courtyard with red-white glare. Falanaras roared beneath the impact, turned the barrier\u2019s face, and forced the elemental current along its curve into the flooded stones. Thunder rolled under the arcades as the redirected strike split flagstones on both sides of him.",
+          "text": "The barrier caught the bolt and bent nearly to his shoulders. Light and lightning filled the courtyard with red-white glare. Falanaras roared beneath the impact, turned the barrier\u2019s face, and forced the elemental current along its curve into the flooded stones. Thunder rolled under the arcades as the redirected strike split flagstones on both sides of him.",
           "type": "text"
         }
       ],
@@ -3128,95 +3128,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou had the stroke,\u201D he said.",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "f093ccd3fc374aaf892f52e2ef7ba08a",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
-          "text": "\u201CI had the victory.\u201D",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "e0ed37fcad4e4bffa3af6b2fa57ace68",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
-          "text": "\u201CAnd the terms.\u201D",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "23d1af2daf04423aabe226473289e20d",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
-          "text": "\u201CYes.\u201D",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "06c2fb9568794f168571532846e96ff7",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
-          "text": "Gorath released his hand from the earth. \u201CI yield.\u201D Only then did Falanaras dismiss the fire along the axe.",
+          "text": "Gorath released his hand from the earth. \u201CI yield.\u201D Only then did Falanaras dismiss the holy fire along the axe.",
           "type": "text"
         }
       ],
@@ -3238,7 +3150,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras stepped back and offered him the axe handle first. Gorath accepted it, rose with a grimace, and gave him a warrior\u2019s nod. Respect had entered the space between them. Trust had not followed yet.",
+          "text": "Falanaras stepped back and offered him the axe handle first. Gorath accepted it, rose with a grimace, and gave him a warrior\u2019s nod. Respect had entered the space between them. Trust had not yet followed yet.",
           "type": "text"
         }
       ],
@@ -3298,7 +3210,7 @@
       "content": [
         {
           "marks": [],
-          "text": "No one pretended the duel had answered Cairne\u2019s objection. M\u2019uru remained captive beneath Silvermoon. Fel still shone in sin\u2019dorei eyes. Kael\u2019thas\u2019s betrayal remained recent enough to stain every promise made in his wake. Falanaras had proved that Blood Knight power could withstand a shaman\u2019s full assault, answer with overwhelming force, and remain governed by skill, command, and agreed terms. The Horde still had to decide whether one warrior\u2019s honor could stand as evidence for an order and a nation.",
+          "text": "No one pretended the duel had answered Cairne\u2019s objection. M\u2019uru remained captive beneath Silvermoon. Fel still shone in sin\u2019dorei eyes. Kael\u2019thas\u2019s betrayal remained recent enough to stain every promise made in his wake. Falanaras had proved that Blood Knight power could withstand a shaman\u2019s full assault, answer with overwhelming force, and remain governed by skill, command, and honor. The Horde still had to decide whether one warrior\u2019s honor could stand as evidence for an order and a nation.",
           "type": "text"
         }
       ],
@@ -3672,7 +3584,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou fought with power enough to kill me,\u201D Gorath said. His gaze moved to the bandages beneath Falanaras\u2019s gauntlets. \u201CYou spent it on victory instead.\u201D",
+          "text": "\u201CYou fought with power enough to kill me,\u201D Gorath said. His gaze moved to the bandages beneath Falanaras\u2019s gauntlets. \u201CYou fought with honor.\u201D",
           "type": "text"
         }
       ],
@@ -3694,7 +3606,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThe terms forbade killing.\u201D",
+          "text": "\u201CThat is our oath.\u201D",
           "type": "text"
         }
       ],
@@ -3822,6 +3734,6 @@
     }
   ],
   "manuscriptId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
-  "revision": 32,
+  "revision": 57,
   "schemaVersion": 4
 }

@@ -1710,7 +1710,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Twenty-one candidates entered the lower complex. Seven failed the first attempt. Two lost consciousness before a direct bond could settle. One former priest broke into sobbing when M\u2019uru\u2019s voice entered his mind and could not be persuaded to return. Three soldiers accepted the power easily, then continued pulling after Liadrin ordered the calibration ended. She dismissed them before Astalor finished recording their names.",
+          "text": "Twenty-one candidates entered the lower complex. Seven failed the first attempt. Two lost consciousness before a direct binding could be established. One former priest broke into sobbing when M\u2019uru\u2019s voice entered his mind and could not be persuaded to return. Three soldiers accepted the power easily, then continued pulling after Liadrin ordered the calibration ended. She dismissed them before Astalor finished recording their names.",
           "type": "text"
         }
       ],
@@ -3718,6 +3718,6 @@
     }
   ],
   "manuscriptId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
-  "revision": 8,
+  "revision": 10,
   "schemaVersion": 4
 }
