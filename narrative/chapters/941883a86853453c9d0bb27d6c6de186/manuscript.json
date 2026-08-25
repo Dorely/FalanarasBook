@@ -2276,7 +2276,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CToday it became cover for one.\u201D Varethis\u2019s expression remained calm. \u201CIf we wait until every dissenter chooses a weapon, Captain, we will fight the city street by street.\u201D",
+          "text": "\u201CToday it became cover for one.\u201D Varethis\u2019s expression remained calm.",
           "type": "text"
         }
       ],
@@ -2320,7 +2320,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Theron stood beside him, shield still raised. \u201CThe attack is contained,\u201D he said quietly. \u201CNo need to punish the ones it missed.\u201D",
+          "text": "Theron stood beside him, shield still raised. \u201CIf the state waits for every grievance to become an attack, we will fight the city street by street,\u201D he said quietly. \u201CThis attack is contained. No need to punish the ones it missed.\u201D",
           "type": "text"
         }
       ],
@@ -2534,7 +2534,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CVarethis was right that we would fight street by street if the state waited for every grievance to become an attack.\u201D Falanaras looked toward the Court, where the empty banner clasps caught the last light. \u201CYou were right that the attack was contained. That is what makes it dangerous.\u201D",
+          "text": "\u201CYou were right. We would fight street by street if the state waited for every grievance to become an attack.\u201D Falanaras looked toward the Court, where the empty banner clasps caught the last light. \u201CThe attack was contained. That is what makes it dangerous.\u201D",
           "type": "text"
         }
       ],
@@ -3168,6 +3168,6 @@
     }
   ],
   "manuscriptId": "941883a8-6853-453c-9d0b-b27d6c6de186",
-  "revision": 10,
+  "revision": 11,
   "schemaVersion": 4
 }
