@@ -28,7 +28,7 @@
       "content": [
         {
           "marks": [],
-          "text": "It stood beyond the restored runestone line where Eversong\u2019s enchanted spring gave way to the long sickness of the Ghostlands. White bark had grayed there. The grass lay in damp mats beneath thorn and ash, and the Dead Scar cut the eastern horizon with a darkness that morning could not soften. Falanaras waited ten paces behind Lethira with four Blood Knights and orders not to cross her line unless the meeting failed.",
+          "text": "It stood beyond the restored runestone line where Eversong\u2019s enchanted spring gave way to the long sickness of the Ghostlands. White bark had grayed there. The grass lay in damp mats beneath thorn and ash, and the Dead Scar cut the eastern horizon with a darkness that morning could not soften. Falanaras waited ten paces behind Lethira with four Blood Knights, far enough to leave the meeting hers and close enough to answer if she called.",
           "type": "text"
         }
       ],
@@ -116,7 +116,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The answer carried less bite than usual. She had opposed sending a written message through the field signals. Too many dark rangers had once read Thalassian hands, and too many of those hands now answered Sylvanas. So Lethira had come herself, carrying Halduron\u2019s authority and Lor\u2019themar\u2019s request beneath a cloak whose hem had collected the Ghostlands mud.",
+          "text": "The answer carried less bite than usual. The old field signals had carried warnings between their patrols since the incursion, but this request reached beyond troop movements and shared targets. Lethira had refused to trust its details to writing. So she had come herself, carrying Halduron\u2019s authority and Lor\u2019themar\u2019s request beneath a cloak whose hem had collected the Ghostlands mud.",
           "type": "text"
         }
       ],
@@ -138,7 +138,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Black-fletched arrows appeared first. Three points emerged between the trees, already fixed on gaps in Blood Knight armor. Serenya Duskrunner stepped into view after them. Rot had spared the precision of her movements. Her face remained the gray likeness of the ranger Lethira had known, emptied of warmth and sharpened by preservation spells. Five Forsaken followed in dark leathers, silent enough that the wet ground seemed to reject their weight.",
+          "text": "A black-fletched arrow stood in the wet earth at the clearing\u2019s southern edge, marking the safe approach before any ranger showed herself. Two undead scouts stepped from the trees with bows in hand and strings slack. Falanaras recognized both from the fighting in Eversong; one gave him the same brief field salute they had exchanged across the wounded. Serenya Duskrunner followed. Rot had spared the precision of her movements. Her face remained the gray likeness of the ranger Lethira had known, emptied of warmth and sharpened by preservation spells. Three more Forsaken followed in dark leathers and settled along the treeline in the loose scouting interval Lethira already knew.",
           "type": "text"
         }
       ],
@@ -3234,6 +3234,6 @@
     }
   ],
   "manuscriptId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-  "revision": 5,
+  "revision": 6,
   "schemaVersion": 4
 }
