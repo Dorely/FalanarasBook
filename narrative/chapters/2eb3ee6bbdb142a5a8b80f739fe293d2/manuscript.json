@@ -72,7 +72,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Theron checked the straps of his greatshield and looked toward the banner. \u201CIt has stopped smoldering.\u201D",
+          "text": "Theron checked the straps of his greatshield and looked toward the banner. \u201CIt is still hanging.\u201D",
           "type": "text"
         }
       ],
@@ -5088,6 +5088,6 @@
     }
   ],
   "manuscriptId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
-  "revision": 5,
+  "revision": 8,
   "schemaVersion": 4
 }
