@@ -50,7 +50,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras stood in the departure yard while quartermasters counted thirty-seven sin\u2019dorei into a force assembled to prove a kingdom\u2019s promise. Six Blood Knights wore black plate edged in crimson. Eight Farstriders waited with Lethira beneath oiled cloaks. The magisters had sent four battle-casters and an apprentice whose hands shook whenever he moved beyond the gate wards. Three men and one woman from Murder Row carried narrow blades, lock tools, and the expressions of people invited into respectable service because respectable methods had failed. A warlock named Aelthas Emberweave kept his hood raised and his felguard dismissed, though the demon\u2019s contract smoldered against the iron plates sewn into his coat.",
+          "text": "Falanaras stood in the departure yard while quartermasters counted thirty-seven sin\u2019dorei into a force assembled to prove a kingdom\u2019s promise. Six Blood Knights wore black plate edged in crimson. Eight Farstriders waited with Lethira beneath oiled cloaks. The magisters had sent four battle-casters and an apprentice whose hands shook whenever he moved beyond the gate wards. Three men and one woman from Murder Row carried narrow blades, lock tools, and the expressions of people invited into respectable service because respectable methods had failed. A warlock named Elthas Emberweave kept his hood raised and his felguard dismissed, though the demon\u2019s contract smoldered against the iron plates sewn into his coat.",
           "type": "text"
         }
       ],
@@ -116,7 +116,7 @@
       "content": [
         {
           "marks": [],
-          "text": "A mana line had formed across the square behind them. Citizens waited beneath the glow of a public wardstone while armed attendants measured each allotment. No one spoke of the ration station burned after the Horde agreement. Fresh plaster covered the scorch marks. Two magisters watched the line from a balcony, their hands folded in sleeves broad enough to hide spellwork.",
+          "text": "A mana line had formed across the square behind them. Citizens waited beneath the glow of a public wardstone while armed attendants measured each allotment. Two magisters watched the line from a balcony, their hands folded in sleeves broad enough to hide spellwork.",
           "type": "text"
         }
       ],
@@ -5088,6 +5088,6 @@
     }
   ],
   "manuscriptId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
-  "revision": 3,
+  "revision": 5,
   "schemaVersion": 4
 }
