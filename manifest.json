@@ -1,5 +1,5 @@
 {
-  "contentHash": "dbc31ed341854cdd8cbd9a218155ea12095bcf9d6ec4b27415d6ac95cdc1e639",
+  "contentHash": "fcba3edce83042d21f5bd4a6946aebdbe01bd856abf7026e08a26246ac809b3e",
   "files": [
     {
       "length": 5474,
@@ -37,9 +37,9 @@
       "sha256": "dee88f16029bd49e2c38cb2503243c7dd67f912a4a7301e8439fdeff02902919"
     },
     {
-      "length": 515184,
+      "length": 526926,
       "path": "graph/graph.json",
-      "sha256": "3406a1c3858ae7fdd4359c0f5731270c4035488ea7c869fe63d2645b92b483fc"
+      "sha256": "aa61982c040a776308303987bd5fb38933fe929e60e817c856e578400decde2f"
     },
     {
       "length": 679,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "0a73f6e71ac52ccd903517c59d885cc20afa57ac8b40f25509a11f1c195ccf7c",
+  "manifestHash": "244c25d60a745540abc8873c191ccc30ef7503317ed8aa7bd4131aefa07ef726",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
