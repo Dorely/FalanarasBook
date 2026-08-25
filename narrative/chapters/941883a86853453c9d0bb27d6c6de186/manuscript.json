@@ -314,7 +314,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CRegret does not alter the mechanism.\u201D Astalor\u2019s gaze stayed upon the layered seal he had exposed. \u201CIf they draw, M\u2019uru supplies them. If they overdraw, M\u2019uru suffers. Our ignorance of their conduct does not interrupt either fact.\u201D",
+          "text": "\u201CRegret does not alter the mechanism.\u201D Astalor\u2019s gaze stayed upon the layered seal he had exposed. \u201CIf they draw, M\u2019uru supplies them and suffers. If they waste the current, continue beyond purpose, or use it for cruelty, distance gives us no means to stop them. Our ignorance of their conduct does not interrupt any of those facts.\u201D",
           "type": "text"
         }
       ],
@@ -556,7 +556,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras had heard colder things from Astalor. Few had troubled him more. The argument left Silvermoon\u2019s compromises intact and set a boundary around them, yet the boundary depended upon the same hands already taking the power. Rynel had once stopped while strength remained in the ward-anchor. Sanguinar had reached farther because he could. Between those choices lay an entire kingdom\u2019s claim to discipline.",
+          "text": "Falanaras had heard colder things from Astalor. Few had troubled him more. The argument left Silvermoon\u2019s compromises intact and set a boundary around them, yet the boundary depended upon the same hands already taking the power. Rynel had spent what the escape required, then turned the strength away from his hunger and toward the soldiers depending on him. Sanguinar had continued after the agreed purpose ended because suffering pleased him. Between those choices lay an entire kingdom\u2019s claim to discipline.",
           "type": "text"
         }
       ],
@@ -3168,6 +3168,6 @@
     }
   ],
   "manuscriptId": "941883a8-6853-453c-9d0b-b27d6c6de186",
-  "revision": 11,
+  "revision": 12,
   "schemaVersion": 4
 }

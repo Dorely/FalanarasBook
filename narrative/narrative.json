@@ -15,7 +15,7 @@
     {
       "id": "74c05123-233e-4e93-9a63-a9375c2ff25d",
       "order": 2,
-      "synopsis": "After several months in which the Blood Knights prove their worth defending the runestone boundary and making dangerous deployments into the still-hostile Ghostlands, communication with Kael\u2019thas\u2019s Outland forces remains active and Silvermoon treats the prince\u2019s distant war as part of its promised future. Lord Sanguinar leads a violent Outland delegation that receives Blood Knight power to carry the order into Kael\u2019thas\u2019s army, disturbing Liadrin when he flaunts that power without restraint and injures another Blood Knight in sparring. The Dark Portal snaps shut without warning, and when it reopens no word comes from Kael\u2019thas himself. A Scryer messenger brings Lor\u2019themar a letter from Voren\u2019thal the Seer revealing the vision that drove the Scryers to defect: a future where the blood elves are freed from addiction and despair beneath a naaru\u2019s Holy Light, and a conviction that Kael\u2019thas is leading them away from that salvation. Kael\u2019thas rejects that path and desperately betrays Illidan\u2019s forces, seizing Tempest Keep and turning toward demonic power. Silvermoon severs allegiance, but many citizens refuse to believe Kael\u2019thas has fallen and unrest spreads around pro-prince loyalty and the proposed Horde alliance. With no safer power willing or near enough to help, Silvermoon turns the battlefield cooperation first proven when blood elves and Forsaken destroyed a Scourge incursion inside southern Eversong into formal negotiations through Sylvanas. Lor\u2019themar\u2019s delegation meets the Banshee Queen at ruined Windrunner Spire, where her ancestral claim on Quel\u2019Thalas and her present monstrosity make the bargain impossible to treat as ordinary diplomacy. Magisters impose order in Silvermoon with arrests, martial force, and magical coercion, leading to a fraught journey to Undercity, admission to the Horde, and a first battlefield test in Hillsbrad where Falanaras defeats but spares Edric Hale under the eyes of enemies and uneasy allies.",
+      "synopsis": "After several months in which the Blood Knights prove their worth defending the runestone boundary and making dangerous deployments into the still-hostile Ghostlands, communication with Kael\u2019thas\u2019s Outland forces remains active and Silvermoon treats the prince\u2019s distant war as part of its promised future. Lord Sanguinar leads a violent Outland delegation that receives Blood Knight power to carry the order into Kael\u2019thas\u2019s army. In sparring he legitimately wields substantial Light, then violates the agreed target, ignores yield, continues force after his opponent falls, and injures another Blood Knight without remorse. Liadrin sees how the order\u2019s strength can become cruelty when severed from command, accepted terms, and purpose. The Dark Portal snaps shut without warning, and when it reopens no word comes from Kael\u2019thas himself. A Scryer messenger brings Lor\u2019themar a letter from Voren\u2019thal the Seer revealing the vision that drove the Scryers to defect: a future where the blood elves are freed from addiction and despair beneath a naaru\u2019s Holy Light, and a conviction that Kael\u2019thas is leading them away from that salvation. Kael\u2019thas rejects that path and desperately betrays Illidan\u2019s forces, seizing Tempest Keep and turning toward demonic power. Silvermoon severs allegiance, but many citizens refuse to believe Kael\u2019thas has fallen and unrest spreads around pro-prince loyalty and the proposed Horde alliance. With no safer power willing or near enough to help, Silvermoon turns the battlefield cooperation first proven when blood elves and Forsaken destroyed a Scourge incursion inside southern Eversong into formal negotiations through Sylvanas. Lor\u2019themar\u2019s delegation meets the Banshee Queen at ruined Windrunner Spire, where her ancestral claim on Quel\u2019Thalas and her present monstrosity make the bargain impossible to treat as ordinary diplomacy. Magisters impose order in Silvermoon with arrests, martial force, and magical coercion, leading to a fraught journey to Undercity, admission to the Horde, and a first battlefield test in Hillsbrad where Falanaras defeats but spares Edric Hale under the eyes of enemies and uneasy allies.",
       "title": "Act III: Oaths of Severance"
     }
   ],
@@ -43,6 +43,14 @@
   },
   "bookBriefCanonSourceIds": [],
   "contextPreferences": [
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "041bf983-4223-408a-b6b9-dc3a3d3af9da",
+      "isIncluded": true,
+      "key": "entity:9ce012f951994b48be3b6059301d6512",
+      "kind": "Entity",
+      "sortOrder": null
+    },
     {
       "chapterId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
       "id": "042ffb11-381e-44b8-83bd-3f9f6918df9a",
@@ -132,6 +140,22 @@
       "sortOrder": null
     },
     {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "12f0bb31-7256-4593-be17-49026eeaf526",
+      "isIncluded": true,
+      "key": "entity:18073ac6a0c64355899d35fd8c13a744",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "13c05cd0-4d94-4b2b-9ee2-3f2a47b979c3",
+      "isIncluded": true,
+      "key": "entity:3f73cd49056d4e528a03a7a732627bb1",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
       "chapterId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
       "id": "14cef441-85a9-4b32-8a43-dcdfe67af2e6",
       "isIncluded": true,
@@ -184,6 +208,14 @@
       "id": "214a270e-f651-4272-921a-a27605a85365",
       "isIncluded": false,
       "key": "entity:19c63ea8ab1e482382310d45c9c3b21b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "218871ee-1034-4695-b275-e0baf1f6626e",
+      "isIncluded": true,
+      "key": "entity:2a7ef5756e444f38acc7a61ee2da89ef",
       "kind": "Entity",
       "sortOrder": null
     },
@@ -716,6 +748,14 @@
       "sortOrder": null
     },
     {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "9dbbafbd-83b1-48a7-8bd0-48b1f327bcd4",
+      "isIncluded": true,
+      "key": "entity:cd576107622f4e84bd31e3378cb0a16b",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
       "chapterId": "2c73696c-62ea-44f1-a5ab-e3371487261e",
       "id": "9e514097-6c66-4d7a-af1f-bf332496ca67",
       "isIncluded": false,
@@ -860,6 +900,14 @@
       "sortOrder": null
     },
     {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "c2984111-59e9-4312-9c41-8961bc37d195",
+      "isIncluded": true,
+      "key": "entity:4d94aecd5f054c2185da21d1c92ee81a",
+      "kind": "Entity",
+      "sortOrder": null
+    },
+    {
       "chapterId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
       "id": "c3d293a6-b80e-41fe-8908-18a6e3849110",
       "isIncluded": false,
@@ -961,6 +1009,14 @@
       "isIncluded": false,
       "key": "chapter:01525a0c6fcc44ec8ea680629683911f",
       "kind": "ChapterReference",
+      "sortOrder": null
+    },
+    {
+      "chapterId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
+      "id": "d95fc74a-ea10-4690-b10e-4476edb016f9",
+      "isIncluded": true,
+      "key": "entity:6ddf6c5f4de74b2e935fd8cba3029f38",
+      "kind": "Entity",
       "sortOrder": null
     },
     {
