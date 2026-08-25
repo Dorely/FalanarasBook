@@ -1594,7 +1594,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Sanguinar saluted. Daric did the same.",
+          "text": "Sanguinar and Daric gave their word to the terms, then saluted.",
           "type": "text"
         }
       ],
@@ -2122,7 +2122,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin\u2019s face had gone still. \u201CYou will leave at first transit tomorrow. You will take the three who completed the binding. The fourth remains here until he can face the truth inside the circle.\u201D",
+          "text": "Liadrin\u2019s face had gone still. \u201CAn enemy\u2019s dishonor does not release us from our own. You will leave at first transit tomorrow. You will take the three who completed the binding. The fourth remains here until he can face the truth inside the circle.\u201D",
           "type": "text"
         }
       ],
@@ -2276,7 +2276,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras looked toward the archway where Sanguinar had disappeared. The order had been founded to make necessity answer discipline. Sanguinar wanted victory freed from command, proportion, and the safety of anyone he did not consider an enemy. In his hands, strength ceased to serve and became permission.",
+          "text": "Falanaras looked toward the archway where Sanguinar had disappeared. The order had been founded to make necessity answer discipline. Sanguinar had given his word, then broken the oath beneath it when obedience ceased to please him. He wanted victory freed from command, proportion, and the safety of anyone he did not consider an enemy. In his hands, strength ceased to serve and became permission.",
           "type": "text"
         }
       ],
@@ -3712,6 +3712,6 @@
     }
   ],
   "manuscriptId": "27f5c381-f1d1-42c4-a269-c6901211ec82",
-  "revision": 8,
+  "revision": 9,
   "schemaVersion": 4
 }

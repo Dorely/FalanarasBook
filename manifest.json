@@ -1,5 +1,5 @@
 {
-  "contentHash": "65f6615e91cb58ba1819bd8011bfa92cec5a2c467224da52cf26905f558b43a8",
+  "contentHash": "35195a792264edfc8d70510f1be33bc085ed1602337565ffb8daa13d5ecee5a1",
   "files": [
     {
       "length": 5474,
@@ -37,9 +37,9 @@
       "sha256": "dee88f16029bd49e2c38cb2503243c7dd67f912a4a7301e8439fdeff02902919"
     },
     {
-      "length": 514640,
+      "length": 515184,
       "path": "graph/graph.json",
-      "sha256": "ea1356edca4874c4096c45232d6065ca4c716c874fc37be321f61b46b1677f0f"
+      "sha256": "3406a1c3858ae7fdd4359c0f5731270c4035488ea7c869fe63d2645b92b483fc"
     },
     {
       "length": 679,
@@ -59,22 +59,22 @@
     {
       "length": 2321,
       "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/chapter.json",
-      "sha256": "ed8c2b4de09c8c94c331db97da3a27e0029f4520d8d4f0f03c7cb942796eec10"
+      "sha256": "cf14b9eb7db53677cd3067156b6b87fcfa09c9580675d002ba71fb9584ae7cba"
     },
     {
-      "length": 119307,
+      "length": 119392,
       "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/manuscript.json",
-      "sha256": "1f377407bc77751f485542b7625edf811e8eb1844407e81000c347cdf6481928"
+      "sha256": "68c91275beb06f915f9c92ecfd4deea4442a4a460dca4120dc62f1e566e671bc"
     },
     {
       "length": 1666,
       "path": "narrative/chapters/27f5c381f1d142c4a269c6901211ec82/chapter.json",
-      "sha256": "42eceb08b087e13d27fa79215325ccc067ef0162642f1140b22e2ebed44995c6"
+      "sha256": "c63dbec164812f41106b614f7bdaacba02d87285be5ef7f3e02ccfe56705eea5"
     },
     {
-      "length": 119779,
+      "length": 119955,
       "path": "narrative/chapters/27f5c381f1d142c4a269c6901211ec82/manuscript.json",
-      "sha256": "699639461cc711475ac755cce0de383373c43b80c51bba188cdbf1ba147e54f9"
+      "sha256": "606cef24ba7fff639a5f27f1b899fa16a83aaed3523cf806ff90187cdc72e590"
     },
     {
       "length": 1788,
@@ -99,12 +99,12 @@
     {
       "length": 2199,
       "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/chapter.json",
-      "sha256": "d09bba6e5540e8006109a9e12352508736a25d5122c0c117743902ed294fd4c8"
+      "sha256": "e6dd1c34685125197d7915d681dc54d28d5c669286da9140004fed9d82c3b034"
     },
     {
-      "length": 119416,
+      "length": 118474,
       "path": "narrative/chapters/357236b439324c598be5438b334b1c3c/manuscript.json",
-      "sha256": "a01bd6a48859fa8270388e58c80135f9bf94445ca303749f44e9e89ec19fe478"
+      "sha256": "f338a439b9b5098567f15c2e5fa943daad99686c588f8f433824eb7a43953734"
     },
     {
       "length": 1507,
@@ -149,12 +149,12 @@
     {
       "length": 2506,
       "path": "narrative/chapters/66a7504a60a04dfa94dedf4ea37c5abf/chapter.json",
-      "sha256": "8369f164fbabf6aa1617883b6133f4cd643881acb472a152eb24f1a77d16ea10"
+      "sha256": "e80b502772c8c97a2dd0aa8551b640545f3b129e8a721cd08fe9aa6732e81a4b"
     },
     {
-      "length": 109193,
+      "length": 109212,
       "path": "narrative/chapters/66a7504a60a04dfa94dedf4ea37c5abf/manuscript.json",
-      "sha256": "d48f3aef5c2765d1e043b46e7e5814e39c7bd6be98e4a5fe700a2b6ff30380d5"
+      "sha256": "9bac14671b0959c31fa84ed0d36f4f12318005b6ec229e68d7c47ef9bccd07e9"
     },
     {
       "length": 2655,
@@ -169,12 +169,12 @@
     {
       "length": 1003,
       "path": "narrative/chapters/941883a86853453c9d0bb27d6c6de186/chapter.json",
-      "sha256": "d3e702d34d5f4af390a103a94a2008bf0824b652eb420b22fcb5eb62830be065"
+      "sha256": "fa2cc7fc4910cbdbca8397d2f5dc6bc531f21ebdc4318da23b23821e08940241"
     },
     {
-      "length": 110103,
+      "length": 110113,
       "path": "narrative/chapters/941883a86853453c9d0bb27d6c6de186/manuscript.json",
-      "sha256": "982826d8d5200bdf1a0dafabba7d792773e9979ab5a7fcc91014acfebd2bb5fc"
+      "sha256": "39e990ee2bea64a89e99ea0159c185b869902d6152ac7f2bc1818bbe8b3e03ce"
     },
     {
       "length": 2253,
@@ -268,7 +268,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "7ab8f1dd6b4857c3d819d7ed3d77dcda990e8520a05faacbc1116b567c030ffc",
+  "manifestHash": "acff3f758fd49c721c198650583787506aa2f655c5298d61132f4427d3e5fc07",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1

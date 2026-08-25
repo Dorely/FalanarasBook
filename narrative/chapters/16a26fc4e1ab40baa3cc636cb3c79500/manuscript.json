@@ -3590,7 +3590,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CDiscipline. Duty. Remembrance.\u201D",
+          "text": "\u201CDiscipline. Duty. Honor. Remembrance.\u201D",
           "type": "text"
         }
       ],
@@ -3612,7 +3612,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Liadrin\u2019s gaze moved down the line. \u201CRise, Blood Knights.\u201D",
+          "text": "Liadrin\u2019s gaze moved down the line. \u201CSpend what the task requires. Obey command. When purpose ends, so does force. Rise, Blood Knights.\u201D",
           "type": "text"
         }
       ],
@@ -3718,6 +3718,6 @@
     }
   ],
   "manuscriptId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
-  "revision": 10,
+  "revision": 11,
   "schemaVersion": 4
 }

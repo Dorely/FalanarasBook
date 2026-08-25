@@ -2436,28 +2436,6 @@
       "content": [
         {
           "marks": [],
-          "text": "At fifteen, the ward bowed so deeply that Falanaras saw the nearest death bolt through a handspan of red-gold fire. The Light waited beyond the limit he had chosen, abundance pressing against his restraint. Daric\u2019s jaw clenched at the western anchor. Across the ward, one recovery knight\u2019s arms shook, yet no answering surge came from either of them. The joined planes remained rough.",
-          "type": "text"
-        }
-      ],
-      "decorative": false,
-      "figurePresentation": null,
-      "headingLevel": null,
-      "id": "e40a52f4ea36494ebf8c0195c08e90cd",
-      "imageId": null,
-      "language": null,
-      "pageCompositionId": null,
-      "paragraphPresentation": null,
-      "publicationField": null,
-      "styleRole": "body",
-      "type": "paragraph"
-    },
-    {
-      "accessibilityRole": null,
-      "altText": null,
-      "content": [
-        {
-          "marks": [],
           "text": "At fifteen, the ward bowed so deeply that Falanaras saw the nearest death bolt through a handspan of red-gold fire. He opened the current wider and drove the added force into the failing span rather than across the whole barrier. Daric\u2019s jaw clenched at the western anchor. Across the ward, one recovery knight\u2019s arms shook as the reinforced planes brightened over the impact line, still low enough for the scouts to see their marks.",
           "type": "text"
         }
@@ -3658,6 +3636,6 @@
     }
   ],
   "manuscriptId": "357236b4-3932-4c59-8be5-438b334b1c3c",
-  "revision": 24,
+  "revision": 25,
   "schemaVersion": 4
 }

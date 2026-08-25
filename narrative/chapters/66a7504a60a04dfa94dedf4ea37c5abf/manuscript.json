@@ -1974,7 +1974,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CSoldiers with discipline.\u201D",
+          "text": "\u201CSoldiers governed by oath.\u201D",
           "type": "text"
         }
       ],
@@ -2194,7 +2194,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThen the Horde will want to see how he meets a living opponent who knows his purpose.\u201D Sylvanas\u2019s expression hardened with old military judgment. \u201CPower is easy to display. Discipline must survive resistance, command, and victory.\u201D",
+          "text": "\u201CThen the Horde will want to see how he meets a living opponent who knows his purpose.\u201D Sylvanas\u2019s expression hardened with old military judgment. \u201CPower is easy to display. Discipline must survive resistance and command. Honor must survive victory.\u201D",
           "type": "text"
         }
       ],
@@ -3234,6 +3234,6 @@
     }
   ],
   "manuscriptId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-  "revision": 16,
+  "revision": 17,
   "schemaVersion": 4
 }
