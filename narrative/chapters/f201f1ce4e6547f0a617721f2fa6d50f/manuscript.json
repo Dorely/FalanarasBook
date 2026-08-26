@@ -3496,7 +3496,7 @@
       "content": [
         {
           "marks": [],
-          "text": "He drew himself upright despite the dried blood between the plates of his armor. \u201CSwear that you will serve Quel\u2019Thalas, obey commands, and place the survival of its people before all else\u201D",
+          "text": "He drew himself upright despite the dried blood between the plates of his armor. \u201CSwear that you will serve Quel\u2019Thalas, obey commands, and place the survival of its people before all else.\u201D",
           "type": "text"
         }
       ],
@@ -3712,6 +3712,6 @@
     }
   ],
   "manuscriptId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
-  "revision": 52,
+  "revision": 53,
   "schemaVersion": 4
 }
