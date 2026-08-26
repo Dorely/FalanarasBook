@@ -30,6 +30,42 @@
   "fontFamilies": [],
   "images": [
     {
+      "altText": "image.png",
+      "blobPath": "assets/images/028de32317a7443dbe321bec84489db9/content.png",
+      "byteLength": 109387,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "Falanaras Bloodknight1",
+      "generationModel": "",
+      "id": "028de323-17a7-443d-be32-1bec84489db9",
+      "prompt": "",
+      "sha256": "b990bd93e56f92ead6ce67b8b3e6b3abbe2d177c5f5d0e1256b6752c774bd7c0",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
+      "altText": "image.png",
+      "blobPath": "assets/images/2b0a4f50b90643f0b65666b8c0e65997/content.png",
+      "byteLength": 105908,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "Falanaras Bloodknight3",
+      "generationModel": "",
+      "id": "2b0a4f50-b906-43f0-b656-66b8c0e65997",
+      "prompt": "",
+      "sha256": "108081f3d8db1bcd281e6265434a7f82e75f19cec60cb496a48a6dfc185774dd",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
       "altText": "",
       "blobPath": "assets/images/2eb0e67a43bd4518b4da4f8984bc3d3d/content.png",
       "byteLength": 2123757,
@@ -85,6 +121,24 @@
     },
     {
       "altText": "image.png",
+      "blobPath": "assets/images/75bf57fa3d0f430d8fbfeabe7c8a1c52/content.png",
+      "byteLength": 116732,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "Falanaras Bloodknight2",
+      "generationModel": "",
+      "id": "75bf57fa-3d0f-430d-8fbf-eabe7c8a1c52",
+      "prompt": "",
+      "sha256": "f87f940a528d9c9c23b38d0feff4387c4c6fd0900bc3aff19d60cc945f9834ad",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
+      "altText": "image.png",
       "blobPath": "assets/images/797612f9cf31443ca2b851ef026edfd5/content.png",
       "byteLength": 725309,
       "contentType": "image/png",
@@ -120,6 +174,24 @@
       "sourceMetadataJson": ""
     },
     {
+      "altText": "image.png",
+      "blobPath": "assets/images/a76579276e9547bdaa7ee6ca35a87fb0/content.png",
+      "byteLength": 146894,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "Falanaras Spellbreaker2",
+      "generationModel": "",
+      "id": "a7657927-6e95-47bd-aa7e-e6ca35a87fb0",
+      "prompt": "",
+      "sha256": "c1e4cee868c15f7bf9aae13406b89b96fa63c7670f0a82894f9107fd4e2aa2dc",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
       "altText": "",
       "blobPath": "assets/images/bc8c2fa6c50b49b7bd113bf1a284c35e/content.png",
       "byteLength": 2123404,
@@ -136,6 +208,24 @@
       "sha256": "888393ea1cfc6f38ad93cf6b98b13560793adaac52a6f997dc9a453cd269befe",
       "source": "generated",
       "sourceMetadataJson": "{\r\n  \u0022callId\u0022: \u0022ig_0345e279e7d60068016a12a60de110819b92e79c012b8f019f\u0022,\r\n  \u0022imageModel\u0022: \u0022gpt-image-2\u0022,\r\n  \u0022mainlineModel\u0022: \u0022gpt-5.5\u0022,\r\n  \u0022outputFormat\u0022: \u0022png\u0022,\r\n  \u0022referenceAssets\u0022: [\r\n    {\r\n      \u0022contentType\u0022: \u0022image/png\u0022,\r\n      \u0022fileName\u0022: \u0022ChatGPT Image May 23, 2026, 01_02_20 AM.png\u0022,\r\n      \u0022id\u0022: \u00222eb0e67a-43bd-4518-b4da-4f8984bc3d3d\u0022\r\n    }\r\n  ],\r\n  \u0022responseId\u0022: \u0022resp_0345e279e7d60068016a12a60c40b0819bbbc6a3fe0ba4be42\u0022,\r\n  \u0022revisedPrompt\u0022: \u0022Edit the provided fantasy illustration: remove the red-and-black helmet tucked under the character\\u2019s left arm completely. Adjust the character\\u2019s stance naturally to reflect the helmet being gone: relax the left arm down or slightly bent at the side, with balanced shoulders and posture, maintaining the same armor design, long blond hair, back-facing viewpoint, dramatic dark gothic hall, glowing pink chained crystal/weapon overhead, banners, lighting, composition, and painterly high-fantasy style. Fill in any background/armor details seamlessly where the helmet was, preserving publish-ready quality and original aspect ratio.\u0022\r\n}"
+    },
+    {
+      "altText": "image.png",
+      "blobPath": "assets/images/c295634a836c45e981072cb6736b53e1/content.png",
+      "byteLength": 149184,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "Falanaras Spellbreaker1",
+      "generationModel": "",
+      "id": "c295634a-836c-45e9-8107-2cb6736b53e1",
+      "prompt": "",
+      "sha256": "ab3e515afb11e017deca2d88c38083a041a847ddc872fbf24f9179742e8dfe38",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
     }
   ]
 }
