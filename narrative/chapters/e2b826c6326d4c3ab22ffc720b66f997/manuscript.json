@@ -424,7 +424,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Vereesa bowed her head. \u201CLord Regent. We came as soon as we could. Word reached us late, and the roads out of Dalaran have not been kind.\u201D Her Common was crisp, her Thalassian accented the way the diaspora\u2019s Thalassian always was, a little careful. \u201CWe brought medicines, linen, some grain. It is not much.\u201D",
+          "text": "Vereesa bowed her head. \u201CLord Regent. We came as soon as we could. Word reached us late, and the roads out of Dalaran have not been kind.\u201D Her Common was crisp; her Thalassian accented the way the diaspora\u2019s Thalassian always was, a little careful. \u201CWe brought medicines, linen, some grain. It is not much.\u201D",
           "type": "text"
         }
       ],
@@ -644,7 +644,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Caelir noticed. He frowned, not at Falanaras, but at the brazier itself, at the way the rank had placed it where every soldier on duty would breathe it regularly. \u201CWhat is that?\u201D he asked, too softly for the officers to hear.",
+          "text": "Caelir noticed. His frown settled on the brazier itself, on the way the rank had placed it where every soldier on duty would breathe it regularly. \u201CWhat is that?\u201D he asked, too softly for the officers to hear.",
           "type": "text"
         }
       ],
@@ -1348,7 +1348,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Caelir\u2019s hands were shaking. He clasped them. \u201CI hardly recognize our people,\u201D he said. \u201CForgive me. I do not mean to insult your survival. But this is not survival as I understand it. This is alteration.\u201D",
+          "text": "Caelir\u2019s hands were shaking. He clasped them. \u201CI hardly recognize our people,\u201D he said. \u201CForgive me. I mean no insult to your survival. I cannot understand this as survival. This is alteration.\u201D",
           "type": "text"
         }
       ],
@@ -1590,7 +1590,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CYou should see more of the city before you ask me that,\u201D he said at last. \u201CWalk with me tomorrow. Not to be persuaded. Just to see.\u201D",
+          "text": "\u201CYou should see more of the city before you ask me that,\u201D he said at last. \u201CWalk with me tomorrow. I ask only that you see.\u201D",
           "type": "text"
         }
       ],
@@ -2008,7 +2008,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CIt is a malady,\u201D Falanaras said. \u201CAnd it is also life. We call it hunger because craving is not the whole of it. There is an emptiness after the Sunwell that is not only in the blood. We do not speak of it often because speaking changes nothing. We offer a crystal, we move nearer a ward, we keep working. What would you have us say?\u201D",
+          "text": "\u201CIt is a malady,\u201D Falanaras said. \u201CAnd it is also life. We call it hunger because craving is only part of it. The emptiness after the Sunwell reaches beyond the blood. We do not speak of it often because speaking changes nothing. We offer a crystal, we move nearer a ward, we keep working. What would you have us say?\u201D",
           "type": "text"
         }
       ],
@@ -2316,7 +2316,7 @@
       "content": [
         {
           "marks": [],
-          "text": "They walked back slowly. Near the bazaar, a patrol passed with a man in custody, his eyes too bright, his wrists bound in cloth to keep him from clawing. The high elves\u2019 escort tightened around Vereesa\u2019s people when they saw it, but the blood elves on the street barely turned their heads \u2014 not from cruelty, but from familiarity. Caelir stared until the patrol turned the corner.",
+          "text": "They walked back slowly. Near the bazaar, a patrol passed with a man in custody, his eyes too bright, his wrists bound in cloth to keep him from clawing. The high elves\u2019 escort tightened around Vereesa\u2019s people when they saw it, while the blood elves on the street barely turned their heads. They had seen it too often. Caelir stared until the patrol turned the corner.",
           "type": "text"
         }
       ],
@@ -2360,7 +2360,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The Court of the Sun was not what it had been before the Scourge \u2014 half its colonnade still scaffolded, its far wall patched with timber \u2014 but Lor\u2019themar had ordered it opened for the exiles. Blood elves filled the tiers in quiet ranks: magisters in red-trimmed robes, Farstriders with bows unstrung, matrons with children kept close, veterans with empty sleeves. Falanaras stood with his unit near the base of the dais, Theron and Lethira on either side. On the dais itself, Lor\u2019themar waited with Halduron and Rommath, the latter\u2019s presence a statement in itself, his robes immaculate, his eyes lit faintly green.",
+          "text": "The Court of the Sun still bore the Scourge\u2019s damage: half its colonnade scaffolded, its far wall patched with timber. Lor\u2019themar had ordered it opened for the exiles. Blood elves filled the tiers in quiet ranks: magisters in red-trimmed robes, Farstriders with bows unstrung, matrons with children kept close, veterans with empty sleeves. Falanaras stood with his unit near the base of the dais, Theron and Lethira on either side. On the dais itself, Lor\u2019themar waited with Halduron and Rommath, the latter\u2019s presence a statement in itself, his robes immaculate, his eyes lit faintly green.",
           "type": "text"
         }
       ],
@@ -2492,7 +2492,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CBut grief cannot govern sight,\u201D she said, quieter now. \u201CWhat we have seen in your streets troubles us. The fel you burn openly. The hunger you feed with power taken by force from living things \u2014 and I have been told you teach your children to draw it. In exile we learned to endure the same ache differently. It is hard. It is slow. But we did not smother it with demon fire. We fear for you \u2014 not as enemies, but as kin \u2014 that the means you have chosen will leave you unable to be who you were, even if the Sunwell were restored tomorrow.\u201D",
+          "text": "\u201CGrief cannot govern sight,\u201D she said, quieter now. \u201CWhat we have seen in your streets troubles us. The fel you burn openly. The hunger you feed with power taken by force from living things \u2014 and I have been told you teach your children to draw it. In exile we learned to endure the same ache differently. It is hard and slow. We did not smother it with demon fire. We fear for you as kin, afraid that the means you have chosen will leave you unable to be who you were, even if the Sunwell were restored tomorrow.\u201D",
           "type": "text"
         }
       ],
@@ -2536,7 +2536,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Lor\u2019themar stepped forward. He did not raise his voice. \u201CLady Windrunner speaks as one who loves Quel\u2019Thalas, and we honor it. No one here will pretend our condition is wholesome. Grand Magister Rommath will not, nor will I. But Silvermoon is not Dalaran. We had no protected stores, no allied lands able to sustain us. We had the Scar at our door and winter coming. Our people stood in the ash of their houses and shook until they could not hold a cup. We chose a hard sustenance over a slow fading. Judge the choice, but remember the place where it was made.\u201D",
+          "text": "Lor\u2019themar stepped forward. He did not raise his voice. \u201CLady Windrunner speaks as one who loves Quel\u2019Thalas, and we honor it. No one here will pretend our condition is wholesome. Neither Grand Magister Rommath nor I. Dalaran had protected stores and allied lands able to sustain you. We had the Scar at our door and winter coming. Our people stood in the ash of their houses and shook until they could not hold a cup. We chose a hard sustenance over a slow fading. Judge the choice. Remember the place where it was made.\u201D",
           "type": "text"
         }
       ],
@@ -2602,7 +2602,7 @@
       "content": [
         {
           "marks": [],
-          "text": "A hiss went through the magisters. Lethira, beside Falanaras, exhaled through her teeth. Falanaras kept his eyes on Vereesa, and for a moment he saw her not as a symbol but as a ranger who had walked too many burned villages, whose bluntness was grief made strict.",
+          "text": "A hiss went through the magisters. Lethira, beside Falanaras, exhaled through her teeth. Falanaras kept his eyes on Vereesa, and for a moment the symbol gave way to a ranger who had walked too many burned villages, whose bluntness was grief made strict.",
           "type": "text"
         }
       ],
@@ -2690,7 +2690,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Lor\u2019themar answered for the city. \u201CThe road will remain open to our kin. You will have quarters here, and escort where the Ghostlands allow.\u201D It was courteous and final. The court clapped, not with fervor, but with relief that the confrontation had not become rupture.",
+          "text": "Lor\u2019themar answered for the city. \u201CThe road will remain open to our kin. You will have quarters here, and escort where the Ghostlands allow.\u201D It was courteous and final. The court clapped, relieved that the confrontation had stopped short of rupture. The applause held little fervor.",
           "type": "text"
         }
       ],
@@ -2778,7 +2778,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Caelir stepped closer, lowering his voice so only his brother would hear. \u201CStay quel\u2019dorei with me. Not for politics. For yourself. You do not need to call that light beautiful to survive it. Come to Dalaran for a season. See that hunger can be borne without fel. If it cannot, you can return. I will not hold it against you.\u201D",
+          "text": "Caelir stepped closer, lowering his voice so only his brother would hear. \u201CStay quel\u2019dorei with me. I am asking for your sake alone. You do not need to call that light beautiful to survive it. Come to Dalaran for a season. See that hunger can be borne without fel. If it cannot, you can return. I will not hold it against you.\u201D",
           "type": "text"
         }
       ],
@@ -2822,7 +2822,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI am sin\u2019dorei,\u201D he said. It was not a slogan now, but a boundary. \u201CI did not choose it to spite you. I chose it because I stayed. You stayed elsewhere and kept the old name honorably. That is your path. Do not ask me to walk it as if I had not buried anyone.\u201D",
+          "text": "\u201CI am sin\u2019dorei,\u201D he said. It was a boundary now. \u201CI did not choose it to spite you. I chose it because I stayed. You stayed elsewhere and kept the old name honorably. That is your path. Do not ask me to walk it as if I had not buried anyone.\u201D",
           "type": "text"
         }
       ],
@@ -3126,6 +3126,6 @@
     }
   ],
   "manuscriptId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
-  "revision": 22,
+  "revision": 23,
   "schemaVersion": 4
 }
