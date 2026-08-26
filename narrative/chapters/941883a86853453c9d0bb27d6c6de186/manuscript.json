@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Chapter Fifteen",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b5010000000000000000000000000001",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Oaths Severed",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "b5020000000000000000000000000002",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "The second Scryer testimony reached Silvermoon before the first had finished producing rumors.",
           "type": "text"
         }
@@ -3168,6 +3212,6 @@
     }
   ],
   "manuscriptId": "941883a8-6853-453c-9d0b-b27d6c6de186",
-  "revision": 16,
+  "revision": 19,
   "schemaVersion": 4
 }

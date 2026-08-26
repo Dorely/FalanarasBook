@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Chapter Three",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a3010000000000000000000000000001",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Returning Exiles",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "a3020000000000000000000000000002",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "The summons came while Falanaras was still sweating from drills.",
           "type": "text"
         }
@@ -3126,6 +3170,6 @@
     }
   ],
   "manuscriptId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
-  "revision": 25,
+  "revision": 28,
   "schemaVersion": 4
 }

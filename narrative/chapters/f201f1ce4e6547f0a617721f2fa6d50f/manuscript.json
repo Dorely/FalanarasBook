@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Chapter One",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "df0a31093ee34dc19fab32be6587c6c0",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "The Sundering of Silvermoon",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "13445ba058194b3db8f3e82047e89239",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "The bells began before dawn. By sunrise, Silvermoon had realized that they weren\u0027t ceremonial.",
           "type": "text"
         }
@@ -3712,6 +3756,6 @@
     }
   ],
   "manuscriptId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
-  "revision": 55,
+  "revision": 58,
   "schemaVersion": 4
 }

@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Chapter Fourteen",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b4010000000000000000000000000001",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Word from Shattrath",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "b4020000000000000000000000000002",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "By the eleventh month, Silvermoon had learned to live around the silence.",
           "type": "text"
         }
@@ -3910,6 +3954,6 @@
     }
   ],
   "manuscriptId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
-  "revision": 11,
+  "revision": 14,
   "schemaVersion": 4
 }

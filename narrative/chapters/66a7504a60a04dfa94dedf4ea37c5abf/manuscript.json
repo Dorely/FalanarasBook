@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Chapter Sixteen",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "b6010000000000000000000000000001",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Need of Monsters",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "b6020000000000000000000000000002",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "Lethira chose the western signal stone because no living ranger had used it in six years.",
           "type": "text"
         }
@@ -3234,6 +3278,6 @@
     }
   ],
   "manuscriptId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-  "revision": 23,
+  "revision": 26,
   "schemaVersion": 4
 }

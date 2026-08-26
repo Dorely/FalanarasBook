@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Chapter Two",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a2010000000000000000000000000001",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Hunger in the Ashes",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "a2020000000000000000000000000002",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "The mana wyrm struck at Falanaras\u2019s wrist with all the spite of a hooked fish. He caught it behind the skull before its teeth found him, felt its narrow body twist through his grip, and drew a measured thread of power through the contact.",
           "type": "text"
         }
@@ -2202,6 +2246,6 @@
     }
   ],
   "manuscriptId": "01525a0c-6fcc-44ec-8ea6-80629683911f",
-  "revision": 42,
+  "revision": 45,
   "schemaVersion": 4
 }

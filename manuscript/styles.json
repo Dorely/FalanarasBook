@@ -2,6 +2,29 @@
   "styles": [
     {
       "definition": {
+        "firstLineIndentEm": 0,
+        "fontFamilyKey": "builtin:lora",
+        "fontSizePoints": 18,
+        "fontWeight": 700,
+        "italic": null,
+        "keepWithNext": true,
+        "leftIndentEm": 0,
+        "lineHeight": 1.15,
+        "rightIndentEm": 0,
+        "smallCaps": null,
+        "spaceAfterPoints": 28,
+        "spaceBeforePoints": 0,
+        "startOnNewPage": null,
+        "textAlign": "center"
+      },
+      "id": "1571091f-7044-429f-8272-5dc2d7cb2f79",
+      "kind": "paragraph",
+      "name": "Chapter Title",
+      "revision": 1,
+      "semanticRole": "chapter-title"
+    },
+    {
+      "definition": {
         "firstLineIndentEm": 0.9,
         "fontFamilyKey": "builtin:lora",
         "fontSizePoints": 11.25,
@@ -68,6 +91,29 @@
       "name": "Inset Quotation",
       "revision": 2,
       "semanticRole": "inset-quotation"
+    },
+    {
+      "definition": {
+        "firstLineIndentEm": 0,
+        "fontFamilyKey": "builtin:lora",
+        "fontSizePoints": 10.5,
+        "fontWeight": 700,
+        "italic": null,
+        "keepWithNext": true,
+        "leftIndentEm": 0,
+        "lineHeight": 1.1,
+        "rightIndentEm": 0,
+        "smallCaps": true,
+        "spaceAfterPoints": 8,
+        "spaceBeforePoints": 30,
+        "startOnNewPage": true,
+        "textAlign": "center"
+      },
+      "id": "d439fac8-6b27-4a35-8d59-e739a6c7b0d6",
+      "kind": "paragraph",
+      "name": "Chapter Label",
+      "revision": 1,
+      "semanticRole": "chapter-label"
     }
   ]
 }

@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Epilogue",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "be010000000000000000000000000001",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Beyond the Dark Portal",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "be020000000000000000000000000002",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "Falanaras reached Silvermoon\u2019s eastern gate before dawn, summoned in full armor and carrying orders that named only a southern deployment.",
           "type": "text"
         }
@@ -2558,6 +2602,6 @@
     }
   ],
   "manuscriptId": "3fb0845d-a173-463c-b2f6-df73770ae8eb",
-  "revision": 15,
+  "revision": 18,
   "schemaVersion": 4
 }

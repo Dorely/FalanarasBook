@@ -6,6 +6,50 @@
       "content": [
         {
           "marks": [],
+          "text": "Chapter Seven",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "a7010000000000000000000000000001",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-label",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "To the Dark Portal",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": 1,
+      "id": "a7020000000000000000000000000002",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "chapter-title",
+      "type": "heading"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
           "text": "The ship that would carry Falanaras south had been an elven destroyer during the Second War, built to hunt Horde vessels beneath skies fouled by dragonfire. Peace had stripped its weapons before the Scourge gave old hulls new purpose. The scars of refitting remained beneath fresh lacquer: sealed firing ports, patched rails, and blue-and-silver wardwork showing through blood-red paint. It had survived one war to carry them toward the remains of another world.",
           "type": "text"
         }
@@ -4014,6 +4058,6 @@
     }
   ],
   "manuscriptId": "60e932ff-b39a-4297-a38b-5ee7e66644db",
-  "revision": 26,
+  "revision": 29,
   "schemaVersion": 4
 }
