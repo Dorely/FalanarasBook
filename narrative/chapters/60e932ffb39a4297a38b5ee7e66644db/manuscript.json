@@ -1710,7 +1710,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI am,\u201D Falanaras said. Selorien gestured toward Astalor with quiet satisfaction. \u201CPerfectly civil. We should record the occasion as well.\u201D",
+          "text": "\u201CI am,\u201D Falanaras said.",
           "type": "text"
         }
       ],
@@ -1718,6 +1718,28 @@
       "figurePresentation": null,
       "headingLevel": null,
       "id": "7d959f81422b4716b06360c83f132594",
+      "imageId": null,
+      "language": null,
+      "pageCompositionId": null,
+      "paragraphPresentation": null,
+      "publicationField": null,
+      "styleRole": "body",
+      "type": "paragraph"
+    },
+    {
+      "accessibilityRole": null,
+      "altText": null,
+      "content": [
+        {
+          "marks": [],
+          "text": "Selorien gestured toward Astalor with quiet satisfaction. \u201CPerfectly civil. We should record the occasion as well.\u201D",
+          "type": "text"
+        }
+      ],
+      "decorative": false,
+      "figurePresentation": null,
+      "headingLevel": null,
+      "id": "aa21562650074edeae5eb9641b33b428",
       "imageId": null,
       "language": null,
       "pageCompositionId": null,
@@ -3622,7 +3644,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CIt improved afterward didn\u0027t it?\u201D",
+          "text": "\u201CIt improved afterward, didn\u2019t it?\u201D",
           "type": "text"
         }
       ],
@@ -3992,6 +4014,6 @@
     }
   ],
   "manuscriptId": "60e932ff-b39a-4297-a38b-5ee7e66644db",
-  "revision": 23,
+  "revision": 24,
   "schemaVersion": 4
 }
