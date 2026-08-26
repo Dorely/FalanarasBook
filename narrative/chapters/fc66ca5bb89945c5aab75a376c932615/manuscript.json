@@ -1034,7 +1034,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CAgreed. The individual recipient is an instrument of study, not the final scale.\u201D Astalor tapped Liadrin\u2019s result. \u201CThis is the strongest transfer by a wide margin. Her prior bond provides a channel the rest of us lack. If we understand why, we may learn how to move the power safely into less responsive vessels\u2014and eventually into the city\u2019s wards.\u201D",
+          "text": "\u201CAgreed. The individual recipient is an instrument of study, not the final scale.\u201D Astalor tapped Liadrin\u2019s result. \u201CThis is the strongest transfer by a wide margin. Her body\u2019s prior experience with the Light makes her more receptive than the rest of us. If we understand why, we may learn how to move the power safely into less responsive vessels\u2014and eventually into the city\u2019s wards.\u201D",
           "type": "text"
         }
       ],
@@ -3850,6 +3850,6 @@
     }
   ],
   "manuscriptId": "fc66ca5b-b899-45c5-aab7-5a376c932615",
-  "revision": 27,
+  "revision": 28,
   "schemaVersion": 4
 }

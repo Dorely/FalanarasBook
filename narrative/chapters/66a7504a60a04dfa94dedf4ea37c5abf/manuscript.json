@@ -314,7 +314,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Serenya\u2019s dead eyes shifted to him. \u201CThe distinction only hold meaning for the living.\u201D",
+          "text": "Serenya\u2019s dead eyes shifted to him. \u201CThe distinction only holds meaning for the living.\u201D",
           "type": "text"
         }
       ],
@@ -924,7 +924,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Rommath\u2019s mouth tightened. \u201CThen state the price of the hearing.\u201D",
+          "text": "Rommath\u2019s gaze settled on her. \u201CThen state the price of the hearing.\u201D",
           "type": "text"
         }
       ],
@@ -3234,6 +3234,6 @@
     }
   ],
   "manuscriptId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-  "revision": 20,
+  "revision": 21,
   "schemaVersion": 4
 }
