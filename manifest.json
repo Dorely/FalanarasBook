@@ -1,30 +1,15 @@
 {
-  "contentHash": "0e2d815083fa933b9e1b53804503e0281eb3cdde929410c2091a4f80940c630c",
+  "contentHash": "289ef98580ff891b93184145cf550d96b559f72bcd7040cccf8cfff6ed04d39f",
   "files": [
     {
-      "length": 229015,
+      "length": 57831,
       "path": "assets/assets.json",
-      "sha256": "cd518c113a4bfe397bd50699e3e735d164e9bfefd26695eedeb8669d951cd47e"
+      "sha256": "d6b35a1fe17f4afe81feb08120d3d4808f28d7570ee0d0b218334862fbb21c96"
     },
     {
       "length": 109387,
       "path": "assets/images/028de32317a7443dbe321bec84489db9/content.png",
       "sha256": "b990bd93e56f92ead6ce67b8b3e6b3abbe2d177c5f5d0e1256b6752c774bd7c0"
-    },
-    {
-      "length": 2314377,
-      "path": "assets/images/0e17ad4c06cf44cd8a0eaffe17b16c56/content.png",
-      "sha256": "480d89896cf754dcceddfdd5aa0f5050455d9a08207011becf9826881a7824d5"
-    },
-    {
-      "length": 2487720,
-      "path": "assets/images/120fc44d3c694cffaa9f6b59b7c481ef/content.png",
-      "sha256": "70c570644274fddfbe014a73e4cb3bffa01f7e6d32770a85cce9a2f0b23abdb9"
-    },
-    {
-      "length": 2431534,
-      "path": "assets/images/256cba9fef4144f3b892d3d8634f60ff/content.png",
-      "sha256": "a1a2f8a7d7ac5865213c75f24c3a4d1c2fc00091b54e86fb1f4a386e5a9376f2"
     },
     {
       "length": 105908,
@@ -37,9 +22,9 @@
       "sha256": "910fe26bbf9c7e88a9c3105f004ce0158895c936abfd5e3929217909f07fcdcd"
     },
     {
-      "length": 1941063,
-      "path": "assets/images/375577bfb56a47f59dfcdd577daca9d1/content.png",
-      "sha256": "43d8bc6593366d0d6856e2f03efbe639b40274f1d20101225fc2be3ae823475c"
+      "length": 1936835,
+      "path": "assets/images/36f8d4c724214f0b8e85c53215f76d8f/content.png",
+      "sha256": "ce834b75b66bd1fb1c76a440de70b12eb8232c57075f29095b773277f1de3245"
     },
     {
       "length": 590161,
@@ -47,14 +32,14 @@
       "sha256": "58e20d0268e99dbafd83694816ecbc8d75785739b0b41ecafe01a992b4bf7ee9"
     },
     {
+      "length": 32882,
+      "path": "assets/images/4f71b70503b443788f5365b55946f8ff/content.png",
+      "sha256": "46f97198ad1bebe8b6d623c5d8a6574d0aa89aa8692b7172d4e432b567215dfc"
+    },
+    {
       "length": 293925,
       "path": "assets/images/59808483b50c4bf8a76f174f2d8329b9/content.png",
       "sha256": "101738a856892c5e8912265957ed1916c310d5855ce93d5eef1c3444c60c398d"
-    },
-    {
-      "length": 2047358,
-      "path": "assets/images/6e5dc748c5324ab4819658b2502bee35/content.png",
-      "sha256": "f9747bcfabc2795401a2267ed3962fbb907680137c92a883b34d371cddcd979b"
     },
     {
       "length": 116732,
@@ -72,14 +57,14 @@
       "sha256": "b086aaa0d63a15df4ae07c655f8ebfdb4b147d630f3a4db1d6e5f974f8284918"
     },
     {
+      "length": 1932664,
+      "path": "assets/images/a22d39de12194f9b84752aab8132460d/content.png",
+      "sha256": "0680349cf6ebdb39a106863fd2338738ac74a0b974438ea9838ba3bd9d6baea0"
+    },
+    {
       "length": 146894,
       "path": "assets/images/a76579276e9547bdaa7ee6ca35a87fb0/content.png",
       "sha256": "c1e4cee868c15f7bf9aae13406b89b96fa63c7670f0a82894f9107fd4e2aa2dc"
-    },
-    {
-      "length": 2224070,
-      "path": "assets/images/b451bb3c5b924f7dbe597ee5104f5733/content.png",
-      "sha256": "c8c2a0e10668d602af9d0b57a7a21cf29f4c90e9fe02ebb53f9e03662b32398b"
     },
     {
       "length": 2123404,
@@ -95,21 +80,6 @@
       "length": 1986537,
       "path": "assets/images/c9aef203990f4ea5a7910985b89bb7fe/content.png",
       "sha256": "3d1218a5f0a95802bc302825c965875ca250806641637be2d3aea5aae9762c73"
-    },
-    {
-      "length": 2267350,
-      "path": "assets/images/d2930ae641ab4bfaa02a9c86160663fc/content.png",
-      "sha256": "04f08888c57afe6b16b6f33026312692e8e9eb4fe7fbffd88bc28a30a9a5e2cc"
-    },
-    {
-      "length": 2356539,
-      "path": "assets/images/e03b38f4edc947c188188b37a3317865/content.png",
-      "sha256": "38bcbdf15b3e7106e523e561f285273e61c855a8f47216f148fe1ef821d4f94e"
-    },
-    {
-      "length": 1747982,
-      "path": "assets/images/fb1f26b019324ad79488595f8544c1ba/content.png",
-      "sha256": "7f270a29b32dad21e535d5263b235259d27c40e0150317e5f1be9ba245695123"
     },
     {
       "length": 30,
@@ -348,7 +318,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "d4043304b298e1648bc8b1ad1bdb07f577954c7e4b081a315cf6fbffeb2c8e21",
+  "manifestHash": "8bb06625088a0dd9328af1adff3b7377bdfce78d94689c5243264f4e6b01c13e",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
