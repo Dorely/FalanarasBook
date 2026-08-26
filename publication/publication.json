@@ -18,9 +18,9 @@
       "title": "Falanaras, Blood Knight"
     },
     "description": "",
-    "includeActHeadings": true,
+    "includeActHeadings": false,
     "includeActSynopses": false,
-    "includeChapterHeadings": true,
+    "includeChapterHeadings": false,
     "includeChapterSynopses": false,
     "includeTableOfContents": true,
     "includeVisibleTableOfContents": false,
@@ -184,7 +184,7 @@
       }
     ],
     "publisher": "",
-    "revision": 5,
+    "revision": 7,
     "subtitle": "",
     "title": "Falanaras, Blood Knight",
     "titlePageMode": "automatic"

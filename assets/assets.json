@@ -84,6 +84,24 @@
       "sourceMetadataJson": ""
     },
     {
+      "altText": "image.png",
+      "blobPath": "assets/images/797612f9cf31443ca2b851ef026edfd5/content.png",
+      "byteLength": 725309,
+      "contentType": "image/png",
+      "cropHeightPercent": null,
+      "cropWidthPercent": null,
+      "cropXPercent": null,
+      "cropYPercent": null,
+      "derivedFromImageId": null,
+      "fileName": "M\u0027uru screenshot",
+      "generationModel": "",
+      "id": "797612f9-cf31-443c-a2b8-51ef026edfd5",
+      "prompt": "",
+      "sha256": "87e447ad9b3fb1e7e69635df4cd5865f2608892cd1cb152b8a51c3fa4af1ee21",
+      "source": "uploaded",
+      "sourceMetadataJson": ""
+    },
+    {
       "altText": "",
       "blobPath": "assets/images/9a7ad9dad0c54e4394d3d134c17e9f72/content.png",
       "byteLength": 1410465,
