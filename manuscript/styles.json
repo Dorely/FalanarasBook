@@ -2,48 +2,48 @@
   "styles": [
     {
       "definition": {
-        "firstLineIndentEm": 0.9,
+        "firstLineIndentEm": 0,
         "fontFamilyKey": "builtin:lora",
-        "fontSizePoints": 11.25,
+        "fontSizePoints": 12,
         "fontWeight": 400,
         "italic": null,
         "keepWithNext": null,
         "leftIndentEm": 0,
-        "lineHeight": 1.45,
+        "lineHeight": 1.55,
         "rightIndentEm": 0,
         "smallCaps": null,
-        "spaceAfterPoints": 0,
+        "spaceAfterPoints": 8,
         "spaceBeforePoints": 0,
         "startOnNewPage": null,
-        "textAlign": "justify"
+        "textAlign": "left"
       },
       "id": "5d221991-31c9-4574-b80d-d66679ea93ee",
       "kind": "paragraph",
       "name": "Novel Body",
-      "revision": 1,
+      "revision": 2,
       "semanticRole": "novel-body"
     },
     {
       "definition": {
         "firstLineIndentEm": 0,
         "fontFamilyKey": "builtin:lora",
-        "fontSizePoints": 11.25,
+        "fontSizePoints": 12,
         "fontWeight": 400,
         "italic": null,
         "keepWithNext": null,
         "leftIndentEm": 0,
-        "lineHeight": 1.45,
+        "lineHeight": 1.55,
         "rightIndentEm": 0,
         "smallCaps": null,
-        "spaceAfterPoints": 0,
+        "spaceAfterPoints": 8,
         "spaceBeforePoints": 0,
         "startOnNewPage": null,
-        "textAlign": "justify"
+        "textAlign": "left"
       },
       "id": "5e77ae1a-5ad1-4bc6-ab24-f2ff863d93a1",
       "kind": "paragraph",
       "name": "Novel Opening",
-      "revision": 1,
+      "revision": 2,
       "semanticRole": "novel-opening"
     },
     {
