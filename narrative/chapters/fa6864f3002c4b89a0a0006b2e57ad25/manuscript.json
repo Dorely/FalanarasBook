@@ -1182,7 +1182,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThe original limits would deny us the strength to contain our objective,\u201D Astalor replied mildly. \u201CWe will accept the greater discharge.\u201D",
+          "text": "\u201CThe original limits would deny us the strength to contain our objective,\u201D Astalor replied. \u201CWe will accept the greater discharge.\u201D",
           "type": "text"
         }
       ],
@@ -3322,6 +3322,6 @@
     }
   ],
   "manuscriptId": "fa6864f3-002c-4b89-a0a0-006b2e57ad25",
-  "revision": 26,
+  "revision": 28,
   "schemaVersion": 4
 }
