@@ -314,7 +314,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Astalor answered. \u201CNo. The bindings were designed to survive distance, interruption, and hostile transit. A virtue at the time.\u201D",
+          "text": "Astalor answered in his mild, measured voice. \u201CNo. We made each bond to survive distance, interruption, and hostile transit. The design has fulfilled that purpose. Its durability also prevents us from closing it from Silvermoon.\u201D",
           "type": "text"
         }
       ],
@@ -358,7 +358,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CRegret does not alter the mechanism.\u201D Astalor\u2019s gaze stayed upon the layered seal he had exposed. \u201CIf they draw, M\u2019uru supplies them and suffers. If they waste the current, continue beyond purpose, or use it for cruelty, distance gives us no means to stop them. Our ignorance of their conduct does not interrupt any of those facts.\u201D",
+          "text": "\u201CI regret that our work may now be used beyond our governance,\u201D Astalor said. His gaze remained upon the layered seal he had exposed. \u201CI do not regret making it strong enough to endure the road it was meant to cross. If those knights draw, M\u2019uru supplies them and suffers. Should they waste the current, continue after its purpose is fulfilled, or employ it for cruelty, distance leaves us no means to intervene. We must admit the limit of our control without pretending the bond itself has failed.\u201D",
           "type": "text"
         }
       ],
@@ -446,7 +446,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Astalor turned from the seal. \u201CThe distinction is uncomplicated.\u201D",
+          "text": "Astalor turned from the seal. When he spoke, his voice was quiet enough to draw the chamber toward him. \u201CThere is a distinction, though it does not absolve us.\u201D",
           "type": "text"
         }
       ],
@@ -468,7 +468,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CI doubt that,\u201D Liadrin said.",
+          "text": "\u201CThen name it,\u201D Liadrin said.",
           "type": "text"
         }
       ],
@@ -490,7 +490,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CKael\u2019thas\u2019s methods did not become intolerable because they were cruel. Cruelty may be efficient, wasteful, necessary, or indulgent according to its result.\u201D Astalor spoke with the same precision he used when measuring a current through living flesh. \u201CHis methods became treasonous when the survival of Quel\u2019Thalas ceased to govern them. He continues to invoke the kingdom while withholding information, stores, command, and protection from it. The stated purpose remains. The actual beneficiary has changed.\u201D",
+          "text": "\u201CKael\u2019thas taught us to master dangerous power because our people needed it. We followed him because every weapon, alliance, and sacrifice was offered in service to Quel\u2019Thalas.\u201D Astalor laid one hand lightly upon the dispatches. \u201CThese records show that service has ceased. He withholds stores, command, warning, and protection from the kingdom while invoking its name to sanctify his private designs. The danger in his methods merits judgment. The abandonment of their declared purpose makes his command treasonous. He has placed his ambition where Quel\u2019Thalas once stood.\u201D His voice sharpened. \u201COur kingdom will not be destroyed to feed it.\u201D",
           "type": "text"
         }
       ],
@@ -534,7 +534,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CConvenience has no bearing on accuracy.\u201D Astalor did not look away. \u201CM\u2019uru\u2019s captivity feeds our wards, heals our wounded, quiets the hunger of every knight bound below, and may yet relieve more of the city if the conduits can be corrected. The suffering is real. So is the service to Quel\u2019Thalas. If those facts change, our justification changes with them.\u201D",
+          "text": "\u201CIt is an exacting line,\u201D Astalor said, without raising his voice. \u201CM\u2019uru is captive. We subdued a being of the Light and made its power answer to our need. That power strengthens our wards, heals our wounded, relieves the hunger of every knight bound to M\u2019uru, and may yet reach more of the city if we perfect the conduits. The suffering is real. So are those accomplishments. I will not call our mastery shameful while it preserves our people, nor will I pretend preservation makes the suffering unreal.\u201D",
           "type": "text"
         }
       ],
@@ -578,7 +578,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThose willing to keep measuring after they have obtained the answer they wanted.\u201D",
+          "text": "\u201CWe do,\u201D Astalor said. \u201CThat is why our work must remain measured against the people it claims to serve. We examine the source, the recipient, and the result. We continue the public conduits. We stop those who turn strength into appetite. We do not discard the evidence when it becomes inconvenient.\u201D",
           "type": "text"
         }
       ],
@@ -600,7 +600,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Falanaras had heard colder things from Astalor. Few had troubled him more. The argument left Silvermoon\u2019s compromises intact and set a boundary around them, yet the boundary depended upon the same hands already taking the power. Rynel had spent what the escape required, then turned the strength away from his hunger and toward the soldiers depending on him. Sanguinar had continued after the agreed purpose ended because suffering pleased him. Between those choices lay an entire kingdom\u2019s claim to discipline and honor.",
+          "text": "Astalor had offered no absolution and none of Liadrin\u2019s grief. His confidence troubled Falanaras more: the magister believed mastery could hold the boundary, provided those who wielded it continued to examine what their success cost. Yet the same hands taking the power would conduct the examination. Rynel had spent what the escape required, then turned the strength away from his hunger and toward the soldiers depending on him. Sanguinar had continued after the agreed purpose ended because suffering pleased him. Between those choices lay an entire kingdom\u2019s claim to discipline and honor.",
           "type": "text"
         }
       ],
@@ -3212,6 +3212,6 @@
     }
   ],
   "manuscriptId": "941883a8-6853-453c-9d0b-b27d6c6de186",
-  "revision": 19,
+  "revision": 20,
   "schemaVersion": 4
 }

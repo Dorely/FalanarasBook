@@ -1,5 +1,5 @@
 {
-  "contentHash": "d9e185ef8e4b21df83b817fb80fa17723c428ebd2e1d2825f51b69b92fff11d1",
+  "contentHash": "5b8470dbbdabc650d3e2a4b18e063c61694c8c71a7b011e4c0c05d2097ca7ba7",
   "files": [
     {
       "length": 105252,
@@ -119,22 +119,22 @@
     {
       "length": 2321,
       "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/chapter.json",
-      "sha256": "273eccf2d64f7a4ed0a3d8b74b70cd35b98e17d8da878011f49853a9c1be6a7a"
+      "sha256": "fee80aa110162bffb7b5ec1e5777bc2b501b0a4c8c5d1b8f960619b48ae16e42"
     },
     {
-      "length": 122956,
+      "length": 125692,
       "path": "narrative/chapters/16a26fc4e1ab40baa3cc636cb3c79500/manuscript.json",
-      "sha256": "421a43985dd5db87f02588dc00c98fb376d8305578b47610438f8b2a4a80486c"
+      "sha256": "6d1628aee2d9961418c11213a962596cd929d14b7237cb132fbf93a790d0f8fa"
     },
     {
       "length": 1667,
       "path": "narrative/chapters/27f5c381f1d142c4a269c6901211ec82/chapter.json",
-      "sha256": "095c67d1afa794d44a085dc543dbd01e3dd96236093dc613cce1144ff633777b"
+      "sha256": "6c5bbe53bcfca4b1fc3bf71ce9c331aad38039a17d9dfef16b7e96a4163e5184"
     },
     {
-      "length": 123200,
+      "length": 124112,
       "path": "narrative/chapters/27f5c381f1d142c4a269c6901211ec82/manuscript.json",
-      "sha256": "0c9fc1cf29f91402d6f0dfa01a81846ddb608dfa072554ddc35158a1e5583f35"
+      "sha256": "0f0b86b5fdf328b769a235f4f1f825bbddfe04bdfb77b500083884311bc31ddd"
     },
     {
       "length": 1789,
@@ -179,12 +179,12 @@
     {
       "length": 1483,
       "path": "narrative/chapters/5387a0ea5b1b404b91c6569b2d237936/chapter.json",
-      "sha256": "9a60993a8af46a1f3ab7a4d33d0306747cddfe36f568c0b37f1d9755f094ceb4"
+      "sha256": "b75ceae2c336cf376bf09d2f2ce25ed8dd14ab47a255d11b7328b69db2f2b2f5"
     },
     {
-      "length": 113219,
+      "length": 114268,
       "path": "narrative/chapters/5387a0ea5b1b404b91c6569b2d237936/manuscript.json",
-      "sha256": "8423be3d931d3b025dd6fb5d528829002f6fccfb0f833c51cb8a27d6aa426ead"
+      "sha256": "84cdd7c19ebc0a548ed870b4c35ee6cc300f914addc97611ac8693fd6d798d64"
     },
     {
       "length": 1689,
@@ -199,12 +199,12 @@
     {
       "length": 1485,
       "path": "narrative/chapters/60e932ffb39a4297a38b5ee7e66644db/chapter.json",
-      "sha256": "cec552788cc552b8343626e68ec4617c16c3b9420b0bce3a22d0bd42d443e343"
+      "sha256": "197de9bb7f0d7f2939d6b5aa64f7fe9b646c0742340623aa10c06c1e7fe76fa3"
     },
     {
-      "length": 133277,
+      "length": 134555,
       "path": "narrative/chapters/60e932ffb39a4297a38b5ee7e66644db/manuscript.json",
-      "sha256": "eb5296ae9f6927eb50d2e18527eb3d1c8ad34abc1528953e3d8582867ef22e12"
+      "sha256": "f97e3df10cb449a34aab87a433e717059adab85b5a88fe67c5f7e956985e6a96"
     },
     {
       "length": 2506,
@@ -229,12 +229,12 @@
     {
       "length": 1003,
       "path": "narrative/chapters/941883a86853453c9d0bb27d6c6de186/chapter.json",
-      "sha256": "c31a463d12ac4ae87826490b8abb248f3c57e38d02391582d717a463861a0dd5"
+      "sha256": "40ad1351fc5b546d97300e05c7a17f70256248c57eaae3c8e3c1d041e69c6325"
     },
     {
-      "length": 112522,
+      "length": 113465,
       "path": "narrative/chapters/941883a86853453c9d0bb27d6c6de186/manuscript.json",
-      "sha256": "ecf108ca74e8f340baf5adaea8951e5e879f6bb0d691f8f98c3dd3e7b8e7d9c6"
+      "sha256": "c7aca71c10c26866e6f25b2968fa2a8f7d12c76305daa3ff2b05d0e734d08cb5"
     },
     {
       "length": 2253,
@@ -249,12 +249,12 @@
     {
       "length": 1560,
       "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/chapter.json",
-      "sha256": "819457b4d21d880c1d08919e9a10fe90bedeecbcf5b762f53d4e021db1155e17"
+      "sha256": "c81e50a0fe2c79bba7659b46fe77a1475877c2a6a1545dc95af8ef8cb3369d7d"
     },
     {
-      "length": 125362,
+      "length": 126250,
       "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/manuscript.json",
-      "sha256": "ce036146ab70926eb281b91d2329491d0b052ce037afedf562ceb524bfb3ff40"
+      "sha256": "abf2401c07bc66ad669af73d48b728b5a93eea45fbaad11001a542fa8274cd15"
     },
     {
       "length": 970,
@@ -279,22 +279,22 @@
     {
       "length": 1318,
       "path": "narrative/chapters/fa6864f3002c4b89a0a0006b2e57ad25/chapter.json",
-      "sha256": "9c7a4d93f1580cc56fdbce91ab357126b971753608bf88a28db5032a060b60cb"
+      "sha256": "90d6184aac281506b5e55f360319f901596f6b31ec98b9caedfc60e1e51c856a"
     },
     {
-      "length": 112109,
+      "length": 113565,
       "path": "narrative/chapters/fa6864f3002c4b89a0a0006b2e57ad25/manuscript.json",
-      "sha256": "9ba8ce8e8161a3cd592e31c0ced574d8c3e7a76706560fc1c2a6530bc514f4f6"
+      "sha256": "c6656dc1a45b5feb08a44a42d5399e81ac957c603c8aa28cc13544427294b064"
     },
     {
       "length": 1677,
       "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/chapter.json",
-      "sha256": "b36b2c896c9424356efb54ddad7709b565622cafc45bb7708a8625eed95e0655"
+      "sha256": "9eeabc872db2b8d4c5f116fa90e9b68f37a3f2b299b6a7c9a27e6998ce8e24b9"
     },
     {
-      "length": 127913,
+      "length": 128743,
       "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/manuscript.json",
-      "sha256": "81be2c6ca7b71e66d028f1fdccfa1ec391c8fa3251e93c8b498e9ea1976d5341"
+      "sha256": "43e2a7adb951e70fc758a7c03f651c69293fc537b861d07e7d8adfcc9ec0b1eb"
     },
     {
       "length": 53314,
@@ -302,9 +302,9 @@
       "sha256": "fee2567c0e17c2e1ecdd1626f4c88d621820824debe77b621a5195376ac006c6"
     },
     {
-      "length": 2122,
+      "length": 2084,
       "path": "project/project.json",
-      "sha256": "f3a3c43918d17f97612f863eb0d0c90ff4fc40080235251db951114fd61e62d0"
+      "sha256": "b82c9888a089a73c4de885a84afd6a86d266682901d61800899b5a41a9a26484"
     },
     {
       "length": 18193,
@@ -328,7 +328,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "ddf95108ae2c08aa9c433d253e70588eca7eaa2167aa68a13984b1aa2fd55d67",
+  "manifestHash": "f5ac09c387a56b64d5e07052722a4c971ae56e407188b610dbc99ff89d29963e",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
