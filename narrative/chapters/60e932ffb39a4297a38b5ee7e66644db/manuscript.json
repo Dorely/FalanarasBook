@@ -1578,7 +1578,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CCapacity without failure tolerances tells us very little,\u201D Astalor replied, his voice mild. \u201COur readings show that the aft boundary is losing more power than its instruments report. We should understand the discrepancy before it chooses the occasion for us.\u201D",
+          "text": "\u201CCapacity without failure tolerances tells us very little,\u201D Astalor replied. \u201COur readings show that the aft boundary is losing more power than its instruments report. We should understand the discrepancy before it chooses the occasion for us.\u201D",
           "type": "text"
         }
       ],
@@ -2188,7 +2188,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThe boundary was three breaths from failure,\u201D Astalor said, his voice soft beneath the storm. \u201CRecord the interval. Reduce the aft draw by one twentieth, and next time we will keep the operator outside the current.\u201D",
+          "text": "\u201CThe boundary was three breaths from failure,\u201D Astalor said through the storm. \u201CRecord the interval. Reduce the aft draw by one twentieth, and next time we will keep the operator outside the current.\u201D",
           "type": "text"
         }
       ],
