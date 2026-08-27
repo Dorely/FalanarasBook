@@ -138,7 +138,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CContainment held through the night,\u201D Astalor said softly. A fresh burn crossed his left wrist beneath a strip of hastily tied cloth. \u201CAmbient output returned after every measurement. M\u2019uru shows no fatigue from restraint alone. Our wards are equal to the burden.\u201D",
+          "text": "\u201CContainment held through the night,\u201D Astalor said. A fresh burn crossed his left wrist beneath a strip of hastily tied cloth. \u201CAmbient output returned after every measurement. M\u2019uru shows no fatigue from restraint alone. Our wards are equal to the burden.\u201D",
           "type": "text"
         }
       ],
@@ -578,7 +578,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Astalor studied the gauges. \u201CThe transfer exceeded our upper estimate by thirty-one percent,\u201D he said, quiet wonder warming the formal words. \u201CRemarkable. M\u2019uru\u2019s radiance is already recovering.\u201D",
+          "text": "Astalor studied the gauges. \u201CThe transfer exceeded our upper estimate by thirty-one percent. Remarkable.\u201D His attention lingered on M\u2019uru\u2019s returning radiance. \u201CRecovery has already begun.\u201D",
           "type": "text"
         }
       ],
@@ -1034,7 +1034,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CDirect access through a common reservoir would fail,\u201D Astalor said softly. \u201CToo many simultaneous claims would create surges, contamination, and loss. We must master the flow before we widen it. Silvermoon will need buffers, separate channels, and regulated demand. These first recipients have shown us how the Light answers a living vessel. From that, we can build.\u201D",
+          "text": "\u201CDirect access through a common reservoir would fail,\u201D Astalor said. \u201CToo many simultaneous claims would create surges, contamination, and loss. We must master the flow before we widen it. Silvermoon will need buffers, separate channels, and regulated demand. These first recipients have shown us how the Light answers a living vessel. From that, we can build.\u201D",
           "type": "text"
         }
       ],
@@ -2474,7 +2474,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CWe repeated the trial to establish whether that recovery was reliable,\u201D Astalor said, his voice mild.",
+          "text": "\u201CWe repeated the trial to establish whether that recovery was reliable,\u201D Astalor said.",
           "type": "text"
         }
       ],
@@ -3480,7 +3480,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CWe needed to know whether the first result was stable.\u201D The answer came too quickly. He heard Astalor in its mild reasonableness: the harm admitted, then set beneath what the work required.",
+          "text": "\u201CWe needed to know whether the first result was stable.\u201D The answer came too quickly. It followed Astalor\u2019s reasoning: admit the harm, then set it beneath what the work required.",
           "type": "text"
         }
       ],
@@ -3894,6 +3894,6 @@
     }
   ],
   "manuscriptId": "fc66ca5b-b899-45c5-aab7-5a376c932615",
-  "revision": 34,
+  "revision": 36,
   "schemaVersion": 4
 }
