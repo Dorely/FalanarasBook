@@ -814,7 +814,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The gateway is active. The approaches remain under hostile occupation. No civilian passage has been authorized. The crown has received no communication from His Highness or his appointed commanders. Further reports will follow when verified.",
+          "text": "The gateway is active. The approaches remain under hostile occupation. No civilian passage has been authorized. The Regent Lord has received no communication from His Highness or his appointed commanders. Further reports will follow when verified.",
           "type": "text"
         }
       ],
@@ -3954,6 +3954,6 @@
     }
   ],
   "manuscriptId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
-  "revision": 17,
+  "revision": 46,
   "schemaVersion": 4
 }
