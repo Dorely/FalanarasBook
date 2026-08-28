@@ -1,20 +1,15 @@
 {
-  "contentHash": "0384b93823aace8fcd2237cef5df2582d3c3e2f02a331e92658d3e400497545f",
+  "contentHash": "dbe7e391010486c13d85dba048e17d87f1949bae839bc1e0443114f63a2a2b09",
   "files": [
     {
-      "length": 206639,
+      "length": 177211,
       "path": "assets/assets.json",
-      "sha256": "86de22b547fe7d228b2a707996617a62b5a923afb249bbc686a873b8e5e3287a"
+      "sha256": "93ba94ab62b964a472c32ea27f4e5bfa4c291534ebabe5e6f41e5f70752f5b40"
     },
     {
       "length": 109387,
       "path": "assets/images/028de32317a7443dbe321bec84489db9/content.png",
       "sha256": "b990bd93e56f92ead6ce67b8b3e6b3abbe2d177c5f5d0e1256b6752c774bd7c0"
-    },
-    {
-      "length": 2598845,
-      "path": "assets/images/267bca69da8b4c3ba72f888faa21d3a0/content.png",
-      "sha256": "f5b1f2f32bc545583d2e2c3907009098b2340174dd3d770f582d8316b5cba430"
     },
     {
       "length": 105908,
@@ -42,14 +37,14 @@
       "sha256": "101738a856892c5e8912265957ed1916c310d5855ce93d5eef1c3444c60c398d"
     },
     {
-      "length": 2216555,
-      "path": "assets/images/655842568964417184c69a5d24cbec44/content.png",
-      "sha256": "a3d9e17a4a148baf0dd5ec4e11d7bfb7b57fc97da5f98adc4088a57530b232b1"
-    },
-    {
       "length": 116732,
       "path": "assets/images/75bf57fa3d0f430d8fbfeabe7c8a1c52/content.png",
       "sha256": "f87f940a528d9c9c23b38d0feff4387c4c6fd0900bc3aff19d60cc945f9834ad"
+    },
+    {
+      "length": 2435845,
+      "path": "assets/images/779e770ecd634faf852562c885624330/content.png",
+      "sha256": "0831c8624f29433cc7ed052b96db36886eed93b67b98977ed57bcc1e2a898f02"
     },
     {
       "length": 1838134,
@@ -100,11 +95,6 @@
       "length": 2123404,
       "path": "assets/images/bc8c2fa6c50b49b7bd113bf1a284c35e/content.png",
       "sha256": "888393ea1cfc6f38ad93cf6b98b13560793adaac52a6f997dc9a453cd269befe"
-    },
-    {
-      "length": 2240606,
-      "path": "assets/images/c06c7311e11346d1ac9082c92e270729/content.png",
-      "sha256": "2123970ac732428c5a0bb0286d96bc2775fdb442ab0e83fe777181f0375f68bb"
     },
     {
       "length": 149184,
@@ -358,7 +348,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "884aa1ccd6a63e865fb94b38424afff07a2edf3e76270c6327d315bbfcbd8274",
+  "manifestHash": "9b6a6f39646ed83fe54b796dca62a9dcfade823e2aff4ed166d39ed88266ef50",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
