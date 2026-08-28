@@ -1,10 +1,10 @@
 {
-  "contentHash": "df02c80e18d65b9cfaf8ebcf024ee821d43b8c354bf8b2a8f473943b89dd1927",
+  "contentHash": "3e6e79bc8f44f834809aa9d35b6426be872ac76ab568b44a72bde17c09ffd368",
   "files": [
     {
-      "length": 305776,
+      "length": 328629,
       "path": "assets/assets.json",
-      "sha256": "725d3354e949a9cf375e238e205746de0f2e2220c3eddda5ea3203fd55396df0"
+      "sha256": "84bab62b437d0383078076cac0d8d5fb8cb03c8aa85978c6b419c5ed56bd8461"
     },
     {
       "length": 109387,
@@ -40,6 +40,11 @@
       "length": 590161,
       "path": "assets/images/4a08dea9b7bb4e288712bf672b4e9d2c/content.png",
       "sha256": "58e20d0268e99dbafd83694816ecbc8d75785739b0b41ecafe01a992b4bf7ee9"
+    },
+    {
+      "length": 2282407,
+      "path": "assets/images/5102045408584308a39558e52889a975/content.png",
+      "sha256": "d0d765344525accd202996b241c4f30833ebc9c71cf0dd52a8f3f14b5a4474e7"
     },
     {
       "length": 293925,
@@ -142,6 +147,11 @@
       "sha256": "69039fe22b865fa394022526d12a5a92710eb6ea4cc0129cd73ee9c22ec1c786"
     },
     {
+      "length": 2266401,
+      "path": "assets/images/d5735f2293354e07828b09ddd25ed8ba/content.png",
+      "sha256": "aeb0d452bab6fbe90475a9752434aa3bf20c2f17c884b3275d1099e44a398940"
+    },
+    {
       "length": 2329153,
       "path": "assets/images/d9c9344e1a68493e9e1efa847ffe3209/content.png",
       "sha256": "afc8a092297d19aa7acd4f7ca724ba81a30b068b7bcb0531b0b8242a606214dd"
@@ -165,11 +175,6 @@
       "length": 2168608,
       "path": "assets/images/f45f310d9fea4ff999029496e03b31a8/content.png",
       "sha256": "de305d33f4ac0edc4a5a626c276d6babf12beda4a6073e32235a9e605d6f7967"
-    },
-    {
-      "length": 2436084,
-      "path": "assets/images/f66ccef66ed443c198f24f6e32766d32/content.png",
-      "sha256": "1730ddf127bfb8634a59b8a970adb0cffc757be8f1d77b0f6aa7dca58d558edb"
     },
     {
       "length": 30,
@@ -408,7 +413,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "bee347a553ee70830098e1c8e5d7a9e800f8d12274988c2855ec426d95d4c52d",
+  "manifestHash": "19871fe56ade2c9a97716a69346a9e4b63b75089d7c373de1563d2853faf2506",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
