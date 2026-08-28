@@ -1468,7 +1468,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CA second possibility is that they abandoned the station to join the Legion,\u201D Astalor said softly. \u201CThe stripped racks suggest they departed armed. The blood and burned papers do not tell us where their loyalty lay afterward.\u201D",
+          "text": "\u201CA second possibility is that they abandoned the station to join the Legion,\u201D Astalor said. \u201CThe stripped racks suggest they departed armed. The blood and burned papers do not tell us where their loyalty lay afterward.\u201D",
           "type": "text"
         }
       ],
@@ -2754,7 +2754,7 @@
       "content": [
         {
           "marks": [],
-          "text": "\u201CThe recording establishes contact,\u201D Astalor said, his voice mild. \u201CIt does not reveal the terms, the authority behind the emissary, or whether the meeting concerned alliance, petition, or threat. Before Silvermoon judges the crown, we will need evidence that distinguishes among those explanations.\u201D",
+          "text": "\u201CThe recording establishes contact,\u201D Astalor said. \u201CIt does not reveal the terms, the authority behind the emissary, or whether the meeting concerned alliance, petition, or threat. Before Silvermoon judges the crown, we will need evidence that distinguishes among those explanations.\u201D",
           "type": "text"
         }
       ],
@@ -3954,6 +3954,6 @@
     }
   ],
   "manuscriptId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
-  "revision": 15,
+  "revision": 17,
   "schemaVersion": 4
 }
