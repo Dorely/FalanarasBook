@@ -1,10 +1,10 @@
 {
-  "contentHash": "663a914943c193c586ef709880bccbb70831c38722b607ab747077b2ead96e73",
+  "contentHash": "9936146f146a6c5c5b94b0a9beec044017cc590ec8509af2a63053e3e805bb94",
   "files": [
     {
-      "length": 328605,
+      "length": 360674,
       "path": "assets/assets.json",
-      "sha256": "cdfa51a29e9d2042d874cbf7f8a839616b916366378aba33106098cbbefb3929"
+      "sha256": "6e4aed4441fefb86d4d989d13f7d1b8f2268238e047934619fbc50aa2d89caf6"
     },
     {
       "length": 109387,
@@ -25,6 +25,11 @@
       "length": 2123757,
       "path": "assets/images/2eb0e67a43bd4518b4da4f8984bc3d3d/content.png",
       "sha256": "910fe26bbf9c7e88a9c3105f004ce0158895c936abfd5e3929217909f07fcdcd"
+    },
+    {
+      "length": 2173258,
+      "path": "assets/images/2fe18b44d9ff49a6b38ceab2e50da4cb/content.png",
+      "sha256": "1e5a59ef9938f2de32ddac22c7fa70d348cd0babd249915d4f70041e9537840d"
     },
     {
       "length": 2594485,
@@ -75,6 +80,11 @@
       "length": 1090118,
       "path": "assets/images/8442916488a74e60b9aecd0a71f233ca/content.png",
       "sha256": "be31abc1c380c221c249725756a43e046da0dbe6c8ffdf92d07156ddae70e60d"
+    },
+    {
+      "length": 2258747,
+      "path": "assets/images/87ddc951ef4f4c90a78183ccde98c3ba/content.png",
+      "sha256": "b36bf3a14f0cd33c1b69b891b4cd0cc92961a731fefd53db211020885f67ba3f"
     },
     {
       "length": 2203318,
@@ -175,6 +185,11 @@
       "length": 2185436,
       "path": "assets/images/e2f066a8b55c4677b641ac5613c62466/content.png",
       "sha256": "fa1ab2d2c85b04a2278a6fc27dab9ab599ffbe4dcc4d795231395793ff257768"
+    },
+    {
+      "length": 2184290,
+      "path": "assets/images/e7d6db58fb0b41a99038c4e939a13ff8/content.png",
+      "sha256": "6dcac0c5df2782a91e8c2010489015bd4966e446d7689788e5c5b9f02030e7fb"
     },
     {
       "length": 2381558,
@@ -397,9 +412,9 @@
       "sha256": "b82c9888a089a73c4de885a84afd6a86d266682901d61800899b5a41a9a26484"
     },
     {
-      "length": 18224,
+      "length": 27072,
       "path": "publication/publication.json",
-      "sha256": "3a0ed19d2aabfe6d62e599143284c3760531cf0ec3cc92d5c223473ec11a1696"
+      "sha256": "0ee5aea949a7948433be5e06aadae3a2bb6fe1da155946b5c8fb15cd1b3b66aa"
     },
     {
       "length": 1392980,
@@ -418,7 +433,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "6177b13ed53b6e8228525dd07e487be2271e7375238ca295176e233b64b0422f",
+  "manifestHash": "b56148ad2551cc186e889a157e6764f3d8cc599cbb70484f8c5b179c81018574",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1

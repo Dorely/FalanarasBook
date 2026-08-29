@@ -8,23 +8,23 @@
       "backCopy": "",
       "backgroundColor": "#5c7ca5",
       "barcodeMode": "none",
-      "compositionSceneJson": "{\r\n  \u0022guides\u0022: [],\r\n  \u0022layers\u0022: [\r\n    {\r\n      \u0022id\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022locked\u0022: false,\r\n      \u0022name\u0022: \u0022Cover\u0022,\r\n      \u0022order\u0022: 0,\r\n      \u0022visible\u0022: true\r\n    }\r\n  ],\r\n  \u0022objects\u0022: [\r\n    {\r\n      \u0022accessibilityDecisionPending\u0022: false,\r\n      \u0022altText\u0022: \u0022\u0022,\r\n      \u0022backgroundColor\u0022: \u0022transparent\u0022,\r\n      \u0022backgroundOpacity\u0022: 0,\r\n      \u0022bounds\u0022: {\r\n        \u0022heightPercent\u0022: 11.999999999999998,\r\n        \u0022widthPercent\u0022: 80,\r\n        \u0022xPercent\u0022: 10,\r\n        \u0022yPercent\u0022: 11.999999999999998\r\n      },\r\n      \u0022contentReferences\u0022: [],\r\n      \u0022cropXPercent\u0022: 50,\r\n      \u0022cropYPercent\u0022: 50,\r\n      \u0022decorative\u0022: false,\r\n      \u0022fillColor\u0022: \u0022#ffffff\u0022,\r\n      \u0022fontFamilyKey\u0022: \u0022builtin:nunito\u0022,\r\n      \u0022fontSizePoints\u0022: 28,\r\n      \u0022fontWeight\u0022: 700,\r\n      \u0022groupId\u0022: null,\r\n      \u0022id\u0022: \u00221066cef3-fa8d-48ed-9b33-d6592cd7b501\u0022,\r\n      \u0022imageFit\u0022: \u0022contain\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022italic\u0022: false,\r\n      \u0022kind\u0022: \u0022text\u0022,\r\n      \u0022language\u0022: \u0022\u0022,\r\n      \u0022layerId\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022letterSpacingEm\u0022: 0,\r\n      \u0022lineHeight\u0022: 1.2,\r\n      \u0022locked\u0022: false,\r\n      \u0022name\u0022: \u0022title\u0022,\r\n      \u0022opacity\u0022: 1,\r\n      \u0022readingOrder\u0022: 1,\r\n      \u0022regionConstraint\u0022: \u0022front\u0022,\r\n      \u0022rotationDegrees\u0022: 0,\r\n      \u0022semanticRole\u0022: \u0022heading1\u0022,\r\n      \u0022strokeColor\u0022: \u0022transparent\u0022,\r\n      \u0022strokeWidthPoints\u0022: 0,\r\n      \u0022styleId\u0022: null,\r\n      \u0022textAlignment\u0022: \u0022start\u0022,\r\n      \u0022textBinding\u0022: \u0022title\u0022,\r\n      \u0022textShadow\u0022: \u0022none\u0022,\r\n      \u0022verticalAlignment\u0022: \u0022top\u0022,\r\n      \u0022visible\u0022: true,\r\n      \u0022zIndex\u0022: 0\r\n    },\r\n    {\r\n      \u0022accessibilityDecisionPending\u0022: false,\r\n      \u0022altText\u0022: \u0022\u0022,\r\n      \u0022backgroundColor\u0022: \u0022transparent\u0022,\r\n      \u0022backgroundOpacity\u0022: 0,\r\n      \u0022bounds\u0022: {\r\n        \u0022heightPercent\u0022: 11.999999999999998,\r\n        \u0022widthPercent\u0022: 80,\r\n        \u0022xPercent\u0022: 10,\r\n        \u0022yPercent\u0022: 30\r\n      },\r\n      \u0022contentReferences\u0022: [],\r\n      \u0022cropXPercent\u0022: 50,\r\n      \u0022cropYPercent\u0022: 50,\r\n      \u0022decorative\u0022: false,\r\n      \u0022fillColor\u0022: \u0022#ffffff\u0022,\r\n      \u0022fontFamilyKey\u0022: \u0022builtin:nunito\u0022,\r\n      \u0022fontSizePoints\u0022: 13,\r\n      \u0022fontWeight\u0022: 400,\r\n      \u0022groupId\u0022: null,\r\n      \u0022id\u0022: \u00226cde5115-d3b3-4574-aaf1-e4f584355e9a\u0022,\r\n      \u0022imageFit\u0022: \u0022contain\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022italic\u0022: false,\r\n      \u0022kind\u0022: \u0022text\u0022,\r\n      \u0022language\u0022: \u0022\u0022,\r\n      \u0022layerId\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022letterSpacingEm\u0022: 0,\r\n      \u0022lineHeight\u0022: 1.2,\r\n      \u0022locked\u0022: false,\r\n      \u0022name\u0022: \u0022subtitle\u0022,\r\n      \u0022opacity\u0022: 1,\r\n      \u0022readingOrder\u0022: 2,\r\n      \u0022regionConstraint\u0022: \u0022front\u0022,\r\n      \u0022rotationDegrees\u0022: 0,\r\n      \u0022semanticRole\u0022: \u0022heading2\u0022,\r\n      \u0022strokeColor\u0022: \u0022transparent\u0022,\r\n      \u0022strokeWidthPoints\u0022: 0,\r\n      \u0022styleId\u0022: null,\r\n      \u0022textAlignment\u0022: \u0022start\u0022,\r\n      \u0022textBinding\u0022: \u0022subtitle\u0022,\r\n      \u0022textShadow\u0022: \u0022none\u0022,\r\n      \u0022verticalAlignment\u0022: \u0022top\u0022,\r\n      \u0022visible\u0022: true,\r\n      \u0022zIndex\u0022: 0\r\n    },\r\n    {\r\n      \u0022accessibilityDecisionPending\u0022: false,\r\n      \u0022altText\u0022: \u0022\u0022,\r\n      \u0022backgroundColor\u0022: \u0022transparent\u0022,\r\n      \u0022backgroundOpacity\u0022: 0,\r\n      \u0022bounds\u0022: {\r\n        \u0022heightPercent\u0022: 11.999999999999998,\r\n        \u0022widthPercent\u0022: 80,\r\n        \u0022xPercent\u0022: 10,\r\n        \u0022yPercent\u0022: 78\r\n      },\r\n      \u0022contentReferences\u0022: [],\r\n      \u0022cropXPercent\u0022: 50,\r\n      \u0022cropYPercent\u0022: 50,\r\n      \u0022decorative\u0022: false,\r\n      \u0022fillColor\u0022: \u0022#ffffff\u0022,\r\n      \u0022fontFamilyKey\u0022: \u0022builtin:nunito\u0022,\r\n      \u0022fontSizePoints\u0022: 13,\r\n      \u0022fontWeight\u0022: 400,\r\n      \u0022groupId\u0022: null,\r\n      \u0022id\u0022: \u0022d66b376e-357d-46ba-826d-be28efeb7aa5\u0022,\r\n      \u0022imageFit\u0022: \u0022contain\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022italic\u0022: false,\r\n      \u0022kind\u0022: \u0022text\u0022,\r\n      \u0022language\u0022: \u0022\u0022,\r\n      \u0022layerId\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022letterSpacingEm\u0022: 0,\r\n      \u0022lineHeight\u0022: 1.2,\r\n      \u0022locked\u0022: false,\r\n      \u0022name\u0022: \u0022author\u0022,\r\n      \u0022opacity\u0022: 1,\r\n      \u0022readingOrder\u0022: 3,\r\n      \u0022regionConstraint\u0022: \u0022front\u0022,\r\n      \u0022rotationDegrees\u0022: 0,\r\n      \u0022semanticRole\u0022: \u0022paragraph\u0022,\r\n      \u0022strokeColor\u0022: \u0022transparent\u0022,\r\n      \u0022strokeWidthPoints\u0022: 0,\r\n      \u0022styleId\u0022: null,\r\n      \u0022textAlignment\u0022: \u0022start\u0022,\r\n      \u0022textBinding\u0022: \u0022author\u0022,\r\n      \u0022textShadow\u0022: \u0022none\u0022,\r\n      \u0022verticalAlignment\u0022: \u0022top\u0022,\r\n      \u0022visible\u0022: true,\r\n      \u0022zIndex\u0022: 0\r\n    }\r\n  ],\r\n  \u0022schemaVersion\u0022: 1,\r\n  \u0022styles\u0022: [],\r\n  \u0022surface\u0022: {\r\n    \u0022allowIndependentPdfPage\u0022: false,\r\n    \u0022bleedPoints\u0022: 0,\r\n    \u0022heightPoints\u0022: 648,\r\n    \u0022kind\u0022: \u0022singlePage\u0022,\r\n    \u0022outputPageMode\u0022: \u0022editionLeaves\u0022,\r\n    \u0022safeInsetPoints\u0022: 18,\r\n    \u0022spineWidthPoints\u0022: 0,\r\n    \u0022trimHeightPoints\u0022: 648,\r\n    \u0022trimWidthPoints\u0022: 432,\r\n    \u0022widthPoints\u0022: 432\r\n  }\r\n}",
+      "compositionSceneJson": "{\r\n  \u0022guides\u0022: [],\r\n  \u0022layers\u0022: [\r\n    {\r\n      \u0022id\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022locked\u0022: false,\r\n      \u0022name\u0022: \u0022Cover\u0022,\r\n      \u0022order\u0022: 0,\r\n      \u0022visible\u0022: true\r\n    }\r\n  ],\r\n  \u0022objects\u0022: [\r\n    {\r\n      \u0022accessibilityDecisionPending\u0022: false,\r\n      \u0022altText\u0022: \u0022\u0022,\r\n      \u0022backgroundColor\u0022: \u0022#09070d\u0022,\r\n      \u0022backgroundOpacity\u0022: 1,\r\n      \u0022bounds\u0022: {\r\n        \u0022heightPercent\u0022: 100,\r\n        \u0022widthPercent\u0022: 100,\r\n        \u0022xPercent\u0022: 0,\r\n        \u0022yPercent\u0022: 0\r\n      },\r\n      \u0022contentReferences\u0022: [],\r\n      \u0022cropXPercent\u0022: 50,\r\n      \u0022cropYPercent\u0022: 50,\r\n      \u0022decorative\u0022: true,\r\n      \u0022fillColor\u0022: \u0022#09070d\u0022,\r\n      \u0022fontFamilyKey\u0022: \u0022\u0022,\r\n      \u0022fontSizePoints\u0022: 12,\r\n      \u0022fontWeight\u0022: 400,\r\n      \u0022groupId\u0022: null,\r\n      \u0022id\u0022: \u002244b3c763-58b1-4d49-994c-99d792ac5542\u0022,\r\n      \u0022imageFit\u0022: \u0022contain\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022italic\u0022: false,\r\n      \u0022kind\u0022: \u0022rectangle\u0022,\r\n      \u0022language\u0022: \u0022\u0022,\r\n      \u0022layerId\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022letterSpacingEm\u0022: 0,\r\n      \u0022lineHeight\u0022: 1.2,\r\n      \u0022locked\u0022: true,\r\n      \u0022name\u0022: \u0022Near-black cover ground\u0022,\r\n      \u0022opacity\u0022: 1,\r\n      \u0022readingOrder\u0022: null,\r\n      \u0022regionConstraint\u0022: \u0022page\u0022,\r\n      \u0022rotationDegrees\u0022: 0,\r\n      \u0022semanticRole\u0022: \u0022artifact\u0022,\r\n      \u0022strokeColor\u0022: \u0022#09070d\u0022,\r\n      \u0022strokeWidthPoints\u0022: 0,\r\n      \u0022styleId\u0022: null,\r\n      \u0022textAlignment\u0022: \u0022start\u0022,\r\n      \u0022textBinding\u0022: \u0022\u0022,\r\n      \u0022textShadow\u0022: \u0022none\u0022,\r\n      \u0022verticalAlignment\u0022: \u0022top\u0022,\r\n      \u0022visible\u0022: true,\r\n      \u0022zIndex\u0022: 0\r\n    },\r\n    {\r\n      \u0022accessibilityDecisionPending\u0022: false,\r\n      \u0022altText\u0022: \u0022Falanaras stands in the crimson-lit Hall of Blood beneath the chained violet radiance of M\\u2019uru, framed by towering dark gothic vaults and branching red magical energy.\u0022,\r\n      \u0022backgroundColor\u0022: \u0022transparent\u0022,\r\n      \u0022backgroundOpacity\u0022: 0,\r\n      \u0022bounds\u0022: {\r\n        \u0022heightPercent\u0022: 91.6666666666,\r\n        \u0022widthPercent\u0022: 91.6666666666,\r\n        \u0022xPercent\u0022: 4.1666666667,\r\n        \u0022yPercent\u0022: 4.1666666667\r\n      },\r\n      \u0022contentReferences\u0022: [],\r\n      \u0022cropXPercent\u0022: 50,\r\n      \u0022cropYPercent\u0022: 50,\r\n      \u0022decorative\u0022: false,\r\n      \u0022fillColor\u0022: \u0022#ffffff\u0022,\r\n      \u0022fontFamilyKey\u0022: \u0022\u0022,\r\n      \u0022fontSizePoints\u0022: 12,\r\n      \u0022fontWeight\u0022: 400,\r\n      \u0022groupId\u0022: null,\r\n      \u0022id\u0022: \u00226faaf255-33fc-48fc-b486-749ab7840f1f\u0022,\r\n      \u0022imageFit\u0022: \u0022contain\u0022,\r\n      \u0022imageId\u0022: \u002287ddc951-ef4f-4c90-a781-83ccde98c3ba\u0022,\r\n      \u0022italic\u0022: false,\r\n      \u0022kind\u0022: \u0022image\u0022,\r\n      \u0022language\u0022: \u0022en-US\u0022,\r\n      \u0022layerId\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022letterSpacingEm\u0022: 0,\r\n      \u0022lineHeight\u0022: 1.2,\r\n      \u0022locked\u0022: true,\r\n      \u0022name\u0022: \u0022Portrait Hall of Blood cover artwork\u0022,\r\n      \u0022opacity\u0022: 1,\r\n      \u0022readingOrder\u0022: 3,\r\n      \u0022regionConstraint\u0022: \u0022page\u0022,\r\n      \u0022rotationDegrees\u0022: 0,\r\n      \u0022semanticRole\u0022: \u0022figure\u0022,\r\n      \u0022strokeColor\u0022: \u0022transparent\u0022,\r\n      \u0022strokeWidthPoints\u0022: 0,\r\n      \u0022styleId\u0022: null,\r\n      \u0022textAlignment\u0022: \u0022start\u0022,\r\n      \u0022textBinding\u0022: \u0022\u0022,\r\n      \u0022textShadow\u0022: \u0022none\u0022,\r\n      \u0022verticalAlignment\u0022: \u0022top\u0022,\r\n      \u0022visible\u0022: true,\r\n      \u0022zIndex\u0022: 1\r\n    },\r\n    {\r\n      \u0022accessibilityDecisionPending\u0022: false,\r\n      \u0022altText\u0022: \u0022\u0022,\r\n      \u0022backgroundColor\u0022: \u0022transparent\u0022,\r\n      \u0022backgroundOpacity\u0022: 0,\r\n      \u0022bounds\u0022: {\r\n        \u0022heightPercent\u0022: 12,\r\n        \u0022widthPercent\u0022: 84,\r\n        \u0022xPercent\u0022: 8,\r\n        \u0022yPercent\u0022: 6\r\n      },\r\n      \u0022contentReferences\u0022: [],\r\n      \u0022cropXPercent\u0022: 50,\r\n      \u0022cropYPercent\u0022: 50,\r\n      \u0022decorative\u0022: false,\r\n      \u0022fillColor\u0022: \u0022#f3e8d8\u0022,\r\n      \u0022fontFamilyKey\u0022: \u0022builtin:lora\u0022,\r\n      \u0022fontSizePoints\u0022: 30,\r\n      \u0022fontWeight\u0022: 700,\r\n      \u0022groupId\u0022: null,\r\n      \u0022id\u0022: \u00221066cef3-fa8d-48ed-9b33-d6592cd7b501\u0022,\r\n      \u0022imageFit\u0022: \u0022contain\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022italic\u0022: false,\r\n      \u0022kind\u0022: \u0022text\u0022,\r\n      \u0022language\u0022: \u0022en-US\u0022,\r\n      \u0022layerId\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022letterSpacingEm\u0022: 0.01,\r\n      \u0022lineHeight\u0022: 1.02,\r\n      \u0022locked\u0022: false,\r\n      \u0022name\u0022: \u0022Cover title\u0022,\r\n      \u0022opacity\u0022: 1,\r\n      \u0022readingOrder\u0022: 1,\r\n      \u0022regionConstraint\u0022: \u0022front\u0022,\r\n      \u0022rotationDegrees\u0022: 0,\r\n      \u0022semanticRole\u0022: \u0022heading1\u0022,\r\n      \u0022strokeColor\u0022: \u0022transparent\u0022,\r\n      \u0022strokeWidthPoints\u0022: 0,\r\n      \u0022styleId\u0022: null,\r\n      \u0022textAlignment\u0022: \u0022center\u0022,\r\n      \u0022textBinding\u0022: \u0022title\u0022,\r\n      \u0022textShadow\u0022: \u0022strong\u0022,\r\n      \u0022verticalAlignment\u0022: \u0022center\u0022,\r\n      \u0022visible\u0022: true,\r\n      \u0022zIndex\u0022: 2\r\n    },\r\n    {\r\n      \u0022accessibilityDecisionPending\u0022: false,\r\n      \u0022altText\u0022: \u0022\u0022,\r\n      \u0022backgroundColor\u0022: \u0022transparent\u0022,\r\n      \u0022backgroundOpacity\u0022: 0,\r\n      \u0022bounds\u0022: {\r\n        \u0022heightPercent\u0022: 4.5,\r\n        \u0022widthPercent\u0022: 76,\r\n        \u0022xPercent\u0022: 12,\r\n        \u0022yPercent\u0022: 18.5\r\n      },\r\n      \u0022contentReferences\u0022: [],\r\n      \u0022cropXPercent\u0022: 50,\r\n      \u0022cropYPercent\u0022: 50,\r\n      \u0022decorative\u0022: false,\r\n      \u0022fillColor\u0022: \u0022#d7b9b2\u0022,\r\n      \u0022fontFamilyKey\u0022: \u0022builtin:lora\u0022,\r\n      \u0022fontSizePoints\u0022: 12,\r\n      \u0022fontWeight\u0022: 400,\r\n      \u0022groupId\u0022: null,\r\n      \u0022id\u0022: \u0022d66b376e-357d-46ba-826d-be28efeb7aa5\u0022,\r\n      \u0022imageFit\u0022: \u0022contain\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022italic\u0022: false,\r\n      \u0022kind\u0022: \u0022text\u0022,\r\n      \u0022language\u0022: \u0022en-US\u0022,\r\n      \u0022layerId\u0022: \u00226e2c1a2e-3d00-4f3b-862d-330bea35a4ac\u0022,\r\n      \u0022letterSpacingEm\u0022: 0.12,\r\n      \u0022lineHeight\u0022: 1.1,\r\n      \u0022locked\u0022: false,\r\n      \u0022name\u0022: \u0022Cover author\u0022,\r\n      \u0022opacity\u0022: 1,\r\n      \u0022readingOrder\u0022: 2,\r\n      \u0022regionConstraint\u0022: \u0022front\u0022,\r\n      \u0022rotationDegrees\u0022: 0,\r\n      \u0022semanticRole\u0022: \u0022paragraph\u0022,\r\n      \u0022strokeColor\u0022: \u0022transparent\u0022,\r\n      \u0022strokeWidthPoints\u0022: 0,\r\n      \u0022styleId\u0022: null,\r\n      \u0022textAlignment\u0022: \u0022center\u0022,\r\n      \u0022textBinding\u0022: \u0022author\u0022,\r\n      \u0022textShadow\u0022: \u0022strong\u0022,\r\n      \u0022verticalAlignment\u0022: \u0022center\u0022,\r\n      \u0022visible\u0022: true,\r\n      \u0022zIndex\u0022: 3\r\n    }\r\n  ],\r\n  \u0022schemaVersion\u0022: 1,\r\n  \u0022styles\u0022: [],\r\n  \u0022surface\u0022: {\r\n    \u0022allowIndependentPdfPage\u0022: false,\r\n    \u0022bleedPoints\u0022: 0,\r\n    \u0022heightPoints\u0022: 648,\r\n    \u0022kind\u0022: \u0022singlePage\u0022,\r\n    \u0022outputPageMode\u0022: \u0022editionLeaves\u0022,\r\n    \u0022safeInsetPoints\u0022: 18,\r\n    \u0022spineWidthPoints\u0022: 0,\r\n    \u0022trimHeightPoints\u0022: 648,\r\n    \u0022trimWidthPoints\u0022: 432,\r\n    \u0022widthPoints\u0022: 432\r\n  }\r\n}",
       "imageCropXPercent": 50,
       "imageCropYPercent": 50,
-      "revision": 0,
+      "revision": 6,
       "spineText": "",
       "subtitle": "",
       "surfaceScenesJson": "{}",
       "title": "Falanaras, Blood Knight"
     },
-    "description": "",
+    "description": "After the Scourge destroys Quel\u2019Thalas, bereaved conscript Falanaras rises through Silvermoon\u2019s shattered ranks as his people turn to increasingly desperate means of survival. Drawn into the capture of the naaru M\u2019uru and the founding of the Blood Knights, he must wield stolen Light against his enemies while confronting the suffering that makes that power possible. As Kael\u2019thas\u2019s betrayal and Silvermoon\u2019s alliance with the Horde redraw every loyalty he once understood, Falanaras fights to preserve his people without surrendering the last limits of his conscience.",
     "includeActHeadings": false,
     "includeActSynopses": false,
     "includeChapterHeadings": false,
     "includeChapterSynopses": false,
     "includeTableOfContents": true,
     "includeVisibleTableOfContents": false,
-    "language": "en",
+    "language": "en-US",
     "numberActs": false,
     "numberChapters": false,
     "outlineItems": [
@@ -36,66 +36,66 @@
         "targetKind": "act"
       },
       {
-        "id": "0c726ff0-6485-485d-8ada-7e683dd81d4f",
-        "isIncluded": true,
-        "sortOrder": 1,
-        "targetId": "1ed113b4-863d-4815-bba4-c58c37473d5e",
-        "targetKind": "act"
-      },
-      {
-        "id": "29ed6e66-ee38-4dd6-821e-c9508f260ae5",
-        "isIncluded": true,
-        "sortOrder": 2,
-        "targetId": "74c05123-233e-4e93-9a63-a9375c2ff25d",
-        "targetKind": "act"
-      },
-      {
         "id": "d82452d3-d55e-4f62-be16-8a6188c86809",
         "isIncluded": true,
-        "sortOrder": 3,
+        "sortOrder": 1,
         "targetId": "f201f1ce-4e65-47f0-a617-721f2fa6d50f",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "5571c231-8134-462a-8395-d7b6bd6bd29a",
-        "isIncluded": true,
-        "sortOrder": 4,
-        "targetId": "60e932ff-b39a-4297-a38b-5ee7e66644db",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "b0df3964-615c-42e5-a030-938b2a8139f0",
-        "isIncluded": true,
-        "sortOrder": 5,
-        "targetId": "27f5c381-f1d1-42c4-a269-c6901211ec82",
         "targetKind": "chapter"
       },
       {
         "id": "c5150b82-4e05-4ee1-8279-9e0e8cdad223",
         "isIncluded": true,
-        "sortOrder": 6,
+        "sortOrder": 2,
         "targetId": "01525a0c-6fcc-44ec-8ea6-80629683911f",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "3669b6e4-e014-4075-91ad-162608e37eaa",
-        "isIncluded": true,
-        "sortOrder": 7,
-        "targetId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "338626b4-c755-4a1c-aa3c-15df4d439a95",
-        "isIncluded": true,
-        "sortOrder": 8,
-        "targetId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
         "targetKind": "chapter"
       },
       {
         "id": "d00c1724-d749-40c8-b20f-fee23af2f888",
         "isIncluded": true,
-        "sortOrder": 9,
+        "sortOrder": 3,
         "targetId": "e2b826c6-326d-4c3a-b22f-fc720b66f997",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "4b5196f2-4497-4def-b18a-7ac58042b26c",
+        "isIncluded": true,
+        "sortOrder": 4,
+        "targetId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "791d540e-36dd-4a42-88ee-bf05a803761b",
+        "isIncluded": true,
+        "sortOrder": 5,
+        "targetId": "5bdad2f0-73a2-4675-8453-090d4be1237d",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "7f68fe8b-e203-4563-9754-5faba22e87dd",
+        "isIncluded": true,
+        "sortOrder": 6,
+        "targetId": "2c73696c-62ea-44f1-a5ab-e3371487261e",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "0c726ff0-6485-485d-8ada-7e683dd81d4f",
+        "isIncluded": true,
+        "sortOrder": 7,
+        "targetId": "1ed113b4-863d-4815-bba4-c58c37473d5e",
+        "targetKind": "act"
+      },
+      {
+        "id": "5571c231-8134-462a-8395-d7b6bd6bd29a",
+        "isIncluded": true,
+        "sortOrder": 8,
+        "targetId": "60e932ff-b39a-4297-a38b-5ee7e66644db",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "3669b6e4-e014-4075-91ad-162608e37eaa",
+        "isIncluded": true,
+        "sortOrder": 9,
+        "targetId": "5387a0ea-5b1b-404b-91c6-569b2d237936",
         "targetKind": "chapter"
       },
       {
@@ -106,73 +106,73 @@
         "targetKind": "chapter"
       },
       {
-        "id": "15bee0ef-fc4d-4f0d-8bb5-5456b9bee427",
-        "isIncluded": true,
-        "sortOrder": 11,
-        "targetId": "941883a8-6853-453c-9d0b-b27d6c6de186",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "4b5196f2-4497-4def-b18a-7ac58042b26c",
-        "isIncluded": true,
-        "sortOrder": 12,
-        "targetId": "9eafcc6a-b364-4550-9a11-e2e7f6411496",
-        "targetKind": "chapter"
-      },
-      {
         "id": "8705094c-7c16-4864-a79e-ef6dfe4c4662",
         "isIncluded": true,
-        "sortOrder": 13,
+        "sortOrder": 11,
         "targetId": "fc66ca5b-b899-45c5-aab7-5a376c932615",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "fe95180f-39f1-4358-b3f0-73c28da0eb94",
-        "isIncluded": true,
-        "sortOrder": 14,
-        "targetId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "791d540e-36dd-4a42-88ee-bf05a803761b",
-        "isIncluded": true,
-        "sortOrder": 15,
-        "targetId": "5bdad2f0-73a2-4675-8453-090d4be1237d",
         "targetKind": "chapter"
       },
       {
         "id": "d8077028-7a05-4f0f-97b9-35f558549a2d",
         "isIncluded": true,
-        "sortOrder": 16,
+        "sortOrder": 12,
         "targetId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "3d82e94f-3ac0-426b-8949-3e0cd12d4a56",
+        "isIncluded": true,
+        "sortOrder": 13,
+        "targetId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "29ed6e66-ee38-4dd6-821e-c9508f260ae5",
+        "isIncluded": true,
+        "sortOrder": 14,
+        "targetId": "74c05123-233e-4e93-9a63-a9375c2ff25d",
+        "targetKind": "act"
+      },
+      {
+        "id": "b0df3964-615c-42e5-a030-938b2a8139f0",
+        "isIncluded": true,
+        "sortOrder": 15,
+        "targetId": "27f5c381-f1d1-42c4-a269-c6901211ec82",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "338626b4-c755-4a1c-aa3c-15df4d439a95",
+        "isIncluded": true,
+        "sortOrder": 16,
+        "targetId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "15bee0ef-fc4d-4f0d-8bb5-5456b9bee427",
+        "isIncluded": true,
+        "sortOrder": 17,
+        "targetId": "941883a8-6853-453c-9d0b-b27d6c6de186",
+        "targetKind": "chapter"
+      },
+      {
+        "id": "fe95180f-39f1-4358-b3f0-73c28da0eb94",
+        "isIncluded": true,
+        "sortOrder": 18,
+        "targetId": "66a7504a-60a0-4dfa-94de-df4ea37c5abf",
         "targetKind": "chapter"
       },
       {
         "id": "4ba47173-5e03-4516-bc9d-6ad94b49dfdc",
         "isIncluded": true,
-        "sortOrder": 17,
+        "sortOrder": 19,
         "targetId": "7afd85f0-3c2c-4f8f-8559-44378ebdeb2e",
         "targetKind": "chapter"
       },
       {
         "id": "21f7adc1-3f2e-4f59-b776-2b324aa85b03",
         "isIncluded": true,
-        "sortOrder": 18,
-        "targetId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "7f68fe8b-e203-4563-9754-5faba22e87dd",
-        "isIncluded": true,
-        "sortOrder": 19,
-        "targetId": "2c73696c-62ea-44f1-a5ab-e3371487261e",
-        "targetKind": "chapter"
-      },
-      {
-        "id": "3d82e94f-3ac0-426b-8949-3e0cd12d4a56",
-        "isIncluded": true,
         "sortOrder": 20,
-        "targetId": "357236b4-3932-4c59-8be5-438b334b1c3c",
+        "targetId": "2eb3ee6b-bdb1-42a5-a8b8-0f739fe293d2",
         "targetKind": "chapter"
       },
       {
@@ -184,7 +184,7 @@
       }
     ],
     "publisher": "",
-    "revision": 12,
+    "revision": 24,
     "subtitle": "",
     "title": "Falanaras, Blood Knight",
     "titlePageMode": "automatic"
@@ -224,6 +224,40 @@
       "targetId": null,
       "targetKind": null,
       "title": "Title page"
+    },
+    {
+      "anchor": "front",
+      "coreSectionId": null,
+      "editionId": null,
+      "id": "6e4cf36d-f5db-4696-8a5f-2e61d93209a9",
+      "inclusionMode": "included",
+      "isExcluded": false,
+      "kind": "custom",
+      "localOrder": 3,
+      "manuscriptJson": "{\r\n  \u0022content\u0022: [\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022A Note on the Making of This Book\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: 1,\r\n      \u0022id\u0022: \u00228b758fb1-ae67-4ca6-8faf-5274e4e79720\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: null,\r\n      \u0022styleRole\u0022: \u0022chapter-title\u0022,\r\n      \u0022type\u0022: \u0022heading\u0022\r\n    },\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022Composed and directed by Jonathan Harmon.\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: null,\r\n      \u0022id\u0022: \u0022eacbcafe-9576-4b34-89e5-8f93f6d5196a\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: null,\r\n      \u0022styleRole\u0022: \u0022novel-opening\u0022,\r\n      \u0022type\u0022: \u0022paragraph\u0022\r\n    },\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022This book was developed through story design, iterative drafting, selection, revision, and editorial direction rather than written entirely by hand. Lorekeeper was the creative writing and worldbuilding environment used to organize, compose, revise, and prepare the work for publication.\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: null,\r\n      \u0022id\u0022: \u0022499f9259-8485-49b8-a919-c91aef809f5d\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: null,\r\n      \u0022styleRole\u0022: \u0022novel-body\u0022,\r\n      \u0022type\u0022: \u0022paragraph\u0022\r\n    }\r\n  ],\r\n  \u0022manuscriptId\u0022: \u00226e4cf36d-f5db-4696-8a5f-2e61d93209a9\u0022,\r\n  \u0022revision\u0022: 2,\r\n  \u0022schemaVersion\u0022: 4\r\n}",
+      "revision": 2,
+      "startSide": "verso",
+      "systemRole": "none",
+      "targetId": null,
+      "targetKind": null,
+      "title": "A Note on the Making of This Book"
+    },
+    {
+      "anchor": "back",
+      "coreSectionId": null,
+      "editionId": null,
+      "id": "9f991b24-75a2-43aa-a8c1-3755b3ee185b",
+      "inclusionMode": "included",
+      "isExcluded": false,
+      "kind": "aboutAuthor",
+      "localOrder": 0,
+      "manuscriptJson": "{\r\n  \u0022content\u0022: [\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022About the Author\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: 1,\r\n      \u0022id\u0022: \u002225cc270f-5e98-45c6-b59f-c57e58f350e6\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: null,\r\n      \u0022styleRole\u0022: \u0022chapter-title\u0022,\r\n      \u0022type\u0022: \u0022heading\u0022\r\n    },\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022[Author biography placeholder: add a brief biography for Jonathan Harmon before publication. Suggested details include creative interests, connection to Warcraft lore, and any preferred website or social links.]\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: null,\r\n      \u0022id\u0022: \u00225b15bd7a-f633-4f88-be27-ae913b4d87ec\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: null,\r\n      \u0022styleRole\u0022: \u0022novel-opening\u0022,\r\n      \u0022type\u0022: \u0022paragraph\u0022\r\n    }\r\n  ],\r\n  \u0022manuscriptId\u0022: \u00229f991b24-75a2-43aa-a8c1-3755b3ee185b\u0022,\r\n  \u0022revision\u0022: 2,\r\n  \u0022schemaVersion\u0022: 4\r\n}",
+      "revision": 2,
+      "startSide": "recto",
+      "systemRole": "none",
+      "targetId": null,
+      "targetKind": null,
+      "title": "About the Author"
     },
     {
       "anchor": "front",
