@@ -1,10 +1,10 @@
 {
-  "contentHash": "54647a0f0a35e94e9d5ccf21c3f6253de8941dcdf8ddccaea8d6e8deac9a1187",
+  "contentHash": "93e6f1b5cfff33f665db1ca5e3ecff63c5fbabc9b0efa669854229b8cbb596a2",
   "files": [
     {
-      "length": 291667,
+      "length": 303685,
       "path": "assets/assets.json",
-      "sha256": "ee2fa2f84f5f0ae374f00b7e6b1574bf8cb5699731b363d5e33fab72d2d2165e"
+      "sha256": "505f08fc8149d375ab29742ad44c2a7ec49a8f24ff78432e3b92f636bcdb7c5b"
     },
     {
       "length": 109387,
@@ -32,11 +32,6 @@
       "sha256": "40a9397dd11dcaf8d715e895034fc1b52b04947e280de0d0324c65ad4ed3bade"
     },
     {
-      "length": 2102886,
-      "path": "assets/images/4073c4bd67b8425ebf77386b233c3113/content.png",
-      "sha256": "fa18f93256768e0bf22f03b3d21fa376490271e71bac6fa57667cf82cf7bd5e9"
-    },
-    {
       "length": 590161,
       "path": "assets/images/4a08dea9b7bb4e288712bf672b4e9d2c/content.png",
       "sha256": "58e20d0268e99dbafd83694816ecbc8d75785739b0b41ecafe01a992b4bf7ee9"
@@ -45,6 +40,11 @@
       "length": 293925,
       "path": "assets/images/59808483b50c4bf8a76f174f2d8329b9/content.png",
       "sha256": "101738a856892c5e8912265957ed1916c310d5855ce93d5eef1c3444c60c398d"
+    },
+    {
+      "length": 2269846,
+      "path": "assets/images/6d214a94e84e41fd8a5aeb55e20cc399/content.png",
+      "sha256": "9eacfbd2f8fc0eea1396ba7be03b048995adb88594f87f1c086d8be8af276461"
     },
     {
       "length": 116732,
@@ -408,7 +408,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "ab29f3a1db84b577bc5a13ba5a788d99ad1a4ee1355c40385c218110c8da9b4e",
+  "manifestHash": "6a6c4ecc79a5f9565c897aae993a180c18e64e689f9820694622c2dd09bfe1af",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
