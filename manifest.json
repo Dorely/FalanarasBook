@@ -1,10 +1,10 @@
 {
-  "contentHash": "2b944116483e02a75ebdba5d9cbff0f49f820a39afbc3913e61d32359b7977e5",
+  "contentHash": "7731be2113b114db0ab93bace485cfb73846c0947733456008d68e735da8640a",
   "files": [
     {
-      "length": 464108,
+      "length": 491731,
       "path": "assets/assets.json",
-      "sha256": "38721ab15983d0bfa3ef1c2fd0486abed661acfd6b18946b7af4f9f88a0c00cb"
+      "sha256": "9cd8aed12a79a3551bd2dec48348a771b218d03761b7a1e0c513ae505b140d91"
     },
     {
       "length": 109387,
@@ -45,6 +45,11 @@
       "length": 2594485,
       "path": "assets/images/33007453a0dc4f198d9c1a499f1d36e6/content.png",
       "sha256": "40a9397dd11dcaf8d715e895034fc1b52b04947e280de0d0324c65ad4ed3bade"
+    },
+    {
+      "length": 2697279,
+      "path": "assets/images/343ce40d51d944b8a02faa5bfcfa3fdc/content.png",
+      "sha256": "2a75e20e65d8f46295be78d69658b3619304f98b1dee96a5dbc5fc6a46c85c85"
     },
     {
       "length": 2189351,
@@ -488,7 +493,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "7b86c998e3fe5e09e8d89bd6e8ead8ea92dd436beb24c9ccc2e6702fbbab52e2",
+  "manifestHash": "33977a62a9e4b08a0201cac5de13e884408d2e49f3407df556c94efbdd2dca60",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 1
