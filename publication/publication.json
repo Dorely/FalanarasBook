@@ -2,7 +2,7 @@
   "publicationBook": {
     "allowDesignedPageOverrides": false,
     "author": "Jonathan Harmon",
-    "copyright": "Falanaras, Blood Knight is an unofficial work of fan fiction. It is not endorsed by, sponsored by, or affiliated with Blizzard Entertainment, Inc. Warcraft, World of Warcraft, and all related names, characters, settings, lore, trademarks, and other intellectual property are the property of Blizzard Entertainment, Inc. and/or their respective rights holders. No ownership of those materials is claimed.\n\nCopyright in the original prose and independently created elements of this work belongs to Jonathan Harmon. All rights reserved with respect to those original contributions. This transformative work is presented as fan fiction and is intended to make fair use of its source material. Nothing in this notice limits the rights of the owners of the underlying intellectual property.",
+    "copyright": "",
     "coverDesign": {
       "author": "Jonathan Harmon",
       "backCopy": "",
@@ -18,7 +18,7 @@
       "surfaceScenesJson": "{}",
       "title": "Falanaras, Blood Knight"
     },
-    "description": "After the Scourge destroys Quel\u2019Thalas, bereaved conscript Falanaras rises through Silvermoon\u2019s shattered ranks as his people turn to increasingly desperate means of survival. Drawn into the capture of the naaru M\u2019uru and the founding of the Blood Knights, he must wield stolen Light against his enemies while confronting the suffering that makes that power possible. As Kael\u2019thas\u2019s betrayal and Silvermoon\u2019s alliance with the Horde redraw every loyalty he once understood, Falanaras fights to preserve his people without surrendering the last limits of his conscience.",
+    "description": "Drawn from the ruins of Quel\u2019Thalas into a people\u2019s struggle to survive, Falanaras must decide how much of himself he can surrender in the name of duty. Grief, magical hunger, and the demands of a wounded kingdom drive him toward powers that promise strength at a terrible moral cost. As old loyalties fracture and faith is profaned, he searches for a place among soldiers, exiles, and survivors who have each learned to call necessity by a different name.\n\nFalanaras, Blood Knight is a dark, character-driven fantasy about trauma and cultural identity, the shame of dependence, and the compromises nations make when survival becomes their highest virtue. It asks whether restraint can endure within a corrupted cause\u2014and whether redemption is possible without absolution.",
     "includeActHeadings": false,
     "includeActSynopses": false,
     "includeChapterHeadings": false,
@@ -185,7 +185,7 @@
       }
     ],
     "publisher": "",
-    "revision": 57,
+    "revision": 60,
     "subtitle": "",
     "title": "Falanaras, Blood Knight",
     "titlePageMode": "automatic"
@@ -431,8 +431,8 @@
       "isExcluded": false,
       "kind": "copyright",
       "localOrder": 1,
-      "manuscriptJson": "{\r\n  \u0022content\u0022: [\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: null,\r\n      \u0022id\u0022: \u0022field-copyright-b5daf3c3798e4dddba3131386bfa57b5\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: \u0022copyright\u0022,\r\n      \u0022styleRole\u0022: \u0022body\u0022,\r\n      \u0022type\u0022: \u0022paragraph\u0022\r\n    },\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: null,\r\n      \u0022id\u0022: \u0022field-publisher-058c167a4c3b496b99558ea25686041a\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: \u0022publisher\u0022,\r\n      \u0022styleRole\u0022: \u0022body\u0022,\r\n      \u0022type\u0022: \u0022paragraph\u0022\r\n    },\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [\r\n        {\r\n          \u0022marks\u0022: [],\r\n          \u0022text\u0022: \u0022\u0022,\r\n          \u0022type\u0022: \u0022text\u0022\r\n        }\r\n      ],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: null,\r\n      \u0022id\u0022: \u0022field-isbn-ba4beeadb6d448c9aa4764cb317e886c\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: null,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: \u0022isbn\u0022,\r\n      \u0022styleRole\u0022: \u0022body\u0022,\r\n      \u0022type\u0022: \u0022paragraph\u0022\r\n    }\r\n  ],\r\n  \u0022manuscriptId\u0022: \u0022d406cbd8-12d3-4416-92d7-c7c0e066fdc1\u0022,\r\n  \u0022revision\u0022: 0,\r\n  \u0022schemaVersion\u0022: 4\r\n}",
-      "revision": 0,
+      "manuscriptJson": "{\r\n  \u0022content\u0022: [\r\n    {\r\n      \u0022accessibilityRole\u0022: null,\r\n      \u0022altText\u0022: null,\r\n      \u0022content\u0022: [],\r\n      \u0022decorative\u0022: false,\r\n      \u0022figurePresentation\u0022: null,\r\n      \u0022headingLevel\u0022: null,\r\n      \u0022id\u0022: \u0022designed-page-76028d087ee94b04940cdd214c5bcdb1\u0022,\r\n      \u0022imageId\u0022: null,\r\n      \u0022language\u0022: null,\r\n      \u0022pageCompositionId\u0022: \u0022294d06e3-efa2-4f0f-ac13-cf42bbfd37ad\u0022,\r\n      \u0022paragraphPresentation\u0022: null,\r\n      \u0022publicationField\u0022: null,\r\n      \u0022styleRole\u0022: \u0022designed-page\u0022,\r\n      \u0022type\u0022: \u0022designedPage\u0022\r\n    }\r\n  ],\r\n  \u0022manuscriptId\u0022: \u0022d406cbd8-12d3-4416-92d7-c7c0e066fdc1\u0022,\r\n  \u0022revision\u0022: 1,\r\n  \u0022schemaVersion\u0022: 4\r\n}",
+      "revision": 1,
       "startSide": "verso",
       "systemRole": "copyright",
       "targetId": null,
