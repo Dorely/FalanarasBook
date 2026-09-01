@@ -17,7 +17,7 @@
       "surfaceScenesJson": "{}",
       "title": "Falanaras, Blood Knight"
     },
-    "description": "Falanaras, Blood Knight explores key events from one of the darkest and most uncertain periods in blood elf history. Through the personal perspective of a single sin\u2019dorei, it attempts to bring intimacy to a murky part of Warcraft\u2019s past, dwelling less on settled answers than on how those events might have been experienced by the people caught within them.\n\nIn the aftermath of Arthas\u2019s rampage through Quel\u2019Thalas, survival carried wounds that could not simply be rebuilt away. This is a story about what it meant to be a blood elf during a time of extreme hardship and magical addiction, while grief, compromise, and the continuing costs of destruction weighed upon every effort to endure.",
+    "description": "Falanaras, Blood Knight offers a personal perspective on key events from one of the darkest periods in blood elf history, exploring life amid extreme hardship and magical addiction as the consequences of Arthas\u2019s rampage through Quel\u2019Thalas continue to shape a wounded people.",
     "includeActHeadings": false,
     "includeActSynopses": false,
     "includeChapterHeadings": false,
@@ -184,7 +184,7 @@
       }
     ],
     "publisher": "",
-    "revision": 111,
+    "revision": 112,
     "subtitle": "",
     "title": "Falanaras, Blood Knight",
     "titlePageMode": "automatic"
