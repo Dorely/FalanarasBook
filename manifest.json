@@ -1,5 +1,5 @@
 {
-  "contentHash": "ac66f624c47d343b6495ab6910f965458af14048abaaf0a590f10a7fecb1deb5",
+  "contentHash": "811a7280d20e94d372e408f32ff0a10cc18b2e1f165de4cf51fbd186f0acd392",
   "files": [
     {
       "length": 794454,
@@ -362,9 +362,9 @@
       "sha256": "e5820c1b118aa2a6cfb5b4c2a14cfdefb4ee05c5b098d16fdfdf6a2460fd1a1b"
     },
     {
-      "length": 3330,
+      "length": 3313,
       "path": "manuscript/styles.json",
-      "sha256": "a624978313e085e327993a88091764d3fdf744db5f7d84adf00b844305591cf1"
+      "sha256": "460391abdf136219d7137a2efbf30ef76713aa3a580179d2e60267eed5915227"
     },
     {
       "length": 1368,
@@ -509,12 +509,12 @@
     {
       "length": 1562,
       "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/chapter.json",
-      "sha256": "36cf750d8c4d614f17ad6506719475ea5b5dfa7d4148ec6f52101f736cbdbb96"
+      "sha256": "69ecdcb0d6c3e559f429ee723de3a67b650821c979c69d8cb68bb6e2b5cc2471"
     },
     {
-      "length": 126295,
+      "length": 126463,
       "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/manuscript.json",
-      "sha256": "731257e4608cbbbea4799b49c6dda38be34367638ff2a955a8b2a0bff6f76e84"
+      "sha256": "93015bc02682d19920c9fe44b8fe35b167552f3fc1a3f4a9992956ffa1afba42"
     },
     {
       "length": 970,
@@ -567,9 +567,9 @@
       "sha256": "b82c9888a089a73c4de885a84afd6a86d266682901d61800899b5a41a9a26484"
     },
     {
-      "length": 63970,
+      "length": 63988,
       "path": "publication/publication.json",
-      "sha256": "cf1bb324fe79f2b1e243dabab088c65a17ff6391dff7bf2692c6171f020f894b"
+      "sha256": "4d61f160a9fe402c1d8fba4423676e492fa1ac6539497b2d6429f2b06ac16116"
     },
     {
       "length": 1392980,
@@ -588,7 +588,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "9baf37ea7f4da033c1fc21cfcc3076df4c2c5d92d29b871790cb3942b20e8ad3",
+  "manifestHash": "3df0767fd2cf15b86aaedda24382e206418c4e568c3e94757d829f2914ed57d0",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 6

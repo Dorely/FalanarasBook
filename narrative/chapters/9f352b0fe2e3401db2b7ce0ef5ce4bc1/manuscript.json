@@ -792,7 +792,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The Regent Lord\u2019s proclamation appeared at noon.",
+          "text": "The Regent Lord\u2019s proclamation appeared at noon. Its first line confirmed what the bell had promised: the gateway was active.",
           "type": "text"
         }
       ],
@@ -814,7 +814,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The gateway is active. The approaches remain under hostile occupation. No civilian passage has been authorized. The Regent Lord has received no communication from His Highness or his appointed commanders. Further reports will follow when verified.",
+          "text": "The rest named the price of that truth. Demons held the approaches. Civilian passage was forbidden. No word had come from Kael\u2019thas or his commanders, and Lor\u2019themar promised only reports that could be verified.",
           "type": "text"
         }
       ],
@@ -827,8 +827,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -836,7 +836,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Most readers stopped after the first sentence.",
+          "text": "Most readers needed nothing beyond the opening line.",
           "type": "text"
         }
       ],
@@ -2034,7 +2034,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Regent Lord Theron, I write from Shattrath because the truth can no longer travel through the prince\u2019s command. I served Kael\u2019thas as counselor, magister, and soldier. I believed his victories purchased a road home. I now believe every victory carried us farther from it.",
+          "text": "Voren\u2019thal wrote that Shattrath had become the only road by which truth could reach Silvermoon. He named his old service\u2014counselor, magister, soldier\u2014and admitted he had mistaken each of Kael\u2019thas\u2019s victories for another step toward home. In the Seer\u2019s judgment, every victory had carried them farther away.",
           "type": "text"
         }
       ],
@@ -2047,8 +2047,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2078,7 +2078,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Illidan ordered an assault upon Shattrath, fearing the naaru power gathered there. Kael\u2019thas entrusted the attack to me. I accepted command and led our people across Outland toward a city we knew only as another objective.",
+          "text": "Illidan had ordered Voren\u2019thal to assault Shattrath before its naaru power could become a threat. Kael\u2019thas placed the blood elf forces under his command, and Voren\u2019thal led them across Outland toward a city he knew only as another objective.",
           "type": "text"
         }
       ],
@@ -2091,8 +2091,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2100,7 +2100,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Before we reached its walls, a vision took me. I saw Quel\u2019Thalas beneath a sky unmarred by smoke. Our people stood without trembling hands or hidden shame. No child watched a crystal with an addict\u2019s patience. No mother measured the magic remaining in a room before deciding whether her family could sleep there.",
+          "text": "They had not reached the walls when a vision overtook him. Lor\u2019themar\u2019s voice slowed over the description: Quel\u2019Thalas beneath a sky unmarred by smoke; the sin\u2019dorei free of trembling hands and hidden shame; children no longer watching crystals with an addict\u2019s patience; mothers no longer measuring the magic left in a room before allowing their families to sleep.",
           "type": "text"
         }
       ],
@@ -2113,8 +2113,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2122,7 +2122,7 @@
       "content": [
         {
           "marks": [],
-          "text": "At the heart of that vision shone a naaru. Its Holy Light lay over our land, and every sin\u2019dorei it touched remembered what it was to live without craving. I felt the torment leave my own spirit. When I woke, I could no longer call our suffering permanent, nor every cruel answer necessary.",
+          "text": "At the vision\u2019s heart, a naaru spread Holy Light over the kingdom. Wherever it touched, the craving ended. Voren\u2019thal wrote that the torment had left his own spirit, and afterward he could no longer accept either their suffering as permanent or every cruel remedy as necessary.",
           "type": "text"
         }
       ],
@@ -2135,8 +2135,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2210,7 +2210,7 @@
       "content": [
         {
           "marks": [],
-          "text": "I returned to His Highness and entered his war chamber without ceremony. Before officers who had survived Dalaran, Northrend, and the long campaigns across Outland, I told him what I had seen. I urged him to abandon the assault, seek the naaru of Shattrath, and consider that salvation might require us to surrender power rather than acquire more.",
+          "text": "Voren\u2019thal had gone straight to Kael\u2019thas\u2019s war chamber and spoken before officers who had survived Dalaran, Northrend, and the long campaigns across Outland. He urged the prince to halt the assault, seek the naaru of Shattrath, and consider a salvation that required surrendering power rather than acquiring more.",
           "type": "text"
         }
       ],
@@ -2223,8 +2223,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2232,7 +2232,7 @@
       "content": [
         {
           "marks": [],
-          "text": "His Highness heard me with the patience he once gave unwelcome counsel. Then he asked whether a vision would feed one starving citizen in Silvermoon that night. He asked whether the naaru had offered armies, transport, or stores. He said our people had waited upon grace before and buried a kingdom for the privilege.",
+          "text": "Kael\u2019thas had listened with the patience he once reserved for unwelcome counsel. Then he asked whether a vision would feed one starving citizen in Silvermoon that night. Had the naaru offered armies? Transport? Stores? Their people had waited upon grace before, he said, and buried a kingdom for the privilege.",
           "type": "text"
         }
       ],
@@ -2245,8 +2245,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2254,7 +2254,7 @@
       "content": [
         {
           "marks": [],
-          "text": "I answered that a warning does not become false because it arrives without provisions. He dismissed me from command.",
+          "text": "Voren\u2019thal answered that a warning did not become false because it arrived without provisions. Kael\u2019thas dismissed him from command.",
           "type": "text"
         }
       ],
@@ -2267,8 +2267,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2298,7 +2298,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Those who believed me left the Sunfury ranks with me. We approached Shattrath prepared to die before reaching its walls. Instead, we laid down our weapons before A\u2019dal and were received. We became the Scryers: servants and uneasy guests in the city we had marched to conquer.",
+          "text": "Those who believed the Seer deserted with him. They approached Shattrath expecting to die before its walls, laid down their weapons before A\u2019dal, and were received instead. The name Scryers began there, among servants and uneasy guests in the city they had marched to conquer.",
           "type": "text"
         }
       ],
@@ -2311,8 +2311,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2320,7 +2320,7 @@
       "content": [
         {
           "marks": [],
-          "text": "Our departure did not turn His Highness back. I fear it drove him toward a harsher answer.",
+          "text": "Voren\u2019thal feared their departure had not turned Kael\u2019thas back. It had driven him toward a harsher answer.",
           "type": "text"
         }
       ],
@@ -2333,8 +2333,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2342,7 +2342,7 @@
       "content": [
         {
           "marks": [],
-          "text": "After we left, I learned that Kael\u2019thas had broken with Illidan\u2019s command. Sunfury forces seized the remaining wings of Tempest Keep, expelling or killing garrisons that would not answer to the prince alone, and turned Netherstorm\u2019s engines against former allies. Supply posts vanished into his private war. Orders began carrying seals unknown to me and instructions routed through demonic intermediaries.",
+          "text": "Afterward, Kael\u2019thas broke with Illidan. Sunfury forces seized the remaining wings of Tempest Keep, killing or expelling garrisons that refused the prince\u2019s sole authority, and turned Netherstorm\u2019s engines against former allies. Supply posts fed his private war. Orders carried strange seals and traveled through demonic intermediaries.",
           "type": "text"
         }
       ],
@@ -2355,8 +2355,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2364,7 +2364,7 @@
       "content": [
         {
           "marks": [],
-          "text": "I cannot tell you every vow he has made, Lor\u2019themar. I can tell you what his soldiers now guard. Legion envoys have entered Tempest Keep. Fel armaments arrive without Illidan\u2019s mark. The prince gathers power against enemies in Outland while no longer sending relief, explanation, or command to the kingdom whose suffering justified his rise.",
+          "text": "Voren\u2019thal claimed no knowledge of every vow Kael\u2019thas had made. His evidence was narrower and worse: Legion envoys admitted to Tempest Keep, fel armaments arriving without Illidan\u2019s mark, and the prince gathering power against Outland enemies while withholding relief, explanation, and command from the kingdom whose suffering had justified his rise.",
           "type": "text"
         }
       ],
@@ -2377,8 +2377,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -2386,7 +2386,7 @@
       "content": [
         {
           "marks": [],
-          "text": "He has not ceased speaking of our people. That is the danger. He names Quel\u2019Thalas in the same breath as every weapon he desires, as though our survival can sanctify an ambition that no longer returns to us.",
+          "text": "The final lines held no accusation of indifference. Kael\u2019thas still spoke of his people. That, Voren\u2019thal warned, was the danger. He named Quel\u2019Thalas beside every weapon he desired, using their survival to sanctify an ambition that no longer returned to them.",
           "type": "text"
         }
       ],
@@ -2399,8 +2399,8 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "inset-quotation",
-      "type": "blockQuote"
+      "styleRole": "novel-body",
+      "type": "paragraph"
     },
     {
       "accessibilityRole": null,
@@ -3954,6 +3954,6 @@
     }
   ],
   "manuscriptId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
-  "revision": 48,
+  "revision": 52,
   "schemaVersion": 4
 }

@@ -72,7 +72,7 @@
     {
       "definition": {
         "firstLineIndentEm": 0,
-        "fontFamilyKey": "builtin:atkinson-hyperlegible",
+        "fontFamilyKey": "builtin:lora",
         "fontSizePoints": 11.25,
         "fontWeight": 400,
         "italic": null,
@@ -89,7 +89,7 @@
       "id": "af5cd1ea-5385-4185-ab3a-ba7c2e6d0d21",
       "kind": "paragraph",
       "name": "Inset Quotation",
-      "revision": 4,
+      "revision": 5,
       "semanticRole": "inset-quotation"
     },
     {
