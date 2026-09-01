@@ -1,5 +1,5 @@
 {
-  "contentHash": "9f12b13b80bf813bd482e8a7038f14a919f21ebd0eb48aa88b86875b5ce4a783",
+  "contentHash": "e3f85c633fdf3a40d4371791e84ee45a2d45326ae15385cfdd99246ef259d98b",
   "files": [
     {
       "length": 794454,
@@ -407,9 +407,9 @@
       "sha256": "dad063e266ead23abc72d9e62004ae629f8737635eb5d343384bdfccaa84de25"
     },
     {
-      "length": 2308,
+      "length": 2290,
       "path": "narrative/chapters/2eb3ee6bbdb142a5a8b80f739fe293d2/chapter.json",
-      "sha256": "ca71d42d57d24431c6b13e6f12b88ce0f7f135d084193ac701c19870d7316718"
+      "sha256": "383cd7ebe5ecda59328c2272c351f5f3216a0469ada32efadad4b5ad76062525"
     },
     {
       "length": 166161,
@@ -447,9 +447,9 @@
       "sha256": "c897fac3c1163b7795c856b080eb8f966341734ef0089f0eb2e2ff4eb4b32311"
     },
     {
-      "length": 1689,
+      "length": 1686,
       "path": "narrative/chapters/5bdad2f073a246758453090d4be1237d/chapter.json",
-      "sha256": "3df64f91dc95f0e4ad29167e743c2f64a050e48ba006d0ad0656cacb0e6cc37c"
+      "sha256": "3bbedc9485613e71d44cf8bc0095159bb3001ffbf5d36466e8f890d84b4501d2"
     },
     {
       "length": 121829,
@@ -477,9 +477,9 @@
       "sha256": "a524bc6387862542a795aace54ad7546d6a20cc5f43f7b5a89ebb359420774c7"
     },
     {
-      "length": 2655,
+      "length": 2657,
       "path": "narrative/chapters/7afd85f03c2c4f8f855944378ebdeb2e/chapter.json",
-      "sha256": "2be8c799abb405564651693d18058577de88e5c38c760647e6c80b87ec851c16"
+      "sha256": "c195f66c454faec440b026e99e846eae01be39ce1b51fcae4da506bb0d34d70a"
     },
     {
       "length": 128378,
@@ -507,9 +507,9 @@
       "sha256": "f0c776926dbcd15edce78d22970fab840783325bb2c930bc3c0db562743a1dad"
     },
     {
-      "length": 1560,
+      "length": 1562,
       "path": "narrative/chapters/9f352b0fe2e3401db2b7ce0ef5ce4bc1/chapter.json",
-      "sha256": "8150e6cca4a59939d6a752bade89a2cdf7422c70a88d19c98a7df7d75aedf874"
+      "sha256": "52de5a00d29d4e0e1753627e7518299128ebe5bee6af798e0c9518186c4aeab5"
     },
     {
       "length": 126233,
@@ -547,9 +547,9 @@
       "sha256": "6d7344309a561f456f4a1e442872885d78c60875598718b400e88c4d9ea52f0e"
     },
     {
-      "length": 1677,
+      "length": 1681,
       "path": "narrative/chapters/fc66ca5bb89945c5aab75a376c932615/chapter.json",
-      "sha256": "a3d1fb96fa9c685e0a54bed532d209a037397ae063ec9a1a86d0d7b3aab5110d"
+      "sha256": "fef32f8e0596b1b1ffd793dabc4a9005bf1b2d7bcd230638ac01c1209d5b78a2"
     },
     {
       "length": 128700,
@@ -588,7 +588,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "b9e50fd9f0a5aff9cec27a3dc362829a604b8c3f6f5efbe53050a2b5a884cb64",
+  "manifestHash": "72b9a4bd04818e360c69524ab5739c642607bb5d39dd0a16bbd573dcf047dbba",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 6
