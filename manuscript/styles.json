@@ -72,24 +72,24 @@
     {
       "definition": {
         "firstLineIndentEm": 0,
-        "fontFamilyKey": "builtin:lora",
-        "fontSizePoints": 10.5,
+        "fontFamilyKey": "builtin:atkinson-hyperlegible",
+        "fontSizePoints": 11.25,
         "fontWeight": 400,
         "italic": null,
         "keepWithNext": null,
-        "leftIndentEm": 1.25,
-        "lineHeight": 1.4,
-        "rightIndentEm": 1.25,
+        "leftIndentEm": 0.7,
+        "lineHeight": 1.5,
+        "rightIndentEm": 0.7,
         "smallCaps": null,
-        "spaceAfterPoints": 7,
-        "spaceBeforePoints": 7,
+        "spaceAfterPoints": 9,
+        "spaceBeforePoints": 9,
         "startOnNewPage": null,
         "textAlign": "left"
       },
       "id": "af5cd1ea-5385-4185-ab3a-ba7c2e6d0d21",
       "kind": "paragraph",
       "name": "Inset Quotation",
-      "revision": 2,
+      "revision": 4,
       "semanticRole": "inset-quotation"
     },
     {

@@ -2047,7 +2047,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2091,7 +2091,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2113,7 +2113,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2135,7 +2135,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2223,7 +2223,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2245,7 +2245,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2267,7 +2267,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2311,7 +2311,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2333,7 +2333,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2355,7 +2355,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2377,7 +2377,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -2399,7 +2399,7 @@
       "pageCompositionId": null,
       "paragraphPresentation": null,
       "publicationField": null,
-      "styleRole": "novel-body",
+      "styleRole": "inset-quotation",
       "type": "blockQuote"
     },
     {
@@ -3954,6 +3954,6 @@
     }
   ],
   "manuscriptId": "9f352b0f-e2e3-401d-b2b7-ce0ef5ce4bc1",
-  "revision": 47,
+  "revision": 48,
   "schemaVersion": 4
 }
