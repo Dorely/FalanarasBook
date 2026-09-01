@@ -2,7 +2,7 @@
   "publicationBook": {
     "allowDesignedPageOverrides": false,
     "author": "Jonathan Harmon",
-    "copyright": "",
+    "copyright": "Jonathan Harmon - 2026",
     "coverDesign": {
       "author": "Jonathan Harmon",
       "backgroundColor": "#5c7ca5",
@@ -184,7 +184,7 @@
       }
     ],
     "publisher": "",
-    "revision": 113,
+    "revision": 114,
     "subtitle": "",
     "title": "Falanaras, Blood Knight",
     "titlePageMode": "automatic"
