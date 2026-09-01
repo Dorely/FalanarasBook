@@ -1,10 +1,10 @@
 {
-  "contentHash": "8f58ac5d8099a8d0516b49fd48ff066ffa4afae1a0ce17164711a47671dc716d",
+  "contentHash": "62b43b129b8bce4bb80887a8c16b8032bf6ef89e0bf7eb2f2dd9b5959f12a676",
   "files": [
     {
-      "length": 776212,
+      "length": 792259,
       "path": "assets/assets.json",
-      "sha256": "3258df86d4604f28083506e6e4204255860f10110c83d4ee04f07c0a231c17f5"
+      "sha256": "19f59950169d719b5d770f4b7ad5bf4c07e80527a4545ef32d02a9909c1f708e"
     },
     {
       "length": 1550619,
@@ -25,6 +25,11 @@
       "length": 2286267,
       "path": "assets/images/1cc70f6260804d70b43459ca8d2bbbb7/content.png",
       "sha256": "eaa802735cf463905653fe8b197e813b3b80a2d5e3d69e67d68a5398043a9394"
+    },
+    {
+      "length": 2271315,
+      "path": "assets/images/1f04abe96eb343f6ab2b886fa4f43a87/content.png",
+      "sha256": "0bd36987179ffc6eadaf06d813092b56ce3778fcf161304b079c384e5b10a490"
     },
     {
       "length": 2665714,
@@ -185,6 +190,11 @@
       "length": 2021913,
       "path": "assets/images/9067d7fc80164473a8f72c4e9a41acc2/content.png",
       "sha256": "f99c125dbe833eb7a4ff84af630ae714a647167870c3bf6742c86af7ba46e0a9"
+    },
+    {
+      "length": 2268142,
+      "path": "assets/images/919951ac794548c0b879e043cd1e7aa7/content.png",
+      "sha256": "aa1285fc263bc1b24abe152dee41663770de7e1e069c82a5045967a72cba1fa2"
     },
     {
       "length": 9807227,
@@ -552,9 +562,9 @@
       "sha256": "b82c9888a089a73c4de885a84afd6a86d266682901d61800899b5a41a9a26484"
     },
     {
-      "length": 64725,
+      "length": 65221,
       "path": "publication/publication.json",
-      "sha256": "61103daf83dab60a3ff0a71ee55bf032e239abdbc675fde996127a33430f7248"
+      "sha256": "8c68e5b5228b5a6d79fcd43bfdf426b520f7f4c7f2745f5ea5d66e6a56389fca"
     },
     {
       "length": 1392980,
@@ -573,7 +583,7 @@
     "composition",
     "publication"
   ],
-  "manifestHash": "751c39be971e28bb1c768d409ae2bf34e37c509c7bc91b823ed612880c625eff",
+  "manifestHash": "3bec5e472987e44b7204aa4e68d9a2fb313972572789dcdafd283a06bba24aad",
   "projectId": "585345ae-5d1f-4b89-89a3-028eb7bf0971",
   "repositoryId": "89c270f8-d9da-ad2a-24c1-d506497cad0f",
   "schemaVersion": 5
