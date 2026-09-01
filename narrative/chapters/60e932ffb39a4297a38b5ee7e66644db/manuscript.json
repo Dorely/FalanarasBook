@@ -28,7 +28,7 @@
       "content": [
         {
           "marks": [],
-          "text": "To the Dark Portal",
+          "text": "Through the Dark Portal",
           "type": "text"
         }
       ],
@@ -4058,6 +4058,6 @@
     }
   ],
   "manuscriptId": "60e932ff-b39a-4297-a38b-5ee7e66644db",
-  "revision": 32,
+  "revision": 33,
   "schemaVersion": 4
 }

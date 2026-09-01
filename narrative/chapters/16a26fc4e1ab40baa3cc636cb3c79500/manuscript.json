@@ -28,7 +28,7 @@
       "content": [
         {
           "marks": [],
-          "text": "The First Blood Knights",
+          "text": "The Blood Knights",
           "type": "text"
         }
       ],
@@ -3762,6 +3762,6 @@
     }
   ],
   "manuscriptId": "16a26fc4-e1ab-40ba-a3cc-636cb3c79500",
-  "revision": 21,
+  "revision": 22,
   "schemaVersion": 4
 }
