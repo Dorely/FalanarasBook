@@ -1,0 +1,55 @@
+{
+  "activeExtractionVersionId": "816f4380-f75a-4a3b-9595-c201ee4aa7ad",
+  "bibliographicRecords": [],
+  "canonicalUrl": "",
+  "contentType": "",
+  "description": "",
+  "extractions": [
+    {
+      "blocks": [],
+      "chunks": [
+        {
+          "agentNotes": "User instruction emphasized Mana Tap\u0027s lore role as the mechanism by which blood elves fed their addiction and how overuse created the Wretched. Reused existing Wretched entity and added a causal relationship from Mana Tap to Wretched.",
+          "endChar": 5884,
+          "estimatedTokenCount": 1394,
+          "headingPath": "Part 1 ... Part of wiki.gg",
+          "id": "de051f58-7521-47bb-8558-8cde7520059c",
+          "index": 0,
+          "startChar": 1,
+          "structureStatus": "generated",
+          "summary": "Created Lore entity Mana Tap as a blood elf technique for forcibly drawing arcane energy from external sources to sate magical addiction, noted that the Sunwell\u0027s restoration made it unnecessary, linked its reckless overuse to the existing Wretched entity, and recorded that the Wretched arose from abuse of this practice.",
+          "title": "Part 1 \u002B 10 sections",
+          "tokenCountIsExact": true,
+          "tokenCountMethod": "tiktoken",
+          "tokenEncodingName": "o200k_base"
+        }
+      ],
+      "contentHash": "56e24e719222c373f2fbd89b152a98ee0347f59d69a30d94c28687a25f41fa80",
+      "extractor": "legacy-ingest",
+      "extractorVersion": "pre-m4",
+      "id": "816f4380-f75a-4a3b-9595-c201ee4aa7ad",
+      "normalizedText": "\nwiki.gg logo\n\n    Current theme: Dark\n    Create account\n    Log in\n\n    Page\n    Discussion\n\n    Read\n    Sign up to edit\n    View source\n    View history\n\nSearch\nNavigation\n\n    Main page\n    Recent changes\n    Random article\n    Wiki Discord\n\nWiki community\n\n    About Warcraft Wiki\n    Community portal\n    Policies\n    Things to do\n    Village pump\n\nWorld of Warcraft\n\n    Midnight\n    MoP Classic\n    BC Classic\n    Season of Discovery\n    Interface customization\n\nFranchise\n\n    Warcraft universe\n    World of Warcraft\n    Warcraft Rumble\n    Hearthstone\n    Warcraft III\n    Warcraft II\n    Warcraft I\n\nUseful pages\n\n    Factions\n    Playable races\n    Classes\n    Professions\n    Trading Post\n    Seasons\n    Zone storylines\n    In-game events\n    Instances\n    Player vs. Player\n\nLore\n\n    Major characters\n    Timeline\n    Media\n    Planets\n    Planes\n    Magic\n\nTools\n\n    What links here\n    New page\n    Special pages\n    Printable version\n    Page information\n    Database data\n    Cite this page\n\nMana Tap\nBurning Crusade Classic \tThe subject of this article was removed in patch 3.0.2 but remains in World of Warcraft: Burning Crusade Classic.\n\n    This includes items and quests that can no longer be obtained or are now deprecated.\n\n    For the former warlock ability, see [Mana Tap]. For the Legion world quest, see N [45BPWQ] Mana Tap.\n\nMana Tap\nSpell arcane manatap.png\n\n    Mana Tap\n    Blood elf racial\n    30 yd range\n    30 sec cooldown\n    Instant\n    Reduces target\u0027s mana by X and charges you with Arcane energy for 10 min. This effect stacks up to 3 times.\n\nProperties\nClass\tAll\nRace\tBlood elf\nSchool\tArcane\nCooldown\t30 seconds\nRelated buff\n\n    Mana Tap\n    Energizes you when consumed by Arcane Torrent.\n    Duration: 10 minutes \n\nIn art.\n\nMana Tap was a blood elf racial ability used in combination with [Arcane Torrent]. This ability was in the game only during The Burning Crusade expansion.\nContents\n\n    1 Equation\n    2 Role in the lore\n    3 Tips and tactics\n    4 Trivia\n    5 Gallery\n    6 Patch changes\n    7 External links\n\nEquation\n\n    The value of X = (50 \u002B level).\n\nRole in the lore\n\nMana tap is unique in that it is (or was) one of the few racials not only directly referenced in the lore, but a large part of it. Via Illidan Stormrage, Kael\u0027thas Sunstrider was able to learn a formidable technique by which to sate the elves\u0027 magic addiction: the process of forcibly taking arcane magic from external sources. A servant of his, Rommath, went on to spread these teachings back home in Quel\u0027Thalas, allowing the general sin\u0027dorei populace (of which we the players belong to) to better deal with the pangs of addiction. Prior to its removal in Patch 3.0.2, instruction in its usage (mana tapping the crazed mana wyrms around the isle) was among the first things taught to new blood elf players.\n\nReckless overuse of the technique led to the birth of the Wretched, a group of physically warped magical addicts who showed neither restraint nor sensibility in their mana tapping.\n\nThe racial\u0027s removal also ties directly into the lore, as with the revival of the Sunwell, there is no longer any need for blood elves to continually sustain themselves with energies from any other source than the well.\n\nIn the lore, even non-magi ordinary blood elves like Valeera Sanguinar are able to use Mana Tap for potent semi-offensive purposes, such as Valeera critically weakening Broll Bearmantle during his arena fight; absorbing magical energies from the naga during their confrontation at sea; and preventing several assassins from slaying Varian Wrynn after they reached the Eastern Kingdoms.\n\nIn the closing hours of Burning Crusade the Sunwell was reignited and began to feed the sin\u0027dorei addiction for magic again, thus removing the need to tap mana from other creatures.\nTips and tactics\n\n    Mana Tap breaks [Polymorph], [Sap], and [Freezing Trap] as the mana drain counts as an attack.\n    Since Mana Tap costs zero mana, it\u0027s good to use mana tap as quickly as possible, remembering that arcane energy stacks up to 3 times.\n    An enemy that has run out of mana will have any remaining mana drained up to the maximum of the ability.\n    Doesn\u0027t work on enemies with no mana bar.\n    Can be used to pull mobs efficiently if you lack any other means.\n    Mana tap activates the global cooldown.\n    For a long while, the racial was a retribution paladin\u0027s only source of ranged attack, barring judgement.\n\nTrivia\n\n    In Heroes of the Storm, Mana Tap is one of the Talent choices for Kael\u0027thas Sunstrider.\n    It is also still used by some blood elf NPCs in Outland.\n    It can be seen being used by a blood elf in the trailer for The Burning Crusade.\n\nGallery\n\n    A blood elf priestess in Silvermoon preparing to tap the energies of a mana wyrm.\n    A blood elf priestess in Silvermoon preparing to tap the energies of a mana wyrm.\n    Valeera draining the energy of a mage in The Comic.\n    Valeera draining the energy of a mage in The Comic.\n\nPatch changes\n\n    Wrath of the Lich King Patch 3.0.2 (2008-10-14): Removed.\n    Burning Crusade Patch 2.0.3 (2007-01-09): Added.\n\nExternal links\n\n    Wowhead\n    WoWDB\n\nCategories:\n\n    Removed in patch 3.0.2Burning Crusade ClassicClassic abilitiesRemoved racial traitsArcane spellsRemoved blood elf content\n\nCookies help us deliver our services. By using our services, you agree to our use of cookies.\n\n    This page was last edited on 3 February 2025, at 16:56.\n    Pages that were created prior to October 2023 are adapted from the Fandom Wowpedia Wiki.\n    Page content is under Creative Commons Attribution-ShareAlike 4.0 License unless otherwise noted.\n\n    Terms of Service\n    Privacy policy\n    Support Wiki\n    Send a ticket to wiki.gg\n    Status page\n    Manage cookie settings\n\n    Creative Commons Attribution-ShareAlike 4.0 License\n    Powered by MediaWiki\n    Part of wiki.gg\n\n",
+      "optionsJson": "{}",
+      "ordinal": 0,
+      "pages": [],
+      "status": "legacyImmutable"
+    }
+  ],
+  "finalUrl": "",
+  "id": "816f4380-f75a-4a3b-9595-c201ee4aa7ad",
+  "locations": [],
+  "original": {
+    "chunks": [],
+    "fileName": "Mana Tap Wiki",
+    "length": 0,
+    "mediaType": "application/octet-stream",
+    "sha256": null,
+    "state": "originalUnavailable"
+  },
+  "sourceKind": "Wiki",
+  "sourceMetadataJson": "{}",
+  "sourceUrl": "",
+  "synopsis": "",
+  "title": "Mana Tap Wiki",
+  "userInstructions": "Create an Entitiy for Mana-Tap and how it relates to the lore of the project, it should specifically be slated as the mechanism by which the blood elves both feed their addiction as well as how it\u0027s overuse is what creates the wretched"
+}

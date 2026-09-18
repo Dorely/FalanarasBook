@@ -1,0 +1,55 @@
+{
+  "activeExtractionVersionId": "8324efa1-2dc9-4a60-83a1-d6757536ac3a",
+  "bibliographicRecords": [],
+  "canonicalUrl": "",
+  "contentType": "",
+  "description": "",
+  "extractions": [
+    {
+      "blocks": [],
+      "chunks": [
+        {
+          "agentNotes": "Used existing project matches for major canon figures and locations where plausible. Created new entities for M\u0027uru, Entropius, Sunwell, Sunwell Plateau, Shrine of the Eclipse, Hall of Blood, Farstriders\u0027 Square, Blood Knights, Army of the Light, and Shattered Sun Offensive because searches returned no plausible same-subject project entity under the queried canonical types.",
+          "endChar": 7519,
+          "estimatedTokenCount": 1813,
+          "headingPath": "Part 1 ... 7 External links",
+          "id": "8fe75c0c-d645-4ac8-9920-1b1776b623c4",
+          "index": 0,
+          "startChar": 0,
+          "structureStatus": "generated",
+          "summary": "Extracted M\u0027uru as a central Character plus related transformed state Entropius, Sunwell/Sunwell Plateau captivity and encounter locations, and organizations Blood Knights, Army of the Light, and Shattered Sun Offensive. Recorded source-scoped observations on existing entities including A\u0027dal, Kael\u0027thas, Liadrin, Astalor, Rommath, Thrall, Cairne, and several key locations.",
+          "title": "Part 1 \u002B 9 sections",
+          "tokenCountIsExact": true,
+          "tokenCountMethod": "tiktoken",
+          "tokenEncodingName": "o200k_base"
+        }
+      ],
+      "contentHash": "27655c88b2356d3526ca9b5522e383e22c0f2a751cef12f9713486c2a2be6039",
+      "extractor": "legacy-ingest",
+      "extractorVersion": "pre-m4",
+      "id": "8324efa1-2dc9-4a60-83a1-d6757536ac3a",
+      "normalizedText": "M\u0027uru\n\n    This article is about the character M\u0027uru. For information on how to defeat M\u0027uru in World of Warcraft, please see M\u0027uru (tactics).\n\nNeutralM\u0027uru\nImage of M\u0027uru\nRace\tNaaru (Uncategorized)\nLevel\t??\nReaction\tHorde\nAffiliation(s)\tSha\u0027tar, Exodar, Army of the Light[1]\nFormer occupation(s)\tGuardian of Tempest Keep[2]\nLocation\tShrine of the Eclipse, Sunwell Plateau\nStatus\tDeceased, essence in the Sunwell\n\nM\u0027uru was a naaru and the guardian of the Tempest Keep. After it was overcome by Kael\u0027thas Sunstrider\u0027s forces and sent to Silvermoon City, the Magisters kept it bound, using it as a power source from which the Blood Knight order could siphon the Light.[3] M\u0027uru was eventually drained of its essence and warped into a void god, and after its defeat, Prophet Velen used its heart to revitalize the Sunwell.\nContents\n\n    1 History\n        1.1 The Burning Crusade\n        1.2 Aftermath\n    2 Notes and trivia\n    3 Gallery\n    4 Patch changes\n    5 See also\n    6 References\n    7 External links\n\nHistory\n\nWoW-novel-logo-16x62.png This section concerns content related to the Warcraft novels, novellas, or short stories.\n\nRight before the invasion of Outland began, Khadgar and Velen reached out to the naaru independently, both seeking aid against the dark forces amassing on Outland. The Army of the Light heard their pleas, but their battles with the Legion were costly and ceaseless, so they could not spare soldiers to protect Outland. Instead, A\u0027dal, M\u0027uru, and O\u0027ros volunteered to help and arrived with Tempest Keep in the Netherstorm.[4]\n\nAfter the Sunfury forces stormed Tempest Keep, Prince Kael\u0027thas Sunstrider sent M\u0027uru back home to Quel\u0027Thalas, believing his people could feed upon. Back in the capital of Silvermoon City, Magister Astalor Bloodsworn and his wizards were not content with this idea, but others weren\u0027t so hesitant and started to research on the naaru, resulting in a way to manipulate its energies at their will. The blood elves had experienced a mass loss of faith in the Light following the Scourge invasion of Quel\u0027Thalas, but through M\u0027uru the Light could be seized as a force to control without the need for faith. The Blood Knights were founded with this in mind, and Grand Magister Rommath summoned Lady Liadrin, a former priestess, to induct her as the order\u0027s leader. The naaru, now bound beneath the Hall of Blood, was linked with prospective Blood Knights with the aid of the magi. Exposure to M\u0027uru could be testing - the naaru\u0027s voice was distorted and reminiscent of shattering glass - and some knights had to overcome physical and emotional pain in order to invoke their powers.[5]\n\nM\u0027uru\u0027s exploitation, though seen as pragmatic by the magi and the Blood Knights, did not sit well with everyone. Most of the blood elf populace initially looked down upon the Blood Knights for their abuse of M\u0027uru, and the unproven knights were received coldly. The Farstriders in particular, as well as their leader, strongly opposed M\u0027uru\u0027s maltreatment and frequently argued against it. The regent lord himself condemned it on moral grounds but held to the belief that victories and accomplishments could justify the Blood Knights\u0027 methods, as well as prove their might in the eyes of the Horde. For their part, Thrall and Cairne Bloodhoof both shared this view, condemning the treatment of M\u0027uru but recognizing the knights\u0027 strategic value.[6]\nThe Burning Crusade\n\nBurning Crusade This section concerns content related to The Burning Crusade.\n\n    See also: Sunwell Plateau epilogue\n\n\tThis section is a lore stub.\nM\u0027uru in the Sunwell Plateau.\n\nIn Year 27 ADP, M\u0027uru could be found beneath the Hall of Blood in Farstriders\u0027 Square, where several Magisters were seen binding it. The blood elf paladin adventurers were later instructed to drain it in order to gain new abilities. After his own defeat in Tempest Keep, Prince Kael\u0027thas attacked Silvermoon and stole M\u0027uru, robbing the Blood Knights of their power source.[7]\n\nWithout M\u0027uru, Lady Liadrin was forced to seek out another source of power for the Blood Knights. She spoke with A\u0027dal in Shattrath City, asking for forgiveness for M\u0027uru\u0027s imprisonment, and renounced her loyalties to the blood elves\u0027 twisted prince. A\u0027dal revealed that M\u0027uru\u0027s imprisonment was foretold by Prophet Velen of the draenei; M\u0027uru willingly accepted its role in the events that unfolded, knowing that it would lead to the elves\u0027 redemption and lead them away from the dark fate awaiting Kael\u0027thas and his minions, many of whom were now twisted by the Burning Legion. Liadrin and the Blood Knights pledged to fight alongside the Shattered Sun Offensive in defeating Kael\u0027thas and his demonic master Kil\u0027jaeden.[8]\n\nFollowing this, the quests involving M\u0027uru were changed. Blood elf paladins would now gather remnants of \u0022holy energy\u0022 that lingered around the magisters, rather than the previous requirement of draining M\u0027uru directly.[9] The magisters once found draining M\u0027uru now stood dazed, and Astalor assured the adventurers that the knights would remain strong in the face of this betrayal.\n\nIn Sunwell Plateau, M\u0027uru was sufficiently drained of its energies to enter into a darkened state and was used by Kael\u0027thas as the guardian of Archonisus, the Final Gate. When the Shattered Sun Offensive and their allies fought against it in the Shrine of the Eclipse, M\u0027uru suddenly transformed into the void god Entropius. After Kil\u0027jaeden was defeated, Liadrin was mournful for the harm the knights had caused M\u0027uru, damning the noble being to a dark fate, while Velen used M\u0027uru\u0027s ancient, unblemished heart to purify the Sunwell with it.[10]\nAftermath\nVelen using M\u0027uru\u0027s spark to purify the Sunwell.\n\nThanks to M\u0027uru\u0027s essence, the Sunwell\u0027s waters now contain a mixture of both arcane and holy energy. The Blood Knights now draw their powers directly from the Well, a far more harmonious and less damaging relationship than their previous method of wielding the Light.[11]\n\nAfter Cataclysm, the quests relating to M\u0027uru were removed, and the blood elf paladin trainers\u0027 dialogue no longer speaks of manipulating its energies.\nNotes and trivia\n\n    M\u0027uru was a hostile level 73 to Horde players prior to patch 2.4, but did not attack and could not be attacked. It was not hostile to Alliance players, however. The blood elves draining it could not be killed (they would remain at one percent health). Unlike other naaru who produced a soothing melody reminiscent of softly jingling wind chimes, M\u0027uru emitted a discordant noise when in captivity.\n    M\u0027uru\u0027s name could be derived from Babylonian \u0022n\u016Bru\u0022, meaning \u0022fire\u0022.\n\nGallery\n\n    M\u0027uru\u0027s spark above the Sunwell as seen in game.\n    M\u0027uru\u0027s spark above the Sunwell as seen in game.\n\nPatch changes\n\n    Burning Crusade Patch 2.4.0 (2008-03-25): Removed from Silvermoon City. Added to Sunwell Plateau as a boss.\n    Burning Crusade Patch 2.0.3 (2007-01-09): Added.\n\nSee also\n\n    L\u0027ura, another fallen naaru that attacked the Sunwell\n\nReferences\n \n\n    ^ World of Warcraft: Chronicle Volume 3\n    ^ Ultimate Visual Guide, pg. 146\n    ^ Micky Neilson on Twitter: \u0022Yeah they were draining Light from him\u0022\n    ^ World of Warcraft: Chronicle Volume 3, pg. 140\n    ^ Blood of the Highborne\n    ^ Blood of the Highborne\n    ^ Magister Astalor Bloodsworn#Quotes\n    ^ Lady Liadrin#Meeting with A\u0027dal\n    ^ H IconSmall BloodElf Male.pngIconSmall BloodElf Female.png Paladin [12] Claiming the Light\n    ^ Sunwell Plateau epilogue\n    ^ Deimes 2010-11-20. Ask CDev #1 Answers - Round 1.\n",
+      "optionsJson": "{}",
+      "ordinal": 0,
+      "pages": [],
+      "status": "legacyImmutable"
+    }
+  ],
+  "finalUrl": "",
+  "id": "8324efa1-2dc9-4a60-83a1-d6757536ac3a",
+  "locations": [],
+  "original": {
+    "chunks": [],
+    "fileName": "M\u0027uru Wiki page",
+    "length": 0,
+    "mediaType": "application/octet-stream",
+    "sha256": null,
+    "state": "originalUnavailable"
+  },
+  "sourceKind": "wiki",
+  "sourceMetadataJson": "{}",
+  "sourceUrl": "",
+  "synopsis": "",
+  "title": "M\u0027uru Wiki page",
+  "userInstructions": "Extract info for M\u0027uru and related entities"
+}
